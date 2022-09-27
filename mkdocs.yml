@@ -1,0 +1,42 @@
+site_name: WEM Rules [ALPHA]
+site_url: https://wem.declanwade.com/
+custom_dir: /
+theme:
+  name: material
+  custom_dir: overrides
+  icon:
+    logo: material/lightning-bolt
+    favicon: material/lightning-bolt
+  features:
+    - content.tooltips
+    - navigation.instant
+    - navigation.tracking
+    - toc.follow
+    - navigation.top
+    - content.tabs.link
+    - announce.dismiss
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - abbr
+  - pymdownx.snippets:
+      auto_append:
+        - includes/glossary.md
+  - def_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - tables
+extra:
+  version:
+    provider: mike
