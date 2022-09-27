@@ -1,6 +1,7 @@
 # WEM Rules Prototype
 
 [![Site Deployment Status](https://github.com/EnerCloud-PoC/wem-rules-prototype/actions/workflows/main.yml/badge.svg)](https://github.com/EnerCloud-PoC/wem-rules-prototype/actions/workflows/main.yml)
+
 [Site is accessible here](https://enercloud-poc.github.io/wem-rules-prototype/)
 
 ## About
