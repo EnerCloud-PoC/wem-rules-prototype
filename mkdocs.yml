@@ -1,5 +1,5 @@
-site_name: WEM Rules [ALPHA]
-site_url: https://wem.declanwade.com/
+site_name: WEM Rules
+site_url: https://enercloud-poc.github.io/wem-rules-prototype/
 custom_dir: /
 theme:
   name: material
