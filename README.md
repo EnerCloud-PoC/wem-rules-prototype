@@ -1,5 +1,7 @@
 # WEM Rules Prototype
 
+[![Site Deployment Status](https://github.com/EnerCloud-PoC/wem-rules-prototype/actions/workflows/main.yml/badge.svg)](https://github.com/EnerCloud-PoC/wem-rules-prototype/actions/workflows/main.yml)
+
 ## About
 
 Refer to the following links for reference on using this platform:
