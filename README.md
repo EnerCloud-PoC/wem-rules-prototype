@@ -1,6 +1,6 @@
 # WEM Rules Prototype
 
-[![pages-build-deployment](https://github.com/EnerCloud-PoC/wem-rules-prototype/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/EnerCloud-PoC/wem-rules-prototype/actions/workflows/pages/pages-build-deployment)
+[![CI Page Deployment](https://github.com/EnerCloud-PoC/wem-rules-prototype/actions/workflows/main.yml/badge.svg)](https://github.com/EnerCloud-PoC/wem-rules-prototype/actions/workflows/main.yml)
 
 [Site is accessible here](https://enercloud-poc.github.io/wem-rules-prototype/)
 
