@@ -1,4 +1,4 @@
-name: "CI Page Deployment"
+name: "MKDocs Build"
 on:
   push:
     branches:
