@@ -9,3 +9,7 @@
 Refer to the following links for reference on using this platform:
 - [MKDocs Material Reference](https://squidfunk.github.io/mkdocs-material/)
 - [MKDocs - the underlying static site generator](https://www.mkdocs.org/)
+
+## Branches
+
+The ```main``` branch should be used for all new commits. Do not commit changes to the ```gh-pages``` as this is overridden by the CI/CD pipeline each run. 
