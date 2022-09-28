@@ -40,3 +40,4 @@ markdown_extensions:
 extra:
   version:
     provider: mike
+copyright: Copyright &copy; 2022 EnerCloud Consulting. All rights reserved. 
