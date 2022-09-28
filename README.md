@@ -2,7 +2,9 @@
 
 [![CI Page Deployment](https://github.com/EnerCloud-PoC/wem-rules-prototype/actions/workflows/main.yml/badge.svg)](https://github.com/EnerCloud-PoC/wem-rules-prototype/actions/workflows/main.yml)
 
-[Site is accessible here](https://enercloud-poc.github.io/wem-rules-prototype/)
+🚀 [Site is accessible here](https://enercloud-poc.github.io/wem-rules-prototype/)
+
+🔨 [Access web IDE here](https://github.dev/EnerCloud-PoC/wem-rules-prototype)
 
 ## About
 
