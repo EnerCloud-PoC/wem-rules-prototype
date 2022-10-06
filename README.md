@@ -8,6 +8,8 @@
 
 ## About
 
+⚠️ **A version freeze was added on 6 October 2022 to mkdocs-material release 8.5.6.** ⚠️
+
 Refer to the following links for reference on using this platform:
 - [MKDocs Material Reference](https://squidfunk.github.io/mkdocs-material/)
 - [MKDocs - the underlying static site generator](https://www.mkdocs.org/)
