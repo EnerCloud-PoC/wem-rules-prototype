@@ -3,9 +3,6 @@
 This is a sample prototype of the WEM clickable rules.
 This is a sample only and not representative of the final product. 
 
-For information on proposing a rule change, visit the webpage: [Rule Change Process](https://www.wa.gov.au/government/document-collections/rule-change-process). 
-
-The current WEM Rules and any Amending Rules that have been Gazetted and are awaiting commencement are provided below. For previous versions of the WEM Rules, visit the webpage: [Historical versions of the WEM Rules](https://www.wa.gov.au/government/document-collections/historical-versions-of-the-wem-rules). 
 
 ## Downloads
 
