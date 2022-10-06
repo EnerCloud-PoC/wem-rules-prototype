@@ -1,7 +1,7 @@
 # Home
-The Wholesale Electricity Market (WEM) is governed by the Wholesale Electricity Market Rules (WEM Rules).
 
-These WEM Rules detail the roles and functions of the Australian Energy Market Operator (AEMO) and other governance bodies, and guide the operation of the market including the trading and dispatch of energy, the Reserve Capacity Mechanism and settlement.
+This is a sample prototype of the WEM clickable rules.
+This is a sample only and not representative of the final product. 
 
 For information on proposing a rule change, visit the webpage: [Rule Change Process](https://www.wa.gov.au/government/document-collections/rule-change-process). 
 
