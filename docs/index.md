@@ -8,16 +8,16 @@ This is a sample only and not representative of the final product.
 
 |         |     Title    |     .docx    |     .pdf    |
 |---|---|---|---|
-|     ▶    |     Chapter 1 - Introduction    |     ▼    |     ▼    |
-|     ▶    |     Chapter 2 - Administration    |     ▼    |     ▼    |
-|     ▶    |     Chapter 3 - Power System Security And Reliability    |     ▼    |     ▼    |
-|     ▶    |     Chapter 4 - Reserve Capacity Rules    |     ▼    |     ▼    |
-|     ▶    |     Chapter 5 - Obligations For Network Access Contract   Holders    |     ▼    |     ▼    |
-|     ▶    |     Chapter 6 - The Short Term Energy Market    |     ▼    |     ▼    |
-|     ▶    |     Chapter 7 - Real-time Market Operation And Dispatch    |     ▼    |     ▼    |
-|     ▶    |     Chapter 8 - Wholesale Market Metering    |     ▼    |     ▼    |
-|     ▶    |     Chapter 9 - Settlement    |     ▼    |     ▼    |
-|     ▶    |     Chapter 10 - Market Information    |     ▼    |     ▼    |
-|     ▶    |     Chapter 11 – Glossary    |     ▼    |     ▼    |
-|     ▶    |     Appendix 1: Standing Data    |     ▼    |     ▼    |
-|     ▶    |     Appendix 2a: Runway Share Calculation Method    |     ▼    |     ▼    |
+|     ▶    |     Chapter 1 - Introduction    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022%201.docx)    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022.pdf)    |
+|     ▶    |     Chapter 2 - Administration    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022%201.docx)    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022.pdf)    |
+|     ▶    |     Chapter 3 - Power System Security And Reliability    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022%201.docx)    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022.pdf)    |
+|     ▶    |     Chapter 4 - Reserve Capacity Rules    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022%201.docx)    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022.pdf)    |
+|     ▶    |     Chapter 5 - Obligations For Network Access Contract   Holders    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022%201.docx)    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022.pdf)    |
+|     ▶    |     Chapter 6 - The Short Term Energy Market    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022%201.docx)    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022.pdf)    |
+|     ▶    |     Chapter 7 - Real-time Market Operation And Dispatch    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022%201.docx)    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022.pdf)    |
+|     ▶    |     Chapter 8 - Wholesale Market Metering    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022%201.docx)    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022.pdf)    |
+|     ▶    |     Chapter 9 - Settlement    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022%201.docx)    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022.pdf)    |
+|     ▶    |     Chapter 10 - Market Information    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022%201.docx)    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022.pdf)    |
+|     ▶    |     Chapter 11 – Glossary    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022%201.docx)    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022.pdf)    |
+|     ▶    |     Appendix 1: Standing Data    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022%201.docx)    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022.pdf)    |
+|     ▶    |     Appendix 2a: Runway Share Calculation Method    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022%201.docx)    |     [▼](https://www.wa.gov.au/system/files/2022-08/Wholesale%20Electricity%20Market%20Rules%20-%201%20September%202022.pdf)    |
