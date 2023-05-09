@@ -1,8 +1,8 @@
 # 5 Obligations for NCESS Contract Holders
 
-5.1. \[Blank\]
+### 5.1. \[Blank\]
 
-5.2. \[Blank\]
+### 5.2. \[Blank\]
 
 <table>
 <colgroup>
@@ -42,9 +42,9 @@ capacity.</p></th>
 </tbody>
 </table>
 
-5.2A Registration and Certification
+### 5.2A Registration and Certification
 
-5.2A.1. \[Blank\]
+### 5.2A.1. \[Blank\]
 
 <table>
 <colgroup>
@@ -76,7 +76,7 @@ specified under clause 4.1.7).</p></th>
 </tbody>
 </table>
 
-5.2A.2 Where a Market Participant enters into an NCESS Contract for a
+### 5.2A.2 Where a Market Participant enters into an NCESS Contract for a
 Facility, and the Facility Technology Type for the Facility would
 ordinarily be capable of being assigned Certified Reserve Capacity, then
 the Market Participant must apply to AEMO for Certified Reserve
@@ -106,15 +106,15 @@ change.</p></th>
 </tbody>
 </table>
 
-5.2A.3. Clause 5.2A.2 does not require a Market Participant to apply for
+### 5.2A.3. Clause 5.2A.2 does not require a Market Participant to apply for
 Certified Reserve Capacity for a Facility for a Reserve Capacity Cycle
 where the Market Participant has entered into an NCESS Contract in
 respect of the Facility after the date and time specified under clause
 4.1.7 for that relevant Reserve Capacity Cycle.
 
-5.3. Variations to NCESS Contract
+### 5.3. Variations to NCESS Contract
 
-5.3.1. Where a Market Participant, that has entered into an NCESS
+### 5.3.1. Where a Market Participant, that has entered into an NCESS
 Contract in respect of a Facility, is assigned Capacity Credits for the
 Facility in a Reserve Capacity Cycle that coincides with the period of
 the NCESS Contract, then:
@@ -133,13 +133,13 @@ under the NCESS Contract is reduced by the value of the total amount of
 the expected Capacity Credit payments to be paid to the relevant Market
 Participant for that Reserve Capacity Cycle.
 
-5.3.2. Where the NCESS Contract payment terms are varied in accordance
+### 5.3.2. Where the NCESS Contract payment terms are varied in accordance
 with clause 5.3.1(a), AEMO must apply the revised payment terms in the
 immediate next Settlement Statement.
 
-5.3A Information required from the Network Operator
+### 5.3A Information required from the Network Operator
 
-5.3A.1. When a Network Operator has entered into an NCESS Contract with
+### 5.3A.1. When a Network Operator has entered into an NCESS Contract with
 a Market Participant, the Network Operator must as soon as practicable
 and not less than 20 Business Days prior to the NCESS Contract taking
 effect, provide AEMO with:
@@ -162,32 +162,32 @@ the Facility or equipment to enable or dispatch the NCESS; and
 NCESS Contract pursuant to clause 3.11B.13, a copy of the signed NCESS
 Contract.
 
-5.3A.2 When any change occurs to the details of an NCESS listed in
+### 5.3A.2 When any change occurs to the details of an NCESS listed in
 clause 5.3A.1 the Network Operator must inform AEMO as soon as
 practicable.
 
-5.4. \[Blank\]
+### 5.4. \[Blank\]
 
-5.5. \[Blank\]
+### 5.5. \[Blank\]
 
-5.6. \[Blank\]
+### 5.6. \[Blank\]
 
-5.7. NCESS Dispatch
+### 5.7. NCESS Dispatch
 
-5.7.1. \[Blank\]
+### 5.7.1. \[Blank\]
 
-5.7.2. AEMO may call upon the relevant facility or equipment to provide
+### 5.7.2. AEMO may call upon the relevant facility or equipment to provide
 the NCESS under a NCESS Contract in accordance with the terms of the
 contract, or as advised to it by the Network Operator in accordance with
 clause 5.3A.1, whether or not AEMO is a counterparty to the NCESS
 Contract.
 
-5.7.3. Where applicable, AEMO must formulate Constraint Equations in
+### 5.7.3. Where applicable, AEMO must formulate Constraint Equations in
 accordance with the WEM Procedure referred to in clause 2.27A.10(c) to
 reflect the terms of the NCESS Contract for use in the Dispatch
 Algorithm.
 
-5.7.4. Where the terms of an NCESS Contract cannot be expressed as a
+### 5.7.4. Where the terms of an NCESS Contract cannot be expressed as a
 Constraint Equation, AEMO must record the following details of any
 instruction to the Facility or equipment in respect of the provisions of
 the NCESS:
@@ -204,11 +204,11 @@ the NCESS:
 
 Settlement Data
 
-5.8. \[Blank\]
+### 5.8. \[Blank\]
 
-5.9. Settlement Data
+### 5.9. Settlement Data
 
-5.9.1. AEMO must provide the following information to the settlement
+### 5.9.1. AEMO must provide the following information to the settlement
 system for each NCESS Contract for each Dispatch Interval in a Trading
 Week:
 
@@ -222,12 +222,12 @@ been as a result of a binding Constraint Equation applied under clause
 \(c\) the payment to be made by AEMO for services provided under the
 NCESS Contract.
 
-5.9.2. AEMO must provide Network Operators with details of any
+### 5.9.2. AEMO must provide Network Operators with details of any
 quantities dispatched or otherwise instructed by AEMO to be provided
 under their NCESS Contracts in a Trading Week by 5:00 PM on the
 Invoicing Date for Settlement Statements for that Trading Week.
 
-5.9.3. The information provided by AEMO to a Network Operator under
+### 5.9.3. The information provided by AEMO to a Network Operator under
 clause 5.9.2 must include, for each relevant NCESS Contract, Facility
 and Dispatch Interval:
 
@@ -247,7 +247,7 @@ bound in the Dispatch Interval;
 
 \(d\) insofar as the terms of the NCESS Contract cannot be expressed in
 a Constraint Equation, the information recorded by AEMO under clause
-5.7.4; and
+### 5.7.4; and
 
 \(e\) any other information reasonably required for the Network Operator
 to determine the quantity of service provided by the Facility under the

@@ -1,66 +1,66 @@
 # 11 Glossary
 
-**12 Peak SWIS Trading Intervals**: Means, for a Hot Season, the 3
+### **12 Peak SWIS Trading Intervals**: Means, for a Hot Season, the 3
 Trading Intervals with the highest Total Sent Out Generation on each of
 the 4 Trading Days with the highest maximum demand in that Hot Season,
 as published by AEMO in accordance with clause 4.1.23A, where the
 maximum demand for a Trading Day is the highest Total Sent Out
 Generation for any Trading Interval in that Trading Day.
 
-**2016 Reserve Capacity Cycle**: Means the Reserve Capacity Cycle:
+### **2016 Reserve Capacity Cycle**: Means the Reserve Capacity Cycle:
 
 \(a\) in which Year 1 of that Reserve Capacity Cycle is 2016; and
 
 \(b\) which relates to Reserve Capacity required between 1 October 2018
 and 1 October 2019.
 
-**2017 Reserve Capacity Cycle**: Means the Reserve Capacity Cycle:
+### **2017 Reserve Capacity Cycle**: Means the Reserve Capacity Cycle:
 
 \(a\) in which Year 1 of that Reserve Capacity Cycle is 2017; and
 
 \(b\) which relates to Reserve Capacity required between 1 October 2019
 and 1 October 2020.
 
-**2018 Reserve Capacity Cycle**: Means the Reserve Capacity Cycle:
+### **2018 Reserve Capacity Cycle**: Means the Reserve Capacity Cycle:
 
 \(a\) in which Year 1 of that Reserve Capacity Cycle is 2018; and
 
 \(b\) which relates to Reserve Capacity required between 1 October 2020
 and 1 October 2021.
 
-**2019 Reserve Capacity Cycle**: Means the Reserve Capacity Cycle:
+### **2019 Reserve Capacity Cycle**: Means the Reserve Capacity Cycle:
 
 \(a\) in which Year 1 of that Reserve Capacity Cycle is 2019; and
 
 \(b\) which relates to Reserve Capacity required between 1 October 2021
 and 1 October 2022.
 
-**4 Peak SWIS Trading Intervals**: Means, for a Trading Month, the 4
+### **4 Peak SWIS Trading Intervals**: Means, for a Trading Month, the 4
 Trading Intervals in the relevant Trading Month with the highest Total
 Sent Out Generation, as published by AEMO in accordance with clause
 4.1.23B.
 
-**Acceptable Credit Criteria**: The criteria set out in clause 2.38.6.
+### **Acceptable Credit Criteria**: The criteria set out in clause 2.38.6.
 
-**Access Code**: The code established by the Minister under section 104
+### **Access Code**: The code established by the Minister under section 104
 of the Electricity Industry Act 2004.
 
-**Access Proposal**: Has the meaning given in clause 4.2.7(b)(ii)(1).
+### **Access Proposal**: Has the meaning given in clause 4.2.7(b)(ii)(1).
 
-**Accumulated Time Error**: Means in respect of a frequency measurement
+### **Accumulated Time Error**: Means in respect of a frequency measurement
 of the SWIS, the integral over time of the difference between 20
 milliseconds and the inverse of that frequency measurement, starting
 from a time determined by AEMO, and recorded by AEMO in its SCADA
 system.
 
-**Additional RoCoF Control Requirement**: The smallest quantity of RoCoF
+### **Additional RoCoF Control Requirement**: The smallest quantity of RoCoF
 Control Service additional to the Minimum RoCoF Control Requirement that
 meets the requirement in clause 3.10.3 while maximizing the overall
 value of Real-Time Market trading under clause 7.2.4.
 
-**Adjustment Process**: Has the meaning given in clause 9.3.5.
+### **Adjustment Process**: Has the meaning given in clause 9.3.5.
 
-**AEMO** or **Australian Energy Market Operator**: Means the Australian
+### **AEMO** or **Australian Energy Market Operator**: Means the Australian
 Energy Market Operator Limited (ACN 072 010 327).
 
 This includes an information confidentiality status which was set by the
@@ -71,52 +71,52 @@ Electricity Industry (Independent Market Operator) Repeal Regulations
 <sup>1</sup>Note: the *Electricity Industry (Independent Market
 Operator) Repeal Regulations 2018* commenced on 10 April 2018.
 
-**AEMO Intervention Event**: An event where AEMO intervenes in the
+### **AEMO Intervention Event**: An event where AEMO intervenes in the
 Real-Time Market by issuing a direction in accordance with clause
 3.4.4(c), clause 3.4.4(d), clause 3.4.5, clause 7.7.4(b), or clause
 7.7.5.
 
-**AEMO Deposit Rate**: A rate equal to the rate received by AEMO for the
+### **AEMO Deposit Rate**: A rate equal to the rate received by AEMO for the
 Security Deposit. (AEMO must use reasonable endeavours to obtain a rate
 which reflects reasonable commercial terms as regards to other deposit
 rates available at the time.)
 
-**AEMO-procured NCESS Contract:** A contract between AEMO and a Market
+### **AEMO-procured NCESS Contract:** A contract between AEMO and a Market
 Participant or Ancillary Service Provider for the provision of an NCESS.
 
-**AEMO Regulations**: Means the *Australian Energy Market Operator
+### **AEMO Regulations**: Means the *Australian Energy Market Operator
 (Functions) Regulations 2015*.
 
-**AEMO Transition Date**: Means 8:00 AM on 30 November 2015.
+### **AEMO Transition Date**: Means 8:00 AM on 30 November 2015.
 
-**Affected Dispatch Interval**: A Dispatch Interval for which the
+### **Affected Dispatch Interval**: A Dispatch Interval for which the
 Dispatch Algorithm has been used to determine Dispatch Targets, Dispatch
 Caps and Market Clearing Prices, but the Dispatch Inputs included
 manifestly incorrect data that AEMO reasonably considers have caused
 material differences in Market Clearing Prices.
 
-**Aggregated Facility**: A group of Facilities of the type defined in
+### **Aggregated Facility**: A group of Facilities of the type defined in
 clause 2.29.1B(c), aggregated under section 2.30, and treated as a
 single Facility for the purpose of these WEM Rules.
 
-**Allowable Revenue**: Means the allowable revenue for AEMO in
+### **Allowable Revenue**: Means the allowable revenue for AEMO in
 performing its functions set out in clause 2.1A.2 as determined by the
 Economic Regulation Authority in accordance with section 2.22A.
 
-**Alternative Network Constraint Equation**: A Constraint Equation
+### **Alternative Network Constraint Equation**: A Constraint Equation
 formulation for a Network Constraint other than a Fully Co-optimised
 Network Constraint Equation.
 
-**Amending Rules**: Has the meaning given in clause 2.4.1(c).
+### **Amending Rules**: Has the meaning given in clause 2.4.1(c).
 
-**Application Fee**: A fee determined by AEMO under clause 2.24.2.
+### **Application Fee**: A fee determined by AEMO under clause 2.24.2.
 
-**Approval to Generate Notification**: Means the notification issued by
+### **Approval to Generate Notification**: Means the notification issued by
 the Network Operator to a Market Participant in accordance with clause
 3A.8.12 granting final approval to a Transmission Connected Generating
 System to generate electricity.
 
-**Arrangement for Access**: When used in the context of a “covered
+### **Arrangement for Access**: When used in the context of a “covered
 network” (as that term is defined in the Access Code) means an “access
 contract” (as that term is defined in the Access Code). When used in the
 context of a network which is not a “covered network” (as that term is
@@ -124,11 +124,11 @@ defined in the Access Code) means any commercial arrangement through
 which “access” (as that term is defined in the Access Code) to that
 network is obtained.
 
-**Associated Load:** Has the meaning given in clause 2.29.5G.
+### **Associated Load:** Has the meaning given in clause 2.29.5G.
 
-**Association Period:**Has the meaning given in clause 2.29.5G.
+### **Association Period:**Has the meaning given in clause 2.29.5G.
 
-**Authorised Officer**: In respect of a Rule Participant, means:
+### **Authorised Officer**: In respect of a Rule Participant, means:
 
 \(a\) “Officer” as defined in Section 9 of the Corporations Act;
 
@@ -154,33 +154,33 @@ Targets and Dispatch Caps.</p></th>
 </tbody>
 </table>
 
-**Automatic Generation Control System (AGC)**: The system into which
+### **Automatic Generation Control System (AGC)**: The system into which
 Dispatch Targets or Dispatch Caps are entered and processed by AEMO for
 Registered Facilities operating on automatic generation control.
 
-**Availability Class**: Means the annual availability of Certified
+### **Availability Class**: Means the annual availability of Certified
 Reserve Capacity set out in clause 4.5.12, as either Availability
 Class 1 or Availability Class 2, as applicable.
 
-**Availability Class 1**: The Availability Class assigned by AEMO to a
+### **Availability Class 1**: The Availability Class assigned by AEMO to a
 facility containing an Intermittent Generating System or
 Non-Intermittent Generating System, and any other facility that is
 expected to be available to be dispatched for all Trading Intervals in a
 Capacity Year, under clause 4.11.4(a).
 
-**Availability Class 2**: The Availability Class assigned by AEMO to
+### **Availability Class 2**: The Availability Class assigned by AEMO to
 Certified Reserve Capacity that is not expected to be available to be
 dispatched for all Trading Intervals in a Capacity Year, under
 clause 4.11.4(b).
 
-**Availability Curve**: A curve developed by AEMO under clause
+### **Availability Curve**: A curve developed by AEMO under clause
 4.5.10(e).
 
-**Availability Declaration**: A declaration included with a STEM
+### **Availability Declaration**: A declaration included with a STEM
 Submission or Standing STEM Submission and which includes the
 information described in clause 6.6.2A(b).
 
-**Availability Declaration Exemption**: Means a condition specified in
+### **Availability Declaration Exemption**: Means a condition specified in
 clause 3.18B.4.
 
 <table>
@@ -200,7 +200,7 @@ capacity.</p></th>
 </tbody>
 </table>
 
-**Available Capacity**: For a Registered Facility in a Dispatch
+### **Available Capacity**: For a Registered Facility in a Dispatch
 Interval, Injection or Withdrawal capacity that the Market Participant
 is not expecting to make ready for dispatch in the Dispatch Interval,
 but expects to be able to make ready for dispatch in the Dispatch
@@ -210,11 +210,11 @@ that have not been rejected for the Registered Facility. To avoid doubt,
 Available Capacity is not limited by the expected availability of
 intermittent fuels for an Intermittent Generating System such as wind.
 
-**AZ:** Means the ratio of excess Reserve Capacity to the Reserve
+### **AZ:** Means the ratio of excess Reserve Capacity to the Reserve
 Capacity Requirement for a Reserve Capacity Cycle that is determined to
 be sufficiently high for the Reserve Capacity Price to be zero.
 
-**Bank Bill Rate**: The rate set by AEMO:
+### **Bank Bill Rate**: The rate set by AEMO:
 
 \(a\) at approximately 10:00am on any given Business Day to apply for
 that day; or
@@ -226,50 +226,50 @@ under paragraph (a),
 (based on an industry standard market indicator, details of which must
 be published by AEMO).
 
-**Base ESS Quantity**: For a Dispatch Interval and a SESSM Award where
+### **Base ESS Quantity**: For a Dispatch Interval and a SESSM Award where
 there is a non-zero SESSM Availability Payment, the quantity of the
 relevant Frequency Co-optimised Essential System Service which the
 Facility would have been capable of providing if not granted the SESSM
 Award, and which must be offered in addition to the SESSM Availability
 Quantity.
 
-**Benchmark Reserve Capacity Price**: In respect of a Reserve Capacity
+### **Benchmark Reserve Capacity Price**: In respect of a Reserve Capacity
 Cycle, the price published by the Economic Regulation Authority under
 clause 4.16.1.
 
-**Bilateral Contract**: A contract formed between any two persons for
+### **Bilateral Contract**: A contract formed between any two persons for
 the sale of electricity by one of those persons to the other.
 
-**Bilateral Submission**: A submission by a Market Participant to AEMO
+### **Bilateral Submission**: A submission by a Market Participant to AEMO
 made in accordance with clause 6.2.
 
-**Bilateral Submission Cutoff**: Means 8:50 AM on the Scheduling Day for
+### **Bilateral Submission Cutoff**: Means 8:50 AM on the Scheduling Day for
 the Trading Day, or such other time as may be notified by AEMO under
 clause 6.4.6B.
 
-**Bilateral Submission Results Window**: For a point in time in the
+### **Bilateral Submission Results Window**: For a point in time in the
 24-hour period starting at 8:00 AM on a Scheduling Day, the period of
 eight consecutive Trading Days starting with the Trading Day for the
 Scheduling Day.
 
-**BRCP Cap Factor:** Means the ratio of the Reserve Capacity Price to
+### **BRCP Cap Factor:** Means the ratio of the Reserve Capacity Price to
 the Benchmark Reserve Capacity Price for a Reserve Capacity Cycle if
 there was to be no excess Reserve Capacity in that Reserve Capacity
 Cycle.
 
-**Business Day**: A day that is not a Saturday, Sunday, or a public
+### **Business Day**: A day that is not a Saturday, Sunday, or a public
 holiday throughout Western Australia. For the purpose of clauses 9.3.4
 and 9.15.7, a Business Day is a day that is not a Saturday, Sunday, or a
 public holiday (including a bank holiday) throughout Western Australia
 and/or Sydney (New South Wales).
 
-**Calendar Hour:** A period of one hour, commencing on the hour.
+### **Calendar Hour:** A period of one hour, commencing on the hour.
 
-**Candidate Fixed Price Facility:** Means a Facility that has been
+### **Candidate Fixed Price Facility:** Means a Facility that has been
 nominated to be classified as a Fixed Price Facility in accordance with
 clause 4.14.1B.
 
-**Capacity Adjusted Forced Outage Quantity:** Means, the quantity, in
+### **Capacity Adjusted Forced Outage Quantity:** Means, the quantity, in
 MW, of the derating of a Facility or Separately Certified Component in a
 Dispatch Interval or Trading Interval from the Reserve Capacity
 Obligation Quantity for the Facility or Separately Certified Component
@@ -287,7 +287,7 @@ formula in clause 3.21.7A;
 \(d\) for a Facility in a Dispatch Interval, the formula in clause
 3.21.7C.
 
-**Capacity Adjusted Planned Outage Quantity:** Means, the quantity, in
+### **Capacity Adjusted Planned Outage Quantity:** Means, the quantity, in
 MW, of the derating of a Facility or Separately Certified Component in a
 Dispatch Interval or Trading Interval from the Reserve Capacity
 Obligation Quantity for the Facility or Separately Certified Component
@@ -305,9 +305,9 @@ formula in clause 3.21.8A;
 \(d\) for a Facility in a Dispatch Interval, the formula in clause
 3.21.8C.
 
-**Capacity Cost Refund**: Has the meaning given in clause 4.26.2E.
+### **Capacity Cost Refund**: Has the meaning given in clause 4.26.2E.
 
-**Capacity Credit**: A notional unit of Reserve Capacity provided by a
+### **Capacity Credit**: A notional unit of Reserve Capacity provided by a
 Facility during a Capacity Year. The total number of Capacity Credits
 provided by a Facility is determined in accordance with section 4.20.
 Each Capacity Credit is equivalent to 1MW of Reserve Capacity. The
@@ -322,76 +322,76 @@ adjusted under clause 4.25.6.
 > Customer for a Trading Month for settlement purposes through the
 > allocation process in sections 9.4 and 9.5.
 
-**Capacity Credit Allocation**: The allocation of a number of Capacity
+### **Capacity Credit Allocation**: The allocation of a number of Capacity
 Credits held by a Market Participant for a Facility to a Market
 Participant for a Trading Day for settlement purposes through the
 allocation process in section 4.30.
 
-**Capacity Credit Allocation Submission**: A submission from a Market
+### **Capacity Credit Allocation Submission**: A submission from a Market
 Participant to AEMO made in accordance with clauses 4.30.1 and 4.30.3 to
 allocate Capacity Credits to a single Market Participant.
 
-**Capacity Shortfall**: Has the meaning given in clause 4.26.2D.
+### **Capacity Shortfall**: Has the meaning given in clause 4.26.2D.
 
 > **Capacity Year**: A period of 12 months commencing at the start of
 > the Trading Day which commences on 1 October and ending on the end of
 > the Trading Day ending on 1 October of the following calendar year.
 
-**Category A**: The class of WEM Rules classified as Category A civil
+### **Category A**: The class of WEM Rules classified as Category A civil
 penalty provisions in the WEM Regulations for the purposes of the
 imposition of civil penalties under the Regulations.
 
-**Category B**: The class of WEM Rules classified as Category B civil
+### **Category B**: The class of WEM Rules classified as Category B civil
 penalty provisions in the WEM Regulations for the purposes of the
 imposition of civil penalties under the Regulations.
 
-**Category C**: The class of WEM Rules classified as Category C civil
+### **Category C**: The class of WEM Rules classified as Category C civil
 penalty provisions in the WEM Regulations for the purposes of the
 imposition of civil penalties under the Regulations.
 
-**CC Uplift Quantity**: Has the meaning given in clause 4.1A.4.
+### **CC Uplift Quantity**: Has the meaning given in clause 4.1A.4.
 
-**Central Dispatch Process**: The process managed by AEMO for the
+### **Central Dispatch Process**: The process managed by AEMO for the
 dispatch of Registered Facilities for energy and Essential System
 Services described in clause 7.2.1.
 
-**Certified Reserve Capacity**: For a Facility, and in respect of a
+### **Certified Reserve Capacity**: For a Facility, and in respect of a
 Reserve Capacity Cycle, is the quantity of Reserve Capacity that AEMO
 has assigned to the Facility for the Reserve Capacity Cycle in
 accordance with clause 4.11, as adjusted under these WEM Rules including
 clause 4.14.8. Certified Reserve Capacity assigned to a Facility
 registered by a Market Participant is held by that Facility.
 
-**Charge Level**: An Equipment Limit indicating the current level of
+### **Charge Level**: An Equipment Limit indicating the current level of
 stored energy in MWh in an Electric Storage Resource, as provided to
 AEMO in a real-time data feed in accordance with section 2.36A.
 
-**Chief Executive Officer**: In respect of a Rule Participant, the chief
+### **Chief Executive Officer**: In respect of a Rule Participant, the chief
 executive officer of the relevant Rule Participant, or if that Rule
 Participant has no chief executive officer, then the individual
 nominated by the Rule Participant and holding a similar position to that
 of chief executive officer of the Rule Participant.
 
-**Civil Penalty**: Means an amount imposed under a provision of these
+### **Civil Penalty**: Means an amount imposed under a provision of these
 WEM Rules that has been specified in Regulations or falls within a class
 specified in WEM Regulations as a civil penalty provision as provided
 for under section 124(2)(h) of the Electricity Industry Act.
 
-**Civil Penalty Amount**: Means an amount imposed in respect of a breach
+### **Civil Penalty Amount**: Means an amount imposed in respect of a breach
 of a provision of the WEM Rules or the WEM Regulations, that has been
 specified in Schedule 1 of the WEM Regulations as a civil penalty
 provision.
 
-**Co-ordinated Universal Time:** Co-ordinated Universal Time is
+### **Co-ordinated Universal Time:** Co-ordinated Universal Time is
 determined by the International Bureau of Weights and Measures and
 maintained under section 8AA of the National Measurement Act 1960 of the
 Commonwealth.
 
-**Cold Season**: The period commencing at the start of the Trading Day
+### **Cold Season**: The period commencing at the start of the Trading Day
 beginning on 1 April and ending at the end of the Trading Day finishing
 on the following 1 October.
 
-**Commercial Operation:** The status determined by AEMO that:
+### **Commercial Operation:** The status determined by AEMO that:
 
 \(a\) under clause 4.13.10B a Facility (other than a Demand Side
 Programme); or
@@ -400,45 +400,45 @@ Programme); or
 
 is operating in the Wholesale Electricity Market.
 
-**Commissioning Tests**: Has the meaning given in clause 3.21A.5.
+### **Commissioning Tests**: Has the meaning given in clause 3.21A.5.
 
-**Commissioning Test Period**: The proposed period during which a
+### **Commissioning Test Period**: The proposed period during which a
 Commissioning Test Plan will be conducted, as provided to AEMO under
 clause 3.21A.7(d).
 
-**Commissioning Test Plan**: The information submitted to AEMO in
+### **Commissioning Test Plan**: The information submitted to AEMO in
 accordance with clause 3.21A.7.
 
-**Common Requirements**: In respect of each Technical Requirement, means
+### **Common Requirements**: In respect of each Technical Requirement, means
 each requirement as specified in Appendix 12 that is common to both the
 Ideal Generator Performance Standard and Minimum Generator Performance
 Standard.
 
-**Conditional Certified Reserve Capacity**: Has the meaning given in
+### **Conditional Certified Reserve Capacity**: Has the meaning given in
 clause 4.9.5.
 
-**Confidential Information**: Market Information classified as
+### **Confidential Information**: Market Information classified as
 confidential by an Information Manager under clause 10.2.3 or the
 Coordinator under section 10.5.
 
-**Congestion Information Resource**: An information resource comprising
+### **Congestion Information Resource**: An information resource comprising
 the information described in clause 2.27B.3.
 
-**Congestion Information Resource Objective**: Has the meaning given in
+### **Congestion Information Resource Objective**: Has the meaning given in
 clause 2.27B.1.
 
-**Congestion Rental**: Means, in respect of a Registered Facility, for a
+### **Congestion Rental**: Means, in respect of a Registered Facility, for a
 Dispatch Interval and for a set of Network Constraints, the value
 calculated by AEMO in accordance with clause 7.14.1.
 
-**Constrained Portfolio**: For a Constraint Equation, a set comprising
+### **Constrained Portfolio**: For a Constraint Equation, a set comprising
 all the Registered Facilities within a single Portfolio that are located
 behind the relevant Network Constraint.
 
-**Constrained Uplift Payment Ratio**: Has the meaning given in clause
+### **Constrained Uplift Payment Ratio**: Has the meaning given in clause
 2.16C.2.
 
-**Constraint**: Means:
+### **Constraint**: Means:
 
 \(a\) a Network Constraint; and
 
@@ -447,7 +447,7 @@ Energy Producing System such that it would represent a risk to Power
 System Security or Power System Reliability if the limitation or
 requirement was removed.
 
-**Constraint Equation**: A mathematical representation of a Constraint
+### **Constraint Equation**: A mathematical representation of a Constraint
 on the SWIS.
 
 <table>
@@ -466,10 +466,10 @@ required.</p></th>
 </tbody>
 </table>
 
-**Constraint Set**: A group of Constraint Equations that respond to a
+### **Constraint Set**: A group of Constraint Equations that respond to a
 particular condition or set of conditions.
 
-**Constraints Library**: The collection of:
+### **Constraints Library**: The collection of:
 
 \(a\) Constraint Equations and Constraint Sets that AEMO is required to
 develop and maintain in accordance with section 2.27A or clause 5.7.3;
@@ -494,20 +494,20 @@ iii\. the final RCM Constraint Equations used by AEMO in the Network
 Access Quantity Model for determining Network Access Quantities under
 Appendix 3.
 
-**Consumption Contributing Quantity**: For a Market Participant for a
+### **Consumption Contributing Quantity**: For a Market Participant for a
 Trading Interval, has the meaning given in clause 9.5.7.
 
-**Consumption Deviation Application:** An application submitted by a
+### **Consumption Deviation Application:** An application submitted by a
 Market Participant to AEMO under clause 4.26.2CB(a) or clause 4.28.9A,
 notifying AEMO and providing evidence that the consumption of a Load was
 affected.
 
-**Consumption Share**: Has the meaning given in clause 9.5.6.
+### **Consumption Share**: Has the meaning given in clause 9.5.6.
 
-**Contestable Customer**: A person that may purchase electrical energy
+### **Contestable Customer**: A person that may purchase electrical energy
 from any retailer, including Synergy.
 
-**Contingency Event**: Has the meaning given in clause 3.8A.1.
+### **Contingency Event**: Has the meaning given in clause 3.8A.1.
 
 <table>
 <colgroup>
@@ -530,7 +530,7 @@ contingency itself.</p></th>
 </tbody>
 </table>
 
-**Contingency Lower Offset**: For each Dispatch Interval or Pre-Dispatch
+### **Contingency Lower Offset**: For each Dispatch Interval or Pre-Dispatch
 Interval, the offset determined by AEMO in accordance with the WEM
 Procedure referred to in clause 7.2.5, when determining the quantity of
 Contingency Reserve Lower required to maintain the SWIS frequency in
@@ -543,7 +543,7 @@ Reserve Lower is required; and
 \(b\) a positive offset quantity indicates less Contingency Reserve
 Lower is required.
 
-**Contingency Raise Offset**: For each Dispatch Interval or Pre-Dispatch
+### **Contingency Raise Offset**: For each Dispatch Interval or Pre-Dispatch
 Interval, the offset determined by AEMO in accordance with the WEM
 Procedure referred to in clause 7.2.5 when determining the quantity of
 Contingency Reserve Raise required to maintain the SWIS frequency in
@@ -556,79 +556,79 @@ Reserve Raise is required; and
 \(b\) a positive offset quantity indicates less Contingency Reserve
 Raise is required.
 
-**Contingency Reclassification Conditions**: Means the conditions that
+### **Contingency Reclassification Conditions**: Means the conditions that
 AEMO determines give rise to the need to reclassify a Non-Credible
 Contingency Event as a Credible Contingency Event.
 
-**Contingency Reserve**: Has the meaning given in clause 3.9.4.
+### **Contingency Reserve**: Has the meaning given in clause 3.9.4.
 
-**Contingency Reserve Lower**: Has the meaning given in clause 3.9.6.
+### **Contingency Reserve Lower**: Has the meaning given in clause 3.9.6.
 
-**Contingency Reserve Lower Market Clearing Price**: The Market Clearing
+### **Contingency Reserve Lower Market Clearing Price**: The Market Clearing
 Price for Contingency Reserve Lower.
 
-**Contingency Reserve Lower Offer Price Ceiling**: The price, in dollars
+### **Contingency Reserve Lower Offer Price Ceiling**: The price, in dollars
 per MW per hour, determined in accordance with clause 2.26.2B, and as
 may be indexed in accordance with clause 2.26.2U, that is the maximum
 price that may be associated with a Real-Time Market Submission or
 Standing Real-Time Market Submission for the provision of Contingency
 Reserve Lower.
 
-**Contingency Reserve Raise**: Has the meaning given in clause 3.9.5.
+### **Contingency Reserve Raise**: Has the meaning given in clause 3.9.5.
 
-**Contingency Reserve Raise Market Clearing Price**: The Market Clearing
+### **Contingency Reserve Raise Market Clearing Price**: The Market Clearing
 Price for Contingency Reserve Raise.
 
-**Contingency Reserve Raise Offer Price Ceiling**: The price, in dollars
+### **Contingency Reserve Raise Offer Price Ceiling**: The price, in dollars
 per MW per hour, determined in accordance with clause 2.26.2B, and as
 may be indexed in accordance with clause 2.26.2U, that is the maximum
 price that may be associated with a Real-Time Market Submission or
 Standing Real-Time Market Submission for the provision of Contingency
 Reserve Raise.
 
-**Contract Maximum Demand**: Has the meaning given in Appendix 3 of the
+### **Contract Maximum Demand**: Has the meaning given in Appendix 3 of the
 Electricity Networks Access Code 2004.
 
-**Controlled Circumstances**: Circumstances where AEMO expects or
+### **Controlled Circumstances**: Circumstances where AEMO expects or
 requires SWIS Frequency to vary as a result of a test or the process of
 dispatch.
 
-**Coordinator**: The Coordinator referred to in section 4 of the Energy
+### **Coordinator**: The Coordinator referred to in section 4 of the Energy
 Coordination Act 1994.
 
-**Coordinator’s Website**: A website or portion of a website maintained
+### **Coordinator’s Website**: A website or portion of a website maintained
 by, or on behalf of, the Coordinator.
 
-**Coordinator Transfer Date**: Means 8:00AM on the date the amending
+### **Coordinator Transfer Date**: Means 8:00AM on the date the amending
 rules made under the *Electricity Industry (Wholesale Electricity
 Market) Regulations 2004* (WA), regulation 7(4) giving effect to the
 transfer of functions from the Rule Change Panel to the Coordinator
 commence operation.
 
-**Corporations Act**: The Corporations Act 2001 (Cwlth).
+### **Corporations Act**: The Corporations Act 2001 (Cwlth).
 
-**Credible Contingency Event**: Has the meaning given in clause 3.8A.2.
+### **Credible Contingency Event**: Has the meaning given in clause 3.8A.2.
 
-**Credible Contingency Event Frequency Band**: Has the meaning given in
+### **Credible Contingency Event Frequency Band**: Has the meaning given in
 clause 3B.2.3.
 
-**Credit Limit**: In respect of a relevant Rule Participant, the amount
+### **Credit Limit**: In respect of a relevant Rule Participant, the amount
 determined by AEMO in accordance with clause 2.37.4.
 
-**Credit Support**: Has the meaning given in clause 2.38.4.
+### **Credit Support**: Has the meaning given in clause 2.38.4.
 
-**Cure Notice**: Has the meaning given in clause 9.19.4(a).
+### **Cure Notice**: Has the meaning given in clause 9.19.4(a).
 
-**Customer**: Means a person to whom electricity is sold for the purpose
+### **Customer**: Means a person to whom electricity is sold for the purpose
 of consumption.
 
-**De-registration Notice:** means the notice issued by AEMO under clause
+### **De-registration Notice:** means the notice issued by AEMO under clause
 2.32.7E(b).
 
-**Declared Sent Out Capacity:** Has the meaning given in Appendix 3 of
+### **Declared Sent Out Capacity:** Has the meaning given in Appendix 3 of
 the Electricity Networks Access Code 2004.
 
-**Deemed DSM Dispatch:** The quantity (in MWh) for a Demand Side
+### **Deemed DSM Dispatch:** The quantity (in MWh) for a Demand Side
 Programme for a Trading Interval equal to the least of:
 
 \(a\) half of the Facility’s Capacity Credits;
@@ -643,76 +643,76 @@ i\. half of the Relevant Demand set in clause 4.26.2CA; and
 ii\. the Demand Side Programme Load measured in the Trading Interval,
 adjusted to add back any Further DSM Consumption Decrease.
 
-**Default Levy**: The amount, in respect of a given Rule Participant and
+### **Default Levy**: The amount, in respect of a given Rule Participant and
 in the circumstance of a particular Payment Default, determined by AEMO
 in accordance with clause 9.20.6.
 
-**Degenerate Solution**: Occurs where, according to the Dispatch
+### **Degenerate Solution**: Occurs where, according to the Dispatch
 Algorithm, more than one combination of Dispatch Targets and ESS
 Enablement Quantities will maximise the value of Real-Time Market
 trading while taking into account the various constraints in section
 7.2.
 
-**Delegate**: Means a person appointed by AEMO under clause 2.1A.3 to
+### **Delegate**: Means a person appointed by AEMO under clause 2.1A.3 to
 perform a function on its behalf that is, in AEMO's opinion, competent
 to exercise the relevant function.
 
-**Demand Side Management**: A type of capacity held in respect of a
+### **Demand Side Management**: A type of capacity held in respect of a
 Facility connected to the SWIS; specifically, the capability of a
 Facility connected to the SWIS to reduce its consumption of electricity
 through the SWIS, as measured at the connection point of the Facility to
 the SWIS.
 
-**Demand Side Programme**: Means a Facility registered in accordance
+### **Demand Side Programme**: Means a Facility registered in accordance
 with clause 2.29.5A.
 
-**Demand Side Programme Capacity Cost Refund:** Has the meaning given in
+### **Demand Side Programme Capacity Cost Refund:** Has the meaning given in
 clause 4.26.3A.
 
-**Demand Side Programme Load**: Has the meaning given in clause 9.5.4.
+### **Demand Side Programme Load**: Has the meaning given in clause 9.5.4.
 
-**DER Generation Information**: Standing data in relation to:
+### **DER Generation Information**: Standing data in relation to:
 
 \(a\) a Small Generating Unit; or
 
 \(b\) Storage Works with an export capacity of less than 5 MW.
 
-**DER Register**: The register established and maintained by AEMO in
+### **DER Register**: The register established and maintained by AEMO in
 accordance with clause 3.24.
 
-**DER Register Information**: Information contained in the DER Register.
+### **DER Register Information**: Information contained in the DER Register.
 
-**DER Register Report**: The report of aggregated DER Register
+### **DER Register Report**: The report of aggregated DER Register
 Information required to be developed and published by AEMO under clause
 3.24.12.
 
-**DER Roadmap**: The distributed energy resources roadmap delivered by
+### **DER Roadmap**: The distributed energy resources roadmap delivered by
 the Energy Transformation Taskforce pursuant to the Western Australian
 Government’s Energy Transformation Strategy and published by the
 Minister on 4 April 2020.
 
-**DER Roadmap Actions**: Any activities undertaken by AEMO to implement
+### **DER Roadmap Actions**: Any activities undertaken by AEMO to implement
 the DER Roadmap that have been endorsed by the Minister as Wholesale
 Electricity Market and Constrained Network Access Reform and includes
 any and all such activities undertaken after 31 December 2019
 irrespective of the date they were endorsed.
 
-**DER Roadmap Implementation Costs**: Any costs incurred by AEMO after
+### **DER Roadmap Implementation Costs**: Any costs incurred by AEMO after
 31 December 2019 in respect of DER Roadmap Actions.
 
-**Disconnected Microgrid**: Means a part of the SWIS that is not an
+### **Disconnected Microgrid**: Means a part of the SWIS that is not an
 Embedded System, that is designed to be disconnected from the remainder
 of the SWIS, and that has disconnected from the remainder of the SWIS,
 and is being operated independently from the SWIS by a Network Operator.
 
-**Dispatch Algorithm**: Means, the algorithm used in the Central
+### **Dispatch Algorithm**: Means, the algorithm used in the Central
 Dispatch Process developed by AEMO in accordance with section 7.2.
 
-**Dispatch Cap**: The total MW level of Injection or Withdrawal that
+### **Dispatch Cap**: The total MW level of Injection or Withdrawal that
 must not be exceeded by a Semi-Scheduled Facility at the end of the
 Dispatch Interval.
 
-**Dispatch Criteria**: Means the criteria under clause 7.6.1.
+### **Dispatch Criteria**: Means the criteria under clause 7.6.1.
 
 <table>
 <colgroup>
@@ -733,7 +733,7 @@ Facilities.</p></th>
 </tbody>
 </table>
 
-**Dispatch Forecast**: The total MW level of Injection or Withdrawal
+### **Dispatch Forecast**: The total MW level of Injection or Withdrawal
 expected to be reached by a Semi-Scheduled Facility or Non-Scheduled
 Facility at the end of the Dispatch Interval which is:
 
@@ -766,12 +766,12 @@ Interval; and
 Semi-Scheduled Facility for the Dispatch Interval, as may be replaced by
 AEMO under clause 7.2.4A.
 
-**Dispatch Inflexibility Profile**: Means, the parameters that indicate
+### **Dispatch Inflexibility Profile**: Means, the parameters that indicate
 a Registered Facility’s MW capacity and time related dispatch
 inflexibilities in accordance with clause 7.4.44 for a Fast Start
 Facility.
 
-**Dispatch Input**: Any value, excluding the values made, or required to
+### **Dispatch Input**: Any value, excluding the values made, or required to
 be made, by Market Participants in a Real-Time Market Submission, that
 is used by the Dispatch Algorithm, including:
 
@@ -783,21 +783,21 @@ is used by the Dispatch Algorithm, including:
 
 \(d\) software setup for the Dispatch Algorithm.
 
-**Dispatch Instruction**: Has the meaning given in clause 7.6.5.
+### **Dispatch Instruction**: Has the meaning given in clause 7.6.5.
 
-**Dispatch Interval**: Means each 5 minute period commencing at 0, 5,
+### **Dispatch Interval**: Means each 5 minute period commencing at 0, 5,
 10, 15, 20, 25, 30, 35, 40, 45, 50 and 55 minutes past the hour.
 
-**Dispatch Quantity**: The value specified for the Capacity Year in the
+### **Dispatch Quantity**: The value specified for the Capacity Year in the
 Statement of Opportunities Report most recently published before the
 start of the Capacity Year.
 
-**Dispatch Schedule**: A forecast of the Market Clearing Prices,
+### **Dispatch Schedule**: A forecast of the Market Clearing Prices,
 Dispatch Targets, Dispatch Caps, Dispatch Forecasts and Essential System
 Services Enablement Quantities for each Dispatch Interval in the
 Dispatch Schedule Horizon.
 
-**Dispatch Schedule Horizon**: The next 24 Dispatch Intervals after a
+### **Dispatch Schedule Horizon**: The next 24 Dispatch Intervals after a
 Dispatch Interval.
 
 <table>
@@ -817,26 +817,26 @@ Targets”.</p></th>
 </tbody>
 </table>
 
-**Dispatch Target**: For a Scheduled Facility or Semi-Scheduled
+### **Dispatch Target**: For a Scheduled Facility or Semi-Scheduled
 Facility, the level of Injection or Withdrawal to be reached at the end
 of a Dispatch Interval.
 
-**Dispute Participants**: The parties to a relevant dispute described in
+### **Dispute Participants**: The parties to a relevant dispute described in
 clause 2.18.2.
 
-**Distribution Loss Factor:** A factor representing the average
+### **Distribution Loss Factor:** A factor representing the average
 electrical losses incurred when electricity is transmitted through a
 distribution network.
 
-**Distribution Loss Factor Class:** A group of one or more connection
+### **Distribution Loss Factor Class:** A group of one or more connection
 points with common characteristics assigned a common Distribution Loss
 Factor.
 
-**Draft Rule Change Report**: The draft report described in clause 2.7.7
+### **Draft Rule Change Report**: The draft report described in clause 2.7.7
 and published by the Coordinator under clause 2.7.6(a) in relation to a
 Rule Change Proposal.
 
-**Draw Upon**: In relation to Credit Support or Reserve Capacity
+### **Draw Upon**: In relation to Credit Support or Reserve Capacity
 Security held by AEMO in relation to a Rule Participant, means that
 AEMO:
 
@@ -846,11 +846,11 @@ satisfy amounts owing by the relevant Rule Participant; or
 \(b\) in relation to other Credit Support, exercises its rights under
 the Credit Support, including by drawing or claiming an amount under it.
 
-**Droop Response**: A fast, automatic and localised control scheme for
+### **Droop Response**: A fast, automatic and localised control scheme for
 generation facilities, wherein power output is proportionally adjusted
 to counteract frequency deviations.
 
-**DSM Reserve Capacity Security**: The reserve capacity security to be
+### **DSM Reserve Capacity Security**: The reserve capacity security to be
 provided for a Demand Side Programme that:
 
 \(a\) has the meaning given in clause 4.13A.6; and
@@ -882,7 +882,7 @@ no longer required for Demand Side Programmes.</p></th>
 </tbody>
 </table>
 
-**DSP Constrained Withdrawal Quantity**: A Market Participant’s estimate
+### **DSP Constrained Withdrawal Quantity**: A Market Participant’s estimate
 of the absolute value of the average MW Withdrawal of its Demand Side
 Programme in a Dispatch Interval, taking into account any information
 about the potential or actual dispatch of the Demand Side Programme that
@@ -890,86 +890,86 @@ is provided by AEMO in Market Advisories under clause 7.11.6(cA),
 Dispatch Instructions under clause 7.6.15 or notifications under clause
 4.25.9(h).
 
-**DSP Forecast Capacity**: An estimate of the potential reduction in the
+### **DSP Forecast Capacity**: An estimate of the potential reduction in the
 absolute value of Withdrawal of a Demand Side Programme in a Dispatch
 Interval if the Demand Side Programme was fully dispatched by AEMO in
 accordance with the Reserve Capacity Obligations for the Demand Side
 Programme, determined by AEMO in accordance with clause 7.8A.3.
 
-**DSP Forecast Reduction**: An estimate of the expected reduction in the
+### **DSP Forecast Reduction**: An estimate of the expected reduction in the
 absolute value of Withdrawal of a Demand Side Programme in a Dispatch
 Interval based on DSP Withdrawal Profile Submissions provided by the
 Market Participant, determined by AEMO in accordance with clause 7.8A.4.
 
-**DSP Pre-Dispatch Schedule**: Has the meaning given in clause 7.8A.1.
+### **DSP Pre-Dispatch Schedule**: Has the meaning given in clause 7.8A.1.
 
-**DSP Schedule**: A DSP Week-Ahead Schedule or a DSP Pre-Dispatch
+### **DSP Schedule**: A DSP Week-Ahead Schedule or a DSP Pre-Dispatch
 Schedule.
 
-**DSP Unconstrained Withdrawal Quantity**: A Market Participant’s
+### **DSP Unconstrained Withdrawal Quantity**: A Market Participant’s
 estimate of the absolute value of the average MW Withdrawal of its
 Demand Side Programme in a Dispatch Interval, assuming that the Demand
 Side Programme does not receive a notification under clause 4.25.9(h) or
 Dispatch Instruction under clause 7.6.15 that affects its Withdrawal in
 the Dispatch Interval.
 
-**DSP Week-Ahead Schedule**: Has the meaning given in clause 7.8A.1.
+### **DSP Week-Ahead Schedule**: Has the meaning given in clause 7.8A.1.
 
-**DSP Withdrawal Profile Submission**: A submission made by a Market
+### **DSP Withdrawal Profile Submission**: A submission made by a Market
 Participant to AEMO which provides a DSP Unconstrained Withdrawal
 Quantity and DSP Constrained Withdrawal Quantity for a Demand Side
 Programme for a Dispatch Interval.
 
-**Early Certified Reserve Capacity**: Reserve Capacity which is
+### **Early Certified Reserve Capacity**: Reserve Capacity which is
 certified and assigned to a new Facility by AEMO for a future Reserve
 Capacity Cycle under clause 4.28C.
 
-**Economic Regulation Authority**: The body established under section
+### **Economic Regulation Authority**: The body established under section
 4(1) of the Economic Regulation Authority Act (WA).
 
-**Electric Storage Resource**: A system or resource capable of receiving
+### **Electric Storage Resource**: A system or resource capable of receiving
 and storing energy for later production of electric energy.
 
-**Electric Storage Resource Obligation Duration**: The eight contiguous
+### **Electric Storage Resource Obligation Duration**: The eight contiguous
 Electric Storage Resource Obligation Intervals which apply each Trading
 Day and commence at the time published by AEMO in accordance with clause
 4.11.3A.
 
-**Electric Storage Resource Obligation Interval**: A Trading Interval,
+### **Electric Storage Resource Obligation Interval**: A Trading Interval,
 that AEMO has determined in accordance with the WEM Procedure referred
 to in clause 4.11.3A, in which a non‑zero Reserve Capacity Obligation
 Quantity is applied to an Electric Storage Resource.
 
-**Electric Storage Resource Obligation Quantity**: The specific amount
+### **Electric Storage Resource Obligation Quantity**: The specific amount
 of capacity required to be provided in a Trading Interval as part of a
 Reserve Capacity Obligation for an Electric Storage Resource set by AEMO
 in accordance with clauses 4.12.14 and 4.12.14A as adjusted from time to
 time in accordance with these WEM Rules, including under clause 4.12.6.
 
-**Electrical Location**: The zone substation at which the Transmission
+### **Electrical Location**: The zone substation at which the Transmission
 Loss Factor for a Registered Facility is defined.
 
-**Electricity Corporations Act**: Means the Electricity Corporations Act
+### **Electricity Corporations Act**: Means the Electricity Corporations Act
 2005 (WA).
 
-**Electricity Industry Act:** Means the Electricity Industry Act 2004
+### **Electricity Industry Act:** Means the Electricity Industry Act 2004
 (WA).
 
-**Electricity Review Board**: The Board within the meaning of the
+### **Electricity Review Board**: The Board within the meaning of the
 Electricity Industry Act.
 
-**Eligible Services:** Has the meaning given in clause 4.24.3.
+### **Eligible Services:** Has the meaning given in clause 4.24.3.
 
-**Embedded System**: Means a Network connected at a connection point on
+### **Embedded System**: Means a Network connected at a connection point on
 the SWIS which is owned, controlled or operated by a person who is not a
 Network Operator or AEMO.
 
-**Emergency Operating State**: The state of the SWIS defined in clause
+### **Emergency Operating State**: The state of the SWIS defined in clause
 3.5.1.
 
-**Enablement Limit**: Enablement Maximum or Enablement Minimum.
+### **Enablement Limit**: Enablement Maximum or Enablement Minimum.
 
-**Enablement Losses**: For a Registered Facility providing a Frequency
+### **Enablement Losses**: For a Registered Facility providing a Frequency
 Co-optimised Essential System Service in a Dispatch Interval, an
 estimate of the difference between the revenue received for providing
 energy and the Frequency Co‑optimised Essential System Service in the
@@ -977,24 +977,24 @@ Dispatch Interval and the cost of providing those services, determined
 in accordance with clauses 9.10.3C, 9.10.3D, 9.10.3E, 9.10.3F or 9.10.3G
 as applicable.
 
-**Enablement Maximum**: In relation to a Real-Time Market Offer for a
+### **Enablement Maximum**: In relation to a Real-Time Market Offer for a
 Frequency Co-optimised Essential System Service, the level of Injection
 or Withdrawal above which no response is specified as being available.
 
-**Enablement Minimum**: In relation to a Real-Time Market Offer for a
+### **Enablement Minimum**: In relation to a Real-Time Market Offer for a
 Frequency Co-optimised Essential System Service, the level of Injection
 or Withdrawal below which no response is specified as being available.
 
-**Energy Market Clearing Price**: The Market Clearing Price for energy.
+### **Energy Market Clearing Price**: The Market Clearing Price for energy.
 
-**Energy Market Commencement**: The date and time at which the first
+### **Energy Market Commencement**: The date and time at which the first
 Trading Day commences, as published by the Minister in the Government
 Gazette.
 
-**Energy Offer Caps**: The Energy Offer Price Floor and the Energy Offer
+### **Energy Offer Caps**: The Energy Offer Price Floor and the Energy Offer
 Price Ceiling.
 
-**Energy Offer Price Ceiling**: The price in $/MWh determined in
+### **Energy Offer Price Ceiling**: The price in $/MWh determined in
 accordance with clause 2.26.2, and as may be indexed in accordance with
 clause 2.26.2U, that is the maximum price that may be associated with a
 Portfolio Supply Curve or Portfolio Demand Curve forming part of a STEM
@@ -1002,7 +1002,7 @@ Submission or Standing STEM Submission, and with a Real-Time Market
 Submission or Standing Real-Time Market Submission for energy by a
 Registered Facility.
 
-**Energy Offer Price Floor**: The price in $/MWh determined in
+### **Energy Offer Price Floor**: The price in $/MWh determined in
 accordance with clauses 2.26.2D to 2.26.2K, and as may be indexed in
 accordance with clause 2.26.2U, that is the minimum price that may be
 associated with a Portfolio Supply Curve or Portfolio Demand Curve
@@ -1010,30 +1010,30 @@ forming part of a STEM Submission or Standing STEM Submission, and with
 a Real-Time Market Submission or Standing Real‑Time Market Submission
 for energy by a Registered Facility.
 
-**Energy Producing System**: One or more electricity producing units,
+### **Energy Producing System**: One or more electricity producing units,
 such as generation systems or Electric Storage Resources, located behind
 a single network connection point or electrically connected behind two
 or more shared network connection points.
 
-**Energy Storage Constraints**: limitations on the Injection or
+### **Energy Storage Constraints**: limitations on the Injection or
 Withdrawal capability of a Registered Facility based on the Charge Level
 of associated Electric Storage Resources.
 
-**Energy Uplift Payment**: Is the Energy Uplift Payment in respect of a
+### **Energy Uplift Payment**: Is the Energy Uplift Payment in respect of a
 Facility and, in relation to a:
 
 \(a\) Trading Interval, has the meaning given in clause 9.9.7; and
 
 \(b\) Dispatch Interval, has the meaning given in clause 9.9.8.
 
-**Energy Uplift Price**: Is the Energy Uplift Price in respect of a
+### **Energy Uplift Price**: Is the Energy Uplift Price in respect of a
 Facility and Dispatch Interval, has the meaning given in clause 9.9.10.
 
-**Energy Uplift Quantity**: Is the Energy Uplift Quantity in respect of
+### **Energy Uplift Quantity**: Is the Energy Uplift Quantity in respect of
 a Facility and Dispatch Interval, has the meaning given in clause
 9.9.11.
 
-**Environmental Approval**: In respect of a Facility is a licence,
+### **Environmental Approval**: In respect of a Facility is a licence,
 consent, certificate, notification, declaration or other authorisation
 required under any law relating to the protection or conservation of the
 environment for the lawful construction of the Facility or the
@@ -1060,45 +1060,45 @@ Variants”.</p></th>
 </tbody>
 </table>
 
-**EOI Facility Variant**: An Expression of Interest that is associated
+### **EOI Facility Variant**: An Expression of Interest that is associated
 with one or more other Expressions of Interest and that, on the basis of
 the information provided in clause 4.4.1, relates to the same Facility.
 
-**EOI Quantity**: Means the quantity, in MW, at which a Registered
+### **EOI Quantity**: Means the quantity, in MW, at which a Registered
 Facility was Injecting or Withdrawing as at the end of a Dispatch
 Interval.
 
-**Equipment Limit**: Has the meaning given in clause 3.2.1.
+### **Equipment Limit**: Has the meaning given in clause 3.2.1.
 
-**Equipment List**: Means the list maintained by AEMO under clause
+### **Equipment List**: Means the list maintained by AEMO under clause
 3.18A.1.
 
-**Equipment List Facility**: Means a Facility or item of equipment that
+### **Equipment List Facility**: Means a Facility or item of equipment that
 is included on the Equipment List.
 
-**Equivalent Planned Outage Hours**: Means, in respect of a Facility,
+### **Equivalent Planned Outage Hours**: Means, in respect of a Facility,
 the sum of the “Planned Outage Hours” and the “Equivalent Planned
 Derated Hours” for the Facility as calculated in accordance with the WEM
 Procedure specified in clause 4.9.10.
 
-**ERA Transfer Date**: Means 8:00 AM on 1 July 2016.
+### **ERA Transfer Date**: Means 8:00 AM on 1 July 2016.
 
-**ESR Charge Shortfall**: The MW quantity of capacity of a Scheduled
+### **ESR Charge Shortfall**: The MW quantity of capacity of a Scheduled
 Facility or Semi-Scheduled Facility that is subject to a capacity refund
 in a Trading Interval due to the inadequate Charge Level of an Electric
 Storage Resource, calculated in accordance with clause 4.26.1E.
 
-**Essential System Service**: A service, including each service
+### **Essential System Service**: A service, including each service
 described in section 3.9, that is required to maintain Power System
 Security and Power System Reliability, facilitate orderly trading in
 electricity and ensure that electricity supplies are of an acceptable
 quality.
 
-**Essential System Service Enablement Quantity**: the quantity of a
+### **Essential System Service Enablement Quantity**: the quantity of a
 Frequency Co-optimised Essential System Service to be provided by a
 Registered Facility in a Dispatch Interval.
 
-**Essential System Service Standards**: The standards referred to in
+### **Essential System Service Standards**: The standards referred to in
 these WEM Rules for Essential System Services, including those set out
 in sections 3.7 and 3.10.
 
@@ -1120,7 +1120,7 @@ Participants to consider in constructing their offers.</p></th>
 </tbody>
 </table>
 
-**Estimated Enablement Losses**: For a Registered Facility in a Dispatch
+### **Estimated Enablement Losses**: For a Registered Facility in a Dispatch
 Interval is:
 
 > EL = Max(0,LF\*EM \* (LFAOP – MCP))
@@ -1138,7 +1138,7 @@ Enablement Minimum Quantity; and
 MCP is the Energy Market Clearing Price in that Dispatch Interval based
 on the Market Schedules published by AEMO.
 
-**Estimated FCESS Uplift Payment**: For a Scheduled Facility or
+### **Estimated FCESS Uplift Payment**: For a Scheduled Facility or
 Semi-Scheduled Facility in a Dispatch Interval is:
 
 $$\text{EstimatedFCESSUpliftPayment} = \text{Max}(\text{0},\frac{\text{5}}{\text{60}} \times \text{LF} \times \text{Max}\left( \text{0},\\\text{EM} \right) \times \left( \text{LFAOP} - \text{MCP} \right))$$
@@ -1162,75 +1162,75 @@ for the Registered Facility in the Dispatch Interval; and
 \(e\) MCP is the Energy Market Clearing Price in the Dispatch Interval
 based on the Market Schedules published by AEMO.
 
-**Excess Allocation Price**: For a Market Participant is as calculated
+### **Excess Allocation Price**: For a Market Participant is as calculated
 in accordance with clause 9.8.3(i).
 
-**Exempt Transmission Connected Generating System**: Has the meaning
+### **Exempt Transmission Connected Generating System**: Has the meaning
 given in clause 3A.3.1.
 
-**Existing Facility Load for Scheduled Generation**: Means the MWh
+### **Existing Facility Load for Scheduled Generation**: Means the MWh
 quantity determined for a Trading Interval under step 7 of the Relevant
 Level Methodology.
 
-**Existing Transmission Connected Generating System**: Means a
+### **Existing Transmission Connected Generating System**: Means a
 Transmission Connected Generating System for which an Arrangement for
 Access has been executed prior to the Tranche 1 Commencement Date other
 than an Exempt Transmission Connected Generating System.
 
-**Expression of Interest**: In respect of a Reserve Capacity Cycle, a
+### **Expression of Interest**: In respect of a Reserve Capacity Cycle, a
 response to the Request for Expressions of Interest provided to AEMO in
 accordance with section 4.2.
 
-**External Administrator**: Means an administrator, controller, managing
+### **External Administrator**: Means an administrator, controller, managing
 controller or restructuring practitioner (each as defined in the
 Corporations Act), trustee, provisional liquidator, liquidator or any
 other person (however described) holding or appointed to an analogous
 office or acting or purporting to act in an analogous capacity.
 
-**External Constraint**: Means an event impacting the operation of the
+### **External Constraint**: Means an event impacting the operation of the
 whole of the SWIS, or any significant part of it.
 
-**Extreme Frequency Tolerance Band**: Has the meaning given in clause
+### **Extreme Frequency Tolerance Band**: Has the meaning given in clause
 3B.2.5.
 
-**EZ:** Means the ratio of excess Reserve Capacity to the Reserve
+### **EZ:** Means the ratio of excess Reserve Capacity to the Reserve
 Capacity Requirement for a Reserve Capacity Cycle at which no additional
 resources should enter the market under a very wide range of market
 conditions.
 
-**EZ BRCP Factor:** Means the ratio of the Reserve Capacity Price to the
+### **EZ BRCP Factor:** Means the ratio of the Reserve Capacity Price to the
 Benchmark Reserve Capacity Price for a Reserve Capacity Cycle if the
 ratio of excess Reserve Capacity to the Reserve Capacity Requirement for
 a Reserve Capacity Cycle was equal to EZ in that Reserve Capacity Cycle.
 
-**Facility**: Has the meaning given in clause 2.29.1B, which can be an
+### **Facility**: Has the meaning given in clause 2.29.1B, which can be an
 unregistered Facility or Registered Facility.
 
-**Facility**: Has the meaning given in clause 2.29.1B, which can be an
+### **Facility**: Has the meaning given in clause 2.29.1B, which can be an
 unregistered facility or Registered Facility.
 
-**Facility Capacity Rebate**: For a Scheduled Facility, Semi-Scheduled
+### **Facility Capacity Rebate**: For a Scheduled Facility, Semi-Scheduled
 Facility or a Demand Side Programme, the rebate determined for a Trading
 Month m, as calculated in accordance with clause 4.26.6.
 
-**Facility Classes**: Any one of the classes of Facility specified in
+### **Facility Classes**: Any one of the classes of Facility specified in
 clause 2.29.1A.
 
-**Facility Contingency**: Means a Credible Contingency Event associated
+### **Facility Contingency**: Means a Credible Contingency Event associated
 with the unexpected automatic or manual disconnection of, or the
 unplanned change in output of, one or more operating energy producing
 units or Facilities.
 
-**Facility Daily Reserve Capacity Price:** The Facility Monthly Reserve
+### **Facility Daily Reserve Capacity Price:** The Facility Monthly Reserve
 Capacity Price for a Facility as determined in accordance with clause
 4.29.1A, divided by the number of Trading Days in the relevant Trading
 Month**.**
 
-**Facility Monthly Reserve Capacity Price:** Means the dollar price per
+### **Facility Monthly Reserve Capacity Price:** Means the dollar price per
 Capacity Credit per Trading Month calculated in respect of a Facility in
 accordance clause 4.29.1A.
 
-**Facility Performance Factor**: For a Registered Facility and a
+### **Facility Performance Factor**: For a Registered Facility and a
 Frequency Co-optimised Essential System Service in a Dispatch Interval
 or Pre-Dispatch Interval, the ratio between the Essential System Service
 Enablement Quantity and the Registered Facility’s Contribution to
@@ -1247,7 +1247,7 @@ Frequency Co-optimised Essential System Service enabled at the
 Registered Facility contributes less than one MW to meeting the
 requirement for that Frequency Co-optimised Essential System Service.
 
-**Facility Reserve Capacity Deficit Refund:** Has the meaning given in
+### **Facility Reserve Capacity Deficit Refund:** Has the meaning given in
 clause 4.26.1A.
 
 <table>
@@ -1270,35 +1270,35 @@ cost recovery is more reflective of the requirement.</p></th>
 </tbody>
 </table>
 
-**Facility Risk**: Means, for a Facility, the sum of energy and
+### **Facility Risk**: Means, for a Facility, the sum of energy and
 Regulation Raise cleared from the relevant Facility in that Dispatch
 Interval.
 
-**Facility SESSM Refund**: Means, for a Dispatch Interval, Registered
+### **Facility SESSM Refund**: Means, for a Dispatch Interval, Registered
 Facility and an Essential System Service, the amount refunded by a
 Market Participant to whom the Facility is registered, for failing to
 meet their obligations under each relevant SESSM Award.
 
-**Facility Speed Factor:** A parameter *τ* that defines the
+### **Facility Speed Factor:** A parameter *τ* that defines the
 approximation of the response curve of a Facility to a Contingency
 Event, in the form:
 
 > $$response(t) = \\reserve\*\left( 1 - e^{\frac{- t}{\tau}} \right)$$
 
-**Facility Sub-Metering**: Metering arrangements sufficient to calculate
+### **Facility Sub-Metering**: Metering arrangements sufficient to calculate
 the contribution of each Separately Certified Component and associated
 Parasitic Loads to the Injection or Withdrawal of energy for a Facility,
 which may include use of Meter Data Submissions where each Separately
 Certified Component is not individually metered.
 
-**Facility Technology Types**: Means any one of the types of
+### **Facility Technology Types**: Means any one of the types of
 technologies specified in clause 2.29.1.
 
-**Facility Tolerance Range**: Means the amount, in MW, determined by
+### **Facility Tolerance Range**: Means the amount, in MW, determined by
 AEMO under clause 2.13.17(b)(iii) in relation to a specific Facility, as
 varied under clause 2.13.20, as applicable.
 
-**Fast Start Facility:** A Scheduled Facility or Semi-Scheduled Facility
+### **Fast Start Facility:** A Scheduled Facility or Semi-Scheduled Facility
 that is capable of:
 
 \(a\) synchronizing and changing its rate of Injection or Withdrawal
@@ -1307,17 +1307,17 @@ within 30 minutes of receiving a Dispatch Instruction from AEMO; and
 \(b\) shutting down within 60 minutes from the time the Dispatch
 Instruction to synchronise was issued.
 
-**Fast Track Rule Change Process**: The process for dealing with Rule
+### **Fast Track Rule Change Process**: The process for dealing with Rule
 Change Proposals set out in clause 2.6.
 
-**FCESS Accreditation Shortfall**: Means, for a Frequency Co-optimised
+### **FCESS Accreditation Shortfall**: Means, for a Frequency Co-optimised
 Essential System Service in a Dispatch Interval, a difference between
 the actual or forecast required quantity and the total accredited
 capability accounting for where Facility response capability is
 accredited to provide more than one Frequency Co-optimised Essential
 System Service, as identified under clause 3.11.1.
 
-**FCESS Clearing Price Ceiling**: The maximum Market Clearing Price for
+### **FCESS Clearing Price Ceiling**: The maximum Market Clearing Price for
 a Frequency Co‑optimised Essential System Service in a Dispatch
 Interval, which is equal to:
 
@@ -1332,18 +1332,18 @@ where:
 \(c\) FCESSOPC is the relevant FCESS Offer Price Ceiling in the Dispatch
 Interval.
 
-**FCESS Offer Price Ceilings**: The set of price limits comprising the
+### **FCESS Offer Price Ceilings**: The set of price limits comprising the
 Contingency Reserve Raise Offer Price Ceiling, the Contingency Reserve
 Lower Offer Price Ceiling, the RoCoF Control Service Offer Price
 Ceiling, the Regulation Raise Offer Price Ceiling and the Regulation
 Lower Offer Price Ceiling.
 
-**FCESS Participation Shortfall**: Means, for a Frequency Co-optimised
+### **FCESS Participation Shortfall**: Means, for a Frequency Co-optimised
 Essential System Service in a Dispatch Interval, a difference between
 the actual or forecast required quantity and the total capability
 offered as In-Service, as identified under clause 3.11.2(b).
 
-**FCESS Uplift Payment**: A payment made to a Market Participant as
+### **FCESS Uplift Payment**: A payment made to a Market Participant as
 compensation for Enablement Losses incurred by a Registered Facility
 providing one or more Frequency Co‑optimised Essential System Services,
 determined in accordance with:
@@ -1352,40 +1352,40 @@ determined in accordance with:
 
 \(b\) clause 9.10.3H, for a Dispatch Interval.
 
-**Final Annual Consolidated Outage Intention Plan**: Means the final
+### **Final Annual Consolidated Outage Intention Plan**: Means the final
 consolidated outline of Outages Market Participants and Network
 Operators expect to occur in a calendar year as accepted by AEMO and
 developed and published by AEMO in accordance with clause 3.19.9.
 
-**Final Contingency Reserve Lower Market Clearing Price**: The
+### **Final Contingency Reserve Lower Market Clearing Price**: The
 Contingency Reserve Lower Market Clearing Price as published or revised
 under section 7.13.
 
-**Final Contingency Reserve Raise Market Clearing Price**: The
+### **Final Contingency Reserve Raise Market Clearing Price**: The
 Contingency Reserve Raise Market Clearing Price as published or revised
 under section 7.13.
 
-**Final Energy Market Clearing Price**: The Energy Market Clearing Price
+### **Final Energy Market Clearing Price**: The Energy Market Clearing Price
 as published or revised and republished under section 7.13.
 
-**Final Network Access Quantity**: Means, in respect of a Facility for a
+### **Final Network Access Quantity**: Means, in respect of a Facility for a
 Reserve Capacity Cycle, the value recorded by AEMO for the Facility in
 accordance with Appendix 3 for the Reserve Capacity Cycle.
 
-**Final Regulation Lower Market Clearing Price**: The Regulation Lower
+### **Final Regulation Lower Market Clearing Price**: The Regulation Lower
 Market Clearing Price as published or revised under section 7.13.
 
-**Final Regulation Raise Market Clearing Price**: The Regulation Raise
+### **Final Regulation Raise Market Clearing Price**: The Regulation Raise
 Market Clearing Price as published or revised under section 7.13.
 
-**Final RoCoF Control Service Market Clearing Price**: The RoCoF Control
+### **Final RoCoF Control Service Market Clearing Price**: The RoCoF Control
 Service Market Clearing Price as published or revised under section
 7.13.
 
-**Final Reference Trading Price**: The Reference Trading Price as
+### **Final Reference Trading Price**: The Reference Trading Price as
 published or revised under section 7.13.
 
-**Final Rule Change Report**: In respect of a Rule Change Proposal to
+### **Final Rule Change Report**: In respect of a Rule Change Proposal to
 which the Fast Track Rule Change Process applies, the report described
 in clause 2.6.4 and published by the Coordinator in accordance with
 clause 2.6.3A(b). In respect of a Rule Change Proposal to which the
@@ -1393,22 +1393,22 @@ Standard Rule Change Process applies, the report described in clause
 2.7.8 and published by the Coordinator in accordance with clause
 2.7.7A(b).
 
-**Financial Penalty**: Means a Civil Penalty Amount.
+### **Financial Penalty**: Means a Civil Penalty Amount.
 
-**Financial Year**: A period of 12 months commencing on 1 July.
+### **Financial Year**: A period of 12 months commencing on 1 July.
 
-**Fixed Assessment Period**: A period of at least seven consecutive
+### **Fixed Assessment Period**: A period of at least seven consecutive
 Trading Days in which the Constraint Equation relevant to the
 identification of a Constrained Portfolio under clause 2.16B.2(b) has
 continuously bound within a Rolling Test Window. A Rolling Test Window
 may contain multiple Fixed Assessment Periods.
 
-**Fixed Price Facility:** Means a Candidate Fixed Price Facility that
+### **Fixed Price Facility:** Means a Candidate Fixed Price Facility that
 was assigned Capacity Credits for a Reserve Capacity Cycle in which it
 nominated in accordance with clause 4.14.1B to be classified as a Fixed
 Price Facility.
 
-**Fixed Price Reserve Capacity Cycle:** Means, for a Fixed Price
+### **Fixed Price Reserve Capacity Cycle:** Means, for a Fixed Price
 Facility, which is either:
 
 \(a\) the Reserve Capacity Cycle in which the Fixed Price Facility was
@@ -1416,19 +1416,19 @@ first assigned Capacity Credits; or
 
 \(b\) any of the subsequent four Reserve Capacity Cycles.
 
-**Forced Outage**: Has the meaning given in clause 3.21.1.
+### **Forced Outage**: Has the meaning given in clause 3.21.1.
 
-**Forecast Capital Expenditure**: With respect to AEMO, the predicted
+### **Forecast Capital Expenditure**: With respect to AEMO, the predicted
 sum of capital expenditure required for a Review Period as determined by
 the Economic Regulation Authority in accordance with section 2.22A.
 
-**Forecast Operational Demand**: For a Dispatch Interval or Pre-Dispatch
+### **Forecast Operational Demand**: For a Dispatch Interval or Pre-Dispatch
 Interval, AEMO’s estimate of the total Injection required, in MW, from
 Scheduled Facilities, Semi-Scheduled Facilities and Non-Scheduled
 Facilities at the end of the interval, as determined by the Dispatch
 Algorithm for a Reference Scenario of a Market Schedule.
 
-**Forecast Operational Withdrawal**: For a Dispatch Interval or
+### **Forecast Operational Withdrawal**: For a Dispatch Interval or
 Pre-Dispatch Interval, AEMO’s estimate of the total Withdrawal, in MW,
 from Scheduled Facilities, Semi-Scheduled Facilities and Non-Scheduled
 Facilities (excluding Registered Facilities that are not required to
@@ -1436,7 +1436,7 @@ specify Price-Quantity Pairs for Withdrawals under clause 7.4.46A) at
 the end of the interval, as determined by the Dispatch Algorithm for a
 Reference Scenario of a Market Schedule.
 
-**Forecast Unscheduled Operational Demand**: For a Dispatch Interval or
+### **Forecast Unscheduled Operational Demand**: For a Dispatch Interval or
 Pre-Dispatch Interval, AEMO’s estimate, determined in accordance with
 section 7.3, of the total Injection required, in MW, from Scheduled
 Facilities, Semi-Scheduled Facilities and Non-Scheduled Facilities at
@@ -1447,28 +1447,28 @@ the end of the interval, to serve demand that does not relate to:
 \(b\) Withdrawals scheduled by the Dispatch Algorithm for Scheduled
 Facilities or Semi-Scheduled Facilities.
 
-**Frequency Band**: Means the Credible Contingency Event Frequency Band,
+### **Frequency Band**: Means the Credible Contingency Event Frequency Band,
 Extreme Frequency Tolerance Band, Island Separation Frequency Band,
 Normal Operating Frequency Band or Normal Operating Frequency Excursion
 Band.
 
-**Frequency Co-optimised Essential System Service**: Means an Essential
+### **Frequency Co-optimised Essential System Service**: Means an Essential
 System Service as defined in clause 3.9.1 to clause 3.9.7.
 
-**Frequency Co-optimised Essential System Service Accreditation
+### **Frequency Co-optimised Essential System Service Accreditation
 Parameters**: Means the information in respect of a Facility accredited
 to provide Frequency Co-optimised Essential System Services that is
 required to be included in the Standing Data for the Facility as set out
 in clause 2.34A.6.
 
-**Frequency Operating Standards**: Means the SWIS Frequency outcomes set
+### **Frequency Operating Standards**: Means the SWIS Frequency outcomes set
 out in Chapter 3B and Appendix 13.
 
-**Fuel Declaration**: A declaration included with a STEM Submission or
+### **Fuel Declaration**: A declaration included with a STEM Submission or
 Standing STEM Submission and which includes the information described in
 clause 6.6.2A(a).
 
-**Fully Co-Optimised Network Constraint Equation**: A Constraint
+### **Fully Co-Optimised Network Constraint Equation**: A Constraint
 Equation formulation to address a Network Constraint that allows AEMO,
 through direct physical representation, to control all the variables
 within the Constraint Equation that can be determined through the
@@ -1476,23 +1476,23 @@ Central Dispatch Process excluding variables for which control would not
 materially enhance the security of the power system due to the small
 size of their coefficients.
 
-**Gate Closure**: The latest point in time before the start of a
+### **Gate Closure**: The latest point in time before the start of a
 Dispatch Interval that a Market Participant may submit a revised
 Real-Time Market Submission for that Dispatch Interval, other than for
 the purposes specified in clause 7.4.35, as determined by AEMO under
 clauses 7.4.30 or 7.4.32 and published on the WEM Website.
 
-**Generation Capacity Cost Refund:** Has the meaning given in clause
+### **Generation Capacity Cost Refund:** Has the meaning given in clause
 4.26.3.
 
-**Generation Centre**: A geographically concentrated area containing a
+### **Generation Centre**: A geographically concentrated area containing a
 generating system or generating systems with significant combined
 generating capability.
 
-**Generation Reserve Capacity Deficit Refund**: Has the meaning given in
+### **Generation Reserve Capacity Deficit Refund**: Has the meaning given in
 clause 4.26.1I.
 
-**Generator Monitoring Plan**: Means a monitoring plan for a
+### **Generator Monitoring Plan**: Means a monitoring plan for a
 Transmission Connected Generating System in respect of the Registered
 Generator Performance Standards that apply to the Transmission Connected
 Generating System.
@@ -1512,11 +1512,11 @@ term “Template Generator Monitoring Plan”.</p></th>
 </tbody>
 </table>
 
-**Generator Monitoring Plan Requirements**: The requirements relating to
+### **Generator Monitoring Plan Requirements**: The requirements relating to
 the content of a Generator Monitoring Plan set out in the WEM Procedure
 referred to in clause 3A.6.2 as may be amended from time to time.
 
-**Generator Register**: Means a register required to be established and
+### **Generator Register**: Means a register required to be established and
 maintained by a Network Operator in accordance with clause 3A.7.1.
 
 <table>
@@ -1536,43 +1536,43 @@ Reserve Capacity Cycles.</p></th>
 </tbody>
 </table>
 
-**GIA Facility**: A Facility that was a Constrained Access Facility (as
+### **GIA Facility**: A Facility that was a Constrained Access Facility (as
 previously defined in the WEM Rules) for the purpose of certification of
 Reserve Capacity in one or more Reserve Capacity Cycles.
 
-**GST:** means Goods and Services Tax and has the meaning given in the
+### **GST:** means Goods and Services Tax and has the meaning given in the
 GST Act.
 
-**GST Act:** means the A New Tax System (Goods and Services Tax) Act
+### **GST Act:** means the A New Tax System (Goods and Services Tax) Act
 1999 (Cth).
 
-**High Breakpoint:** Means, for a Facility providing a Frequency
+### **High Breakpoint:** Means, for a Facility providing a Frequency
 Co-optimised Essential System Service, the MW energy dispatch level
 above which the Facility cannot provide the maximum quantity of that
 Frequency Co-optimised Essential System Service which it is capable of
 providing.
 
-**Highest Network Access Quantity**: The Network Access Quantity
+### **Highest Network Access Quantity**: The Network Access Quantity
 determined for a Facility in accordance with clause 4.15.14.
 
-**Hot Season**: The period commencing at the start of the Trading Day
+### **Hot Season**: The period commencing at the start of the Trading Day
 beginning on 1 December and ending at the end of the Trading Day
 finishing on the following 1 April.
 
-**Ideal Generator Performance Standard**: Means the ideal generator
+### **Ideal Generator Performance Standard**: Means the ideal generator
 performance standard in respect of a Technical Requirement as specified
 in Appendix 12.
 
-**IMO**: The former Independent Market Operator that was abolished by
+### **IMO**: The former Independent Market Operator that was abolished by
 the *Electricity Industry (Independent Market Operator) Repeal
 Regulations 2018* (which also repealed the *Electricity Industry
 (Independent Market Operator) Regulations 2004*).
 
-**Impacted Participant**: Has the meaning given in clause 3.18C.1(b).
+### **Impacted Participant**: Has the meaning given in clause 3.18C.1(b).
 
-**Impacting Participant**: Has the meaning given in clause 3.18C.1(a).
+### **Impacting Participant**: Has the meaning given in clause 3.18C.1(a).
 
-**IMS**: Mean the Information Management System.
+### **IMS**: Mean the Information Management System.
 
 <table>
 <colgroup>
@@ -1594,7 +1594,7 @@ provide their Injection forecasts to AEMO.</p></th>
 </tbody>
 </table>
 
-**In-Service Capacity**: For a Registered Facility in a Dispatch
+### **In-Service Capacity**: For a Registered Facility in a Dispatch
 Interval, Injection or Withdrawal capacity that the Market Participant
 expects to be ready for dispatch in the Dispatch Interval, allowing for
 expected operating conditions, commitment and control intentions and the
@@ -1620,28 +1620,28 @@ Participant.</p></th>
 </tbody>
 </table>
 
-**Indicative Individual Reserve Capacity Requirement**: Means the
+### **Indicative Individual Reserve Capacity Requirement**: Means the
 estimate of a Market Participant’s Individual Reserve Capacity
 Requirement determined and provided to that Market Participant by AEMO
 in accordance with clause 4.28.6.
 
-**Indicative Network Access Quantity**: An estimate of a Network Access
+### **Indicative Network Access Quantity**: An estimate of a Network Access
 Quantity for a Facility for a future Reserve Capacity Cycle to which an
 application for Early Certified Reserve Capacity has been made under
 section 4.28C.2, as determined by AEMO in accordance with Appendix 3 and
 as may be adjusted in accordance with clause 4.28C.7AA.
 
-**Individual Intermittent Load Reserve Capacity Requirement**: Means the
+### **Individual Intermittent Load Reserve Capacity Requirement**: Means the
 Individual Reserve Capacity Requirement for an Intermittent Load to
 which clause 1.48.2 applies for a Trading Month determined in accordance
 with Appendix 4A.
 
-**Individual Reserve Capacity Requirement**: The MW quantity determined
+### **Individual Reserve Capacity Requirement**: The MW quantity determined
 by AEMO in respect of a Market Participant, in accordance with clause
 4.28.7 and, if applicable, as revised in accordance with clause
 4.28.11A.
 
-**Individual Reserve Capacity Requirement Contribution**: Means the
+### **Individual Reserve Capacity Requirement Contribution**: Means the
 contribution of an Associated Load to a Market Participant’s Indicative
 Individual Reserve Capacity Requirement determined in accordance with
 Step 11 of Appendix 5.
@@ -1663,16 +1663,16 @@ reviewed.</p></th>
 </tbody>
 </table>
 
-**Inertia**: The kinetic energy (at nominal frequency) that is extracted
+### **Inertia**: The kinetic energy (at nominal frequency) that is extracted
 from the rotating mass of a machine coupled to the power system to
 compensate an imbalance in the system frequency.
 
-**Inertia Requirements**: Means, the required levels of Inertia to
+### **Inertia Requirements**: Means, the required levels of Inertia to
 assist in reasonably maintaining frequency in an Island in accordance
 with the Frequency Operating Standards, the process by which is set out
 in the WEM Procedure referred to in clause 3.2.7.
 
-**Inflexible:** Means that a Registered Facility is only able to be
+### **Inflexible:** Means that a Registered Facility is only able to be
 dispatched in a Dispatch Interval:
 
 \(a\) in accordance with its Dispatch Inflexibility Profile, or
@@ -1680,18 +1680,18 @@ dispatched in a Dispatch Interval:
 \(b\) for the fixed level of Injection or Withdrawal specified in clause
 7.6.31(a)(ii).
 
-**Information Manager**: The party responsible for managing Market
+### **Information Manager**: The party responsible for managing Market
 Information, in accordance with clauses 10.2.11 and 10.2.12.
 
-**Information Stakeholder**: Has the meaning given in clause 10.2.7A.
+### **Information Stakeholder**: Has the meaning given in clause 10.2.7A.
 
-**Initial Network Access Quantity**: The Network Access Quantity
+### **Initial Network Access Quantity**: The Network Access Quantity
 determined for a Facility in accordance with section 4.1A.1.
 
-**Initial Time**: Is the earlier of the Energy Market Commencement and
+### **Initial Time**: Is the earlier of the Energy Market Commencement and
 the start of the Trading Day commencing on 1 October 2007.
 
-**Injection**: The quantity of power or energy sent into a Network, as
+### **Injection**: The quantity of power or energy sent into a Network, as
 measured at:
 
 \(a\) for a Registered Facility with a single defined network connection
@@ -1706,68 +1706,68 @@ than one Electrical Location, the Reference Node,
 which is measured in instantaneous MW unless specified as MWh over a
 time period, and represented as a positive number or zero.
 
-**Interim Approval to Generate Notification**: Means the notification
+### **Interim Approval to Generate Notification**: Means the notification
 issued by the Network Operator to a Market Participant in accordance
 with section 3A.8, which may or may not be subject to and contain
 conditions, granting interim approval to a Transmission Connected
 Generating System to generate electricity.
 
-**Interim Annual Consolidated Outage Intention Plan**: Means the interim
+### **Interim Annual Consolidated Outage Intention Plan**: Means the interim
 consolidated outline of Outages Market Participants and Network
 Operators expect to occur in a calendar year as accepted by AEMO and
 developed and published by AEMO in accordance with clause 3.19.4.
 
-**Intermediary**: Has the meaning given in clause 2.28.16A.
+### **Intermediary**: Has the meaning given in clause 2.28.16A.
 
-**Intermediate Season**: The interval commencing at the start of the
+### **Intermediate Season**: The interval commencing at the start of the
 Trading Day beginning on 1 October and ending at the end of the Trading
 Day finishing on the following 1 December of the same year.
 
-**Intermittent Generating System**: Any generating system whose output
+### **Intermittent Generating System**: Any generating system whose output
 is not reasonably controllable by AEMO, and whose output is dependent on
 a fuel resource that cannot be directly stored or stockpiled and whose
 availability is difficult to predict.
 
-**Intermittent Load**: A type of Load or part of a Load defined under
+### **Intermittent Load**: A type of Load or part of a Load defined under
 clause 2.30B.1.
 
-**Intermittent Load Refund**: Has the meaning given in clause 4.28A.1.
+### **Intermittent Load Refund**: Has the meaning given in clause 4.28A.1.
 
-**Internal Constraint**: In relation to a Facility, an event that is not
+### **Internal Constraint**: In relation to a Facility, an event that is not
 an External Constraint and which adversely impacts the sent out capacity
 of the Facility.
 
-**Interruptible Load**: A Facility relating to one or more
+### **Interruptible Load**: A Facility relating to one or more
 Non-Dispatchable Loads, where consumption can be curtailed automatically
 in response to a change in system frequency, and registered as such in
 accordance with clause 2.29.5.
 
-**Interval Meter Deadline**: The date determined in accordance with
+### **Interval Meter Deadline**: The date determined in accordance with
 clause 9.3.1(a).
 
-**Intervention Constraint**: A Constraint Equation used to implement a
+### **Intervention Constraint**: A Constraint Equation used to implement a
 direction in the Dispatch Algorithm pursuant to an AEMO Intervention
 Event.
 
-**Intervention Dispatch Interval**: A Dispatch Interval declared by AEMO
+### **Intervention Dispatch Interval**: A Dispatch Interval declared by AEMO
 to be an Intervention Dispatch Interval in accordance with clauses
 7.11A.1 or 7.11C.10.
 
-**Invoice**: An invoice requesting payment for transactions under these
+### **Invoice**: An invoice requesting payment for transactions under these
 WEM Rules issued under Chapter 9. An Invoice may relate to Settlement
 Statements or adjusted Settlement Statements as the case may be.
 
-**Invoicing Date**: The Business Day, determined in accordance with
+### **Invoicing Date**: The Business Day, determined in accordance with
 clause 9.3.1(c), on which AEMO releases Invoices for original Settlement
 Statements for a Trading Week and each Business Day, determined in
 accordance with clause 9.3.1(h), on which AEMO releases Invoices for
 adjusted Settlement Statements for the Adjustment Process for that
 Trading Week, respectively.
 
-**Irregular Price Offer**: A price described in clauses 2.16C.6(c) or
+### **Irregular Price Offer**: A price described in clauses 2.16C.6(c) or
 2.16C.6(d).
 
-**Island**: Means a part of the SWIS that includes interconnected Energy
+### **Island**: Means a part of the SWIS that includes interconnected Energy
 Producing Systems (or other energy sources and loads), for which all of
 the connection points with the SWIS have been disconnected, provided
 that the part:
@@ -1781,10 +1781,10 @@ Standards within the part of the SWIS that has been disconnected,
 
 but does not include an Embedded System or Disconnected Microgrid.
 
-**Island Separation Frequency Band**: Has the meaning given in clause
+### **Island Separation Frequency Band**: Has the meaning given in clause
 3B.2.4.
 
-**Key Project Dates**: Means the dates most recently provided to AEMO
+### **Key Project Dates**: Means the dates most recently provided to AEMO
 under clause 4.10.1(c)(iii) or in reports provided under clause 4.27.10,
 clause 3.15A.40 or clause 3.15A.42.
 
@@ -1806,32 +1806,32 @@ are not restrictive in how the requirements are set.</p></th>
 </tbody>
 </table>
 
-**Largest Credible Load Contingency**: Means the highest magnitude
+### **Largest Credible Load Contingency**: Means the highest magnitude
 possible MW change resulting in an increase in SWIS frequency that could
 occur in a Dispatch Interval or Pre-Dispatch Interval due to a single
 Credible Contingency Event based on the output of the Dispatch
 Algorithm.
 
-**Largest Credible Supply Contingency**: Means the maximum possible net
+### **Largest Credible Supply Contingency**: Means the maximum possible net
 MW change resulting in a decrease in SWIS frequency that could occur in
 a Dispatch Interval or Pre-Dispatch Interval due to a single Credible
 Contingency Event based on the output of the Dispatch Algorithm,
 accounting for any associated change in overall demand as a result of
 the same Credible Contingency Event.
 
-**Largest Network Risk**: Means, for a Dispatch Interval, the maximum MW
+### **Largest Network Risk**: Means, for a Dispatch Interval, the maximum MW
 value across all Network Risks.
 
-**Last Correct Dispatch Interval**: Means the most recent Dispatch
+### **Last Correct Dispatch Interval**: Means the most recent Dispatch
 Interval preceding the Affected Dispatch Interval that is not itself an
 Affected Dispatch Interval.
 
-**Liquid Fuel**: Means distillate, fuel oil, liquid petroleum gas, or
+### **Liquid Fuel**: Means distillate, fuel oil, liquid petroleum gas, or
 liquefied natural gas.
 
-**Limit Advice**: Has the meaning given in clause 2.27A.2.
+### **Limit Advice**: Has the meaning given in clause 2.27A.2.
 
-**Limit Advice Inputs:** Information used in the development of Limit
+### **Limit Advice Inputs:** Information used in the development of Limit
 Advice including:
 
 \(a\) the rating for each transmission system element or equipment
@@ -1841,15 +1841,15 @@ part of the secure operation of the transmission system or the SWIS; and
 
 \(b\) the Limit Margin forming part of each Limit Equation.
 
-**Limit Equation**: Means a mathematical expression defining the power
+### **Limit Equation**: Means a mathematical expression defining the power
 transfer capability across a particular Network element or group of
 Network elements.
 
-**Limit Margin**: A margin applied by a Network Operator when
+### **Limit Margin**: A margin applied by a Network Operator when
 formulating a Limit Equation, or a Network Limit where a Limit Equation
 is not appropriate, to account for uncertainty.
 
-**Linearly Derating Capacity**: The maximum capacity, in MW, of an
+### **Linearly Derating Capacity**: The maximum capacity, in MW, of an
 Electric Storage Resource that can be guaranteed to be available over
 the Electric Storage Resource Obligation Duration, being the minimum of:
 
@@ -1874,109 +1874,109 @@ taxonomy.</p></th>
 </tbody>
 </table>
 
-**Load**: One or more electricity consuming resources or devices, other
+### **Load**: One or more electricity consuming resources or devices, other
 than Electric Storage Resources, located behind a single network
 connection point or electrically connected behind two or more shared
 network connection points.
 
-**Load Following Service**: Has the meaning given in clause 3.9.1.
+### **Load Following Service**: Has the meaning given in clause 3.9.1.
 
-**Load Forecast**: An expectation of the demand levels in the SWIS or in
+### **Load Forecast**: An expectation of the demand levels in the SWIS or in
 a region of the SWIS in future Trading Intervals.
 
-**Load Relief**: The expected change in load in response to a change in
+### **Load Relief**: The expected change in load in response to a change in
 power system frequency.
 
-**Local Black Start Procedures**: The procedures developed by a Market
+### **Local Black Start Procedures**: The procedures developed by a Market
 Participant under clause 3.7.13 in accordance with the guidelines
 published by AEMO under clause 3.7.12.
 
-**Long Term PASA**: A PASA study conducted in accordance with clause 4.5
+### **Long Term PASA**: A PASA study conducted in accordance with clause 4.5
 in order to determine the Reserve Capacity Target for each year in the
 Long Term PASA Study Horizon and prepare the Statement of Opportunities
 Report for a Reserve Capacity Cycle.
 
-**Long Term PASA Study Horizon**: The ten year period commencing on 1
+### **Long Term PASA Study Horizon**: The ten year period commencing on 1
 October of Year 1 of a Reserve Capacity Cycle.
 
-**Loss Factor**: Means a factor representing network losses between any
+### **Loss Factor**: Means a factor representing network losses between any
 given node and the Reference Node where the Loss Factor at the Reference
 Node is 1, expressed as the product of a Transmission Loss Factor and a
 Distribution Loss Factor and determined in accordance with clause
 2.27.5.
 
-**Loss Factor adjusted**: In respect of a quantity of electricity, means
+### **Loss Factor adjusted**: In respect of a quantity of electricity, means
 that quantity multiplied by any applicable Loss Factor.
 
-**Loss Factor Adjusted Price**: Means, in respect of any price, that
+### **Loss Factor Adjusted Price**: Means, in respect of any price, that
 price divided by any applicable Loss Factor for the relevant Facility.
 
-**Loss Factor Class:** A Transmission Loss Factor Class or a
+### **Loss Factor Class:** A Transmission Loss Factor Class or a
 Distribution Loss Factor Class.
 
-**Low Breakpoint:** Means, for a Facility providing a Frequency
+### **Low Breakpoint:** Means, for a Facility providing a Frequency
 Co-optimised Essential System Service, the MW energy dispatch level
 below which the Facility cannot provide the maximum quantity of that
 Frequency Co-optimised Essential System Service which it is capable of
 providing.
 
-**Low Reserve Condition**: Means each of the conditions of the power
+### **Low Reserve Condition**: Means each of the conditions of the power
 system described in clause 3.17.1(a) to 3.17.1(c) which may result in a
 Low Reserve Condition Declaration.
 
-**Low Reserve Condition Declaration**: Has the meaning given to that
+### **Low Reserve Condition Declaration**: Has the meaning given to that
 term in clause 3.17.1.
 
-**Low Reserve Condition Report**: Means a report published by AEMO
+### **Low Reserve Condition Report**: Means a report published by AEMO
 pursuant to clause 3.17.2 in respect of Low Reserve Condition
 Declarations.
 
-**MAC Secretariat**: The services, facilities and assistance made
+### **MAC Secretariat**: The services, facilities and assistance made
 available by the Coordinator to the Market Advisory Committee.
 
-**Mandatory Routine Maintenance**: Means Outage Facility Maintenance of
+### **Mandatory Routine Maintenance**: Means Outage Facility Maintenance of
 a routine nature that must be undertaken by a specific point in time, or
 by the time that a specific measure of usage is reached, as required by
 applicable legislation or in accordance with the Outage Facility’s asset
 management plan.
 
-**Margin Call**: The amount determined in accordance with clause 2.42.3.
+### **Margin Call**: The amount determined in accordance with clause 2.42.3.
 
-**Margin Call Notice**: A notification by AEMO to a Market Participant
+### **Margin Call Notice**: A notification by AEMO to a Market Participant
 that the Market Participant’s Trading Margin is less than zero, and
 requiring the payment of a Margin Call.
 
-**Market Advisory**: Has the meaning given in clause 7.11.1.
+### **Market Advisory**: Has the meaning given in clause 7.11.1.
 
-**Market Advisory Committee**: An advisory body to the Coordinator,
+### **Market Advisory Committee**: An advisory body to the Coordinator,
 Economic Regulation Authority and AEMO comprising industry
 representatives established under clause 2.3.1.
 
-**Market Auditor:** An auditor appointed by AEMO under clause 2.14.1.
+### **Market Auditor:** An auditor appointed by AEMO under clause 2.14.1.
 
-**Market Clearing Price**: The price for a Market Service in a Dispatch
+### **Market Clearing Price**: The price for a Market Service in a Dispatch
 Interval as determined in accordance with section 7.11B.
 
-**Market Fees**: The fee rates and other fees payable by Rule
+### **Market Fees**: The fee rates and other fees payable by Rule
 Participants to AEMO as determined by AEMO in accordance with section
 2.24 and, for Market Participant Market Fees, Market Participant
 Coordinator Fees and Market Participant Regulator Fees, as calculated
 for each Market Participant in accordance with section 9.12.
 
-**Market Information**: Any information or document that is required to
+### **Market Information**: Any information or document that is required to
 be produced, provided or exchanged under these WEM Rules or a WEM
 Procedure.
 
-**Market Participant**: A Rule Participant that is registered in
+### **Market Participant**: A Rule Participant that is registered in
 accordance with section 2.28.
 
-**Market Participant Coordinator Fees**: The fees, the rates of which
+### **Market Participant Coordinator Fees**: The fees, the rates of which
 are determined by AEMO in accordance with section 2.24, and calculated
 as payable by Market Participants in accordance with clause 9.12.4A to
 AEMO for the services provided by the Coordinator in undertaking her or
 his functions under these WEM Rules and the WEM Regulations.
 
-**Market Participant Market Fees:** The fees payable by Market
+### **Market Participant Market Fees:** The fees payable by Market
 Participants to AEMO the rate of which is determined by AEMO in
 accordance with section 2.24, and as calculated for each Market
 Participant in accordance with clause 9.12.3.
@@ -2007,52 +2007,52 @@ other things, delete the reference to the RCP.</p></th>
 </tbody>
 </table>
 
-**Market Participant Regulator Fees**: The fees, the rates of which are
+### **Market Participant Regulator Fees**: The fees, the rates of which are
 determined by AEMO in accordance with section 2.24, and calculated as
 payable by Market Participants in accordance with clause 9.12.4 to AEMO
 for the services provided by the Economic Regulation Authority in
 undertaking its Wholesale Electricity Market related functions and other
 functions under these WEM Rules.
 
-**Market Price Limits**: The set of price limits comprising the Energy
+### **Market Price Limits**: The set of price limits comprising the Energy
 Offer Price Ceiling, the Energy Offer Price Floor, the Contingency
 Reserve Raise Offer Price Ceiling, the Contingency Reserve Lower Offer
 Price Ceiling, the RoCoF Control Service Offer Price Ceiling, the
 Regulation Raise Offer Price Ceiling and the Regulation Lower Offer
 Price Ceiling.
 
-**Market Schedule**: A Dispatch Schedule, Pre-Dispatch Schedule or
+### **Market Schedule**: A Dispatch Schedule, Pre-Dispatch Schedule or
 Week-Ahead Schedule.
 
-**Market Service**: Energy or any of the Frequency Co-optimised
+### **Market Service**: Energy or any of the Frequency Co-optimised
 Essential System Services.
 
-**Market Surveillance Data Catalogue**: The catalogue developed by AEMO
+### **Market Surveillance Data Catalogue**: The catalogue developed by AEMO
 under clause 2.16.2.
 
-**Material Constrained Portfolio**: Has the meaning given in clause
+### **Material Constrained Portfolio**: Has the meaning given in clause
 2.16C.2(b).
 
-**Material Portfolio**: Has the meaning given in clause 2.16C.1(b).
+### **Material Portfolio**: Has the meaning given in clause 2.16C.1(b).
 
-**Maximum Capability**: Means, the Facility’s MW energy dispatch
+### **Maximum Capability**: Means, the Facility’s MW energy dispatch
 capability between the Low Breakpoint and the High Breakpoint.
 
-**Maximum Consumption Capability**: For a Market Participant, the
+### **Maximum Consumption Capability**: For a Market Participant, the
 maximum cumulative MWh quantity that the Market Participant is permitted
 to include in a Portfolio Demand Curve for a Trading Interval,
 determined in accordance with clause 6.3A.3(f).
 
-**Maximum Contingency Reserve Block Size**: The largest quantity of
+### **Maximum Contingency Reserve Block Size**: The largest quantity of
 Contingency Reserve that may be offered by a relevant Registered
 Facility at one price, as set by AEMO in a WEM Procedure.
 
-**Maximum Downwards Ramp Rate**: The Market Participant’s best estimate,
+### **Maximum Downwards Ramp Rate**: The Market Participant’s best estimate,
 in MW per minute, on a linear basis, of a Facility’s physical ability to
 decrease the magnitude of Injection or increase the magnitude of
 Withdrawal on the receipt of a Dispatch Instruction.
 
-**Maximum Facility Refund**: The total amount of the Capacity Credit
+### **Maximum Facility Refund**: The total amount of the Capacity Credit
 payments paid or to be paid under these WEM Rules to a Market
 Participant in relation to a Facility and in relation to a Capacity Year
 assuming that:
@@ -2063,7 +2063,7 @@ Participant in relation to its Facility; and
 \(b\) the cost of each Capacity Credit so acquired is determined in
 accordance with clause 4.28.2(d).
 
-**Maximum Facility Supply Capability**: The MWh contribution of a
+### **Maximum Facility Supply Capability**: The MWh contribution of a
 Scheduled Facility, Semi-Scheduled Facility or Non-Scheduled Facility
 over a Dispatch Interval or Trading Interval to the Maximum Supply
 Capability of a Market Participant, determined in accordance with
@@ -2085,7 +2085,7 @@ to clarify which Facilities are included in the calculation.</p></th>
 </tbody>
 </table>
 
-**Maximum Participant Generation Refund**: The total amount of the
+### **Maximum Participant Generation Refund**: The total amount of the
 Capacity Credit payments paid or to be paid under these WEM Rules to a
 Market Participant in relation to its Facilities (other than Facilities
 with a Facility Class or indicative Facility Class of Demand Side
@@ -2097,34 +2097,34 @@ Participant in relation to those Facilities; and
 \(b\) the cost of each Capacity Credit so acquired is determined in
 accordance with clause 4.28.2(d).
 
-**Maximum Supply Capability**: For a Market Participant is, the maximum
+### **Maximum Supply Capability**: For a Market Participant is, the maximum
 cumulative MWh quantity that the Market Participant is permitted to
 include in a Portfolio Supply Curve for a Trading Interval, determined
 as calculated in accordance with clause 6.3A.3(e).
 
-**Maximum Upwards Ramp Rate**: The Market Participant’s best estimate,
+### **Maximum Upwards Ramp Rate**: The Market Participant’s best estimate,
 in MW per minute, on a linear basis, of a Facility’s physical ability to
 increase the magnitude of Injection or decrease the magnitude of
 Withdrawal on the receipt of a Dispatch Instruction.
 
-**Medium Term PASA**: A PASA covering the period in clause 3.16.1(a).
+### **Medium Term PASA**: A PASA covering the period in clause 3.16.1(a).
 
-**Meter Data Submission**: A submission of meter data by a Metering Data
+### **Meter Data Submission**: A submission of meter data by a Metering Data
 Agent to AEMO in accordance with clause 8.4.
 
-**Meter Dispute**: Has the meaning given in clause 8.6.1(e).
+### **Meter Dispute**: Has the meaning given in clause 8.6.1(e).
 
-**Meter Registry**: A registry maintained by a Metering Data Agent
+### **Meter Registry**: A registry maintained by a Metering Data Agent
 containing information about meters and the persons with which those
 meters are associated including the information listed in clause 8.3.1.
 
-**Metered Schedule**: Has the meaning given in clause 9.5.2 and clause
+### **Metered Schedule**: Has the meaning given in clause 9.5.2 and clause
 9.5.3, as the case may be.
 
-**Metering Data Agent**: The person identified under clause 8.1.2 or
+### **Metering Data Agent**: The person identified under clause 8.1.2 or
 clause 8.1.4.
 
-**Metering Protocol**: A combination of the Metering Data Rules as
+### **Metering Protocol**: A combination of the Metering Data Rules as
 specified by the Economic Regulation Authority and a Network Operator’s
 metering requirements as a condition of access. The metering requirement
 means in the context of a “covered network” (as that term is defined in
@@ -2136,7 +2136,7 @@ commercial arrangement for metering energy.
 The definition of the Metering Protocol is subject to finalisation of
 the Metering Rules arrangements.
 
-**Minimum Capacity Credits Quantity**: The minimum quantity of Capacity
+### **Minimum Capacity Credits Quantity**: The minimum quantity of Capacity
 Credits a Market Participant requires to be assigned to a Facility or
 upgrade to the Facility for a Reserve Capacity Cycle for the Facility or
 upgrade to the Facility to participate in the Reserve Capacity Cycle.
@@ -2159,19 +2159,19 @@ section 2.29, not the Standing Data update processes in section
 </tbody>
 </table>
 
-**Minimum Consumption:** For an Associated Load means the amount
+### **Minimum Consumption:** For an Associated Load means the amount
 specified under clause 2.29.5B(c) as the amount below which the
 Associated Load does not wish to be curtailed in the course of
 dispatching the Demand Side Programme.
 
-**Minimum Frequency Keeping Capacity**: Has the meaning given in clause
+### **Minimum Frequency Keeping Capacity**: Has the meaning given in clause
 3.10.1(a).
 
-**Minimum Generator Performance Standard**: Means the minimum generator
+### **Minimum Generator Performance Standard**: Means the minimum generator
 performance standard in respect of a Technical Requirement as specified
 in Appendix 12.
 
-**Minimum RoCoF Control Requirement**: Is:
+### **Minimum RoCoF Control Requirement**: Is:
 
 \(a\) the smallest quantity of scheduled or dispatched RoCoF Control
 Service in a Dispatch Interval or a Pre-Dispatch Interval that is
@@ -2182,35 +2182,35 @@ Frequency Operating Standards; and
 with the Frequency Operating Standards without explicit enablement of
 RoCoF Control Service.
 
-**Minimum Transaction Cost**: Means the dollar amount published by AEMO
+### **Minimum Transaction Cost**: Means the dollar amount published by AEMO
 in accordance with clause 9.18.4(b).
 
-**Minister**: The Minister responsible for administering the Electricity
+### **Minister**: The Minister responsible for administering the Electricity
 Industry Act.
 
-**Multiple Contingency Event**: Means, in relation to the SWIS Frequency
+### **Multiple Contingency Event**: Means, in relation to the SWIS Frequency
 Operating Standards, when an additional Contingency Event occurs before
 the SWIS Frequency has been able to Recover from the previous
 Contingency Event.
 
-**MW**: Means megawatt.
+### **MW**: Means megawatt.
 
-**MWh**: Means megawatt-hour.
+### **MWh**: Means megawatt-hour.
 
-**MWs**: Means megawatt-second.
+### **MWs**: Means megawatt-second.
 
-**National Electricity Rules**: The rules so named having effect under
+### **National Electricity Rules**: The rules so named having effect under
 the National Electricity Law as that law applies in Western Australia.
 
-**NCESS**: See Non-Co-optimised Essential System Service.
+### **NCESS**: See Non-Co-optimised Essential System Service.
 
-**NCESS Contract**: A contract procured by AEMO or a Network Operator
+### **NCESS Contract**: A contract procured by AEMO or a Network Operator
 for the provision of an NCESS.
 
-**NCESS Service Specification**: A service specification prepared by
+### **NCESS Service Specification**: A service specification prepared by
 AEMO or a Network Operator in accordance with clause 3.11B.5.
 
-**NCESS Submission**: A submission in accordance with clause 3.11B.8.
+### **NCESS Submission**: A submission in accordance with clause 3.11B.8.
 
 <table>
 <colgroup>
@@ -2230,45 +2230,45 @@ included in the Constraint Equation.</p></th>
 </tbody>
 </table>
 
-**Near Binding Constraint Equation**: For a Constraint Equation used in
+### **Near Binding Constraint Equation**: For a Constraint Equation used in
 the Central Dispatch Process, where the absolute value of difference
 between the value of the left hand side and the value of the right hand
 side of the Constraint Equation is less than 20 times the absolute value
 of the largest coefficient on the left hand side of the Constraint
 Equation.
 
-**Negotiated Generator Performance Standard**: Means a standard or
+### **Negotiated Generator Performance Standard**: Means a standard or
 technical level of performance in respect of a Technical Requirement
 that represents a variation from the Ideal Generator Performance
 Standard but is no less than the Minimum Generator Performance Standard
 that has been approved and registered in accordance with the process in
 Chapter 3A.
 
-**Negotiation Criteria**: Means the criteria that must be met in respect
+### **Negotiation Criteria**: Means the criteria that must be met in respect
 of each Technical Requirement as specified in Appendix 12 if a Market
 Participant submits a Proposed Negotiated Generator Performance
 Standard.
 
-**Net Bilateral Position**: Means in relation to a Market Participant,
+### **Net Bilateral Position**: Means in relation to a Market Participant,
 the amount calculated under clause 6.9.2.
 
-**Net Contract Position**: In respect of a Market Participant for a
+### **Net Contract Position**: In respect of a Market Participant for a
 Trading Interval is calculated in accordance with clause 6.9.13.
 
-**Net STEM Refund:** Has the meaning given in clause 4.26.3.
+### **Net STEM Refund:** Has the meaning given in clause 4.26.3.
 
-**Net STEM Shortfall:** Has the meaning given in clause 4.26.2AA.
+### **Net STEM Shortfall:** Has the meaning given in clause 4.26.2AA.
 
-**Net Trading Quantity**: In respect of a Trading Interval and for a
+### **Net Trading Quantity**: In respect of a Trading Interval and for a
 Market Participant has the meaning given in clause 9.9.5.
 
-**Network**: A transmission system or distribution system registered as
+### **Network**: A transmission system or distribution system registered as
 a Network under clause 2.29.3.
 
-**Network Access Quantity**: The quantity, in MW, that is determined for
+### **Network Access Quantity**: The quantity, in MW, that is determined for
 a Facility pursuant to clause 4.15.1.
 
-**Network Access Quantity Model**: A model to be developed and
+### **Network Access Quantity Model**: A model to be developed and
 maintained by AEMO pursuant to clause 4.15.6 and to be used by AEMO for
 determining Network Access Quantities for Facilities in accordance with
 the processes in Appendix 3.
@@ -2291,7 +2291,7 @@ Quantities, can be adjusted in each step of the process.</p></th>
 </tbody>
 </table>
 
-**Network Access Quantity Model Inputs**: Means, in respect of the
+### **Network Access Quantity Model Inputs**: Means, in respect of the
 relevant Reserve Capacity Cycle:
 
 \(a\) the preliminary Network Access Quantity determined by AEMO for a
@@ -2323,7 +2323,7 @@ Facility).</p></th>
 </tbody>
 </table>
 
-**Network Augmentation Funding Facility**: For a Reserve Capacity Cycle,
+### **Network Augmentation Funding Facility**: For a Reserve Capacity Cycle,
 a Facility or upgrade to a Facility that a Market Participant has
 nominated to be classified as a Network Augmentation Funding Facility
 for the Reserve Capacity Cycle in an application for certification of
@@ -2331,58 +2331,58 @@ Reserve Capacity under clause 4.10.1(m), and which AEMO has classified
 as a Network Augmentation Funding Facility for the Reserve Capacity
 Cycle.
 
-**Network Augmentation Works:** Means any wires, apparatus, equipment,
+### **Network Augmentation Works:** Means any wires, apparatus, equipment,
 plant or buildings used, or to be used, for, or in connection with, or
 to control, the transfer of electricity that directly results in an
 increase in the capacity of a part of the transmission system or
 distribution system.
 
-**Network Constraint**: A limitation or requirement in a part of a
+### **Network Constraint**: A limitation or requirement in a part of a
 Network that may impact one or more Registered Facilities in the Central
 Dispatch Process, such that it would be unacceptable to transfer
 electricity across that part of the Network at a level or in a manner
 outside the limit or requirement.
 
-**Network Contingency:** Means a Credible Contingency Event associated
+### **Network Contingency:** Means a Credible Contingency Event associated
 with the unexpected disconnection of one or more major items of Network
 equipment, but excludes from that meaning the loss of output from a
 Facility arising as a result of failure of generating equipment at the
 Facility or the loss of the network connection point associated with the
 Facility.
 
-**Network Limit**: A limitation or requirement affecting the capability
+### **Network Limit**: A limitation or requirement affecting the capability
 to transfer power in a part of a Network, such that it would be
 unacceptable to transfer electricity across that part of the Network at
 a level or in a manner outside the limit or requirement.
 
-**Network Operator**: A person who registers as a Network Operator, in
+### **Network Operator**: A person who registers as a Network Operator, in
 accordance with clauses 2.28.2, 2.28.3 or 2.28.4.
 
-**Network Opportunity Map**: Has the meaning given in Chapter 6A of the
+### **Network Opportunity Map**: Has the meaning given in Chapter 6A of the
 Access Code.
 
-**Network Quality and Reliability of Supply Code**: The *Electricity
+### **Network Quality and Reliability of Supply Code**: The *Electricity
 Industry (Network Quality and Reliability of Supply) Code 2005*.
 
-**Network Risk**: Means, for a Network Contingency in a Dispatch
+### **Network Risk**: Means, for a Network Contingency in a Dispatch
 Interval, the sum in MW of the Facility Risks for any Registered
 Facilities less the forecast consumption of any relevant Loads that are
 connected to the part of the Network affected by that Network
 Contingency, and that would lose the ability to Inject or Withdraw from
 the Network as a result of that Network Contingency.
 
-**New Facility Load for Scheduled Generation**: Means, for a new or
+### **New Facility Load for Scheduled Generation**: Means, for a new or
 upgraded Facility that has applied to be assigned Certified Reserve
 Capacity under clause 4.11.2(b), the MWh quantity determined for a
 Trading Interval under step 11 of the Relevant Level Methodology for
 that Facility and the relevant Reserve Capacity Cycle.
 
-**New Information**: Has the meaning given in clause 2.29.5LA.
+### **New Information**: Has the meaning given in clause 2.29.5LA.
 
-**New RCM Transition Date**: The date on which AEMO publishes the
+### **New RCM Transition Date**: The date on which AEMO publishes the
 timetable referred to in section 1.36A.
 
-**New WEM Commencement Day**: The date and time specified by the
+### **New WEM Commencement Day**: The date and time specified by the
 Minister as the New WEM Commencement Day, as published in the Government
 Gazette.
 
@@ -2402,19 +2402,19 @@ continuous 12-month period.</p></th>
 </tbody>
 </table>
 
-**Nominated Excess Capacity**: In respect of a Facility containing an
+### **Nominated Excess Capacity**: In respect of a Facility containing an
 Intermittent Load, the maximum quantity of Injection (in MW) that the
 Market Participant intends the Facility to make in any Dispatch
 Interval, which must not be exceeded in more than 120 Dispatch Intervals
 within any continuous 12-month period.
 
-**Non-Business Day**: A day that is a Saturday, Sunday, or a public
+### **Non-Business Day**: A day that is a Saturday, Sunday, or a public
 holiday throughout Western Australia.
 
-**Non-Co-optimised Essential System Service**: An Essential System
+### **Non-Co-optimised Essential System Service**: An Essential System
 Service procured under section 3.11B.
 
-**Non-Credible Contingency Event**: Has the meaning given in clause
+### **Non-Credible Contingency Event**: Has the meaning given in clause
 3.8A.3.
 
 <table>
@@ -2432,17 +2432,17 @@ new registration taxonomy.</p></th>
 </tbody>
 </table>
 
-**Non-Dispatchable Load**: A Facility of the type defined in clause
+### **Non-Dispatchable Load**: A Facility of the type defined in clause
 2.29.1B(c) which is not a Registered Facility and that may be associated
 with a Demand Side Programme or an Interruptible Load.
 
-**Non-Intermittent Generating System**: A generation system which is not
+### **Non-Intermittent Generating System**: A generation system which is not
 an Intermittent Generating System, including, without limitation,
 thermal generators fuelled by coal, natural gas, or distillate.
 
-**Non-Liquid Fuel**: Means all fuels other than Liquid Fuel.
+### **Non-Liquid Fuel**: Means all fuels other than Liquid Fuel.
 
-**Non-Scheduled Facility**: A Facility that can be self-scheduled by its
+### **Non-Scheduled Facility**: A Facility that can be self-scheduled by its
 operator (with the exception that AEMO can direct it to decrease its
 output subject to its physical capabilities), and which is registered as
 such in accordance with clause 2.29.4G.
@@ -2462,16 +2462,16 @@ reflect the new registration taxonomy.</p></th>
 </tbody>
 </table>
 
-**Non-Temperature Dependent Load**: A Non-Dispatchable Load accepted by
+### **Non-Temperature Dependent Load**: A Non-Dispatchable Load accepted by
 AEMO as a Non-Temperature Dependent Load under clause 4.28.9.
 
-**Non-Thermal Network Limit**: Means a Network Limit that is not Thermal
+### **Non-Thermal Network Limit**: Means a Network Limit that is not Thermal
 Network Limit.
 
-**Normal Operating Frequency Band**: Has the meaning given in clause
+### **Normal Operating Frequency Band**: Has the meaning given in clause
 3B.2.1.
 
-**Normal Operating Frequency Excursion Band**: Has the meaning given in
+### **Normal Operating Frequency Excursion Band**: Has the meaning given in
 clause 3B.2.2.
 
 <table>
@@ -2508,49 +2508,49 @@ the shortfall in the Real-Time Market for a Facility.</p></th>
 </tbody>
 </table>
 
-**Not In-Service Capacity**: Means, for a Scheduled Facility or a
+### **Not In-Service Capacity**: Means, for a Scheduled Facility or a
 Semi-Scheduled Facility in a Dispatch Interval, the sent-out capacity,
 in MW, that was expected to be dispatched in the Reference Scenario of
 the relevant Market Schedule at the Start Decision Cutoff, but was not
 offered as In-Service Capacity, as calculated in clause 7.13A.1.
 
-**Not In-Service Capacity Refund Quantity**: The MW quantity of Not
+### **Not In-Service Capacity Refund Quantity**: The MW quantity of Not
 In-Service Capacity of a Scheduled Facility or Semi-Scheduled Facility
 that is subject to a capacity refund in a Trading Interval, calculated
 in accordance with clause 4.26.1D.
 
-**Notice of Disagreement**: A notice issued by a Rule Participant under
+### **Notice of Disagreement**: A notice issued by a Rule Participant under
 clause 9.16.1 to AEMO indicating a disagreement with a Settlement
 Statement.
 
-**Notice of Dispute**: A notice issued under clause 2.19.1 and
+### **Notice of Dispute**: A notice issued under clause 2.19.1 and
 containing the information described in clause 2.19.3.
 
-**Notice of Intention to Cancel Capacity Credits**: A notice issued by
+### **Notice of Intention to Cancel Capacity Credits**: A notice issued by
 AEMO under clause 4.20.8 and containing the information required under
 clause 4.20.9.
 
-**Notional Wholesale Meter**: A notional interval meter representing
+### **Notional Wholesale Meter**: A notional interval meter representing
 Non-Dispatchable Loads without interval meters that are served by
 Synergy.
 
-**Off-Peak Trading Interval**: A Trading Interval occurring between 10
+### **Off-Peak Trading Interval**: A Trading Interval occurring between 10
 PM and 8 AM.
 
-**Offending Rule Participant:** Is a Rule Participant liable for a
+### **Offending Rule Participant:** Is a Rule Participant liable for a
 Financial Penalty.
 
-**Offer Construction Guideline**: The guideline published by the
+### **Offer Construction Guideline**: The guideline published by the
 Economic Regulation Authority under clause 2.16D.1(a), which may be
 amended in accordance with clause 2.16D.2.
 
-**Operating Margin**: A margin applied by AEMO when formulating a
+### **Operating Margin**: A margin applied by AEMO when formulating a
 Constraint Equation to account for uncertainty.
 
-**Operating Protocol**: A protocol developed between AEMO and a Network
+### **Operating Protocol**: A protocol developed between AEMO and a Network
 Operator in accordance with section 3.1A.
 
-**Operating Zone**: A part or parts of the SWIS able to be practically
+### **Operating Zone**: A part or parts of the SWIS able to be practically
 monitored and incorporating elements that are likely to impact Power
 System Security or Power System Reliability.
 
@@ -2572,51 +2572,51 @@ reporting actual system demand values.</p></th>
 </tbody>
 </table>
 
-**Operational Demand**: For a Dispatch Interval, the total Injection, in
+### **Operational Demand**: For a Dispatch Interval, the total Injection, in
 MW, from all Scheduled Facilities, Semi-Scheduled Facilities and
 Non-Scheduled Facilities that are Injecting at the end of the Dispatch
 Interval.
 
-**Operational Demand Estimate**: For a point in time, AEMO’s estimate of
+### **Operational Demand Estimate**: For a point in time, AEMO’s estimate of
 the total Injection, in MW, from all Scheduled Facilities,
 Semi-Scheduled Facilities and Non-Scheduled Facilities that are
 Injecting at that time.
 
-**Operational Withdrawal**: For a Dispatch Interval, the total
+### **Operational Withdrawal**: For a Dispatch Interval, the total
 Withdrawal, in MW, from all Scheduled Facilities, Semi-Scheduled
 Facilities and Non-Scheduled Facilities (excluding Registered Facilities
 that are not required to specify Price-Quantity Pairs for Withdrawals
 under clause 7.4.46A) that are Withdrawing at the end of the Dispatch
 Interval.
 
-**Operational Withdrawal Estimate**: For a point in time, AEMO’s
+### **Operational Withdrawal Estimate**: For a point in time, AEMO’s
 estimate of the total Withdrawal, in MW, from all Scheduled Facilities,
 Semi-Scheduled Facilities and Non‑Scheduled Facilities (excluding
 Registered Facilities that are not required to specify Price-Quantity
 Pairs for Withdrawals under clause 7.4.46A) that are Withdrawing at that
 time.
 
-**Opportunistic Maintenance**: Means, an Outage Plan with an Outage
+### **Opportunistic Maintenance**: Means, an Outage Plan with an Outage
 Period of less than 24 hours submitted in accordance with clause
 3.18B.8(b)(ii).
 
-**Oscillation Control Constraint Equations**: Constraint Equations that
+### **Oscillation Control Constraint Equations**: Constraint Equations that
 provide for stability in the Dispatch Algorithm outputs where a
 significant change to the Dispatch Target or ESS Enablement Quantities
 of a Registered Facility would result in only a small change in the
 value of Real-Time Market trading described in clause 7.2.2.
 
-**Outage**: Has the meaning given in clause 3.18.3.
+### **Outage**: Has the meaning given in clause 3.18.3.
 
-**Outage Capability**: The capability of the Facility for which an
+### **Outage Capability**: The capability of the Facility for which an
 Outage occurs, which includes, but is not limited to, energy production,
 consumption, or transfer of energy, or the provision of any Essential
 System Service.
 
-**Outage Commencement Interval**: The Dispatch Interval specified in an
+### **Outage Commencement Interval**: The Dispatch Interval specified in an
 Outage Plan or revision in which the Outage is proposed to commence.
 
-**Outage Compensation**: Means the amount determined by AEMO as payable
+### **Outage Compensation**: Means the amount determined by AEMO as payable
 to a Market Participant in accordance with clause 3.18H.5.
 
 <table>
@@ -2635,24 +2635,24 @@ improve clarity in subsequent clauses.</p></th>
 </tbody>
 </table>
 
-**Outage Completion Interval**: The Dispatch Interval specified in an
+### **Outage Completion Interval**: The Dispatch Interval specified in an
 Outage Plan or revision in which the Outage is proposed to be completed.
 
-**Outage Contingency Plan**: Part of an Outage Plan specifying
+### **Outage Contingency Plan**: Part of an Outage Plan specifying
 contingency plans for returning the relevant item of equipment to
 service before the end of the Outage Period.
 
-**Outage Evaluation**: The evaluation of an Outage Plan by AEMO in
+### **Outage Evaluation**: The evaluation of an Outage Plan by AEMO in
 accordance with clause 3.18E.5.
 
-**Outage Evaluation Criteria**: The criteria AEMO is required to
+### **Outage Evaluation Criteria**: The criteria AEMO is required to
 consider in undertaking an Outage Evaluation as set out in clause
 3.18E.8.
 
-**Outage Facility**: An Equipment List Facility or a Self-scheduling
+### **Outage Facility**: An Equipment List Facility or a Self-scheduling
 Outage Facility.
 
-**Outage Facility Maintenance**: Means an Outage for the purpose of:
+### **Outage Facility Maintenance**: Means an Outage for the purpose of:
 
 \(a\) an upgrade of Outage Facility equipment; or
 
@@ -2661,7 +2661,7 @@ not limited to preventative maintenance, corrective maintenance, plant
 inspections and tests, that would reasonably be required in accordance
 with good electricity industry practice.
 
-**Outage Intention Plan**: Means the outline of Outages a Market
+### **Outage Intention Plan**: Means the outline of Outages a Market
 Participant or Network Operator expects to occur in a calendar year
 submitted to AEMO annually in accordance with section 3.19.
 
@@ -2681,22 +2681,22 @@ Commencement Interval and Outage Completion Interval.</p></th>
 </tbody>
 </table>
 
-**Outage Period**: In respect of an Outage Plan, the period of time
+### **Outage Period**: In respect of an Outage Plan, the period of time
 between the start of the Outage Commencement Interval and the end of the
 Outage Completion Interval.
 
-**Outage Plan**: Has the meaning given in clause 3.18B.1 as may be
+### **Outage Plan**: Has the meaning given in clause 3.18B.1 as may be
 revised in accordance with clause 3.18D.1.
 
-**Outage Plan First Submission Date**: The date on which an Outage Plan
+### **Outage Plan First Submission Date**: The date on which an Outage Plan
 is first submitted to AEMO.
 
-**Outage Quantity**: The quantity, in MW, of the derating of a
+### **Outage Quantity**: The quantity, in MW, of the derating of a
 Separately Certified Component in a Dispatch Interval as a result of a
 Planned Outage or Forced Outage for energy, determined in accordance
 with clause 3.21.6.
 
-**Outage Recall Direction**: Means a direction given by AEMO to a Market
+### **Outage Recall Direction**: Means a direction given by AEMO to a Market
 Participant or Network Operator to return an Outage Facility to service
 from a Planned Outage in accordance with the Outage Contingency Plan, or
 take other measures contained in the relevant Outage Contingency Plan in
@@ -2724,22 +2724,22 @@ returned to service at different times throughout its duration:</p>
 </tbody>
 </table>
 
-**Outage Return To Service Commencement Interval**: The first Dispatch
+### **Outage Return To Service Commencement Interval**: The first Dispatch
 Interval in an Outage Return To Service Period.
 
-**Outage Return To Service Completion Interval**: The last Dispatch
+### **Outage Return To Service Completion Interval**: The last Dispatch
 Interval in an Outage Return To Service Period.
 
-**Outage Return To Service Period**: A period of time within the Outage
+### **Outage Return To Service Period**: A period of time within the Outage
 Period of an Outage Plan, during which the relevant Outage Capability is
 intended to be returned to service, which starts at the start of its
 Outage Return To Service Commencement Interval and ends at the end of
 its Outage Return To Service Completion Interval.
 
-**Outstanding Amount**: The amount calculated in accordance with clause
+### **Outstanding Amount**: The amount calculated in accordance with clause
 2.40.1.
 
-**Panel Regulations**: Means the *Energy Industry (Rule Change Panel)
+### **Panel Regulations**: Means the *Energy Industry (Rule Change Panel)
 Regulations 2016*.
 
 <table>
@@ -2757,94 +2757,94 @@ registration taxonomy.</p></th>
 </tbody>
 </table>
 
-**Parasitic Load**: A Load where consumption is auxiliary to the
+### **Parasitic Load**: A Load where consumption is auxiliary to the
 production of energy from an Energy Producing System.
 
-**Participant Capacity Rebate**: For a Market Participant holding
+### **Participant Capacity Rebate**: For a Market Participant holding
 Capacity Credits associated with a Scheduled Facility, Semi-Scheduled
 Facility or a Demand Side Programme, the rebate determined for a Trading
 Interval, as calculated in accordance with clause 4.26.4.
 
-**PASA**: See Projected Assessment of System Adequacy.
+### **PASA**: See Projected Assessment of System Adequacy.
 
-**Payment Default**: Any failure to make a payment in respect of an
+### **Payment Default**: Any failure to make a payment in respect of an
 Invoice in accordance with section 9.18 or clause 9.20.8 or pay any
 other amount owing under these WEM Rules by the time it is due.
 
-**Peak Trading Interval**: A Trading Interval occurring between 8 AM and
+### **Peak Trading Interval**: A Trading Interval occurring between 8 AM and
 10 PM.
 
-**Per-Dispatch Interval Availability Payment**: For a SESSM Award, the
+### **Per-Dispatch Interval Availability Payment**: For a SESSM Award, the
 SESSM Availability Payment divided by the number of Dispatch Intervals
 in the SESSM Award Duration for which the SESSM Availability Quantity is
 greater than zero.
 
-**Planned Outage**: An Outage Plan that has been approved by AEMO.
+### **Planned Outage**: An Outage Plan that has been approved by AEMO.
 
-**Planning Criterion**: Has the meaning given in clause 4.5.9.
+### **Planning Criterion**: Has the meaning given in clause 4.5.9.
 
-**Portfolio**: A set comprising one or more Scheduled Facilities,
+### **Portfolio**: A set comprising one or more Scheduled Facilities,
 Semi-Scheduled Facilities and Non-Scheduled Facilities identified by the
 Economic Regulation Authority in accordance with clause 2.16B.1(a).
 
-**Portfolio Demand Curve**: A curve describing the STEM Price at which a
+### **Portfolio Demand Curve**: A curve describing the STEM Price at which a
 Market Participant will purchase different levels of energy from the
 market having the form given in clause 6.6.2A(e).
 
-**Portfolio Supply Curve**: A curve describing the STEM Price at which a
+### **Portfolio Supply Curve**: A curve describing the STEM Price at which a
 Market Participant will provide the market with different levels of
 energy supply having the form given in clause 6.6.2A(d).
 
-**Potential Relevant Generator Modification**: Has the meaning given in
+### **Potential Relevant Generator Modification**: Has the meaning given in
 clause 3A.13.1.
 
-**Power System Adequacy**: Means the ability of the SWIS to supply all
+### **Power System Adequacy**: Means the ability of the SWIS to supply all
 demand at the time, allowing for Outages, taking into account the
 assessment methodologies and criteria in the WEM Procedure referred to
 in clause 3.3.2.
 
-**Power System Reliability**: Means the safe scheduling, operation and
+### **Power System Reliability**: Means the safe scheduling, operation and
 control of the SWIS in accordance with the Power System Reliability
 Principles.
 
-**Power System Reliability Principles**: Has the meaning given to that
+### **Power System Reliability Principles**: Has the meaning given to that
 term in clause 3.3.3.
 
-**Power System Security**: Means the safe scheduling, operation and
+### **Power System Security**: Means the safe scheduling, operation and
 control of the SWIS in accordance with the Power System Security
 Principles.
 
-**Power System Security Principles**: Has the meaning given to that term
+### **Power System Security Principles**: Has the meaning given to that term
 in clause 3.4.3.
 
-**Power System Stability:** Means when the SWIS will return to an
+### **Power System Stability:** Means when the SWIS will return to an
 acceptable steady-state operating condition following a disturbance.
 
-**Power System Stability Requirements:** Means, the requirements
+### **Power System Stability Requirements:** Means, the requirements
 identified to maintain Power System Stability, as determined by the
 processes specified in the WEM Procedure referred to in clause 3.2.7.
 
-**Power Transfer Capability**: Means the maximum permitted power
+### **Power Transfer Capability**: Means the maximum permitted power
 transfer through a transmission system or distribution system or part
 thereof.
 
-**Pre-Dispatch Interval**: A period of 30 minutes commencing on the hour
+### **Pre-Dispatch Interval**: A period of 30 minutes commencing on the hour
 or half hour during a Trading Day, and where identified by a time, the
 30 minute period starting at that time.
 
-**Pre-Dispatch Schedule**: Means a forecast of Market Clearing Prices,
+### **Pre-Dispatch Schedule**: Means a forecast of Market Clearing Prices,
 Dispatch Targets, Dispatch Caps, Dispatch Forecasts and Essential System
 Services Enablement Quantities for each Pre-Dispatch Interval in the
 Pre-Dispatch Schedule Horizon.
 
-**Pre-Dispatch Schedule Horizon**: The next 96 Pre-Dispatch Intervals
+### **Pre-Dispatch Schedule Horizon**: The next 96 Pre-Dispatch Intervals
 after a Pre-Dispatch Interval.
 
-**Preliminary RCM Constraint Equation:** Means a RCM Constraint Equation
+### **Preliminary RCM Constraint Equation:** Means a RCM Constraint Equation
 developed by AEMO pursuant to section 4.4B and published by AEMO in
 accordance with, and by the time specified in, clause 4.4B.6.
 
-**Price-Quantity Pair**: In the context of:
+### **Price-Quantity Pair**: In the context of:
 
 \(a\) Reserve Capacity Offers, Supply Portfolio Curves and STEM Offers,
 a quantity that will be provided to AEMO by a Market Participant for a
@@ -2867,118 +2867,118 @@ Reserve Lower, Regulation Raise and Regulation Lower; and
 
 iii\. in $ per MWs per hour for RoCoF Control Service.
 
-**Priority Project**: Has the meaning given in the Electricity Networks
+### **Priority Project**: Has the meaning given in the Electricity Networks
 Access Code.
 
-**Procedural Decision:** Has the meaning given in regulation 41(1) of
+### **Procedural Decision:** Has the meaning given in regulation 41(1) of
 the WEM Regulations.
 
-**Procedural Review:** Means a review by the Electricity Review Board of
+### **Procedural Review:** Means a review by the Electricity Review Board of
 a Procedural Decision in accordance with the WEM Regulations.
 
-**Procedure Amendment**: The specific wording of a proposed or accepted
+### **Procedure Amendment**: The specific wording of a proposed or accepted
 change to a WEM Procedure.
 
-**Procedure Change Process**: The process for amending a WEM Procedure
+### **Procedure Change Process**: The process for amending a WEM Procedure
 as set out in sections 2.10 and 2.11.
 
-**Procedure Change Proposal**: A proposal developed by the Coordinator,
+### **Procedure Change Proposal**: A proposal developed by the Coordinator,
 AEMO, the Economic Regulation Authority or a Network Operator to
 initiate a Procedure Change Process.
 
-**Procedure Change Report**: A final report prepared by the Coordinator,
+### **Procedure Change Report**: A final report prepared by the Coordinator,
 AEMO, the Economic Regulation Authority or a Network Operator in
 relation to a Procedure Change Proposal, containing the information
 described in clause 2.10.13.
 
-**Procedure Change Submission**: A submission made in relation to a
+### **Procedure Change Submission**: A submission made in relation to a
 Procedure Change Proposal submitted in accordance with clause 2.10.7.
 
-**Projected Assessment of System Adequacy (PASA)**: An assessment
+### **Projected Assessment of System Adequacy (PASA)**: An assessment
 undertaken by AEMO to assess future risks to Power System Security and
 Power System Reliability.
 
-**Proposed Generator Performance Standard**: Means a standard or
+### **Proposed Generator Performance Standard**: Means a standard or
 technical level of performance in respect of a Technical Requirement
 proposed to apply to a Transmission Connected Generating System that has
 not been approved and registered in accordance with the process in
 Chapter 3A.
 
-**Proposed Negotiated Generator Performance Standard**: Means a Proposed
+### **Proposed Negotiated Generator Performance Standard**: Means a Proposed
 Generator Performance Standard that is not an Ideal Generator
 Performance Standard but is no less than the Minimum Generator
 Performance Standard.
 
-**Protected Provision**: A chapter or clause of the WEM Rules,
+### **Protected Provision**: A chapter or clause of the WEM Rules,
 identified in clause 2.8.13.
 
-**Prudential Obligations**: In respect of a Rule Participant, the
+### **Prudential Obligations**: In respect of a Rule Participant, the
 obligations set out in clauses 2.37 to 2.43.
 
-**Public Information**: Market Information that is not confidential and
+### **Public Information**: Market Information that is not confidential and
 may be made available to any person.
 
-**Ramp Rate Limit**: Means the Market Participant’s best estimate, in MW
+### **Ramp Rate Limit**: Means the Market Participant’s best estimate, in MW
 per minute, on a linear basis, of a Facility’s physical ability to
 increase or decrease its output from the commencement of a Trading
 Interval, and includes a DSP Ramp Rate Limit.
 
-**RCM Constraint Equation:** Means a Constraint Equation developed by
+### **RCM Constraint Equation:** Means a Constraint Equation developed by
 AEMO in accordance with section 4.4B.
 
-**RCM Limit Advice:** Means Limit Advice for a Thermal Network Limit at
+### **RCM Limit Advice:** Means Limit Advice for a Thermal Network Limit at
 an ambient temperature of 41°C.
 
-**Ready Reserve Standard**: Has the meaning given in clause 3.18.11A.
+### **Ready Reserve Standard**: Has the meaning given in clause 3.18.11A.
 
-**Real-Time Market**: Means the mandatory gross pool market operated
+### **Real-Time Market**: Means the mandatory gross pool market operated
 under Chapter 7 that determines the dispatch and Essential System
 Service Enablement Quantity of Registered Facilities in each Dispatch
 Interval based on submitted prices and quantities.
 
-**Real-Time Market Bid**: A bid in a Real-Time Market Submission or
+### **Real-Time Market Bid**: A bid in a Real-Time Market Submission or
 Standing Real-Time Market Submission submitted by a Market Participant
 to AEMO for a Registered Facility to Withdraw energy via the Central
 Dispatch Process.
 
-**Real-Time Market Offer**: An offer in a Real-Time Market Submission or
+### **Real-Time Market Offer**: An offer in a Real-Time Market Submission or
 Standing Real-Time Market Submission submitted by a Market Participant
 to AEMO for a Registered Facility to supply a Market Service via the
 Central Dispatch Process.
 
-**Real-Time Market Offer Shortfall**: Has the meaning given in clause
+### **Real-Time Market Offer Shortfall**: Has the meaning given in clause
 4.26.1G.
 
-**Real-Time Market Reserve Capacity Deficit**: Has the meaning given in
+### **Real-Time Market Reserve Capacity Deficit**: Has the meaning given in
 clause 4.26.1B.
 
-**Real-Time Market Submission**: A notice submitted by a Market
+### **Real-Time Market Submission**: A notice submitted by a Market
 Participant to AEMO setting out the parameters under which it intends to
 have a Registered Facility participate in the Real-Time Market, in
 accordance with clauses 7.4.39, 7.4.40, 7.4.41, 7.4.42 and 7.4.44.
 
-**Real-Time Market Submission Acceptance Horizon**: The point in time
+### **Real-Time Market Submission Acceptance Horizon**: The point in time
 before a Dispatch Interval after which a Market Participant may submit
 Real-Time Market Submissions for a Registered Facility for that Dispatch
 Interval.
 
-**Real-Time Market Timetable**: The timetable documented by AEMO under
+### **Real-Time Market Timetable**: The timetable documented by AEMO under
 clause 7.1.2(a) for the operation of the Real-Time Market, which must
 include the timelines referred to in clause 7.1.3.
 
-**Reassessment Fee:** A fee determined by AEMO under clause 2.24.2.
+### **Reassessment Fee:** A fee determined by AEMO under clause 2.24.2.
 
-**Recover**: Means, in relation to SWIS Frequency Operating Standards,
+### **Recover**: Means, in relation to SWIS Frequency Operating Standards,
 the time at which the SWIS Frequency returns to the applicable Normal
 Operating Frequency Band, provided it does not go outside that range at
 any time over the following 1 minute.
 
-**Rectification Plan**: Means a plan submitted by a Market Participant
+### **Rectification Plan**: Means a plan submitted by a Market Participant
 responsible for a Transmission Connected Generating System in respect of
 a Transmission Connected Generating System, an alternative Rectification
 Plan proposed by AEMO or amended Rectification Plan under section 3A.11.
 
-**Reference Node**: Is:
+### **Reference Node**: Is:
 
 \(a\) up to the New WEM Commencement Day, the Muja 330 kV bus-bar; and
 
@@ -2988,13 +2988,13 @@ Plan proposed by AEMO or amended Rectification Plan under section 3A.11.
 (relative to which Loss Factors are defined and Constraint Equations are
 formulated).
 
-**Reference Scenario**: The Scenario that represents AEMO’s best
+### **Reference Scenario**: The Scenario that represents AEMO’s best
 estimate of future dispatch and market outcomes.
 
-**Reference Trading Price**: Means, for a Trading Interval, the price
+### **Reference Trading Price**: Means, for a Trading Interval, the price
 determined in accordance with clause 7.11A.1(b).
 
-**Refund Exempt Planned Outage Count:** In respect of a Separately
+### **Refund Exempt Planned Outage Count:** In respect of a Separately
 Certified Component of a Scheduled Facility or Semi-Scheduled Facility
 and a period of time, the sum over all Trading Intervals in that period
 of:
@@ -3038,7 +3038,7 @@ Outages.</p></th>
 </tbody>
 </table>
 
-**Refund Exempt Planned Outage Quantity**: A Capacity Adjusted Planned
+### **Refund Exempt Planned Outage Quantity**: A Capacity Adjusted Planned
 Outage Quantity for a Separately Certified Component of a Scheduled
 Facility or Semi‑Scheduled Facility in a Trading Interval for which a
 Facility Reserve Capacity Deficit Refund is not payable, as determined
@@ -3061,7 +3061,7 @@ Outages.</p></th>
 </tbody>
 </table>
 
-**Refund Payable Planned Outage Quantity**: A Capacity Adjusted Planned
+### **Refund Payable Planned Outage Quantity**: A Capacity Adjusted Planned
 Outage Quantity for a Separately Certified Component of a Scheduled
 Facility or Semi‑Scheduled Facility in a Trading Interval for which a
 Facility Reserve Capacity Deficit Refund is payable, as determined by
@@ -3082,11 +3082,11 @@ new registration taxonomy.</p></th>
 </tbody>
 </table>
 
-**Registered Facility**: In respect of a Rule Participant, a Facility
+### **Registered Facility**: In respect of a Rule Participant, a Facility
 registered by that Rule Participant with AEMO in a Facility Class under
 Chapter 2.
 
-**Registered Generator Performance Standard**: Means:
+### **Registered Generator Performance Standard**: Means:
 
 \(a\) in respect of a Transmission Connected Generating System other
 than an Existing Transmission Connected Generating System, an Ideal
@@ -3100,59 +3100,59 @@ Technical Requirement that is an Agreed Generator Performance Standard
 under section 1.40 and deemed to be a Registered Generator Performance
 Standard under clause 1.40.31.
 
-**Registration Correction Notice**: Means a notice issued by AEMO under
+### **Registration Correction Notice**: Means a notice issued by AEMO under
 clauses 2.32.7B or 2.32.7BA.
 
-**Regulation**: Has the meaning defined in clause 3.9.1.
+### **Regulation**: Has the meaning defined in clause 3.9.1.
 
-**Regulations**: Any regulations made under the Electricity Industry Act
+### **Regulations**: Any regulations made under the Electricity Industry Act
 2004 (WA) including the WEM Regulations, AEMO Regulations and the
 Electricity Industry (Independent Market Operator) Repeal Regulations
 2018.
 
-**Regulation Lower**: Has the meaning defined in clause 3.9.3.
+### **Regulation Lower**: Has the meaning defined in clause 3.9.3.
 
-**Regulation Lower Market Clearing Price**: The Market Clearing Price
+### **Regulation Lower Market Clearing Price**: The Market Clearing Price
 for Regulation Lower.
 
-**Regulation Lower Offer Price Ceiling**: The price, in dollars per MW
+### **Regulation Lower Offer Price Ceiling**: The price, in dollars per MW
 per hour, determined in accordance with clause 2.26.2B, and as may be
 indexed in accordance with clause 2.26.2U, that is the maximum price
 that may be associated with a Real-Time Market Submission or Standing
 Real-Time Market Submission for the provision of Regulation Lower.
 
-**Regulation Raise**: Has the meaning defined in clause 3.9.2.
+### **Regulation Raise**: Has the meaning defined in clause 3.9.2.
 
-**Regulation Raise Market Clearing Price**: The Market Clearing Price
+### **Regulation Raise Market Clearing Price**: The Market Clearing Price
 for Regulation Raise.
 
-**Regulation Raise Offer Price Ceiling**: The price, in dollars per MW
+### **Regulation Raise Offer Price Ceiling**: The price, in dollars per MW
 per hour, determined in accordance with clause 2.26.2B, and as may be
 indexed in accordance with clause 2.26.2U, that is the maximum price
 that may be associated with a Real-Time Market Submission or Standing
 Real-Time Market Submission for the provision of Regulation Raise.
 
-**Relevant Demand**: The consumption, expressed in MW, of a Demand Side
+### **Relevant Demand**: The consumption, expressed in MW, of a Demand Side
 Programme as determined in clause 4.26.2CA.
 
-**Relevant Generator Modification**: Means a Potential Relevant
+### **Relevant Generator Modification**: Means a Potential Relevant
 Generator Modification that the Network Operator declares to be a
 Relevant Generator Modification under clause 3A.13.4.
 
-**Relevant Level**: Means the MW quantity determined by AEMO in
+### **Relevant Level**: Means the MW quantity determined by AEMO in
 accordance with the Relevant Level Methodology.
 
-**Relevant Level Methodology**: Means the method of determining the
+### **Relevant Level Methodology**: Means the method of determining the
 Relevant Level specified in Appendix 9.
 
-**Relevant Settlement Adjustment Date**: Means, for a Trading Week, any
+### **Relevant Settlement Adjustment Date**: Means, for a Trading Week, any
 of Settlement Adjustment Date 1, Settlement Adjustment Date 2 or
 Settlement Adjustment Date 3, as the case may be.
 
-**Relevant Settlement Statement**: Has the meaning given in clause
+### **Relevant Settlement Statement**: Has the meaning given in clause
 9.3.6.
 
-**Reliable Operating State**: The state of the SWIS defined in clause
+### **Reliable Operating State**: The state of the SWIS defined in clause
 3.3.1.
 
 <table>
@@ -3175,12 +3175,12 @@ will be provided in the WEM Procedure referred to in clause
 </tbody>
 </table>
 
-**Remaining Available Capacity**: For each Dispatch Interval included in
+### **Remaining Available Capacity**: For each Dispatch Interval included in
 an Outage, the remaining capability of a Facility or Facility Technology
 Type of a Facility, as relevant, to provide an Outage Capability, in
 units as described in the WEM Procedure referred to in clause 3.18.4.
 
-**Repaid Amount:** Has the meaning given in clause 9.20.2(a).
+### **Repaid Amount:** Has the meaning given in clause 9.20.2(a).
 
 <table>
 <colgroup>
@@ -3203,24 +3203,24 @@ clause 9.20.2(b) and introduction of new clauses 9.20.2A to
 </tbody>
 </table>
 
-**Repaid Amount Levy:** The amount, in respect of a given Market
+### **Repaid Amount Levy:** The amount, in respect of a given Market
 Participant and in the circumstance of a particular Repaid Amount,
 determined by AEMO in accordance with clause 9.20.2A.
 
-**Representative:** In relation to a person means a representative of
+### **Representative:** In relation to a person means a representative of
 that person, including an employee, agent, officer, director, auditor,
 adviser, partner, consultant, joint venturer or sub-contractor, of that
 person.
 
-**Request for Expression of Interest**: In respect of a Reserve Capacity
+### **Request for Expression of Interest**: In respect of a Reserve Capacity
 Cycle, the request for expression of interest made available in
 accordance with clause 4.2.2.
 
-**Required Level**: The level of output (expressed in MW) required to be
+### **Required Level**: The level of output (expressed in MW) required to be
 met by a Facility as determined in clauses 4.11.3B, 4.11.3BB, 4.11.3BC
 or 4.11.3BD, as applicable.
 
-**Reserve Capacity**: Capacity associated with a Facility. Capacity may
+### **Reserve Capacity**: Capacity associated with a Facility. Capacity may
 be:
 
 \(a\) the capacity of Energy Producing Systems to produce electricity
@@ -3231,47 +3231,47 @@ registered by the Market Participant at a connection point to a Network
 forming part of the SWIS to reduce the consumption of electricity at
 that connection point.
 
-**Reserve Capacity Cycle**: The cycle of events described in clause 4.1.
+### **Reserve Capacity Cycle**: The cycle of events described in clause 4.1.
 
-**Reserve Capacity Deficit:** Has the meaning given in clause 4.26.1A.
+### **Reserve Capacity Deficit:** Has the meaning given in clause 4.26.1A.
 
-**Reserve Capacity Information Pack**: A package of information,
+### **Reserve Capacity Information Pack**: A package of information,
 including the information described in clause 4.7.3, pertaining to a
 Reserve Capacity Cycle.
 
-**Reserve Capacity Mechanism**: Chapter 4 of the WEM Rules.
+### **Reserve Capacity Mechanism**: Chapter 4 of the WEM Rules.
 
-**Reserve Capacity Obligations**: For a Market Participant holding
+### **Reserve Capacity Obligations**: For a Market Participant holding
 Capacity Credits, determined in accordance with clause 4.12.1 or clause
 4.28C.
 
-**Reserve Capacity Obligation Quantity**: The specific amount of
+### **Reserve Capacity Obligation Quantity**: The specific amount of
 capacity required to be provided in a Dispatch Interval or Trading
 Interval as part of a Reserve Capacity Obligation set by AEMO in
 accordance with clauses 4.12.4 to 4.12.6.
 
-**Reserve Capacity Performance Improvement Report**: A report including
+### **Reserve Capacity Performance Improvement Report**: A report including
 the information specified in clause 4.27.4A of the WEM Rules, provided
 by a Market Participant to AEMO under clause 4.27.5(b) in response to a
 request made under clause 4.27.3(b).
 
-**Reserve Capacity Performance Report**: A report including the
+### **Reserve Capacity Performance Report**: A report including the
 information specified in clause 4.27.4 of the WEM Rules, provided by a
 Market Participant to AEMO under clause 4.27.5(a) in response to a
 request made under clause 4.27.3(a).
 
-**Reserve Capacity Price:** In respect of a Reserve Capacity Cycle, the
+### **Reserve Capacity Price:** In respect of a Reserve Capacity Cycle, the
 price for Reserve Capacity determined in accordance with clause 4.29.1,
 where this price is expressed in units of dollars per Capacity Credit
 per year.
 
-**Reserve Capacity Price Factors:** Means the BRCP Cap Factor, the EZ
+### **Reserve Capacity Price Factors:** Means the BRCP Cap Factor, the EZ
 BRCP Factor, EZ and AZ used in the formula specified in clause
 4.29.1(b)(iv).
 
-**Reserve Capacity Requirement**: Has the meaning given in clause 4.6.1.
+### **Reserve Capacity Requirement**: Has the meaning given in clause 4.6.1.
 
-**Reserve Capacity Security**: The reserve capacity security to be
+### **Reserve Capacity Security**: The reserve capacity security to be
 provided for a Facility (other than a Demand Side Programme) that:
 
 \(a\) has the meaning given in clause 4.13.5; and
@@ -3279,160 +3279,160 @@ provided for a Facility (other than a Demand Side Programme) that:
 \(b\) is as calculated and re-calculated under section 4.13 and section
 4.28C.
 
-**Reserve Capacity Target**: In respect of a Capacity Year, AEMO’s
+### **Reserve Capacity Target**: In respect of a Capacity Year, AEMO’s
 estimate of the total amount of Energy Producing Systems' capacity or
 Demand Side Management capacity required in the SWIS to satisfy the
 Planning Criterion for that Capacity Year determined in accordance with
 clause 4.5.10(b).
 
-**Reserve Capacity Test**: Means a test of the Reserve Capacity
+### **Reserve Capacity Test**: Means a test of the Reserve Capacity
 associated with a Facility as conducted under section 4.25.
 
-**Restoration Profile**: The profile over time of the expected change in
+### **Restoration Profile**: The profile over time of the expected change in
 Withdrawal by the Loads associated with an Interruptible Load after
 activation in response to a Contingency Event, from the time the
 Interruptible Load begins to restore Load until the Facility has
 returned to normal operations.
 
-**Review Period**: In the case of the first Review Period, the 3 year
+### **Review Period**: In the case of the first Review Period, the 3 year
 period commencing on 1 July in the calendar year following the calendar
 year in which Energy Market Commencement occurs. For each subsequent
 Review Period, the 3 year period commencing on the third anniversary of
 the commencement of the previous Review Period.
 
-**Reviewable Decision**: Decisions made by the Coordinator, AEMO, the
+### **Reviewable Decision**: Decisions made by the Coordinator, AEMO, the
 Economic Regulation Authority or a Network Operator, that are listed in
 Schedule 2 of the WEM Regulations, in respect of which an eligible
 person may apply to the Electricity Review Board for a review of a
 decision in accordance with the WEM Regulations.
 
-**RoCoF Causer:** Means the set of Rule Participants identified in
+### **RoCoF Causer:** Means the set of Rule Participants identified in
 accordance with Appendix 2B that must pay for the RoCoF Control Service.
 
-**RoCoF Control Requirement**: Means the quantity of RoCoF Control
+### **RoCoF Control Requirement**: Means the quantity of RoCoF Control
 Service scheduled or dispatched in a Dispatch Interval or Pre-Dispatch
 Interval which is the sum of the Minimum RoCoF Control Requirement and
 the Additional RoCoF Control Requirement.
 
-**RoCoF Control Service or Rate of Change of Frequency Control
+### **RoCoF Control Service or Rate of Change of Frequency Control
 Service**: Has the meaning defined in clause 3.9.7.
 
-**RoCoF Control Service Market Clearing Price**: The Market Clearing
+### **RoCoF Control Service Market Clearing Price**: The Market Clearing
 Price for RoCoF Control Service.
 
-**RoCoF Control Service Offer Price Ceiling**: The price, in dollars per
+### **RoCoF Control Service Offer Price Ceiling**: The price, in dollars per
 MWs per hour, determined in accordance with clause 2.26.2B, and as may
 be indexed in accordance with clause 2.26.2U, that is the maximum price
 that may be associated with a Real-Time Market Submission or Standing
 Real-Time Market Submission for the provision of RoCoF Control Service.
 
-**RoCoF Limit**: Means a limit on the average frequency rate of change
+### **RoCoF Limit**: Means a limit on the average frequency rate of change
 over a particular time period.
 
-**RoCoF Ride Through Capability**: Is the highest RoCoF Limit at which
+### **RoCoF Ride Through Capability**: Is the highest RoCoF Limit at which
 the Facility can operate safely and reliably, expressed over the same
 timeframe specified in the RoCoF Safe Limit.
 
-**RoCoF Ride-Through Cost Recovery Limit**: Means the limit set by AEMO
+### **RoCoF Ride-Through Cost Recovery Limit**: Means the limit set by AEMO
 under clause 2.34A.12I that is used to determine the set of RoCoF
 Causers that must pay for the RoCoF Control Service under Appendix 2B.
 
-**RoCoF Safe Limit**: Means the RoCoF Limit referred to in Appendix 13.
+### **RoCoF Safe Limit**: Means the RoCoF Limit referred to in Appendix 13.
 
-**RoCoF Upper Limit**: Means the maximum RoCoF expected on the SWIS if
+### **RoCoF Upper Limit**: Means the maximum RoCoF expected on the SWIS if
 Contingency Reserve was solely used to maintain SWIS frequency after a
 Contingency Event.
 
-**Rolling Test Window**: A rolling consecutive three-month period of
+### **Rolling Test Window**: A rolling consecutive three-month period of
 Trading Days, with a successive three-month period beginning on the
 first Trading Day after the last Trading Day falling within the
 immediately prior three-month period.
 
-**Rule Change Panel**: Has the meaning given to it in the Panel
+### **Rule Change Panel**: Has the meaning given to it in the Panel
 Regulations.
 
-**Rule Change Proposal**: A proposal made in accordance with clause 2.5
+### **Rule Change Proposal**: A proposal made in accordance with clause 2.5
 proposing that the Coordinator makes Amending Rules.
 
-**Rule Participant**: Any person registered as a Rule Participant in
+### **Rule Participant**: Any person registered as a Rule Participant in
 accordance with Chapter 2 and AEMO.
 
-**Satisfactory Operating State**: The state of the SWIS defined in
+### **Satisfactory Operating State**: The state of the SWIS defined in
 clause 3.4.1.
 
-**Scenario**: Means a set of inputs used to generate forecast Dispatch
+### **Scenario**: Means a set of inputs used to generate forecast Dispatch
 Targets and Market Clearing Prices and the set of resulting outputs.
 
-**Scheduled Facility**: A Facility that can respond to a Dispatch Target
+### **Scheduled Facility**: A Facility that can respond to a Dispatch Target
 from AEMO such that it can maintain its Injection or Withdrawal within
 its Tolerance Range for a specified period and is registered as such in
 accordance with clauses 2.29.4G and 2.29.4I.
 
-**Scheduling Day**: In respect of a Trading Day, the calendar day
+### **Scheduling Day**: In respect of a Trading Day, the calendar day
 immediately preceding the calendar day on which the Trading Day
 commences.
 
-**Season:** As the context requires, any of the Cold Season,
+### **Season:** As the context requires, any of the Cold Season,
 Intermediate Season or Hot Season.
 
-**Secure Operating State**: The state of the SWIS defined in clause
+### **Secure Operating State**: The state of the SWIS defined in clause
 3.4.2.
 
-**Secure Operational Voltage Envelope**: Means the voltage limits for
+### **Secure Operational Voltage Envelope**: Means the voltage limits for
 the secure operation of an Operating Zone as determined by AEMO under
 clause 3.1A.9.
 
-**Security Deposit**: Means a cash deposit made with AEMO (on terms
+### **Security Deposit**: Means a cash deposit made with AEMO (on terms
 acceptable to AEMO in its absolute discretion) by or on behalf of a Rule
 Participant.
 
-**Security Limit**: Any technical limit on the operation of the SWIS as
+### **Security Limit**: Any technical limit on the operation of the SWIS as
 a whole, or a region of the SWIS, necessary to maintain the Power System
 Security, including both static and dynamic limits, and limits to allow
 for and to manage contingencies.
 
-**Security Provider**: Means a person or entity which meets the
+### **Security Provider**: Means a person or entity which meets the
 Acceptable Credit Criteria and which itself is not a Rule Participant.
 
-**Self-Scheduling Outage Facility**: A Facility that is included on the
+### **Self-Scheduling Outage Facility**: A Facility that is included on the
 Self-Scheduling Outage Facility List.
 
-**Self-Scheduling Outage Facility List**: The list maintained by AEMO
+### **Self-Scheduling Outage Facility List**: The list maintained by AEMO
 under clause 3.18A.6.
 
-**Semi-Scheduled Facility**: A Facility that can reduce the value of its
+### **Semi-Scheduled Facility**: A Facility that can reduce the value of its
 Injection or increase the value of its Withdrawal to comply with a
 Dispatch Cap issued by AEMO and is registered as such in accordance with
 clauses 2.29.4G and 2.29.4I.
 
-**Sent Out Metered Schedule**: Means the Metered Schedule converted to
+### **Sent Out Metered Schedule**: Means the Metered Schedule converted to
 sent out MWh quantities using applicable Loss Factors.
 
-**Separately Certified Component**: Any component of a Scheduled
+### **Separately Certified Component**: Any component of a Scheduled
 Facility or Semi-Scheduled Facility which AEMO has assessed separately
 in the determination of Certified Reserve Capacity for the Facility, and
 for which AEMO assigned Capacity Credits for any Trading Interval in the
 Capacity Year.
 
-**Separation Event**: Means a Credible Contingency Event that results in
+### **Separation Event**: Means a Credible Contingency Event that results in
 the formation of an Island.
 
-**Service Fee Settlement Amount**: Means the amounts determined in
+### **Service Fee Settlement Amount**: Means the amounts determined in
 accordance with section 9.13.
 
-**SESSM**: Means the mechanism to procure Frequency Co-optimised
+### **SESSM**: Means the mechanism to procure Frequency Co-optimised
 Essential System Services under section 3.15A.
 
-**SESSM Availability Payment:** Means the dollar amount payable to the
+### **SESSM Availability Payment:** Means the dollar amount payable to the
 Market Participant for offering the SESSM Availability Quantity of
 Frequency Co-optimised Essential System Service into the market
 according to the SESSM Service Specification.
 
-**SESSM Availability Quantity**: Means the MW or MWs quantity of a
+### **SESSM Availability Quantity**: Means the MW or MWs quantity of a
 Frequency Co-optimised Essential System Service to be made available in
 a Dispatch Interval under a SESSM Award.
 
-**SESSM Availability Requirement**: For a SESSM Award, the percentage of
+### **SESSM Availability Requirement**: For a SESSM Award, the percentage of
 Dispatch Intervals in the SESSM Service Timing in which the Facility
 must include the sum of the SESSM Availability Quantity and the Base ESS
 Quantity in its Real-Time Market Submissions for the relevant Frequency
@@ -3440,47 +3440,47 @@ Co-optimised Essential System Service from an Available Capacity or
 In-Service Capacity or be required to pay a Facility SESSM Refund
 calculated under Appendix 2C.
 
-**SESSM Award**: Means the acceptance of an offer by AEMO to provide
+### **SESSM Award**: Means the acceptance of an offer by AEMO to provide
 Frequency Co-optimised Essential System Services by a Market Participant
 in accordance with a SESSM Submission through the SESSM.
 
-**SESSM Award Duration:** Means the period over which obligations and
+### **SESSM Award Duration:** Means the period over which obligations and
 payments under a SESSM Submission apply and must be no longer than three
 years.
 
-**SESSM Offer Cap:** Means the price referred to in clause 3.15A.20(c).
+### **SESSM Offer Cap:** Means the price referred to in clause 3.15A.20(c).
 
-**SESSM Service Commencement Date**: Means the date a Frequency
+### **SESSM Service Commencement Date**: Means the date a Frequency
 Co-optimised Essential System Service procured through the SESSM is
 required to commence.
 
-**SESSM Service Quantity Profile:** Means the MW or MWs quantity of
+### **SESSM Service Quantity Profile:** Means the MW or MWs quantity of
 Frequency Co-optimised Essential System Service sought through the SESSM
 for each Dispatch Interval in the SESSM Service Timing (which may be
 zero at some times of the year or in some hours of the day).
 
-**SESSM Service Specification**: for a Frequency Co-optimised Essential
+### **SESSM Service Specification**: for a Frequency Co-optimised Essential
 System Service being procured under the SESSM, as set out in clause
 3.15A.6.
 
-**SESSM Service Timing**: Means the time period and Dispatch Intervals
+### **SESSM Service Timing**: Means the time period and Dispatch Intervals
 during which a Frequency Co-optimised Essential System Service procured
 through the SESSM is required to be provided.
 
-**SESSM Submission**: Means a submission made by a Market Participant in
+### **SESSM Submission**: Means a submission made by a Market Participant in
 respect of a Facility to provide Frequency Co-optimised Essential System
 Services in accordance with clause 3.15A.21 through the SESSM.
 
-**Settlement Adjustment Date 1**: Has the meaning given in clause
+### **Settlement Adjustment Date 1**: Has the meaning given in clause
 9.3.7(a).
 
-**Settlement Adjustment Date 2**: Has the meaning given in clause
+### **Settlement Adjustment Date 2**: Has the meaning given in clause
 9.3.7(b).
 
-**Settlement Adjustment Date 3**: Has the meaning given in clause
+### **Settlement Adjustment Date 3**: Has the meaning given in clause
 9.3.7(c).
 
-**Settlement Date**: The Business Day, determined under clause 9.3.1(d),
+### **Settlement Date**: The Business Day, determined under clause 9.3.1(d),
 on which all amounts payable under these WEM Rules are settled for the
 relevant Trading Week for an original Settlement Statement or, in
 respect of any adjusted Settlement Statement for that Trading Week, the
@@ -3488,31 +3488,31 @@ Business Day, determined under clause 9.3.1(i), on which all amounts
 payable under these WEM Rules are settled for the relevant adjusted
 Settlement Statement.
 
-**Settlement Disagreement Deadline**: Has the meaning given in clause
+### **Settlement Disagreement Deadline**: Has the meaning given in clause
 9.16.2.
 
-**Settlement Statement**: Means an original settlement statement issued
+### **Settlement Statement**: Means an original settlement statement issued
 under clause 9.3.3(a) in relation to a Trading Week and containing the
 information described in clause 9.14 and, in respect of the Adjustment
 Process, each adjusted settlement statement in relation to that Trading
 Week issued under clause 9.15.1(b) and containing the information
 described in clause 9.15.3, respectively.
 
-**Settlement Statement Date:** The Business Day, determined in
+### **Settlement Statement Date:** The Business Day, determined in
 accordance with clause 9.3.1(b) on which AEMO releases original
 Settlement Statements for a Trading Week, and each Business Day,
 determined in accordance with clause 9.3.1(h) on which AEMO releases
 adjusted Settlement Statements for the Adjustment Process for that
 Trading Week, respectively.
 
-**Shared Reserve Capacity Cost**: The amount determined in accordance
+### **Shared Reserve Capacity Cost**: The amount determined in accordance
 with clause 4.28.4.
 
-**Short Term Energy Market (STEM):** A forward market operated under
+### **Short Term Energy Market (STEM):** A forward market operated under
 Chapter 6 in which Market Participants can purchase electricity from, or
 sell electricity to, AEMO.
 
-**Short Term PASA**: A PASA covering the period in clause 3.16.1(b).
+### **Short Term PASA**: A PASA covering the period in clause 3.16.1(b).
 
 <table>
 <colgroup>
@@ -3547,70 +3547,70 @@ generating and storage equipment at the facility.</p></th>
 </tbody>
 </table>
 
-**Small Aggregation:** One or more Facilities connected to the
+### **Small Aggregation:** One or more Facilities connected to the
 distribution system and located at the same Electrical Location.
 
-**Small Generating Unit**: An Energy Producing System which has a rated
+### **Small Generating Unit**: An Energy Producing System which has a rated
 capacity of less than 10MW.
 
-**South West interconnected system (SWIS)**: Has the meaning given in
+### **South West interconnected system (SWIS)**: Has the meaning given in
 the Electricity Industry Act.
 
-**Stable**: Means when the SWIS will return to an acceptable
+### **Stable**: Means when the SWIS will return to an acceptable
 steady-state operating condition following a disturbance.
 
-**Stabilise**: Means, in relation to SWIS Frequency Operating Standards,
+### **Stabilise**: Means, in relation to SWIS Frequency Operating Standards,
 when the SWIS Frequency has remained above or below the required level
 for at least 20 seconds.
 
-**Standard Rule Change Process**: The process for dealing with Rule
+### **Standard Rule Change Process**: The process for dealing with Rule
 Change Proposals set out in clause 2.7.
 
-**Standing Bilateral Submission**: A submission by a Market Participant
+### **Standing Bilateral Submission**: A submission by a Market Participant
 to AEMO made in accordance with section 6.2A.
 
-**Standing Data**: Data maintained by AEMO under clause 2.34.1.
+### **Standing Data**: Data maintained by AEMO under clause 2.34.1.
 
-**Standing DSP Withdrawal Profile Submission**: A default DSP Withdrawal
+### **Standing DSP Withdrawal Profile Submission**: A default DSP Withdrawal
 Profile Submission for a Demand Side Programme for Dispatch Intervals
 starting at specified times on Trading Days of a specified type.
 
-**Standing Enablement Maximum**: In relation to a Facility and a
+### **Standing Enablement Maximum**: In relation to a Facility and a
 Frequency Co-optimised Essential System Service, the maximum level of
 Injection or Withdrawal for which a response will be available for a
 Frequency Co-optimised Essential System Service.
 
-**Standing Enablement Minimum**: In relation to a Facility and a
+### **Standing Enablement Minimum**: In relation to a Facility and a
 Frequency Co-optimised Essential System Service, the minimum level of
 Injection or Withdrawal for which a response will be available for a
 Frequency Co-optimised Essential System Service.
 
-**Standing High Breakpoint**: For a Facility and a Frequency
+### **Standing High Breakpoint**: For a Facility and a Frequency
 Co-optimised Essential System Service, the maximum level of generation
 (in MW) above which the Facility cannot provide its maximum quantity of
 that Frequency Co-optimised Essential System Service.
 
-**Standing Low Breakpoint**: For a Facility and a Frequency Co-optimised
+### **Standing Low Breakpoint**: For a Facility and a Frequency Co-optimised
 Essential System Service, the minimum level of generation (in MW) below
 which the Facility cannot provide its maximum quantity of that Frequency
 Co-optimised Essential System Service.
 
-**Standing Maximum Downwards Ramp Rate**: The Facility’s maximum
+### **Standing Maximum Downwards Ramp Rate**: The Facility’s maximum
 physical ability, in MW per minute, on a linear basis, to decrease the
 magnitude of Injection or increase the magnitude of Withdrawal on the
 receipt of a Dispatch Instruction.
 
-**Standing Maximum Upwards Ramp Rate**: The Facility’s maximum physical
+### **Standing Maximum Upwards Ramp Rate**: The Facility’s maximum physical
 ability, in MW per minute, on a linear basis, to increase the magnitude
 of Injection or decrease the magnitude of Withdrawal on the receipt of a
 Dispatch Instruction.
 
-**Standing Real-Time Market Submission**: A default Real-Time Market
+### **Standing Real-Time Market Submission**: A default Real-Time Market
 Submission for a Registered Facility and Market Service for Dispatch
 Intervals starting at specified times on Trading Days of a specified
 type.
 
-**Standing STEM Submission**: A submission by a Market Participant to
+### **Standing STEM Submission**: A submission by a Market Participant to
 AEMO made in accordance with clause 6.3C.
 
 <table>
@@ -3631,123 +3631,123 @@ make capacity ready for dispatch.</p></th>
 </tbody>
 </table>
 
-**Start Decision Cutoff**: For a Registered Facility and Dispatch
+### **Start Decision Cutoff**: For a Registered Facility and Dispatch
 Interval, the latest time before the start of the Dispatch Interval at
 which a Market Participant could decide to change a quantity of
 Available Capacity to In-Service Capacity so as to make the capacity
 ready for dispatch in that Dispatch Interval, as reflected in its
 Real-Time Market Submission.
 
-**Statement of Corporate Intent**: The statement of corporate intent as
+### **Statement of Corporate Intent**: The statement of corporate intent as
 agreed by the Minister or otherwise deemed to apply by Division 2 of
 Part 5 of the Electricity Corporations Act.
 
-**Statement of Opportunities Report**: A report prepared in accordance
+### **Statement of Opportunities Report**: A report prepared in accordance
 with clause 4.5.13 presenting the results of the Long Term PASA study,
 including a statement of required investment if Power System Security
 and Power System Reliability are to be maintained.
 
-**STEM**: See Short Term Energy Market.
+### **STEM**: See Short Term Energy Market.
 
-**STEM Auction**: The process, described in clause 6.9, used to clear
+### **STEM Auction**: The process, described in clause 6.9, used to clear
 the STEM.
 
-**STEM Bid**: A bid to purchase energy from AEMO via the STEM Auction
+### **STEM Bid**: A bid to purchase energy from AEMO via the STEM Auction
 for a Trading Interval.
 
-**STEM Clearing Price**: Has the meaning given in clause 6.9.7.
+### **STEM Clearing Price**: Has the meaning given in clause 6.9.7.
 
-**STEM Clearing Quantity**: Has the meaning given in clause 6.9.8.
+### **STEM Clearing Quantity**: Has the meaning given in clause 6.9.8.
 
-**STEM Offer**: An offer to provide energy through the STEM Auction for
+### **STEM Offer**: An offer to provide energy through the STEM Auction for
 a Trading Interval determined by AEMO in accordance with clause 6.9.3.
 
-**STEM Reserve Capacity Obligation Quantity**: An estimate of the
+### **STEM Reserve Capacity Obligation Quantity**: An estimate of the
 Reserve Capacity Obligation Quantity for a Scheduled Facility or
 Semi-Scheduled Facility, or a Separately Certified Component of a
 Scheduled Facility or Semi-Scheduled Facility, for a Dispatch Interval
 that is determined by AEMO on the Scheduling Day for the relevant
 Trading Day in accordance with clause 6.3A.3(h).
 
-**STEM Results Deadline**: Means 11:30 AM on the Scheduling Day for the
+### **STEM Results Deadline**: Means 11:30 AM on the Scheduling Day for the
 Trading Day, or such other time as may be notified by AEMO under clause
 6.4.6B.
 
-**STEM Submission**: A submission by a Market Participant to AEMO made
+### **STEM Submission**: A submission by a Market Participant to AEMO made
 in accordance with clause 6.3B containing the information set out in,
 and in the format prescribed by, clause 6.6.
 
-**STEM Submission Cutoff**: Means 10:50 AM on the Scheduling Day for the
+### **STEM Submission Cutoff**: Means 10:50 AM on the Scheduling Day for the
 Trading Day, or such other time as may be notified by AEMO under clause
 6.4.6B.
 
-**STEM Submission Information Window**: For a Scheduling Day, the period
+### **STEM Submission Information Window**: For a Scheduling Day, the period
 of eight consecutive Trading Days starting with the Trading Day for the
 Scheduling Day.
 
-**STEM Submission Results Window**: For a point in time in the 24-hour
+### **STEM Submission Results Window**: For a point in time in the 24-hour
 period starting at 8:30 AM on a Scheduling Day, the period of eight
 consecutive Trading Days starting with the Trading Day for the
 Scheduling Day.
 
-**Storage Works**: Has the meaning given to it in the Electricity
+### **Storage Works**: Has the meaning given to it in the Electricity
 Industry Act.
 
-**Supplementary Capacity Contract**: An agreement under which a service
+### **Supplementary Capacity Contract**: An agreement under which a service
 provider agrees to supply one or more Eligible Services to AEMO, entered
 into in accordance with section 4.24
 
-**Suspension Event**: An event described in clause 9.19.
+### **Suspension Event**: An event described in clause 9.19.
 
-**Suspension Notice**: A notice issued by AEMO in accordance with
+### **Suspension Notice**: A notice issued by AEMO in accordance with
 section 2.32 or clause 9.19.7 that a Market Participant is suspended
 from trading in the Wholesale Electricity Market.
 
-**SWIS**: See the South West interconnected system.
+### **SWIS**: See the South West interconnected system.
 
-**SWIS Frequency**: Means the frequency of the SWIS, or an Island (as
+### **SWIS Frequency**: Means the frequency of the SWIS, or an Island (as
 applicable).
 
-**SWIS Frequency Operating Standards**: Means the standards set out in
+### **SWIS Frequency Operating Standards**: Means the standards set out in
 Table 1, Appendix 13.
 
-**SWIS Operating Standards**: The standards for the operation of the
+### **SWIS Operating Standards**: The standards for the operation of the
 SWIS including the frequency and time error standards and voltage
 standards set out in clause 3.1.
 
-**SWIS Operating State**: One or any of the Reliable Operating State,
+### **SWIS Operating State**: One or any of the Reliable Operating State,
 Satisfactory Operating State, Secure Operating State or Emergency
 Operating State.
 
-**Synergy**: The body corporate established under section 4(1)(a) of the
+### **Synergy**: The body corporate established under section 4(1)(a) of the
 Electricity Corporations Act.
 
-**System Inertia**: The total Inertia provided by Registered Facilities,
+### **System Inertia**: The total Inertia provided by Registered Facilities,
 Loads, Network equipment and other equipment connected to the SWIS.
 
-**System Operation Function**: The functions referred to in clauses
+### **System Operation Function**: The functions referred to in clauses
 2.1A.1A, 2.1A.2(cA) and 2.1A.2(iA), together with any function conferred
 on AEMO under these WEM Rules in respect of system operation.
 
-**System Restart Plan**: The plan described in clause 3.7.4.
+### **System Restart Plan**: The plan described in clause 3.7.4.
 
-**System Restart Service**: The ability of a Registered Facility with an
+### **System Restart Service**: The ability of a Registered Facility with an
 energy producing system to start without requiring energy to be supplied
 from a Network to assist in the re-energisation of the SWIS in the event
 of a system shut down or major supply disruption.
 
-**System Restart Service Contract**: A contract between AEMO and a
+### **System Restart Service Contract**: A contract between AEMO and a
 Market Participant for the provision of a System Restart Service to AEMO
 by that Market Participant’s Registered Facility.
 
-**System Restart Service Provider**: A Market Participant who provides
+### **System Restart Service Provider**: A Market Participant who provides
 System Restart Service to AEMO under a System Restart Service Contract.
 
-**System Restart Standard**: The standard, determined by AEMO under
+### **System Restart Standard**: The standard, determined by AEMO under
 clause 3.7.1 and described in clause 3.7.2, for procurement of System
 Restart Services.
 
-**System Size**: In respect of a Facility, a quantity equalling the sum
+### **System Size**: In respect of a Facility, a quantity equalling the sum
 of:
 
 \(a\) the minimum of:
@@ -3771,39 +3771,39 @@ each individual Electric Storage Resource), of each Electric Storage
 Resource’s maximum MW consumption quantity (where that consumption
 quantity is negative).
 
-**System Strength**: Is a measure of how resilient the voltage waveform
+### **System Strength**: Is a measure of how resilient the voltage waveform
 is to disturbances such as those caused by a sudden change in Load or an
 Energy Producing System, the switching of a Network element, tapping of
 transformers and other types of faults.
 
-**System Strength**: Is a measure of how resilient the voltage waveform
+### **System Strength**: Is a measure of how resilient the voltage waveform
 is to disturbances such as those caused by a sudden change in Load or an
 Energy Producing System, the switching of a Network element, tapping of
 transformers and other types of faults.
 
-**System Strength Requirements**: Means, the requirements identified to
+### **System Strength Requirements**: Means, the requirements identified to
 maintain sufficient System Strength on the SWIS, as determined by the
 processes specified in the WEM Procedure referred to in clause 3.2.7.
 
-**Targeted Reserve Capacity Cost:** The cost defined under clause
+### **Targeted Reserve Capacity Cost:** The cost defined under clause
 4.28.1(a).
 
-**Technical Envelope**: The limits for the operation of the SWIS in each
+### **Technical Envelope**: The limits for the operation of the SWIS in each
 SWIS Operating State as established and modified by AEMO in accordance
 with clause 3.2.6.
 
-**Technical Requirement**: Means each Technical Requirement for a
+### **Technical Requirement**: Means each Technical Requirement for a
 Transmission Connected Generating System specified in Appendix 12.
 
-**Technical Rules:** has the meaning given in section 1.3 of the Access
+### **Technical Rules:** has the meaning given in section 1.3 of the Access
 Code.
 
-**Technical Rules Change Proposal**: Means a proposal made in accordance
+### **Technical Rules Change Proposal**: Means a proposal made in accordance
 with the procedure developed pursuant to section 12.50A of the Access
 Code and submitted to the Economic Regulation Authority proposing that
 the Technical Rules be amended.
 
-**Technical Rules Committee**: Means the committee established under
+### **Technical Rules Committee**: Means the committee established under
 section 12.16 of the Access Code.
 
 <table>
@@ -3821,54 +3821,54 @@ reflect the new registration taxonomy.</p></th>
 </tbody>
 </table>
 
-**Temperature Dependent Load**: A Non-Dispatchable Load that is not a
+### **Temperature Dependent Load**: A Non-Dispatchable Load that is not a
 Non-Temperature Dependent Load.
 
-**Test**: Means a Commissioning Test or a Reserve Capacity Test.
+### **Test**: Means a Commissioning Test or a Reserve Capacity Test.
 
-**Test Plan**: Means a plan approved under Chapter 3 in relation to a
+### **Test Plan**: Means a plan approved under Chapter 3 in relation to a
 Test.
 
-**Thermal Network Limit**: Means a Network Limit that describes the
+### **Thermal Network Limit**: Means a Network Limit that describes the
 maximum capacity for electrical throughput of a particular Network
 element due to temperature or related effects.
 
-**Tolerance Range**: Means the amount, in MW, determined by AEMO under
+### **Tolerance Range**: Means the amount, in MW, determined by AEMO under
 clause 2.13.16 of the WEM Rules.
 
-**Total Amount**: Has the meaning given in clause 9.20.3.
+### **Total Amount**: Has the meaning given in clause 9.20.3.
 
-**Total Sent Out Generation**: Means, for a Trading Interval, the sum
+### **Total Sent Out Generation**: Means, for a Trading Interval, the sum
 over all Scheduled Facilities, Semi-Scheduled Facilities and
 Non-Scheduled Facilities of each Facility’s Sent Out Metered Schedule
 for the Trading Interval or zero (whichever is higher for that
 Facility).
 
-**Trading Conduct Guideline**: The guideline published by the Economic
+### **Trading Conduct Guideline**: The guideline published by the Economic
 Regulation Authority under clause 2.16D.1(b), which may be amended in
 accordance with 2.16D.2.
 
-**Trading Day**: A period of 24 hours commencing at 8:00 AM on any day
+### **Trading Day**: A period of 24 hours commencing at 8:00 AM on any day
 after Energy Market Commencement, except where AEMO declares that part
 of a Trading Day is to be treated as a full Trading Day under clause
 9.1.2, in which case that part is a Trading Day.
 
-**Trading Interval**: A period of 30 minutes commencing on the hour or
+### **Trading Interval**: A period of 30 minutes commencing on the hour or
 half-hour during a Trading Day.
 
-**Trading Interval Capacity Cost Refund**: The refund a Market
+### **Trading Interval Capacity Cost Refund**: The refund a Market
 Participant holding Capacity Credits incurs in a Trading Interval, as
 calculated in accordance with clause 4.26.2F.
 
-**Trading Interval Refund Rate**: The refund rate applicable in a
+### **Trading Interval Refund Rate**: The refund rate applicable in a
 Trading Interval, and in respect of a Facility, as calculated in
 accordance with clause 4.26.1(a).
 
-**Trading Limit**: Has the meaning given in clause 2.39.1.
+### **Trading Limit**: Has the meaning given in clause 2.39.1.
 
-**Trading Margin**: Has the meaning given in clause 2.41.1.
+### **Trading Margin**: Has the meaning given in clause 2.41.1.
 
-**Trading Month**: A period from the beginning of a Trading Day
+### **Trading Month**: A period from the beginning of a Trading Day
 commencing on the first day of a calendar month to the end of the
 Trading Day that finishes on the first day of the following calendar
 month.
@@ -3889,17 +3889,17 @@ first Trading Week with the New WEM Commencement Day (8:00 AM on Sunday,
 </tbody>
 </table>
 
-**Trading Week**: A period of seven days commencing at 8:00 AM on the
+### **Trading Week**: A period of seven days commencing at 8:00 AM on the
 day of the week on which the New WEM Commencement Day commences.
 
-**Tranche 1 Commencement Date**: Means the Trading Day commencing at
+### **Tranche 1 Commencement Date**: Means the Trading Day commencing at
 8:00 AM on 1 February 2021.
 
-**Transitional Facility:** Means a Facility (other than a Demand Side
+### **Transitional Facility:** Means a Facility (other than a Demand Side
 Programme) that was assigned Capacity Credits for the 2018 Reserve
 Capacity Cycle.
 
-**Transitional Procedure**: A procedure that, in accordance with these
+### **Transitional Procedure**: A procedure that, in accordance with these
 WEM Rules, is:
 
 \(a\) required to be developed prior to the New WEM Commencement Day;
@@ -3908,7 +3908,7 @@ and
 \(b\) deemed to be a WEM Procedure from the New WEM Commencement Day, or
 such other date as specified in these WEM Rules.
 
-**Transitional Reserve Capacity Cycle:** Means either:
+### **Transitional Reserve Capacity Cycle:** Means either:
 
 \(a\) the 2019 Reserve Capacity Cycle; or
 
@@ -3932,29 +3932,29 @@ Standards.</p></th>
 </tbody>
 </table>
 
-**Transmission Connected Generating System**: Means generating works
+### **Transmission Connected Generating System**: Means generating works
 connected to a transmission system in the SWIS, including an
 unregistered Energy Producing System supplying an Intermittent Load.
 
-**Transmission Loss Factor:** A factor representing the average marginal
+### **Transmission Loss Factor:** A factor representing the average marginal
 electrical losses incurred when electricity is transmitted through a
 transmission network.
 
-**Transmission Loss Factor Class:** A group of one or more connection
+### **Transmission Loss Factor Class:** A group of one or more connection
 points with common characteristics assigned a common Transmission Loss
 Factor.
 
-**Transmission Node**: A location on a transmission system identified
+### **Transmission Node**: A location on a transmission system identified
 for the purposes of aggregating transfer of electricity through that
 part of the transmission system.
 
-**Transmission Node Identifier**: The code identifying the relevant
+### **Transmission Node Identifier**: The code identifying the relevant
 Transmission Node.
 
-**Transmission System Plan**: A plan prepared and published by a Network
+### **Transmission System Plan**: A plan prepared and published by a Network
 Operator in respect of its Network in accordance with section 4.5B.
 
-**Trigger Event**: Means one or more circumstances specified in a
+### **Trigger Event**: Means one or more circumstances specified in a
 Negotiated Generator Performance Standard, the occurrence of which
 requires a Market Participant responsible for a Transmission Connected
 Generating System to undertake required actions to achieve an agreed
@@ -3962,17 +3962,17 @@ outcome and or achieve an agreed higher level of performance than the
 existing Registered Generator Performance Standard applicable in respect
 of one or more Technical Requirements.
 
-**UFLS Requirements**: The functional requirements for the SWIS under
+### **UFLS Requirements**: The functional requirements for the SWIS under
 frequency load shedding system published by AEMO in accordance with
 section 3.6, and as may be amended from time to time in accordance with
 section 3.6.
 
-**UFLS Specification**: The document referred to in clause 3.6.5
+### **UFLS Specification**: The document referred to in clause 3.6.5
 containing the Network Operator's design specification for its under
 frequency load shedding system in respect of its Network, which must
 meet the UFLS Requirements.
 
-**Unconstrained Injection Forecast**: The expected MW level of Injection
+### **Unconstrained Injection Forecast**: The expected MW level of Injection
 at the end of a Dispatch Interval for a Semi-Scheduled Facility or
 Non-Scheduled Facility, assuming that the Facility will not be subject
 to a Dispatch Instruction or direction from AEMO that limits its
@@ -3980,7 +3980,7 @@ Injection, and allowing for expected conditions, commitment and control
 intentions and the effect of any Outages that have not been rejected for
 the Facility.
 
-**Unconstrained Withdrawal Forecast**: The expected MW level of
+### **Unconstrained Withdrawal Forecast**: The expected MW level of
 Withdrawal at the end of a Dispatch Interval for a Semi-Scheduled
 Facility or Non-Scheduled Facility, assuming that the Facility will not
 be subject to a Dispatch Instruction or direction from AEMO that limits
@@ -3988,58 +3988,58 @@ its Withdrawal, and allowing for expected conditions, commitment and
 control intentions and the effect of any Outages that have not been
 rejected for the Facility.
 
-**Uplift Payment Mispricing Trigger**: For a Facility and a Dispatch
+### **Uplift Payment Mispricing Trigger**: For a Facility and a Dispatch
 Interval, the value calculated in clause 9.9.9.
 
-**Verification Test**: Means a test conducted under clause 4.25A.
+### **Verification Test**: Means a test conducted under clause 4.25A.
 
-**Week-Ahead Schedule**: A forecast of Market Clearing Prices, Dispatch
+### **Week-Ahead Schedule**: A forecast of Market Clearing Prices, Dispatch
 Targets Dispatch Caps, Dispatch Forecasts and Essential System Services
 Enablement Quantities for each Pre-Dispatch Interval in the Week-Ahead
 Schedule Horizon.
 
-**Week-Ahead Schedule Horizon**: The next 336 Pre-Dispatch Intervals
+### **Week-Ahead Schedule Horizon**: The next 336 Pre-Dispatch Intervals
 after a Pre-Dispatch Interval.
 
-**WEM Procedure**: The procedures developed by AEMO, the Economic
+### **WEM Procedure**: The procedures developed by AEMO, the Economic
 Regulation Authority, the Coordinator and a Network Operator, as
 applicable, in accordance with section 2.9 as amended in accordance with
 the Procedure Change Process.
 
-**WEM Regulations:** Means the Electricity Industry (Wholesale
+### **WEM Regulations:** Means the Electricity Industry (Wholesale
 Electricity Market) Regulations 2004.
 
-**WEM Rules**: These rules relating to the Wholesale Electricity Market
+### **WEM Rules**: These rules relating to the Wholesale Electricity Market
 and to the operation of the SWIS.
 
-**WEM Technical Standard**: A provision of the WEM Rules, identified in
+### **WEM Technical Standard**: A provision of the WEM Rules, identified in
 clause 2.8.14.
 
-**WEM Website**: Has the meaning given in the Regulations, and includes
+### **WEM Website**: Has the meaning given in the Regulations, and includes
 any website operated by AEMO to carry out its functions under these WEM
 Rules.
 
-**Western Australian Government’s Energy Transformation Strategy**:
+### **Western Australian Government’s Energy Transformation Strategy**:
 Means the Western Australian Government’s Energy Transformation Strategy
 as announced on 6 March 2019 to be delivered by the Energy
 Transformation Taskforce in accordance with its Terms of Reference (as
 may be amended).
 
-**Western Power**: The body corporate established by section 4(1)(b) of
+### **Western Power**: The body corporate established by section 4(1)(b) of
 the Electricity Corporations Act.
 
-**Western Power Corporation**: The body corporate established under the
+### **Western Power Corporation**: The body corporate established under the
 Electricity Corporation Act (1994) as Western Power Corporation.
 
-**Western Standard Time:** Co-ordinated Universal Time + 8 hours.
+### **Western Standard Time:** Co-ordinated Universal Time + 8 hours.
 
-**Whole of System Plan**: A plan prepared and published by the
+### **Whole of System Plan**: A plan prepared and published by the
 Coordinator in accordance with section 4.5A.
 
-**Wholesale Electricity Market**: The market established under section
+### **Wholesale Electricity Market**: The market established under section
 122 of the Electricity Industry Act.
 
-**Wholesale Electricity Market and Constrained Network Access Reform**:
+### **Wholesale Electricity Market and Constrained Network Access Reform**:
 Means:
 
 \(a\) any proposed change to the operation of the Wholesale Electricity
@@ -4053,7 +4053,7 @@ implementation of the DER Roadmap,
 that has been endorsed by the Minister (whether or not legislation has
 been made to implement it).
 
-**Wholesale Market Objectives**: The market objectives set out in
+### **Wholesale Market Objectives**: The market objectives set out in
 Section of 122(2) of the Electricity Industry Act and repeated in clause
 1.2.1.
 
@@ -4072,7 +4072,7 @@ quantity is measured for different Facility Classes.</p></th>
 </tbody>
 </table>
 
-**Withdrawal**: The quantity of power or energy received from a Network,
+### **Withdrawal**: The quantity of power or energy received from a Network,
 as measured:
 
 \(a\) for a Scheduled Facility, Semi-Scheduled Facility or Non-Scheduled
@@ -4095,7 +4095,7 @@ quantities of each Associated Load of the Demand Side Programme,
 which is measured in instantaneous MW unless specified as MWh over a
 time period, and is represented as a negative number or zero.
 
-**Working Group:** A working group as established under clause 2.3.17 of
+### **Working Group:** A working group as established under clause 2.3.17 of
 these WEM Rules.
 
 <table>
@@ -8934,7 +8934,7 @@ out in Part B of this Appendix 9.
 
 Part B: Process Steps
 
-***Determining Existing Facility Load for Scheduled Generation***
+### ***Determining Existing Facility Load for Scheduled Generation***
 
 Step 1: Identify:
 
@@ -9120,7 +9120,7 @@ it revised the estimate,
 then AEMO must redetermine the sent out generation for that Candidate
 Facility and that Trading Interval in accordance with Step 4.
 
-***Determining New Facility Load for Scheduled Generation***
+### ***Determining New Facility Load for Scheduled Generation***
 
 Step 10: For each New Candidate Facility determine, for each Trading
 Interval in the period identified in Step 1(a) that falls before 8:00 AM
@@ -9166,7 +9166,7 @@ period identified in Step 1(a), the 12 Trading Intervals, occurring on
 separate Trading Days, with the highest New Facility Load for Scheduled
 Generation.
 
-***Determining the Facility Average Performance Level***
+### ***Determining the Facility Average Performance Level***
 
 Step 13: For each Existing Candidate Facility, determine the 60
 quantities comprising:
@@ -9198,7 +9198,7 @@ Candidate Facility f (“Facility Average Performance Level”) as the mean
 of the 60 quantities determined for Candidate Facility f in Step 13 or
 Step 14 as applicable.
 
-***Determine the Facility Adjustment Factor***
+### ***Determine the Facility Adjustment Factor***
 
 Step 16: Determine the variance (in MW) for each Candidate Facility f
 (“Facility Variance”) as the variance of the MW quantities determined
@@ -9355,7 +9355,7 @@ with clause 4.11.3C.</p>
 </tbody>
 </table>
 
-***Determining the Relevant Level for a Candidate Facility***
+### ***Determining the Relevant Level for a Candidate Facility***
 
 Step 18: Determine the Relevant Level for each Candidate Facility f (in
 MW) in accordance with the following formula:
@@ -9363,7 +9363,7 @@ MW) in accordance with the following formula:
 Relevant Level (f) = max(0, Facility Average Performance Level (f) -
 Facility Adjustment Factor (f))
 
-***Publication of information***
+### ***Publication of information***
 
 Step 19: Publish on the WEM Website by 1 June of Year 1 of the relevant
 Reserve Capacity Cycle on a provisional basis:
@@ -9403,13 +9403,13 @@ the Relevant Demand for each Demand Side Programme, for use in clause
 The Relevant Demand value is to be re-calculated for each Demand Side
 Programme for each Trading Day.
 
-**Step 1**
+### **Step 1**
 
 Identify the 200 Calendar Hours in the previous Capacity Year with the
 highest Total Sent Out Generation. The Calendar Hours do not have to be
 contiguous.
 
-**Step 2**
+### **Step 2**
 
 For each Demand Side Programme, for each Calendar Hour identified in
 Step 1, for each of the Demand Side Programme’s Associated Loads,
@@ -9433,13 +9433,13 @@ Associated Load under clause 4.26.2CB(b), AEMO’s estimate of what the
 consumption of the Associated Load would have been if it had not been
 affected.
 
-**Step 3**
+### **Step 3**
 
 For each Demand Side Programme, for each Calendar Hour identified in
 Step 1, sum the values determined under Step 2 across all the Demand
 Side Programme’s Associated Loads.
 
-**Step 4**
+### **Step 4**
 
 For each Demand Side Programme, rank the 200 values determined under
 Step 3 from lowest to highest.
@@ -9541,7 +9541,7 @@ whether an Ideal Generator Performance Standard or Negotiated Generator
 Performance Standard is intended to apply to a Transmission Connected
 Generating System in respect of a Technical Requirement.
 
-**Use of defined terms in this Appendix 12**
+### **Use of defined terms in this Appendix 12**
 
 Terms defined in Part A12.1 of this Appendix 12 are defined for the
 purposes of this Appendix alone and must not be used to infer the
@@ -9672,29 +9672,29 @@ A12.1. Definitions
 
 In this Appendix 12, the following terms are defined:
 
-**Active Power**: As described in the Technical Rules.
+### **Active Power**: As described in the Technical Rules.
 
-**Adequately Damped**: As described in the Technical Rules.
+### **Adequately Damped**: As described in the Technical Rules.
 
-**Apparent Power**: As described in the Technical Rules.
+### **Apparent Power**: As described in the Technical Rules.
 
-**Asynchronous Generating System**: Means a Generating System comprised
+### **Asynchronous Generating System**: Means a Generating System comprised
 of Asynchronous Generating Units.
 
-**Asynchronous Generating Unit**: Means a Generating Unit that is not a
+### **Asynchronous Generating Unit**: Means a Generating Unit that is not a
 Synchronous Generating Unit.
 
-**Communication Standard**: Means the requirements for the provision of
+### **Communication Standard**: Means the requirements for the provision of
 information to be provided between Network Operators and AEMO as
 described in the WEM Procedure referred to in clause 2.36A.1 and as
 contemplated under section 2.36A.
 
-**Connection Point**: Means the point on the Network Operator’s Network
+### **Connection Point**: Means the point on the Network Operator’s Network
 where the Network Operator’s Primary Equipment (excluding metering
 assets) is connected to the Primary Equipment of the Transmission
 Connected Generating System.
 
-**Continuous Uninterrupted Operation**: In respect of a Generating
+### **Continuous Uninterrupted Operation**: In respect of a Generating
 System or operating Generating Unit within a Transmission Connected
 Generating System that is operating immediately prior to a power system
 disturbance, means:
@@ -9717,21 +9717,21 @@ or permitted by its Registered Generator Performance Standard,
 with all essential auxiliary and reactive Equipment remaining in
 service.
 
-**Control Centre**: Means the facilities used to direct and control the
+### **Control Centre**: Means the facilities used to direct and control the
 operation of a Generating System.
 
-**Control System**: As described in the Technical Rules.
+### **Control System**: As described in the Technical Rules.
 
-**Credible Contingency**: An unplanned disconnection of equipment, or
+### **Credible Contingency**: An unplanned disconnection of equipment, or
 other event, that a Generating System may reasonably be exposed to as
 described in the Technical Rules.
 
-**Critical Fault Clearance Time**: As described in the Technical Rules.
+### **Critical Fault Clearance Time**: As described in the Technical Rules.
 
-**Dispatch**: Means the process of dispatch as described in these WEM
+### **Dispatch**: Means the process of dispatch as described in these WEM
 Rules.
 
-**Dispatch Systems Requirements**: Means the requirements described in
+### **Dispatch Systems Requirements**: Means the requirements described in
 section 2.35.
 
 <table>
@@ -9752,23 +9752,23 @@ only storage devices that are dispatchable.</p></td>
 </tbody>
 </table>
 
-**Electricity Storage**: Means equipment consisting of Storage Works but
+### **Electricity Storage**: Means equipment consisting of Storage Works but
 does not include non-dispatchable Active Power energy storage equipment
 such as a synchronous compensator.
 
-**Equipment**: As described in the Technical Rules.
+### **Equipment**: As described in the Technical Rules.
 
-**Excitation Control System**: As described in the Technical Rules.
+### **Excitation Control System**: As described in the Technical Rules.
 
-**Frequency Dead Band**: The range through which power system frequency
+### **Frequency Dead Band**: The range through which power system frequency
 can vary without the frequency control system initiating an active power
 response.
 
-**Generating System**: As described in the Technical Rules.
+### **Generating System**: As described in the Technical Rules.
 
-**Generating Unit**: As described in the Technical Rules.
+### **Generating Unit**: As described in the Technical Rules.
 
-**Generation**: As described in the Technical Rules.
+### **Generation**: As described in the Technical Rules.
 
 <table>
 <colgroup>
@@ -9788,7 +9788,7 @@ additional clarity on the meaning of “continuously achievable”.</p></td>
 </tbody>
 </table>
 
-**Generator Performance Chart**: Means a chart defining the capability
+### **Generator Performance Chart**: Means a chart defining the capability
 of a Generating System or Generating Unit to produce Active Power while
 producing or consuming Reactive Power. The capability is provided for
 specified ambient conditions and voltage levels at the Measurement
@@ -9799,7 +9799,7 @@ Active Power output for a range of ambient temperatures, while not
 exceeding limits necessary to prevent damage to Equipment and ensure
 compliance with other Technical Requirements.
 
-**Generator Performance Standard**: Means either the Ideal Generator
+### **Generator Performance Standard**: Means either the Ideal Generator
 Performance Standard or Negotiated Generator Performance Standard in
 respect of a Technical Requirement.
 
@@ -9823,7 +9823,7 @@ guidelines.</p></td>
 </tbody>
 </table>
 
-**Maximum Continuous Current**: Means the maximum current capable of
+### **Maximum Continuous Current**: Means the maximum current capable of
 being injected continuously in accordance with the relevant Australian
 Standard or ISO Standard for Synchronous Generating Units and
 Asynchronous Generating Units at the Measurement Location by the
@@ -9850,7 +9850,7 @@ assessment.</p></td>
 </tbody>
 </table>
 
-**Maximum Temperature**: The maximum ambient temperature specified by
+### **Maximum Temperature**: The maximum ambient temperature specified by
 AEMO in consultation with the Network Operator, based on an assessment
 of the physical location of the Generating Units, as described in the
 guidelines published by AEMO under clause 3A.1.5 and recorded in the
@@ -9871,23 +9871,23 @@ reference to.</p></td>
 </tbody>
 </table>
 
-**Measurement Location**: The Connection Point, or another measurement
+### **Measurement Location**: The Connection Point, or another measurement
 location agreed by AEMO and the Network Operator, as specified for the
 relevant Technical Requirement.
 
-**Nameplate Rating**: As described in the Technical Rules.
+### **Nameplate Rating**: As described in the Technical Rules.
 
-**Nomenclature Standards**: As described in the Technical Rules.
+### **Nomenclature Standards**: As described in the Technical Rules.
 
-**Power Factor**: As described in the Technical Rules.
+### **Power Factor**: As described in the Technical Rules.
 
-**Power Station**: As described in the Technical Rules.
+### **Power Station**: As described in the Technical Rules.
 
-**Primary Equipment**: As described in the Technical Rules.
+### **Primary Equipment**: As described in the Technical Rules.
 
-**Protection Scheme**: As described in the Technical Rules.
+### **Protection Scheme**: As described in the Technical Rules.
 
-**Protection System**: As described in the Technical Rules.
+### **Protection System**: As described in the Technical Rules.
 
 <table>
 <colgroup>
@@ -9904,7 +9904,7 @@ this value is recorded.</p></td>
 </tbody>
 </table>
 
-**Rated Maximum Active Power**: The maximum Active Power level that a
+### **Rated Maximum Active Power**: The maximum Active Power level that a
 Generating Unit or Generating System, as applicable, can continuously
 deliver at the Measurement Location, subject to energy source
 availability, in accordance with the requirements of Part A12.2 when the
@@ -9925,7 +9925,7 @@ measured for use in linking to other Technical Requirements.</p></td>
 </tbody>
 </table>
 
-**Rated Maximum Apparent Power**: The maximum Apparent Power level that
+### **Rated Maximum Apparent Power**: The maximum Apparent Power level that
 a Generating Unit or Generating System, as applicable, can continuously
 deliver at the Measurement Location, subject to energy source
 availability, when operating at the extent of the Generator Performance
@@ -9946,7 +9946,7 @@ other Technical Requirements.</p></td>
 </tbody>
 </table>
 
-**Rated Minimum Active Power**: Means
+### **Rated Minimum Active Power**: Means
 
 \(a\) in relation to a Generating Unit, the minimum amount of Active
 Power that the Generating Unit can continuously deliver, subject to
@@ -9958,26 +9958,26 @@ Active Power that its in-service Generating Units can continuously
 deliver, subject to energy source availability, at the Measurement
 Location while maintaining stable operation.
 
-**Reactive Power**: As described in the Technical Rules.
+### **Reactive Power**: As described in the Technical Rules.
 
-**Reactive Power Capability**: Means the required level of Reactive
+### **Reactive Power Capability**: Means the required level of Reactive
 Power performance as specified in Part A12.3 of this Appendix 12.
 
-**Remote Control Equipment** or **RCE**: As described in the Technical
+### **Remote Control Equipment** or **RCE**: As described in the Technical
 Rules.
 
-**Remote Monitoring Equipment** or **RME**: As described in the
+### **Remote Monitoring Equipment** or **RME**: As described in the
 Technical Rules.
 
-**Rise Time**: In relation to a control system, means the time taken for
+### **Rise Time**: In relation to a control system, means the time taken for
 an output quantity to rise from its initial value to 90% of the final
 value induced by a step change of an input quantity, including in
 response to a disturbance as required under section A12.9.
 
-**RoCoF**: Means the rate of change of frequency, expressed in Hertz per
+### **RoCoF**: Means the rate of change of frequency, expressed in Hertz per
 second.
 
-**Settling Time**: In relation to a control system, means the time
+### **Settling Time**: In relation to a control system, means the time
 measured from initiation of a step change in an input quantity to the
 time when the magnitude of error between the output quantity and its
 final settling value remains less than 10% of:
@@ -9988,16 +9988,16 @@ induced in that output quantity; or otherwise
 
 \(b\) the sustained change induced in that output quantity.
 
-**Static Excitation System**: As described in the Technical Rules.
+### **Static Excitation System**: As described in the Technical Rules.
 
-**Synchronism**: As described in the Technical Rules.
+### **Synchronism**: As described in the Technical Rules.
 
-**Synchronous Generating System**: Means a Generating System comprised
+### **Synchronous Generating System**: Means a Generating System comprised
 of Synchronous Generating Units.
 
-**Synchronous Generating Unit**: As described in the Technical Rules.
+### **Synchronous Generating Unit**: As described in the Technical Rules.
 
-**Tap-Changing Transformer**: As described in the Technical Rules.
+### **Tap-Changing Transformer**: As described in the Technical Rules.
 
 <table>
 <colgroup>
@@ -10012,7 +10012,7 @@ how this is used in defining the Technical Requirements.</p></td>
 </tbody>
 </table>
 
-**Target Setpoint**: Means a value specifying a desired operating level
+### **Target Setpoint**: Means a value specifying a desired operating level
 for the Generating Unit or Generating System, as applicable, at the
 relevant location. For example, a desired Active Power, Reactive Power
 or Power Factor.
@@ -10031,20 +10031,20 @@ linking to other Technical Requirements.</p></td>
 </tbody>
 </table>
 
-**Temperature Dependency Data**: Means a set of data defining the
+### **Temperature Dependency Data**: Means a set of data defining the
 maximum achievable Active Power of a Generating System or Generating
 Unit at a particular temperature at the Measurement Location. The data
 will be provided based on a template provided by the Network Operator.
 The data shows the Active Power capability achievable for a range of
 ambient temperatures while meeting all other Technical Requirements.
 
-**Total Fault Clearance Time**: As described in the Technical Rules.
+### **Total Fault Clearance Time**: As described in the Technical Rules.
 
-**Transformer**: As described in the Technical Rules.
+### **Transformer**: As described in the Technical Rules.
 
-**Transmission System**: As described in the Technical Rules.
+### **Transmission System**: As described in the Technical Rules.
 
-**Turbine Control System**: As described in the Technical Rules.
+### **Turbine Control System**: As described in the Technical Rules.
 
 A12.2. Technical Requirement: Active Power Capability
 
@@ -11283,11 +11283,11 @@ milliseconds after T(uv);
 
 Where:
 
-**T(ov)** means a point in time when the voltage first varied above 110%
+### **T(ov)** means a point in time when the voltage first varied above 110%
 of nominal voltage before returning to between 90% and 110% of nominal
 voltage; and
 
-**T(uv)** means a point in time when the voltage first varied below 90%
+### **T(uv)** means a point in time when the voltage first varied below 90%
 of nominal voltage before returning to between 90% and 110% of nominal
 voltage.
 
@@ -11325,11 +11325,11 @@ milliseconds after T(uv) subject to clause A12.8.3.2;
 
 Where:
 
-**T(ov)** means a point in time when the voltage first varied above 110%
+### **T(ov)** means a point in time when the voltage first varied above 110%
 of nominal voltage before returning to between 90% and 110% of nominal
 voltage; and
 
-**T(uv)** means a point in time when the voltage first varied below 90%
+### **T(uv)** means a point in time when the voltage first varied below 90%
 of nominal voltage before returning to between 90% and 110% of nominal
 voltage.
 
@@ -12187,7 +12187,7 @@ Requirement.
 
 Appendix 13: Frequency Operating Standards System Frequency Outcomes
 
-**TABLE 1 – SUMMARY OF SYSTEM FREQUENCY OUTCOMES FOR THE SOUTH WEST
+### **TABLE 1 – SUMMARY OF SYSTEM FREQUENCY OUTCOMES FOR THE SOUTH WEST
 INTERCONNECTED SYSTEM**
 
 <table>
@@ -12250,7 +12250,7 @@ period)</td>
 </tbody>
 </table>
 
-**TABLE 2 – SUMMARY OF SYSTEM FREQUENCY OUTCOMES FOR ISLANDS WITHIN THE
+### **TABLE 2 – SUMMARY OF SYSTEM FREQUENCY OUTCOMES FOR ISLANDS WITHIN THE
 SOUTH WEST INTERCONNECTED SYSTEM**
 
 <table>
@@ -12339,7 +12339,7 @@ SOUTH WEST INTERCONNECTED SYSTEM**
 </tbody>
 </table>
 
-#### Version history
+###### Version history
 
 <table>
 <colgroup>

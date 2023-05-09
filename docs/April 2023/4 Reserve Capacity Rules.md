@@ -30,32 +30,32 @@ related information.</p></li>
 
 The Reserve Capacity Cycle
 
-4.1. The Reserve Capacity Cycle
+### 4.1. The Reserve Capacity Cycle
 
-4.1.1. This section 4.1 sets out the timetable by which the key events
+### 4.1.1. This section 4.1 sets out the timetable by which the key events
 described in this Chapter in respect of each Reserve Capacity Cycle must
 occur. The events described below comprise a single Reserve Capacity
 Cycle, except where otherwise indicated. The Reserve Capacity Cycle will
 be repeated for each Capacity Year.
 
-4.1.1A. Section 4.28C takes precedence over this section 4.1 and events
+### 4.1.1A. Section 4.28C takes precedence over this section 4.1 and events
 described in section 4.28C are not required to comply with the timetable
 in this section 4.1 except where specified in section 4.28C.
 
-4.1.1B. The description of an event in this section 4.1 is for the
+### 4.1.1B. The description of an event in this section 4.1 is for the
 purpose of identifying where it fits into the Reserve Capacity Cycle,
 and does not affect the interpretation of the relevant provisions of
 this Chapter 4.
 
-4.1.1C. AEMO may modify or extend a date or time set under this section
-4.1 and section 4.4B. If AEMO extends a date or time under this clause
-4.1.1C, then it must publish notice of the modified or extended date or
+### 4.1.1C. AEMO may modify or extend a date or time set under this section
+### 4.1 and section 4.4B. If AEMO extends a date or time under this clause
+### 4.1.1C, then it must publish notice of the modified or extended date or
 time on the WEM Website and the modified or extended date or time takes
 effect for the purposes of these WEM Rules.
 
-4.1.2. \[Blank\]
+### 4.1.2. \[Blank\]
 
-4.1.3. Each Reserve Capacity Cycle:
+### 4.1.3. Each Reserve Capacity Cycle:
 
 \(a\) occurs over four successive calendar years (Year 1 to Year 4);
 
@@ -94,7 +94,7 @@ the first Reserve Capacity Cycle.</p></th>
 </tbody>
 </table>
 
-4.1.4. In respect of each Reserve Capacity Cycle, AEMO must advertise a
+### 4.1.4. In respect of each Reserve Capacity Cycle, AEMO must advertise a
 Request for Expressions of Interest in accordance with clause 4.2.4 by
 5:00 PM on or before 15 January of Year 1 of the Reserve Capacity Cycle.
 
@@ -116,9 +116,9 @@ the first Reserve Capacity Cycle.</p></th>
 </tbody>
 </table>
 
-4.1.5. AEMO must allow potential Reserve Capacity providers to respond
+### 4.1.5. AEMO must allow potential Reserve Capacity providers to respond
 to the Request for Expressions of Interest in accordance with section
-4.2 until 5:00 PM on the first Business Day falling on or following 1
+### 4.2 until 5:00 PM on the first Business Day falling on or following 1
 March of Year 1 of a Reserve Capacity Cycle.
 
 <table>
@@ -139,7 +139,7 @@ the first Reserve Capacity Cycle.</p></th>
 </tbody>
 </table>
 
-4.1.6. AEMO must publish a summary of the responses to its Request for
+### 4.1.6. AEMO must publish a summary of the responses to its Request for
 Expressions of Interest in accordance with clause 4.2.7 by 5:00 PM on
 the first Business Day falling on or following 1 April of Year 1 of a
 Reserve Capacity Cycle.
@@ -161,19 +161,19 @@ the first Reserve Capacity Cycle.</p></th>
 </tbody>
 </table>
 
-4.1.7. AEMO must accept lodgement of applications for certification of
+### 4.1.7. AEMO must accept lodgement of applications for certification of
 Reserve Capacity for a Reserve Capacity Cycle in accordance with clause
-4.9.1 from 9:00 AM on the first Business Day falling on or following 14
+### 4.9.1 from 9:00 AM on the first Business Day falling on or following 14
 April of Year 1 of a Reserve Capacity Cycle.
 
-4.1.8. AEMO must publish a Statement of Opportunities Report produced in
+### 4.1.8. AEMO must publish a Statement of Opportunities Report produced in
 accordance with the Long Term PASA process described in clause 4.5.11 by
 5:00 PM on the first Business Day falling on or following 17 June of
 Year 1 of a Reserve Capacity Cycle.
 
-4.1.9. \[Blank\]
+### 4.1.9. \[Blank\]
 
-4.1.10. AEMO must publish on the WEM Website the Reserve Capacity
+### 4.1.10. AEMO must publish on the WEM Website the Reserve Capacity
 Information Pack in accordance with clause 4.7.2 by 5:00 PM on the first
 Business Day falling on or following 17 June of Year 1 of a Reserve
 Capacity Cycle.
@@ -195,7 +195,7 @@ the first Reserve Capacity Cycle.</p></th>
 </tbody>
 </table>
 
-4.1.11. AEMO must cease to accept lodgement of applications for
+### 4.1.11. AEMO must cease to accept lodgement of applications for
 certification of Reserve Capacity for a Reserve Capacity Cycle in
 accordance with clause 4.9.1 from 5:00 PM on the last Business Day
 falling on or before 24 June of Year 1 of a Reserve Capacity Cycle.
@@ -220,7 +220,7 @@ the first Reserve Capacity Cycle.</p></th>
 </tbody>
 </table>
 
-4.1.12. AEMO must notify each applicant for certification of Reserve
+### 4.1.12. AEMO must notify each applicant for certification of Reserve
 Capacity, including applicants for Early Certified Reserve Capacity
 under clause 4.28C.7, of the Certified Reserve Capacity to be assigned
 by 5:00 PM on the last Business Day on or before 12 August of Year 1 of
@@ -243,7 +243,7 @@ Capacity Cycles.</p></th>
 </tbody>
 </table>
 
-4.1.13. Each Market Participant must provide to AEMO any Reserve
+### 4.1.13. Each Market Participant must provide to AEMO any Reserve
 Capacity Security required in accordance with clause 4.13.1 and any DSM
 Reserve Capacity Security required in accordance with clause 4.13A.1 not
 later than 5:00 PM on the last Business Day falling on or before 25
@@ -267,23 +267,23 @@ Cycles.</p></th>
 </tbody>
 </table>
 
-4.1.14. Each Market Participant holding Certified Reserve Capacity for a
+### 4.1.14. Each Market Participant holding Certified Reserve Capacity for a
 Reserve Capacity Cycle must provide to AEMO notification in accordance
 with clause 4.14.1 as to how its Certified Reserve Capacity will be
 dealt with not later than 5:00 PM on the last Business Day falling on or
 before 25 August of Year 1 of a Reserve Capacity Cycle.
 
-4.1.15. By 5:00 PM on the first Business Day following the notification
+### 4.1.15. By 5:00 PM on the first Business Day following the notification
 deadline specified in clause 4.1.14, AEMO must confirm to each Market
 Participant in accordance with clause 4.14.9 the amount of Certified
 Reserve Capacity that can be traded bilaterally from its Facilities.
 
-4.1.15A. AEMO must publish the Certified Reserve Capacity for each
+### 4.1.15A. AEMO must publish the Certified Reserve Capacity for each
 Facility in accordance with clause 4.9.9A by 5:00 PM on the first
 Business Day following the confirmation deadline specified in clause
-4.1.15.
+### 4.1.15.
 
-4.1.16. \[Blank\]
+### 4.1.16. \[Blank\]
 
 <table>
 <colgroup>
@@ -303,7 +303,7 @@ September.</p></th>
 </tbody>
 </table>
 
-4.1.16A. By 5:00 PM on the last Business Day falling on or before 30
+### 4.1.16A. By 5:00 PM on the last Business Day falling on or before 30
 September of Year 1 of a Reserve Capacity Cycle, AEMO must:
 
 \(a\) assign Capacity Credits in accordance with clause 4.20.5A(a);
@@ -323,16 +323,16 @@ determined for each of its Facilities in accordance with clause 4.15.11;
 and
 
 \(d\) publish the information required to be published under clause
-4.15.16.
+### 4.15.16.
 
-4.1.17. \[Blank\]
+### 4.1.17. \[Blank\]
 
-4.1.18. \[Blank\]
+### 4.1.18. \[Blank\]
 
-4.1.18A. AEMO must publish the summary of information described in
+### 4.1.18A. AEMO must publish the summary of information described in
 clause 4.20.5AA by the date and time specified in clause 4.1.16A.
 
-4.1.19. The Economic Regulation Authority must commence a review of the
+### 4.1.19. The Economic Regulation Authority must commence a review of the
 Benchmark Reserve Capacity Price as required by clause 4.16.3 with the
 objective of completing the review, including consideration of public
 submissions in relation to that review, so as to allow a reasonable time
@@ -341,7 +341,7 @@ in value and for that value to be implemented prior to the date and time
 specified in clause 4.1.4 that relates to the following Reserve Capacity
 Cycle.
 
-4.1.20. \[Blank\]
+### 4.1.20. \[Blank\]
 
 <table>
 <colgroup>
@@ -360,7 +360,7 @@ October.</p></th>
 </tbody>
 </table>
 
-4.1.21. A Market Participant may apply to AEMO:
+### 4.1.21. A Market Participant may apply to AEMO:
 
 \(a\) under clause 4.13.2A for a recalculation of the amount of Reserve
 Capacity Security required to be held by AEMO for a Facility in
@@ -395,19 +395,19 @@ when the nomination must occur.</p></th>
 </tbody>
 </table>
 
-4.1.21A. By 5:00 PM on the last Business Day falling on or before 30
+### 4.1.21A. By 5:00 PM on the last Business Day falling on or before 30
 October of Year 1 of a Reserve Capacity Cycle, each relevant Market
 Participant must notify AEMO of the number of Capacity Credits that are
 to be associated with each component of their Facility for the Capacity
 Year in accordance with clause 4.20.16.
 
-4.1.21B. If required under clause 4.20.8, AEMO must issue a Notice of
+### 4.1.21B. If required under clause 4.20.8, AEMO must issue a Notice of
 Intention to Cancel Capacity Credits by 5:00 PM on the last Business Day
 falling on or before 15 August of Year 3 of a Reserve Capacity Cycle,
 where the notice relates to the Capacity Year that commences on 1
 October of Year 3 of that Reserve Capacity Cycle.
 
-4.1.22. Within five Business Days after the notification deadline
+### 4.1.22. Within five Business Days after the notification deadline
 specified in clause 4.1.21A, AEMO must:
 
 \(a\) set the number of Capacity Credits to be associated with each
@@ -415,7 +415,7 @@ component of a Facility in accordance with clause 4.20.17; and
 
 \(b\) publish the information in clause 4.1.22(a) on the WEM Website.
 
-4.1.23. Each Market Participant must provide to AEMO the information
+### 4.1.23. Each Market Participant must provide to AEMO the information
 described in clause 4.28.8 by 5:00 PM on the last Business Day falling
 on or before 20 August of Year 3 of a Reserve Capacity Cycle.
 
@@ -438,14 +438,14 @@ the Tranche 5 Amendments).</p></th>
 </tbody>
 </table>
 
-4.1.23A. For each Hot Season, AEMO must determine and publish the 12
+### 4.1.23A. For each Hot Season, AEMO must determine and publish the 12
 Peak SWIS Trading Intervals within five Business Days after the Interval
 Meter Deadline for the Trading Week containing the last Trading Day of
 the last Trading Month in the relevant Hot Season. For the avoidance of
 doubt, AEMO must not revise the 12 Peak SWIS Trading Intervals after
 their publication.
 
-4.1.23B. For each Trading Month, AEMO must determine and publish the 4
+### 4.1.23B. For each Trading Month, AEMO must determine and publish the 4
 Peak SWIS Trading Intervals within five Business Days after the Interval
 Meter Deadline for the Trading Week containing the last Trading Day of
 the relevant Trading Month. For the avoidance of doubt, AEMO must not
@@ -468,7 +468,7 @@ Participant.</p></th>
 </tbody>
 </table>
 
-4.1.23C. For each Trading Month, AEMO must determine and provide to each
+### 4.1.23C. For each Trading Month, AEMO must determine and provide to each
 Market Participant that Market Participant’s Indicative Individual
 Reserve Capacity Requirement in accordance with clause 4.28.6 by 5:00 PM
 on the Business Day that is 10 Business Days prior to the start of the
@@ -483,20 +483,20 @@ relevant Trading Month.
 <th><p><strong>Explanatory Note</strong></p>
 <p>Amendments to clause 4.1.24 made for weekly settlement and for
 registration taxonomy. See also the Explantory Note to clause
-4.1.23C.</p></th>
+### 4.1.23C.</p></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
 
-4.1.24. For each Trading Month, AEMO must determine and provide to each
+### 4.1.24. For each Trading Month, AEMO must determine and provide to each
 Market Participant that Market Participant’s Individual Reserve Capacity
 Requirement in accordance with clause 4.28.7 by 5:00 PM on the
 Settlement Statement Date for the Trading Week containing the first
 Trading Day in the relevant Trading Month.
 
-4.1.25. \[Blank\]
+### 4.1.25. \[Blank\]
 
 <table>
 <colgroup>
@@ -509,17 +509,17 @@ Trading Day in the relevant Trading Month.
 Auction being deleted and to remove redundant references to previous
 Reserve Capacity Cycles.</p>
 <p>In particular, clauses 4.1.26(d)(ii)(1), 4.1.26(d)(ii)(2),
-4.1.26(e)(iii)(3) and 4.1.26(e)(ii)(4) refer to the date in clause
-4.1.12 (i.e. 12 August of Year 1 of the Reserve Capacity Cycle) instead
+### 4.1.26(e)(iii)(3) and 4.1.26(e)(ii)(4) refer to the date in clause
+### 4.1.12 (i.e. 12 August of Year 1 of the Reserve Capacity Cycle) instead
 of the scheduled date of the Reserve Capacity Auction in clause
-4.1.18(a).</p></th>
+### 4.1.18(a).</p></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
 
-4.1.26. Reserve Capacity Obligations apply:
+### 4.1.26. Reserve Capacity Obligations apply:
 
 \(a\) \[Blank\]
 
@@ -540,7 +540,7 @@ ii\. where AEMO has determined in accordance with clause 4.20.5A(aA)
 that the Reserve Capacity Requirement has not been met with the Capacity
 Credits assigned for Year 3 of the Reserve Capacity Cycle for which no
 Reserve Capacity Security was required to be provided under section
-4.13:
+### 4.13:
 
 1\. from the Trading Day commencing on 1 October of Year 3 of the
 Reserve Capacity Cycle, for Facilities that were commissioned as at 17
@@ -566,7 +566,7 @@ Cycle; and
 
 i\. from the Trading Day commencing 1 October of Year 3 of the Reserve
 Capacity Cycle, where AEMO has determined in accordance with clause
-4.20.5A(aA) that the Reserve Capacity Requirement has been met or
+### 4.20.5A(aA) that the Reserve Capacity Requirement has been met or
 exceeded with the Capacity Credits assigned for Year 3 of the Reserve
 Capacity Cycle:
 
@@ -599,7 +599,7 @@ Reserve Capacity Cycle;
 
 5\. on the scheduled date of commissioning, as specified in accordance
 with clause 4.10.1(c)(iii)(7), or as revised in accordance with clause
-4.27.11A, for Facilities commissioned between 1 June of Year 3 of the
+### 4.27.11A, for Facilities commissioned between 1 June of Year 3 of the
 Reserve Capacity Cycle and 1 October of Year 3 of the Reserve Capacity
 Cycle; or
 
@@ -607,9 +607,9 @@ Cycle; or
 Producing Systems undertaking Commissioning Tests after 1 October of
 Year 3 of the Reserve Capacity Cycle.
 
-4.1.27. \[Blank\]
+### 4.1.27. \[Blank\]
 
-4.1.28. \[Blank\]
+### 4.1.28. \[Blank\]
 
 <table>
 <colgroup>
@@ -626,13 +626,13 @@ Reserve Capacity Cycles.</p></th>
 </tbody>
 </table>
 
-4.1.29. The Reserve Capacity Price and each Facility Monthly Reserve
+### 4.1.29. The Reserve Capacity Price and each Facility Monthly Reserve
 Capacity Price for a Reserve Capacity Cycle apply from the start of the
 Trading Day commencing on 1 October of Year 3 of the Reserve Capacity
 Cycle to the end of the Trading Day ending on 1 October of Year 4 of the
 Reserve Capacity Cycle.
 
-4.1.30. The Reserve Capacity Obligations for a Facility arising through
+### 4.1.30. The Reserve Capacity Obligations for a Facility arising through
 holding Capacity Credits for a Reserve Capacity Cycle cease to apply
 from:
 
@@ -652,7 +652,7 @@ Capacity Cycle and 1 October of Year 4 of the Reserve Capacity Cycle.
 <tr class="header">
 <th><p><strong>Explanatory Note</strong></p>
 <p>Clauses 4.1.31 to 4.1.33 are deleted as a consequence of clauses
-4.1.34 to 4.1.38 being deleted.</p>
+### 4.1.34 to 4.1.38 being deleted.</p>
 <p>Clauses 4.1.34, 4.1.35, 4.1.36, 4.1.37 and 4.1.38 are deleted as the
 Constrained Access Certification Review referred to in those clauses is
 now redundant.</p></th>
@@ -714,10 +714,10 @@ reduced.</p></th>
 </tbody>
 </table>
 
-4.1A. Initial Network Access Quantities for the 2022 Reserve Capacity
+### 4.1A. Initial Network Access Quantities for the 2022 Reserve Capacity
 Cycle and Capacity Credit Uplift
 
-4.1A.1. For the 2022 Reserve Capacity Cycle, AEMO must determine an
+### 4.1A.1. For the 2022 Reserve Capacity Cycle, AEMO must determine an
 Initial Network Access Quantity in accordance with clause 4.1A.2 for
 each Facility, other than a GIA Facility, that:
 
@@ -726,7 +726,7 @@ and
 
 \(b\) has been assigned Certified Reserve Capacity for the 2022 Reserve
 Capacity Cycle that is intended to be traded bilaterally under clause
-4.14.1(c).
+### 4.14.1(c).
 
 <table>
 <colgroup>
@@ -738,14 +738,14 @@ Capacity Cycle that is intended to be traded bilaterally under clause
 <p>Clause 4.1A.2(a) is amended to reflect that a Non-Scheduled Facility
 comprising a Non-Intermittent Generation System or Electric Storage
 Resource may also be assessed under the methodology described in clause
-4.11.2(b).</p></th>
+### 4.11.2(b).</p></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
 
-4.1A.2. The Initial Network Access Quantity to be determined by AEMO
+### 4.1A.2. The Initial Network Access Quantity to be determined by AEMO
 under clause 4.1A.1 for a Facility is a quantity, in MW, equal to:
 
 \(a\) where the Facility, or a component of the Facility, has been
@@ -763,17 +763,17 @@ ii\. the Certified Reserve Capacity assigned to the Facility for the
 2022 Reserve Capacity Cycle that is intended to be traded bilaterally in
 accordance with 4.14.1(c).
 
-4.1A.3. Each Initial Network Access Quantity is to be expressed to a
+### 4.1A.3. Each Initial Network Access Quantity is to be expressed to a
 precision of 0.001 MW.
 
-4.1A.4. Subject to clause 4.1A.6, for the 2022 Reserve Capacity Cycle,
+### 4.1A.4. Subject to clause 4.1A.6, for the 2022 Reserve Capacity Cycle,
 where a Facility, other than a GIA Facility, is assigned a Network
 Access Quantity in accordance with section 4.15 that is less than the
 Initial Network Access Quantity determined by AEMO under clause 4.1A.1,
 AEMO must record the difference as the CC Uplift Quantity for the
 Facility (“**CC Uplift Quantity**”).
 
-4.1A.5. Where, in respect of a Reserve Capacity Cycle:
+### 4.1A.5. Where, in respect of a Reserve Capacity Cycle:
 
 \(a\) a CC Uplift Quantity has been determined for a Facility; and
 
@@ -786,13 +786,13 @@ then AEMO must reduce the CC Uplift Quantity so that the Network Access
 Quantity and the revised CC Uplift Quantity equals the Certified Reserve
 Capacity for the Facility for the Reserve Capacity Cycle.
 
-4.1A.6. At any time the maximum amount of CC Uplift Quantity is to be
+### 4.1A.6. At any time the maximum amount of CC Uplift Quantity is to be
 the sum recorded by AEMO under clause 4.1A.4, as may be reduced by AEMO
 under clause 4.1A.5. To avoid doubt, a CC Uplift Quantity, as may be
 reduced under clause 4.1A.5, may not be increased in any subsequent
 Reserve Capacity Cycle.
 
-4.1A.7. Any CC Uplift Quantity is deemed to be a Capacity Credit in the
+### 4.1A.7. Any CC Uplift Quantity is deemed to be a Capacity Credit in the
 same quantities and subject to the same obligations including testing
 requirements, refunds, payment arrangements and all other provisions
 applicable to Capacity Credits (including the determination of the
@@ -817,24 +817,24 @@ as below.</p></th>
 </tbody>
 </table>
 
-4.1A.8. AEMO must publish the CC Uplift Quantity for each applicable
+### 4.1A.8. AEMO must publish the CC Uplift Quantity for each applicable
 Facility.
 
 The Reserve Capacity Expression of Interest
 
-4.2. The Reserve Capacity Expression of Interest Process
+### 4.2. The Reserve Capacity Expression of Interest Process
 
-4.2.1. The purpose of the Reserve Capacity Expression of Interest is for
+### 4.2.1. The purpose of the Reserve Capacity Expression of Interest is for
 a person to notify AEMO of the amount of new Energy Producing System and
 Demand Side Management capacity they intend to make available as Reserve
 Capacity in the Capacity Year to which the Expression of Interest
 relates. To avoid doubt, a Market Participant or other person, as
 applicable, must submit an Expression of Interest as a condition of
 being eligible to seek certification of Reserve Capacity under section
-4.8 for any new capacity, which includes an upgrade of a Facility, in
+### 4.8 for any new capacity, which includes an upgrade of a Facility, in
 the Reserve Capacity Cycle to which the Expression of Interest relates.
 
-4.2.2. AEMO must prepare a Request for Expressions of Interest which
+### 4.2.2. AEMO must prepare a Request for Expressions of Interest which
 includes the information described in clause 4.3.1.
 
 <table>
@@ -852,13 +852,13 @@ the Request for Expression of Interest on the WEM Website.</p></th>
 </tbody>
 </table>
 
-4.2.3. The Request for Expression of Interest is to be made available:
+### 4.2.3. The Request for Expression of Interest is to be made available:
 
 \(a\) on the WEM Website; and
 
 \(b\) to any person on application to AEMO.
 
-4.2.4. By the date and time specified in clause 4.1.4, AEMO must have
+### 4.2.4. By the date and time specified in clause 4.1.4, AEMO must have
 advertised the Request for Expression of Interest, including how to
 obtain the Request for Expression of Interest:
 
@@ -867,11 +867,11 @@ obtain the Request for Expression of Interest:
 \(b\) in local and national media which, in the opinion of AEMO, is
 likely to be seen by potential suppliers of Reserve Capacity.
 
-4.2.5. At its discretion, AEMO may continue to advertise and promote the
+### 4.2.5. At its discretion, AEMO may continue to advertise and promote the
 Request for Expression of Interest until the deadline for submissions of
 Expression of Interest specified in clause 4.2.6.
 
-4.2.6. Expressions of Interest must be provided to AEMO by the time and
+### 4.2.6. Expressions of Interest must be provided to AEMO by the time and
 date specified in clause 4.1.5 and must contain the information
 described in clause 4.4.1.
 
@@ -892,14 +892,14 @@ the information that AEMO must publish in relation to Reserve Capacity
 Expressions of Interest. This change effectively removes duplicated
 information which may otherwise provide a misleading indication of the
 additional Reserve Capacity potentially available under clause
-4.2.7(b).</p></th>
+### 4.2.7(b).</p></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
 
-4.2.7. By the date and time specified in clause 4.1.6, AEMO must publish
+### 4.2.7. By the date and time specified in clause 4.1.6, AEMO must publish
 the following information:
 
 \(a\) the total number of Expressions of Interest received;
@@ -909,7 +909,7 @@ Expressions of Interest for EOI Facility Variants that have not been
 nominated under clause 4.4.2;
 
 \(b\) based on the Expressions of Interest referred to in clause
-4.2.7(aA), the additional Reserve Capacity potentially available,
+### 4.2.7(aA), the additional Reserve Capacity potentially available,
 categorised as:
 
 i\. capacity associated with Facilities that are committed; and
@@ -968,7 +968,7 @@ included in the Request for Expression of Interest.
 <tr class="header">
 <th><p><strong>Explanatory Note</strong></p>
 <p>Clauses 4.3.1(c)(iii), 4.3.1(i)(v), 4.3.1(i)(vi), 4.3.1(i)(vii) and
-4.3.1(i)(viii) are deleted as a consequence of the Reserve Capacity
+### 4.3.1(i)(viii) are deleted as a consequence of the Reserve Capacity
 Auction being deleted.</p>
 <p>Clause 4.3.1(i)(ix) is amended to improving the formatting of the
 clause.</p>
@@ -986,9 +986,9 @@ Interest.</p></th>
 </tbody>
 </table>
 
-4.3. Information to be Included in a Request for Expression of Interest
+### 4.3. Information to be Included in a Request for Expression of Interest
 
-4.3.1. A Request for Expression of Interest for a Reserve Capacity Cycle
+### 4.3.1. A Request for Expression of Interest for a Reserve Capacity Cycle
 must include the following information:
 
 \(a\) a request for a response by interested parties not later than the
@@ -1019,7 +1019,7 @@ Facility; and
 
 viii\. the aggregate quantity of MW of Capacity Credits assigned to
 Facilities at each of the prices referred to in clauses 4.3.1(c)(vi) and
-4.3.1(c)(vii);
+### 4.3.1(c)(vii);
 
 \(d\) the number of Capacity Credits which AEMO expects to be traded
 bilaterally in accordance with clause 4.14.1(c);
@@ -1111,9 +1111,9 @@ under clause 4.8.2.</p></th>
 </tbody>
 </table>
 
-4.4. Information to be Included in an Expression of Interest
+### 4.4. Information to be Included in an Expression of Interest
 
-4.4.1. An Expression of Interest for a Reserve Capacity Cycle must
+### 4.4.1. An Expression of Interest for a Reserve Capacity Cycle must
 include the following information:
 
 \(a\) the identity of the person proposing to provide Reserve Capacity
@@ -1144,7 +1144,7 @@ location;
 
 (bC) whether the Expression of Interest is for an EOI Facility Variant
 and, if so, whether the Expression of Interest is nominated under clause
-4.4.2;
+### 4.4.2;
 
 \(c\) the maximum Reserve Capacity anticipated to be available from each
 Facility;
@@ -1182,11 +1182,11 @@ date the application was submitted to the Network Operator; and
 \(e\) any other information specified by AEMO in the Request for
 Expression of Interest under clause 4.3.1(j).
 
-4.4.2. A person who submits two or more Expressions of Interest for EOI
+### 4.4.2. A person who submits two or more Expressions of Interest for EOI
 Facility Variants must nominate one Expression of Interest to be used by
 AEMO for the purposes of clauses 4.2.7(b) and 4.4B.4.
 
-4.4.3. If:
+### 4.4.3. If:
 
 \(a\) a person submits two or more Expressions of Interest and does not
 specify that any of the Expressions of Interest is for an EOI Facility
@@ -1197,7 +1197,7 @@ Interest are for EOI Facility Variants,
 
 AEMO may (after using reasonable endeavours to consult with the person)
 select one Expression of Interest to use for the purposes of clauses
-4.2.7(b) and 4.4B.4. The Expression of Interest selected by AEMO is
+### 4.2.7(b) and 4.4B.4. The Expression of Interest selected by AEMO is
 deemed to be the Expression of Interest nominated by the person under
 clause 4.4.2.
 
@@ -1236,12 +1236,12 @@ requirement applies to.</p></th>
 </tbody>
 </table>
 
-4.4A. Notification of Facility Ceasing Operation
+### 4.4A. Notification of Facility Ceasing Operation
 
-4.4A.1. Where a Facility, that is not a Demand Side Programme with less
+### 4.4A.1. Where a Facility, that is not a Demand Side Programme with less
 than 10 MW of Capacity Credits assigned to the Demand Side Programme at
 the time the notice is given or required to be given under this clause
-4.4A.1 or a Non-Scheduled Facility, is to cease operation permanently,
+### 4.4A.1 or a Non-Scheduled Facility, is to cease operation permanently,
 the Market Participant to whom that Facility is registered must:
 
 \(a\) notify AEMO of the expected closure date of the Facility in
@@ -1271,7 +1271,7 @@ the priority order in Appendix 3.</p></th>
 </tbody>
 </table>
 
-4.4A.2. AEMO must within five Business Days after receiving a notice
+### 4.4A.2. AEMO must within five Business Days after receiving a notice
 under clause 4.4A.1, publish the following information on the WEM
 Website:
 
@@ -1294,15 +1294,15 @@ MW; and
 \(f\) the Network Access Quantity assigned to the Facility at the time
 of the notice and for any subsequent Reserve Capacity Cycle.
 
-4.4A.3. A Market Participant must, as soon as practicable, notify AEMO
+### 4.4A.3. A Market Participant must, as soon as practicable, notify AEMO
 of any changes to the expected closure date of a Facility by amending
 the notice given under clause 4.4A.1.
 
-4.4A.4. AEMO must within five Business Days after receiving notification
+### 4.4A.4. AEMO must within five Business Days after receiving notification
 under clause 4.4A.3, publish the revised expected closure date of the
 Facility on the WEM Website.
 
-4.4A.5. A notice under clause 4.4A.1, as may be amended in accordance
+### 4.4A.5. A notice under clause 4.4A.1, as may be amended in accordance
 with clause 4.4A.3, may specify an expected closure date of less than
 three years where:
 
@@ -1318,11 +1318,11 @@ due to reasons beyond its control that were not reasonably foreseeable,
 
 and as a result the Facility is to cease operation permanently.
 
-4.4A.6. A Market Participant may, by notice in writing to AEMO, withdraw
+### 4.4A.6. A Market Participant may, by notice in writing to AEMO, withdraw
 a notice given under clause 4.4A.1 if the withdrawal is made in good
 faith.
 
-4.4A.7. AEMO must within five Business Days after receiving a notice
+### 4.4A.7. AEMO must within five Business Days after receiving a notice
 under clause 4.4A.6, publish notification of the withdrawal of a notice
 under clause 4.4A.1 on the WEM Website.
 
@@ -1352,9 +1352,9 @@ of Reserve Capacity closes.</p></th>
 </tbody>
 </table>
 
-4.4B. RCM Limit Advice and RCM Constraint Equations
+### 4.4B. RCM Limit Advice and RCM Constraint Equations
 
-4.4B.1. Each Network Operator must provide RCM Limit Advice to AEMO in
+### 4.4B.1. Each Network Operator must provide RCM Limit Advice to AEMO in
 respect to its Network in accordance with this section 4.4B and section
 2.27A.
 
@@ -1377,7 +1377,7 @@ Cycle.</p></th>
 </tbody>
 </table>
 
-4.4B.2. By 5:00 PM on the last Business Day falling on or before 8 March
+### 4.4B.2. By 5:00 PM on the last Business Day falling on or before 8 March
 in Year 1 of a Reserve Capacity Cycle, AEMO must provide each Network
 Operator, in respect of its Network for the Reserve Capacity Cycle:
 
@@ -1416,7 +1416,7 @@ Network.</p></th>
 </tbody>
 </table>
 
-4.4B.3. By 5:00 PM on the last Business Day falling on or before 15
+### 4.4B.3. By 5:00 PM on the last Business Day falling on or before 15
 April in Year 1 of a Reserve Capacity Cycle, each Network Operator must,
 in respect of its Network, reasonably estimate the configuration at peak
 demand, and associated Thermal Network Limits of its Network:
@@ -1462,7 +1462,7 @@ only one EOI Facility Variant.</p></th>
 </tbody>
 </table>
 
-4.4B.4. Subject to clause 4.4B.4A, AEMO must formulate Preliminary RCM
+### 4.4B.4. Subject to clause 4.4B.4A, AEMO must formulate Preliminary RCM
 Constraint Equations and RCM Constraint Equations in accordance with
 this section 4.4B. In formulating Preliminary RCM Constraint Equations
 and RCM Constraint Equations, AEMO must:
@@ -1478,7 +1478,7 @@ time specified in clause 4.4B.5, use Non-Thermal Network Limits which,
 in its reasonable opinion, most closely represent the expected
 Non-Thermal Network Limit for the Facility.
 
-4.4B.4A. AEMO is not required to formulate Preliminary RCM Constraint
+### 4.4B.4A. AEMO is not required to formulate Preliminary RCM Constraint
 Equations for a Facility that is an EOI Facility Variant unless the
 Expression of Interest is:
 
@@ -1501,7 +1501,7 @@ required to provide to AEMO with respect to its Network.</p></th>
 </tbody>
 </table>
 
-4.4B.5. By 5:00 PM on the last Business Day falling on or before 15
+### 4.4B.5. By 5:00 PM on the last Business Day falling on or before 15
 April in Year 1 of a Reserve Capacity Cycle, each Network Operator must
 provide the following information in respect of its Network to AEMO:
 
@@ -1524,7 +1524,7 @@ by 1 October of Year 3 of the Reserve Capacity Cycle;
 \(d\) in the form of RCM Limit Advice, its estimate of the configuration
 and associated Thermal Network Limits of its Network as at 1 October of
 Year 3 of the current Reserve Capacity Cycle determined under clause
-4.4B.3; and
+### 4.4B.3; and
 
 \(e\) an explanation for any changes to the RCM Limit Advice provided to
 AEMO for the Reserve Capacity Cycle from the RCM Limit Advice provided
@@ -1549,12 +1549,12 @@ glossary is amended accordingly.</p></th>
 </tbody>
 </table>
 
-4.4B.6. By 5:00 PM on the last Business Day falling on or before 20 May
+### 4.4B.6. By 5:00 PM on the last Business Day falling on or before 20 May
 in Year 1 of the Reserve Capacity Cycle, AEMO must publish the following
 information in the Constraints Library for the Reserve Capacity Cycle:
 
 \(a\) the information provided by each Network Operator under clause
-4.4B.5; and
+### 4.4B.5; and
 
 \(b\) the Preliminary RCM Constraint Equations.
 
@@ -1573,16 +1573,16 @@ payments for Demand Side Programmes ceasing from the 2019 Reserve
 Capacity Cycle (i.e. from the 2021 Capacity Year). However, as this
 companion version of the WEM Rules does not show deletions, please refer
 to the October 2021 RCM Pricing Amendments to see the changes to section
-4.5.</p></th>
+### 4.5.</p></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
 
-4.5. Long Term Projected Assessment of System Adequacy
+### 4.5. Long Term Projected Assessment of System Adequacy
 
-4.5.1. The Long Term PASA must be performed annually by AEMO and must
+### 4.5.1. The Long Term PASA must be performed annually by AEMO and must
 address each of the years in the Long Term PASA Study Horizon.
 
 <table>
@@ -1601,7 +1601,7 @@ and not Facility Classes.</p></th>
 </tbody>
 </table>
 
-4.5.2. The Long Term PASA must take into account:
+### 4.5.2. The Long Term PASA must take into account:
 
 \(a\) demand growth scenarios, including peak and annual energy
 requirements;
@@ -1620,7 +1620,7 @@ plans, losses and constraints;
 
 \(f\) expected Electric Storage Resource capabilities.
 
-4.5.2A. AEMO must determine an estimate of the Reserve Capacity required
+### 4.5.2A. AEMO must determine an estimate of the Reserve Capacity required
 to cover the forecast cumulative needs of Intermittent Loads such that:
 
 \(a\) this Reserve Capacity estimate is in addition to the Reserve
@@ -1641,7 +1641,7 @@ in clause 4.5.10(b)(ii);
 
 ii\. minus one.
 
-4.5.3. AEMO must notify Rule Participants of the information that it
+### 4.5.3. AEMO must notify Rule Participants of the information that it
 requires from them in the areas described in clause 4.5.2, in respect of
 each year of the Long Term PASA Study Horizon, no later than 1 April of
 Year 1 of the relevant Reserve Capacity Cycle.
@@ -1661,7 +1661,7 @@ Loads that are not yet registered.</p></th>
 </tbody>
 </table>
 
-4.5.3A. The information requested by AEMO under clause 4.5.3 must
+### 4.5.3A. The information requested by AEMO under clause 4.5.3 must
 include a request for Market Participants to provide to AEMO, for
 Intermittent Loads and Loads that are expected to be operating as
 Intermittent Loads during the second Capacity Year commencing during the
@@ -1679,27 +1679,27 @@ The Market Participant must provide evidence to AEMO of this Contractual
 Maximum Demand level unless AEMO has previously been provided with that
 evidence.
 
-4.5.4. Rule Participants must provide the data requested by AEMO in
+### 4.5.4. Rule Participants must provide the data requested by AEMO in
 accordance with clause 4.5.3 within 15 Business Days from the date of
 that request.
 
-4.5.5. AEMO may request from persons who are not Rule Participants
+### 4.5.5. AEMO may request from persons who are not Rule Participants
 information in the areas described in clause 4.5.2 in respect of each
 year of the Long Term PASA Study Horizon.
 
-4.5.6. AEMO must review the information provided to it in accordance
+### 4.5.6. AEMO must review the information provided to it in accordance
 with clause 4.5.4 and as a result of a request under clause 4.5.5, and
 where necessary, seek clarifications.
 
-4.5.7. AEMO must treat all information provided to it in accordance with
+### 4.5.7. AEMO must treat all information provided to it in accordance with
 clauses 4.5.4, 4.5.5 and 4.5.6 as confidential except where the provider
 has granted permission for its release or as otherwise provided under
 these WEM Rules. However, AEMO may release any such information as part
 of an unidentifiable component of an aggregate number in a Statement of
 Opportunities Report.
 
-4.5.8. Where information provided to AEMO in accordance with clauses
-4.5.4, 4.5.5 and 4.5.6 is not adequate or is insufficient for the
+### 4.5.8. Where information provided to AEMO in accordance with clauses
+### 4.5.4, 4.5.5 and 4.5.6 is not adequate or is insufficient for the
 purpose for which it is required, AEMO may make its own estimate and use
 that estimate in place of information provided in accordance with
 clauses 4.5.4, 4.5.5 and 4.5.6.
@@ -1724,7 +1724,7 @@ maximum transfer capability of the Network to meet demand.</p></th>
 </tbody>
 </table>
 
-4.5.9. The Planning Criterion to be used by AEMO in undertaking a Long
+### 4.5.9. The Planning Criterion to be used by AEMO in undertaking a Long
 Term PASA study is that there should be sufficient available capacity in
 each Capacity Year during the Long Term PASA Study Horizon to:
 
@@ -1765,7 +1765,7 @@ of the WEM Rules and to reflect new terminology.</p></th>
 </tbody>
 </table>
 
-4.5.10. AEMO must use the information assembled to:
+### 4.5.10. AEMO must use the information assembled to:
 
 \(a\) assess the extent to which the anticipated installed capacity of
 the Energy Producing Systems and Demand Side Management capacity is
@@ -1821,12 +1821,12 @@ described in clause 4.5.10(a)(iv); and
 
 ii\. the difference between the Reserve Capacity Target for the Capacity
 Year and the maximum of the quantities determined under clause
-4.5.10(e)(i) for the Trading Intervals in the Capacity Year.
+### 4.5.10(e)(i) for the Trading Intervals in the Capacity Year.
 
-4.5.11. AEMO must publish the Statement of Opportunities Report for a
+### 4.5.11. AEMO must publish the Statement of Opportunities Report for a
 Reserve Capacity Cycle by the date specified in clause 4.1.8.
 
-4.5.12. For the second and third Capacity Years of the Long Term PASA
+### 4.5.12. For the second and third Capacity Years of the Long Term PASA
 Study Horizon, AEMO must determine the following information:
 
 \(a\) \[Blank\]
@@ -1873,7 +1873,7 @@ effect of such network congestion.</p></th>
 </tbody>
 </table>
 
-4.5.13. The Statement of Opportunities Report must include:
+### 4.5.13. The Statement of Opportunities Report must include:
 
 \(a\) the input information assembled by AEMO in performing the Long
 Term PASA study including, for each Capacity Year of the Long Term PASA
@@ -1919,13 +1919,13 @@ to the Reserve Capacity Target and to capacity requirements in
 Electrical Locations of the SWIS;
 
 (eA) information used by AEMO to apportion peak demand under clause
-4.5.10(a)(iv) across Electrical Locations reflecting information
+### 4.5.10(a)(iv) across Electrical Locations reflecting information
 provided under clause 4.4B.5;
 
 (eB) for each Capacity Year of the Long Term PASA Horizon:
 
 i\. any planned changes (other than augmentations covered by clause
-4.5.13(eB)(ii)) that are expected to impact Network limits or
+### 4.5.13(eB)(ii)) that are expected to impact Network limits or
 constraints;
 
 ii\. any planned augmentations to the SWIS, including augmentations to
@@ -1946,10 +1946,10 @@ the Long Term PASA Study Horizon; and
 \(g\) the quantities determined under clause 4.5.12 for the second and
 third Capacity Years of the Long Term PASA Study Horizon.
 
-4.5.14. AEMO must document the procedure it follows in conducting the
+### 4.5.14. AEMO must document the procedure it follows in conducting the
 Long Term PASA in a WEM Procedure.
 
-4.5.15. From time to time, and at least once in every five year period
+### 4.5.15. From time to time, and at least once in every five year period
 starting from 1 July 2021 the Coordinator, with the assistance of AEMO,
 must conduct a review of the Planning Criterion and the process in the
 WEM Procedure specified in clause 4.5.14 by which AEMO forecasts SWIS
@@ -1960,7 +1960,7 @@ peak demand. This review must include:
 \(b\) a cost-benefit study on the effects on stakeholders of a variety
 of levels of generation adequacy.
 
-4.5.16. In conducting a review under clause 4.5.15, the Coordinator must
+### 4.5.16. In conducting a review under clause 4.5.15, the Coordinator must
 invite submissions on the performance of the Planning Criterion and the
 process by which AEMO forecasts SWIS peak demand from Rule Participants,
 and must specify a reasonable time by which submissions must be lodged.
@@ -1968,14 +1968,14 @@ The Coordinator must take into account in the review any submissions
 received within the time specified, and may take into account any late
 submission.
 
-4.5.17. The Coordinator must make available a draft of the report
+### 4.5.17. The Coordinator must make available a draft of the report
 described in clause 4.5.18 to Rule Participants for comment and invite
 submissions on the draft report. The Coordinator must specify a
 reasonable time by which submissions must be lodged, and must take into
 account any submissions received within the time specified, and may take
 into account any late submission.
 
-4.5.18. After concluding the review described in clause 4.5.15, the
+### 4.5.18. After concluding the review described in clause 4.5.15, the
 Coordinator must publish a final report containing:
 
 \(a\) issues identified by the Coordinator;
@@ -1998,7 +1998,7 @@ submissions; and
 
 \(h\) any recommended changes to the Planning Criterion.
 
-4.5.19. Where the Coordinator finds that a change to the process by
+### 4.5.19. Where the Coordinator finds that a change to the process by
 which AEMO forecasts SWIS peak demand would be beneficial in light of
 the Wholesale Market Objectives, it must:
 
@@ -2006,7 +2006,7 @@ the Wholesale Market Objectives, it must:
 
 \(b\) make a Procedure Change Proposal to implement the change.
 
-4.5.20. If the Coordinator contracts with a third party to conduct any
+### 4.5.20. If the Coordinator contracts with a third party to conduct any
 analysis required under this section 4.5, then:
 
 \(a\) the Coordinator must ensure that the third party is familiar with
@@ -2033,29 +2033,29 @@ overall regulatory framework for future Whole of System Plans.</p></th>
 </tbody>
 </table>
 
-4.5A. Whole of System Plan
+### 4.5A. Whole of System Plan
 
-4.5A.1. The Coordinator must prepare and publish on the Coordinator’s
+### 4.5A.1. The Coordinator must prepare and publish on the Coordinator’s
 Website a Whole of System Plan in accordance with this section 4.5A.
 
-4.5A.2. The Coordinator must prepare and publish a Whole of System Plan
+### 4.5A.2. The Coordinator must prepare and publish a Whole of System Plan
 by 30 September 2025 and then at least once every five years thereafter.
 
-4.5A.3. If, after a Whole of System Plan is published, new information
+### 4.5A.3. If, after a Whole of System Plan is published, new information
 becomes available that, in the Coordinator’s opinion, may materially
 affect one or more of the outcomes specified in the current Whole of
 System Plan, the Coordinator may update that Whole of System Plan.
 
-4.5A.4. A Whole of System Plan remains in effect until:
+### 4.5A.4. A Whole of System Plan remains in effect until:
 
 \(a\) a subsequent Whole of System Plan is published pursuant to clause
-4.5A.2; or
+### 4.5A.2; or
 
 \(b\) in respect to a part of the Whole of System Plan, an update to
 that part of the Whole of System Plan is published in accordance with
 clause 4.5A.3.
 
-4.5A.5. The purposes of a Whole of System Plan are to:
+### 4.5A.5. The purposes of a Whole of System Plan are to:
 
 \(a\) plan for the efficient development of the SWIS to meet the power
 system needs of the SWIS including with respect to Power System Security
@@ -2074,7 +2074,7 @@ investment opportunities in the SWIS; and
 
 \(e\) inform policy makers on the future needs of the power system.
 
-4.5A.6. A Whole of System Plan must:
+### 4.5A.6. A Whole of System Plan must:
 
 \(a\) identify options for the development of the SWIS to maintain Power
 System Security and Power System Reliability at the lowest sustainable
@@ -2091,7 +2091,7 @@ consumers; and
 \(d\) test alternative network investment options and identify optimal
 network investment options.
 
-4.5A.7. In preparing a Whole of System Plan, the Coordinator must
+### 4.5A.7. In preparing a Whole of System Plan, the Coordinator must
 develop an approach to:
 
 \(a\) determining the scenarios to be modelled;
@@ -2100,35 +2100,35 @@ develop an approach to:
 
 \(c\) the method for selecting optimal network investment options.
 
-4.5A.8. The Coordinator must publish on the Coordinator's Website:
+### 4.5A.8. The Coordinator must publish on the Coordinator's Website:
 
 \(a\) the Coordinator’s approach to each of the matters referred to in
 clause 4.5A.7; and
 
 \(b\) guidance on the information and assistance to be provided by AEMO,
 Western Power and other Rule Participants in accordance with clause
-4.5A.11,
+### 4.5A.11,
 
 prior to developing the Whole of System Plan that is required to be
 developed by the Coordinator under clause 4.5A.2 by 30 September 2025.
 
-4.5A.9. The Coordinator may from time to time amend the Coordinator’s
+### 4.5A.9. The Coordinator may from time to time amend the Coordinator’s
 approach to any of the matters referred to in clause 4.5A.7 by
 publishing the updated approach on the WEM Website.
 
-4.5A.10. The Coordinator must collaborate with AEMO and Western Power in
+### 4.5A.10. The Coordinator must collaborate with AEMO and Western Power in
 preparing the Whole of System Plan.
 
-4.5A.11. At the request of the Coordinator, AEMO, Western Power and
+### 4.5A.11. At the request of the Coordinator, AEMO, Western Power and
 other Rule Participants must provide information and assistance, which
 is, in the Coordinator’s opinion, necessary or desirable to enable the
 Coordinator to effectively prepare a Whole of System Plan.
 
-4.5A.12. In preparing a Whole of System Plan, the Coordinator may, in
+### 4.5A.12. In preparing a Whole of System Plan, the Coordinator may, in
 addition to the matters referred to in this section 4.5A, consider any
 other matters and information the Coordinator considers relevant.
 
-4.5A.13. Before publishing a Whole of System Plan under clause 4.5A.1,
+### 4.5A.13. Before publishing a Whole of System Plan under clause 4.5A.1,
 the Coordinator must:
 
 \(a\) publish a draft Whole of System Plan; and
@@ -2139,7 +2139,7 @@ Whole of System Plan by no later than a specified date (with the date to
 be specified by the Coordinator to be no earlier than 20 Business Days
 after the date on which the draft Whole of System Plan is published).
 
-4.5A.14. A draft Whole of System Plan must:
+### 4.5A.14. A draft Whole of System Plan must:
 
 \(a\) identify a range of scenarios;
 
@@ -2167,10 +2167,10 @@ Network Access Code; and
 Network Operator, of whether non-network options are reasonably likely
 to meet a relevant identified network need.
 
-4.5A.15. The Coordinator must provide a copy of a Whole of System Plan
+### 4.5A.15. The Coordinator must provide a copy of a Whole of System Plan
 to the Minister before publishing it in accordance with clause 4.5A.1.
 
-4.5A.16. The Whole of System Plan to be published by the Coordinator
+### 4.5A.16. The Whole of System Plan to be published by the Coordinator
 under clause 4.5A.1 must include:
 
 \(a\) all relevant matters referred to in clauses 4.5A.6 and 4.5A.14;
@@ -2203,9 +2203,9 @@ Plan could be utilised by Western Power for its TSP); and</p></li>
 </tbody>
 </table>
 
-4.5B. Transmission System Plan
+### 4.5B. Transmission System Plan
 
-4.5B.1. A Network Operator must develop a Transmission System Plan, and
+### 4.5B.1. A Network Operator must develop a Transmission System Plan, and
 publish it on the Network Operator’s website, in accordance with this
 section 4.5B.
 
@@ -2228,11 +2228,11 @@ the extent reasonably practicable.</p></th>
 </tbody>
 </table>
 
-4.5B.2. A Network Operator must publish a Transmission System Plan by no
+### 4.5B.2. A Network Operator must publish a Transmission System Plan by no
 later than 1 October each year, in conjunction with its Network
 Opportunity Map.
 
-4.5B.3. A Transmission System Plan must:
+### 4.5B.3. A Transmission System Plan must:
 
 \(a\) establish a plan for the efficient development of a transmission
 system for a planning horizon of at least 10 years;
@@ -2242,7 +2242,7 @@ requirements; and
 
 \(c\) be in the long-term interests of consumers.
 
-4.5B.4. A Transmission System Plan must include:
+### 4.5B.4. A Transmission System Plan must include:
 
 \(a\) a summary of any significant costs to the Wholesale Electricity
 Market that have arisen, or may potentially arise, due to the condition
@@ -2257,7 +2257,7 @@ for Facilities subject to Network Constraints;
 \(b\) a set of investment options for developing the transmission system
 over the relevant planning horizon, which must consider network and
 non-network solutions to address the matters identified under clause
-4.5B.4(a);
+### 4.5B.4(a);
 
 \(c\) analysis of market related data and an assessment of the costs and
 benefits, including to the Wholesale Electricity Market, of the
@@ -2271,7 +2271,7 @@ electricity supplied to consumers; and
 referred to in clause 4.5B.4(d) will meet the long-term interests of
 consumers.
 
-4.5B.5. In developing a Transmission System Plan a Network Operator must
+### 4.5B.5. In developing a Transmission System Plan a Network Operator must
 take into account:
 
 \(a\) the WEM Technical Standards under clause 2.8.14;
@@ -2290,12 +2290,12 @@ the Coordinator considers may impact on the development of the
 Transmission System Plan, as may be advised by the Coordinator pursuant
 to the consultation process referred to in clause 4.5B.6 or specified in
 the Whole of System Plan published by the Coordinator under section
-4.5A; and
+### 4.5A; and
 
 \(f\) any other matters that the Network Operator considers relevant to
 the Transmission System Plan.
 
-4.5B.6. A Network Operator must consult with AEMO and the Coordinator on
+### 4.5B.6. A Network Operator must consult with AEMO and the Coordinator on
 the assumptions, inputs and scenarios the Network Operator must use in
 developing and updating a Transmission System Plan, including:
 
@@ -2325,20 +2325,20 @@ and Long Term PASA studies conducted by AEMO under these WEM Rules; and
 Coordinator considers relevant to meeting the requirements for
 developing the Transmission System Plan in this section 4.5B.
 
-4.5B.7. If, in the Network Operator’s opinion, new information becomes
+### 4.5B.7. If, in the Network Operator’s opinion, new information becomes
 available that should be used in place of the inputs from the Whole of
 System Plan specified in clause 4.5B.6(f), the Network Operator must
 consult with AEMO and the Coordinator on the accuracy and relevance of
 the new information for use in developing and updating the Transmission
 System Plan.
 
-4.5B.8. A Network Operator may review the Transmission System Plan, or a
+### 4.5B.8. A Network Operator may review the Transmission System Plan, or a
 part of it, in consultation with AEMO and the Coordinator, where there
 is a material change in any of the assumptions, inputs or scenarios
 under clause 4.5B.6 or to a WEM Technical Standard.
 
-4.5B.9. Before publishing a Transmission System Plan under clause
-4.5B.1, a Network Operator must:
+### 4.5B.9. Before publishing a Transmission System Plan under clause
+### 4.5B.1, a Network Operator must:
 
 \(a\) publish a draft Transmission System Plan;
 
@@ -2349,7 +2349,7 @@ date to be specified by the Network Operator to be no earlier than 20
 Business Days after the date on which the draft Transmission System Plan
 is published).
 
-4.5B.10. A Network Operator must:
+### 4.5B.10. A Network Operator must:
 
 \(a\) take into account any submissions received on the draft
 Transmission System Plan; and
@@ -2359,16 +2359,16 @@ submission received on the draft Transmission System Plan and the
 Network Operator's response to it, redacting any commercially sensitive
 or other confidential information.
 
-4.6. Reserve Capacity Requirements
+### 4.6. Reserve Capacity Requirements
 
-4.6.1. The Reserve Capacity Requirement for a Reserve Capacity Cycle is
+### 4.6.1. The Reserve Capacity Requirement for a Reserve Capacity Cycle is
 the Reserve Capacity Target for the Capacity Year commencing on 1
 October of Year 3 of a Reserve Capacity Cycle as reported in the
 Statement of Opportunities Report for that Reserve Capacity Cycle.
 
-4.6.2. The expected peak demand corresponding to the Reserve Capacity
+### 4.6.2. The expected peak demand corresponding to the Reserve Capacity
 Requirement is the forecasted value determined in accordance with clause
-4.5.10(b)(ii) for the Capacity Year commencing on 1 October of Year 3 of
+### 4.5.10(b)(ii) for the Capacity Year commencing on 1 October of Year 3 of
 a Reserve Capacity Cycle.
 
 <table>
@@ -2386,7 +2386,7 @@ Reserve Capacity Cycles.</p></th>
 </tbody>
 </table>
 
-4.6.3. The preliminary Reserve Capacity Requirement for a Reserve
+### 4.6.3. The preliminary Reserve Capacity Requirement for a Reserve
 Capacity Cycle to be included in the relevant Request for Expression of
 Interest is the Reserve Capacity Target for the Capacity Year commencing
 on 1 October of Year 3 of the Reserve Capacity Cycle as reported in the
@@ -2395,15 +2395,15 @@ Cycle.
 
 Certification of Reserve Capacity
 
-4.7. The Reserve Capacity Information Pack
+### 4.7. The Reserve Capacity Information Pack
 
-4.7.1. \[Blank\]
+### 4.7.1. \[Blank\]
 
-4.7.2. By the time specified in clause 4.1.10, AEMO must publish the
+### 4.7.2. By the time specified in clause 4.1.10, AEMO must publish the
 Reserve Capacity Information Pack for a Reserve Capacity Cycle on the
 WEM Website.
 
-4.7.3. The Reserve Capacity Information Pack for a Reserve Capacity
+### 4.7.3. The Reserve Capacity Information Pack for a Reserve Capacity
 Cycle must include the following information:
 
 \(a\) the Reserve Capacity Requirement for the Reserve Capacity Cycle,
@@ -2422,9 +2422,9 @@ ii\. the report described in clause 4.2.7,
 
 for the Reserve Capacity Cycle.
 
-4.8. Who Can Apply for Certification of Reserve Capacity
+### 4.8. Who Can Apply for Certification of Reserve Capacity
 
-4.8.1. Subject to clause 4.8.2, a Market Participant may apply for
+### 4.8.1. Subject to clause 4.8.2, a Market Participant may apply for
 certification of the amount of Reserve Capacity which can be provided by
 a Facility if:
 
@@ -2459,7 +2459,7 @@ with new section 4.4B.</p></th>
 </tbody>
 </table>
 
-4.8.2. Subject to clause 4.8.3, AEMO must not accept an application for
+### 4.8.2. Subject to clause 4.8.3, AEMO must not accept an application for
 certification of Reserve Capacity under clause 4.8.1 for a Reserve
 Capacity Cycle, for a facility, or an upgrade of a Facility, that has
 not been assigned Capacity Credits in a previous Reserve Capacity Cycle,
@@ -2484,7 +2484,7 @@ Conditional Certified Reserve Capacity.</p></th>
 </tbody>
 </table>
 
-4.8.3. Clause 4.8.2 does not apply to:
+### 4.8.3. Clause 4.8.2 does not apply to:
 
 \(a\) an application for Early Certified Reserve Capacity submitted
 under clause 4.28C.2 for a facility, or an upgrade of a Facility; or
@@ -2517,9 +2517,9 @@ the relevant Network Operator.</p></th>
 
 Indicative Facility Class and Facility Technology Type
 
-4.8A. Indicative Facility Class and Indicative Facility Technology Type
+### 4.8A. Indicative Facility Class and Indicative Facility Technology Type
 
-4.8A.1. Where AEMO receives an Expression of Interest in relation to a
+### 4.8A.1. Where AEMO receives an Expression of Interest in relation to a
 new facility or facility upgrade in accordance with clause 4.2.6, by the
 date and time specified in clause 4.1.7, AEMO must:
 
@@ -2532,7 +2532,7 @@ clause 4.8A.7; and
 indicative Facility Class and indicative Facility Technology Types
 assigned to the new facility or facility upgrade.
 
-4.8A.2. AEMO may, if it reasonably considers it is required to enable it
+### 4.8A.2. AEMO may, if it reasonably considers it is required to enable it
 to carry out its obligations under clause 4.8A.1, request clarification
 or further information from the person who submitted the relevant
 Expression of Interest and that person must comply with the request by
@@ -2553,7 +2553,7 @@ Certified Reserve Capacity for new facilities.</p></th>
 </tbody>
 </table>
 
-4.8A.3. A person that intends to apply for:
+### 4.8A.3. A person that intends to apply for:
 
 \(a\) Early Certified Reserve Capacity under section 4.28C for a new
 facility or facility upgrade; or
@@ -2568,10 +2568,10 @@ must, prior to submitting the application, apply to AEMO for an
 indicative Facility Class and one or more indicative Facility Technology
 Type to be assigned to the facility or facility upgrade.
 
-4.8A.4. An application under clause 4.8A.3 must include the information
+### 4.8A.4. An application under clause 4.8A.3 must include the information
 required under clause 4.4.1.
 
-4.8A.5. Where AEMO receives an application under clause 4.8A.3, AEMO
+### 4.8A.5. Where AEMO receives an application under clause 4.8A.3, AEMO
 must:
 
 \(a\) assign an indicative Facility Class and one or more indicative
@@ -2588,7 +2588,7 @@ under clause 4.8A.3 will be deemed to be withdrawn and then resubmitted
 under clause 4.8A.3 once AEMO receives the clarification or further
 information.
 
-4.8A.6. AEMO must notify the applicant of the indicative Facility Class
+### 4.8A.6. AEMO must notify the applicant of the indicative Facility Class
 and indicative Facility Technology Types assigned to the new facility or
 facility upgrade under clause 4.8A.5(b) within 30 days of the later of:
 
@@ -2597,7 +2597,7 @@ facility upgrade under clause 4.8A.5(b) within 30 days of the later of:
 \(b\) receipt of any clarification or further information requested from
 the applicant under clause 4.8A.5(c) in relation to the application.
 
-4.8A.7. AEMO must document the following in a WEM Procedure:
+### 4.8A.7. AEMO must document the following in a WEM Procedure:
 
 \(a\) the processes to be followed by AEMO in determining and assigning
 an indicative Facility Class and an indicative Facility Technology Type
@@ -2616,9 +2616,9 @@ an application under clauses 1.45.4, 1.45.8 or 4.8A.3; and
 
 \(e\) any other matters AEMO considers relevant.
 
-4.9. Process for Applying for Certification of Reserve Capacity
+### 4.9. Process for Applying for Certification of Reserve Capacity
 
-4.9.1. Applications for certification of Reserve Capacity:
+### 4.9.1. Applications for certification of Reserve Capacity:
 
 \(a\) for the current Reserve Capacity Cycle may be lodged with AEMO
 from the date and time specified in clause 4.1.7 and until the time
@@ -2630,7 +2630,7 @@ Reserve Capacity Cycle to which the application relates. To avoid doubt,
 an application for Early Certified Reserve Capacity must be made under
 and in accordance with section 4.28C.
 
-4.9.2. Only the Market Participant which has registered a Facility, or
+### 4.9.2. Only the Market Participant which has registered a Facility, or
 which intends to register a Facility, may apply for certification of
 Reserve Capacity in respect of that Facility.
 
@@ -2652,7 +2652,7 @@ Certified Reserve Capacity (Relevant Level).</p></th>
 </tbody>
 </table>
 
-4.9.3. A Market Participant applying for certification of Reserve
+### 4.9.3. A Market Participant applying for certification of Reserve
 Capacity must provide to AEMO:
 
 \(a\) the data specified in clause 4.10.1, in the format specified in
@@ -2660,7 +2660,7 @@ the WEM Procedure referred to in clause 4.9.10;
 
 \(b\) in the case of an application for certification of Reserve
 Capacity for a Non-Scheduled Facility (excluding where clause
-4.11.1(bD)(ii) applies) or an Intermittent Generating System that is yet
+### 4.11.1(bD)(ii) applies) or an Intermittent Generating System that is yet
 to enter service, the report described in clause 4.10.3;
 
 (bA) in the case of an application for certification of Reserve Capacity
@@ -2676,7 +2676,7 @@ Certified Reserve Capacity for a Facility for the same Reserve Capacity
 Cycle, an Application Fee to cover the cost of processing the
 application.
 
-4.9.4. Applications for certification of Reserve Capacity must be made
+### 4.9.4. Applications for certification of Reserve Capacity must be made
 in the form prescribed by AEMO.
 
 <table>
@@ -2697,7 +2697,7 @@ the WEM Rules.</p></th>
 </tbody>
 </table>
 
-4.9.5. If AEMO assigns Certified Reserve Capacity to a Facility for a
+### 4.9.5. If AEMO assigns Certified Reserve Capacity to a Facility for a
 future Reserve Capacity Cycle under section 4.11 (“**Conditional
 Certified Reserve Capacity**”):
 
@@ -2710,7 +2710,7 @@ that future Reserve Capacity Cycle;
 Capacity must, in accordance with clauses 4.9.1 and 4.9.3, re-lodge an
 application for Certified Reserve Capacity with AEMO between the date
 and time specified in clause 4.1.7 and the time specified in clause
-4.1.11 for that future Reserve Capacity Cycle;
+### 4.1.11 for that future Reserve Capacity Cycle;
 
 \(c\) if AEMO is satisfied that the application re-lodged in accordance
 with clause 4.9.5(b) is consistent with the information upon which the
@@ -2736,22 +2736,22 @@ upon which the Conditional Certified Reserve Capacity was assigned, then
 AEMO must process the application without regard for the Conditional
 Certified Reserve Capacity.
 
-4.9.6. AEMO must notify an applicant for certification of Reserve
+### 4.9.6. AEMO must notify an applicant for certification of Reserve
 Capacity of receipt of the application within one Business Day of
 receipt.
 
-4.9.7. If a Market Participant fails to receive notification of receipt
+### 4.9.7. If a Market Participant fails to receive notification of receipt
 from AEMO in accordance with clause 4.9.6, then it must contact AEMO and
 arrange for re-submission of the information prior to the time and date
 specified in clause 4.1.11.
 
-4.9.7A. Where AEMO has received an application for certification of
+### 4.9.7A. Where AEMO has received an application for certification of
 Reserve Capacity under clause 4.9.1 for a future Reserve Capacity Cycle,
 the application will be processed by AEMO at the time AEMO next
 processes applications for Certified Reserve Capacity for a Reserve
 Capacity Cycle in accordance with section 4.11.
 
-4.9.8. AEMO must notify applicants for certification of Reserve Capacity
+### 4.9.8. AEMO must notify applicants for certification of Reserve Capacity
 for:
 
 \(a\) the current Reserve Capacity Cycle, of the quantity of the
@@ -2779,7 +2779,7 @@ Security being dealt with in section 4.13A.</p></th>
 </tbody>
 </table>
 
-4.9.9. AEMO must decide whether or not to assign Certified Reserve
+### 4.9.9. AEMO must decide whether or not to assign Certified Reserve
 Capacity to a Facility in respect of a Reserve Capacity Cycle, and if
 so, the quantity to be assigned. If AEMO decides to assign Certified
 Reserve Capacity to a Facility in respect of a Reserve Capacity Cycle,
@@ -2794,11 +2794,11 @@ accordance with section 4.11 or clause 4.9.5(c) (as applicable);
 \(c\) of any Reserve Capacity Security or DSM Reserve Capacity Security
 required as a condition of a Market Participant holding the Certified
 Reserve Capacity, as determined in accordance with clauses 4.13.2,
-4.13A.1, 4.13A.4 or 4.9.5(c) (as applicable);
+### 4.13A.1, 4.13A.4 or 4.9.5(c) (as applicable);
 
 \(d\) in the case of Conditional Certified Reserve Capacity, that the
 certification is subject to the conditions in clauses 4.9.5(a) and
-4.9.5(b);
+### 4.9.5(b);
 
 \(e\) upon the request of the applicant, of the calculations upon which
 AEMO’s determinations are based; and
@@ -2809,8 +2809,8 @@ under the methodology described in clause 4.11.2(b) in its application
 for certification of Reserve Capacity, as determined in accordance with
 clause 4.11.2A, if applicable.
 
-4.9.9A. AEMO must publish, by the date and time specified in clause
-4.1.15A, the level of Certified Reserve Capacity assigned to each
+### 4.9.9A. AEMO must publish, by the date and time specified in clause
+### 4.1.15A, the level of Certified Reserve Capacity assigned to each
 Facility.
 
 <table>
@@ -2841,7 +2841,7 @@ with clause 4.12.4.</p></th>
 </tbody>
 </table>
 
-4.9.10. AEMO must document the following in a WEM Procedure:
+### 4.9.10. AEMO must document the following in a WEM Procedure:
 
 \(a\) the procedures that Market Participants must follow when applying
 for Certified Reserve Capacity;
@@ -2866,7 +2866,7 @@ Storage Resource provided by the relevant manufacturer; and
 Year at the time the application for certification of Reserve Capacity
 is required to be processed, where available.
 
-4.10. Information Required for the Certification of Reserve Capacity
+### 4.10. Information Required for the Certification of Reserve Capacity
 
 <table>
 <colgroup>
@@ -2906,7 +2906,7 @@ to:</p>
 Non-Intermittent Generating System rather than its parent
 Facility;</p></li>
 <li><p>remove unnecessary repetition by combining clauses 4.10.1(fA),
-4.10.1(fB) and 4.10.1(fC) into a single clause 4.10.1(fA);</p></li>
+### 4.10.1(fB) and 4.10.1(fC) into a single clause 4.10.1(fA);</p></li>
 <li><p>extend clause 4.10.1(fD)(ii) to require the provision of maximum
 Charge Level capabilities and temperature dependence information for
 Non-Scheduled Facilities that comprise only Electric Storage Resources;
@@ -2917,7 +2917,7 @@ to the components being assigned Certified Reserve Capacity using the
 Relevant Level Methodology. For example, for a Semi-Scheduled Facility
 comprising an Electric Storage Resource and an Intermittent Generating
 System, only the configuration information provided under clause
-4.10.1(dA) for the Intermittent Generating System should be
+### 4.10.1(dA) for the Intermittent Generating System should be
 considered.</p></li>
 </ul>
 <p>Tranche 6 Exposure Draft 2 included an amendment to clause 4.10.1(f)
@@ -2934,7 +2934,7 @@ amended to use the standard term “41 degrees Celsuis”.</p></th>
 </tbody>
 </table>
 
-4.10.1. Each Market Participant must ensure that information submitted
+### 4.10.1. Each Market Participant must ensure that information submitted
 to AEMO with an application for certification of Reserve Capacity
 pertains to the Reserve Capacity Cycle to which the certification
 relates, and is supported by documented evidence and includes, where
@@ -2954,7 +2954,7 @@ Operator made in respect of the Facility;
 
 ii\. evidence that the Facility will be entitled to have access from a
 specified date occurring prior to the date specified in clause
-4.10.1(c)(iii)(7); and
+### 4.10.1(c)(iii)(7); and
 
 iii\. except where the Facility is a Demand Side Programme, the Declared
 Sent Out Capacity for the Facility at the relevant connection point;
@@ -3250,7 +3250,7 @@ applicant must provide a notice to AEMO nominating that the Facility be
 classified as a Network Augmentation Funding Facility and the supporting
 information specified in clause 4.10A.6.</p>
 <p>Clause 4.10.1(m) is amended to provide consistency with clause
-4.10A.1 which does not provide for 'part' of a Facility that is not an
+### 4.10A.1 which does not provide for 'part' of a Facility that is not an
 upgrade to be treated as a Network Augmentation Funding
 Facility.</p></th>
 </tr>
@@ -3285,7 +3285,7 @@ Intermittent Generating Systems.</p></th>
 </tbody>
 </table>
 
-4.10.2. The types of Facilities eligible to use the methodology
+### 4.10.2. The types of Facilities eligible to use the methodology
 described in clause 4.11.2(b), for the purpose of assigning Certified
 Reserve Capacity or Conditional Certified Reserve Capacity to the
 Facility are:
@@ -3302,7 +3302,7 @@ step 1(a) of the Relevant Level Methodology; and
 Resources that have been in operation for the full period of performance
 assessment identified in step 1(a) of the Relevant Level Methodology.
 
-4.10.3. An application for certification of Reserve Capacity for a
+### 4.10.3. An application for certification of Reserve Capacity for a
 Facility, or component of a Facility, that is to be assessed using the
 methodology described in clause 4.11.2(b) for a Facility, or relevant
 component of a Facility, that:
@@ -3325,7 +3325,7 @@ of the Facility, that is to be assessed using the methodology described
 in clause 4.11.2(b) and to determine the Required Level for that
 Facility.
 
-4.10.3A. A report provided under clause 4.10.3 must include:
+### 4.10.3A. A report provided under clause 4.10.3 must include:
 
 \(a\) for each Trading Interval during the period identified in step
 1(a) of the Relevant Level Methodology, a reasonable estimate of the
@@ -3341,7 +3341,7 @@ Hot Season, where this value is to be used in the calculation of the
 Required Level;
 
 \(c\) a proposed alternative value to that specified in clause
-4.10.3A(b), expressed in MW as a sent out value, to apply for the
+### 4.10.3A(b), expressed in MW as a sent out value, to apply for the
 purposes of the Required Level, if in the opinion of the expert the
 value provided under clause 4.10.3A(b) would not be a reasonable
 representation of the Facility’s, or component of the Facility's, 5
@@ -3426,10 +3426,10 @@ respect to a Facility upgrade.</p></th>
 </tbody>
 </table>
 
-4.10A.1. A reference to a Facility in this section 4.10A includes an
+### 4.10A.1. A reference to a Facility in this section 4.10A includes an
 upgrade of a Facility for which the Market Participant has nominated to
 be classified as a Network Augmentation Funding Facility under clause
-4.10.1(m).
+### 4.10.1(m).
 
 <table>
 <colgroup>
@@ -3455,7 +3455,7 @@ Limit Advice to be used in the NAQ Model.</p></th>
 </tbody>
 </table>
 
-4.10A.2. For the purposes of clause 4.10.1(m), a Facility may only be
+### 4.10A.2. For the purposes of clause 4.10.1(m), a Facility may only be
 nominated to be classified as a Network Augmentation Funding Facility in
 respect of a Reserve Capacity Cycle if:
 
@@ -3482,7 +3482,7 @@ respect of a Reserve Capacity Cycle if:
 <tr class="header">
 <th><p><strong>Explanatory Note</strong></p>
 <p>Except for applications for Early Certified Reserve Capacity, clause
-4.10A.3 prohibits a Market Participant from seeking to have a Facility
+### 4.10A.3 prohibits a Market Participant from seeking to have a Facility
 classified as a Network Augmentation Funding Facility in more than one
 Reserve Capacity Cycle in respect to the same Network Augmentation
 Works.</p>
@@ -3498,13 +3498,13 @@ Credits for the Facility.</p></th>
 </tbody>
 </table>
 
-4.10A.3. Subject to clause 4.10A.4, a Market Participant may only
+### 4.10A.3. Subject to clause 4.10A.4, a Market Participant may only
 nominate a Facility to be classified as a Network Augmentation Funding
 Facility in the Reserve Capacity Cycle for which the Network
 Augmentation Works are expected to be in-service at the start of the
 Capacity Year for that Reserve Capacity Cycle.
 
-4.10A.4. A Facility that is classified as a Network Augmentation Funding
+### 4.10A.4. A Facility that is classified as a Network Augmentation Funding
 Facility in accordance with this section 4.10A, will be classified as a
 Network Augmentation Funding Facility for a single Reserve Capacity
 Cycle with respect to the relevant Network Augmentation Works, except
@@ -3528,7 +3528,7 @@ Network Augmentation Funding Facility.</p></th>
 </tbody>
 </table>
 
-4.10A.5. A Facility or upgrade to a Facility will be classified as a
+### 4.10A.5. A Facility or upgrade to a Facility will be classified as a
 Network Augmentation Funding Facility, in respect of the Reserve
 Capacity Cycle to which the application for Certified Reserve Capacity
 for the Facility submitted under clause 4.9.1 relates, where:
@@ -3565,9 +3565,9 @@ clause 4.9.1.</p></th>
 </tbody>
 </table>
 
-4.10A.6. Where a Market Participant has nominated that its Facility be
+### 4.10A.6. Where a Market Participant has nominated that its Facility be
 classified as a Network Augmentation Funding Facility under clause
-4.10.1(m), without limiting any other information the Market Participant
+### 4.10.1(m), without limiting any other information the Market Participant
 may be required to provide to AEMO under clause 4.10.1, the Market
 Participant must provide the following information to AEMO by the date
 and time specified in clause 4.1.11:
@@ -3609,11 +3609,11 @@ additional process is required in the WEM Rules.</p></th>
 </tbody>
 </table>
 
-4.10A.7. Within 5 Business Days of receiving the information provided by
+### 4.10A.7. Within 5 Business Days of receiving the information provided by
 a Market Participant in accordance with clause 4.10A.6, AEMO must
 request the relevant Network Operator to verify the information.
 
-4.10A.8. Within ten Business Days of receiving a request from AEMO under
+### 4.10A.8. Within ten Business Days of receiving a request from AEMO under
 clause 4.10A.7, the Network Operator must notify AEMO:
 
 > \(a\) that it verifies the information specified in the request; or
@@ -3621,7 +3621,7 @@ clause 4.10A.7, the Network Operator must notify AEMO:
 > \(b\) that it does not agree with the information specified in the
 > request and the reasons for its decision.
 
-4.10A.9. Where the conditions specified in clause 4.10A.5 are met, AEMO
+### 4.10A.9. Where the conditions specified in clause 4.10A.5 are met, AEMO
 must:
 
 > \(a\) classify the Facility to which the information relates as a
@@ -3632,7 +3632,7 @@ must:
 > Facility at the same time AEMO notifies the Market Participant of the
 > Certified Reserve Capacity for the Facility under clause 4.1.12.
 
-4.10A.10. Where the Network Operator does not agree with the information
+### 4.10A.10. Where the Network Operator does not agree with the information
 specified in a request in accordance with clause 4.10A.8(b), AEMO must,
 within one Business Day of receiving the notification from the Network
 Operator:
@@ -3661,7 +3661,7 @@ Augmentation Funding Facility.</p></th>
 </tbody>
 </table>
 
-4.10A.11. AEMO must document in a WEM Procedure the information required
+### 4.10A.11. AEMO must document in a WEM Procedure the information required
 to be provided by a Market Participant under clause 4.10A.6 in support
 of its nomination that a Facility be classified as a Network
 Augmentation Funding Facility.
@@ -3683,8 +3683,8 @@ below.</p></th>
 </tbody>
 </table>
 
-4.10A.12. AEMO must publish the information provided to it under clause
-4.10A.6 with respect to a Market Participant nominating that a Facility
+### 4.10A.12. AEMO must publish the information provided to it under clause
+### 4.10A.6 with respect to a Market Participant nominating that a Facility
 be classified as a Network Augmentation Funding Facility, excluding any
 Confidential Information.
 
@@ -3708,7 +3708,7 @@ as those amending rules (made by the Minister at the date this companion
 version was prepared) will be commenced last (at a date specified in a
 notice to be published by the Minister), please refer to the
 Miscellaneous Amendments No. 1 (Schedule A) to see the changes to clause
-4.11.1(g) that will commence on 1 July 2021 and apply until the
+### 4.11.1(g) that will commence on 1 July 2021 and apply until the
 Miscellaneous Amendments No. 1 (Schedule E) to 4.11.1(g) commences.</p>
 <p>Clause 4.11.1(h) is also amended by the Amending Rules contained in
 the Rule Change Panel's Final Report for Rule Change Proposal RC_2014_03
@@ -3727,7 +3727,7 @@ load', and reference defined terms.</p></th>
 </tbody>
 </table>
 
-4.11. Setting Certified Reserve Capacity
+### 4.11. Setting Certified Reserve Capacity
 
 <table>
 <colgroup>
@@ -3744,7 +3744,7 @@ amendments made to clause 4.11.1(j).</p></th>
 </tbody>
 </table>
 
-4.11.1. Subject to clause 4.11.12, AEMO must apply the following
+### 4.11.1. Subject to clause 4.11.12, AEMO must apply the following
 principles in assigning a quantity of Certified Reserve Capacity to a
 Facility or relevant component of a Facility for the Reserve Capacity
 Cycle for which an application for Certified Reserve Capacity has been
@@ -3790,7 +3790,7 @@ only of, or containing, an Electric Storage Resource</p></th>
 Semi-Scheduled Facility containing an Electric Storage Resource, the
 total quantity of Certified Reserve Capacity determined for the Electric
 Storage Resource must be determined by AEMO in accordance with clause
-4.11.3;
+### 4.11.3;
 
 (bD) for a Non-Scheduled Facility comprising only an Electric Storage
 Resource, including Small Aggregation of aggregated Electric Storage
@@ -3807,7 +3807,7 @@ Relevant Level Methodology, determined in accordance with clause 4.11.3;
 under clause 4.11.1(bD)(ii), the total quantity of Certified Reserve
 Capacity assigned to the Facility must be determined in accordance with
 the Relevant Level Methodology, determined in accordance with clause
-4.11.2;
+### 4.11.2;
 
 \(c\) AEMO must not assign Certified Reserve Capacity to a Facility for
 a Reserve Capacity Cycle if:
@@ -3902,11 +3902,11 @@ and
 where relevant, the sum of the Certified Reserve Capacity assigned to
 each relevant component of a Facility.
 
-4.11.1A. AEMO must publish the reasons for a decision made under
+### 4.11.1A. AEMO must publish the reasons for a decision made under
 clause 4.11.1(h) on the WEM Website to the extent those reasons do not
 contain any confidential information.
 
-4.11.1B. In making a decision under clause 4.11.1(h) or 4.11.1(j), and
+### 4.11.1B. In making a decision under clause 4.11.1(h) or 4.11.1(j), and
 without limiting the ways in which AEMO may inform itself in either
 case, AEMO may:
 
@@ -3924,7 +3924,7 @@ ii\. any other person under clause 4.27.6; and
 provide an opinion or information on issues relevant to the exercise of
 AEMO’s discretion.
 
-4.11.1C. In making a decision under clause 4.11.1(h), AEMO:
+### 4.11.1C. In making a decision under clause 4.11.1(h), AEMO:
 
 \(a\) must be satisfied that its decision under clause 4.11.1(h) would
 not, on balance, be contrary to the Wholesale Market Objectives;
@@ -3964,7 +3964,7 @@ Capacity was not assigned to the Facility; and
 
 vi\. consider any other matter AEMO determines to be relevant.
 
-4.11.1D. The relevant outage criteria to apply under clause 4.11.1(h) in
+### 4.11.1D. The relevant outage criteria to apply under clause 4.11.1(h) in
 a particular Capacity Year is set out in the following table:
 
 > **OUTAGE RATE LIMIT TABLE**
@@ -4082,7 +4082,7 @@ a particular Capacity Year is set out in the following table:
 </tbody>
 </table>
 
-4.11.2. Where an applicant submits an application for Certified Reserve
+### 4.11.2. Where an applicant submits an application for Certified Reserve
 Capacity, in accordance with clause 4.10, and AEMO is required to use
 the methodology described in clause 4.11.2(b) to apply to an
 Intermittent Generating System or a Non-Scheduled Facility (excluding
@@ -4097,9 +4097,9 @@ Reserve Capacity to the relevant Facility or relevant component of a
 Facility for the Reserve Capacity Cycle equal to the Relevant Level as
 determined in accordance with the Relevant Level Methodology, but
 subject to clauses 4.11.1(bA), 4.11.1(bB), 4.11.1(c), 4.11.1(f) and
-4.11.1(h).
+### 4.11.1(h).
 
-4.11.2A. Where an applicant nominates under clause 4.10.3A(c) to have
+### 4.11.2A. Where an applicant nominates under clause 4.10.3A(c) to have
 AEMO use an alternative value to that specified in clause 4.10.3A(b)
 AEMO:
 
@@ -4109,7 +4109,7 @@ sufficient evidence that an alternative value is required; and
 
 \(b\) must use the alternative value in the calculation of the Required
 Level if it does not reject the proposed alternative value under clause
-4.11.2A(a).
+### 4.11.2A(a).
 
 <table>
 <colgroup>
@@ -4127,7 +4127,7 @@ of, or containing, an Electric Storage Resource.</p></th>
 </tbody>
 </table>
 
-4.11.3. The Certified Reserve Capacity for an Electric Storage Resource
+### 4.11.3. The Certified Reserve Capacity for an Electric Storage Resource
 for the Reserve Capacity Cycle under clause 4.11.1, for a component of a
 Scheduled Facility, Semi-Scheduled Facility or Non-Scheduled Facility,
 except where clause 4.11.1(bD)(i) applies, the quantity of Certified
@@ -4165,7 +4165,7 @@ Reserve Capacity Cycle.</p></th>
 </tbody>
 </table>
 
-4.11.3A. AEMO must:
+### 4.11.3A. AEMO must:
 
 \(a\) determine in Year 1 of a Reserve Capacity Cycle the Trading
 Intervals in each Trading Day that are classified as Electric Storage
@@ -4186,7 +4186,7 @@ Report) by the date specified in clause 4.1.8;
 
 \(b\) only amend the Trading Intervals classified as Electric Storage
 Resource Obligation Intervals and published in accordance with clause
-4.11.3A(a) as permitted under these WEM Rules; and
+### 4.11.3A(a) as permitted under these WEM Rules; and
 
 \(c\) document the following in a WEM Procedure:
 
@@ -4229,7 +4229,7 @@ Required Level of a Demand Side Programme on a Facility level.</p></th>
 </tbody>
 </table>
 
-4.11.3B. The Required Level for a Scheduled Facility or Semi-Scheduled
+### 4.11.3B. The Required Level for a Scheduled Facility or Semi-Scheduled
 Facility is the sum of each Separately Certified Component determined
 under clause 4.11.3BA, unless that sum exceeds the Facility's Declared
 Sent Out Capacity then the Required Level will be the Declared Sent Out
@@ -4256,23 +4256,23 @@ under 4.11.3BA(d) – now renumbered to 4.11.3BA(c).</p>
 <p>New clause 4.11.3BA, which will be inserted in the WEM Rules by the
 <em>Wholesale Electricity Market Amendment (Tranche 5 Amendments) Rules
 2021</em> (Schedule I, paragraph 26.4), is further amended (i.e. clause
-4.11.3BA(c) specifically) to reflect the proposed aggregation of clauses
-4.10.1(fA), 4.10.1(fB) and 4.10.1(fC) into a single clause
-4.10.1(fA).</p></th>
+### 4.11.3BA(c) specifically) to reflect the proposed aggregation of clauses
+### 4.10.1(fA), 4.10.1(fB) and 4.10.1(fC) into a single clause
+### 4.10.1(fA).</p></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
 
-4.11.3BA. The Required Level for a Separately Certified Component of a
+### 4.11.3BA. The Required Level for a Separately Certified Component of a
 Scheduled Facility or Semi-Scheduled Facility is:
 
 \(a\) for a Non-Intermittent Generating System assigned Certified
 Reserve Capacity under clause 4.11.1(a), calculated by AEMO using the
 Capacity Credits associated with the Non-Intermittent Generating System
 and temperature dependence information submitted to AEMO under clause
-4.10.1(e)(i) or provided in Standing Data (where available) and
+### 4.10.1(e)(i) or provided in Standing Data (where available) and
 converted to a sent out basis to 41 degrees Celsius;
 
 \(b\) for an Intermittent Generating System assigned Certified Reserve
@@ -4298,11 +4298,11 @@ dependence information submitted to AEMO under clause 4.10.1(fA) or
 provided in Standing Data (where available) and converted to a sent out
 basis to 41 degrees Celsius.
 
-4.11.3BB. The Required Level for a Demand Side Programme is calculated
+### 4.11.3BB. The Required Level for a Demand Side Programme is calculated
 by AEMO using the Relevant Demand for the Facility minus the Capacity
 Credits assigned to the Facility.
 
-4.11.3BC. Except where clause 4.11.3BD applies to the Facility, the
+### 4.11.3BC. Except where clause 4.11.3BD applies to the Facility, the
 Required Level for a Non-Scheduled Facility assigned Certified Reserve
 Capacity under clause 4.11.2(b) is either:
 
@@ -4312,12 +4312,12 @@ the Facility, specified in the report described in clause 4.10.3A(b);or
 
 \(b\) the proposed alternative value for the Facility, expressed in MW
 as a sent out value, specified in the report described in clause
-4.10.3A(c), where AEMO must use the proposed alternative value in
+### 4.10.3A(c), where AEMO must use the proposed alternative value in
 accordance with clause 4.11.2A,
 
 and adjusted for Capacity Credits assigned to the Facility.
 
-4.11.3BD. The Required Level for a Non-Scheduled Facility, assigned
+### 4.11.3BD. The Required Level for a Non-Scheduled Facility, assigned
 Certified Reserve Capacity under 4.11.1(bD), is calculated by AEMO using
 the Capacity Credits assigned to the Facility and temperature dependence
 information submitted to AEMO under clauses 4.10.1(fD) or provided in
@@ -4340,7 +4340,7 @@ completion of the Coordinator’s RCM Review.</p></th>
 </tbody>
 </table>
 
-4.11.3C. For each five year period, beginning with the period commencing
+### 4.11.3C. For each five year period, beginning with the period commencing
 on 1 January 2025, the Economic Regulation Authority must, by 1 April of
 the first year of that period, conduct a review of the Relevant Level
 Methodology. In conducting the review, the Economic Regulation Authority
@@ -4356,12 +4356,12 @@ Capacity Cycles commencing in the period,
 and the Economic Regulation Authority may examine any other matters that
 the Economic Regulation Authority considers to be relevant.
 
-4.11.3D. In conducting a review under clause 4.11.3C, the Economic
+### 4.11.3D. In conducting a review under clause 4.11.3C, the Economic
 Regulation Authority must publish a draft report and invite submissions
 from Rule Participants and any other stakeholders the Economic
 Regulation Authority considers should be consulted.
 
-4.11.3E. At the conclusion of a review under clause 4.11.3C, the
+### 4.11.3E. At the conclusion of a review under clause 4.11.3C, the
 Economic Regulation Authority must publish a final report containing:
 
 \(a\) details of the Economic Regulation Authority’s review of the
@@ -4374,7 +4374,7 @@ period;
 in those submissions;
 
 \(d\) the values of the parameters K and U determined under clause
-4.11.3C; and
+### 4.11.3C; and
 
 \(e\) any recommended amendments to the Relevant Level Methodology which
 the Economic Regulation Authority intends to progress as a Rule Change
@@ -4395,7 +4395,7 @@ Availability Class to Certified Reserve Capacity.</p></th>
 </tbody>
 </table>
 
-4.11.4. Subject to clause 4.11.12, when assigning Certified Reserve
+### 4.11.4. Subject to clause 4.11.12, when assigning Certified Reserve
 Capacity, AEMO must assign an Availability Class to apply to that
 Certified Reserve Capacity as follows:
 
@@ -4411,7 +4411,7 @@ applicant under clause 4.10.1(g); or
 
 \(b\) Availability Class 2 otherwise.
 
-4.11.5. In assigning Certified Reserve Capacity to a Facility, AEMO may:
+### 4.11.5. In assigning Certified Reserve Capacity to a Facility, AEMO may:
 
 \(a\) require Network Operators to confirm that the data and information
 related to clause 4.10.1(bA) provided to AEMO by or on behalf of an
@@ -4427,7 +4427,7 @@ and Network Operators must use their best endeavours to cooperate with
 such requests and provide the information requested within the timeframe
 specified by AEMO in the request.
 
-4.11.6. AEMO must accredit not less than two independent experts at any
+### 4.11.6. AEMO must accredit not less than two independent experts at any
 time to prepare reports on the estimated Reserve Capacity of an
 Intermittent Generating System or a Non-Scheduled Facility (excluding
 where clause 4.11.1(bD)(ii) applies) that are yet to commence operation,
@@ -4443,19 +4443,19 @@ meaning of the value to be estimated; and
 the expert to complete any work in progress as an accredited expert at
 the time accreditation is removed.
 
-4.11.7. \[Blank\]
+### 4.11.7. \[Blank\]
 
-4.11.8. \[Blank\]
+### 4.11.8. \[Blank\]
 
-4.11.9. \[Blank\]
+### 4.11.9. \[Blank\]
 
-4.11.10. Upon the receipt of advice provided in accordance with clause
-4.10.4 for a Facility that has already been assigned Capacity Credits
+### 4.11.10. Upon the receipt of advice provided in accordance with clause
+### 4.10.4 for a Facility that has already been assigned Capacity Credits
 for the relevant Capacity Year, AEMO must review the information
 provided and decide whether it is necessary for AEMO to reassess the
 assignment of Certified Reserve Capacity to the Facility.
 
-4.11.10A. Where AEMO decides under clause 4.11.10 that it is necessary
+### 4.11.10A. Where AEMO decides under clause 4.11.10 that it is necessary
 for AEMO to reassess the assignment of Certified Reserve Capacity to a
 Facility because the level assigned may have been too high, AEMO must:
 
@@ -4471,7 +4471,7 @@ submission under clause 4.10.4; or
 
 \(b\) otherwise, do nothing.
 
-4.11.11. Where AEMO reassesses the amount of Certified Reserve Capacity
+### 4.11.11. Where AEMO reassesses the amount of Certified Reserve Capacity
 assigned to a Facility under clauses 4.11.10 and 4.11.10A based on
 information provided to AEMO under clause 4.10.4 the Market Participant
 will pay a Reassessment Fee to cover the cost of processing the
@@ -4499,7 +4499,7 @@ size.</p></th>
 </tbody>
 </table>
 
-4.11.12. AEMO must not assign Certified Reserve Capacity to a Scheduled
+### 4.11.12. AEMO must not assign Certified Reserve Capacity to a Scheduled
 Facility, Semi-Scheduled Facility or Demand Side Programme unless AEMO
 is satisfied the Facility is likely to be able to receive, confirm, and
 implement Dispatch Instructions from AEMO in accordance with the WEM
@@ -4539,7 +4539,7 @@ Adjusted Forced Outage Quantities for the Trading Day on the relevant
 Scheduling Day.</p>
 <p>Note that clause 4.12.1 as set out in the Tranche 5 Amendments
 (Schedule I, paragraph 27.1) supersedes the amendments to clauses
-4.12.1(a)-(c) as set out in the Tranches 2 and 3 Amendments (Schedule C,
+### 4.12.1(a)-(c) as set out in the Tranches 2 and 3 Amendments (Schedule C,
 paragraph 87.1). However, the Tranche 5 Amendments contains an error in
 that the instruction deletes clause 4.12.1 but only replaces it with
 subclauses (a) and (b) and not also with the opening paragraph.</p>
@@ -4552,9 +4552,9 @@ Tranche 6 Amendments will replace the existing clause 4.12.1.</p></th>
 </tbody>
 </table>
 
-4.12. Setting Reserve Capacity Obligations
+### 4.12. Setting Reserve Capacity Obligations
 
-4.12.1. The Reserve Capacity Obligations for each Market Participant
+### 4.12.1. The Reserve Capacity Obligations for each Market Participant
 holding Capacity Credits are as follows:
 
 \(a\) a Market Participant must ensure that for each Trading Interval,
@@ -4589,7 +4589,7 @@ because inspections are not conducted under section 4.25.</p></li>
 </tbody>
 </table>
 
-4.12.2. A Market Participant holding Capacity Credits must also comply
+### 4.12.2. A Market Participant holding Capacity Credits must also comply
 with the following obligations:
 
 \(a\) the Market Participant must comply with the Outage planning
@@ -4611,7 +4611,7 @@ performance monitoring obligations in accordance with section 4.27.
 <p>Clause 4.12.3 has been deleted because the rules for determining
 Reserve Capacity Obligation Quantities are covered in other clauses.</p>
 <p>Clause 4.12.7 and its associated footnote have been moved to clause
-4.12.3 to improve the logical order of the section. The condition in the
+### 4.12.3 to improve the logical order of the section. The condition in the
 clause has been updated to refer to Capacity Credits instead of
 Certified Reserve Capacity, because a Facility may be assigned Certified
 Reserve Capacity but not Capacity Credits, in which case the Facility
@@ -4622,7 +4622,7 @@ will not be subject to Reserve Capacity Obligations.</p></th>
 </tbody>
 </table>
 
-4.12.3. If a Facility assigned Capacity Credits is not a Registered
+### 4.12.3. If a Facility assigned Capacity Credits is not a Registered
 Facility for any time period during which Reserve Capacity Obligations
 apply for the Facility, then the Market Participant which holds the
 Capacity Credits assigned to the Facility will be deemed to have failed
@@ -4654,7 +4654,7 @@ Facilities.</p></th>
 </tbody>
 </table>
 
-4.12.4. AEMO must determine the Reserve Capacity Obligation Quantity for
+### 4.12.4. AEMO must determine the Reserve Capacity Obligation Quantity for
 each Scheduled Facility, Semi-Scheduled Facility, Non‑Scheduled Facility
 or Demand Side Programme for each Dispatch Interval as follows:
 
@@ -4713,7 +4713,7 @@ Dispatch Interval.</p>
 </tbody>
 </table>
 
-4.12.5. AEMO must determine the Reserve Capacity Obligation Quantity for
+### 4.12.5. AEMO must determine the Reserve Capacity Obligation Quantity for
 each Separately Certified Component of a Scheduled Facility or
 Semi-Scheduled Facility, for each Dispatch Interval for which the
 Separately Certified Component is assigned Capacity Credits, as follows:
@@ -4722,7 +4722,7 @@ Separately Certified Component is assigned Capacity Credits, as follows:
 Generating System is equal to zero for each Dispatch Interval;
 
 \(b\) subject to the exceptions specified in clauses 4.12.5(d) and
-4.12.5(e), the Reserve Capacity Obligation Quantity for a
+### 4.12.5(e), the Reserve Capacity Obligation Quantity for a
 Non-Intermittent Generating System:
 
 i\. for a Dispatch Interval during a Trading Day where the maximum daily
@@ -4755,7 +4755,7 @@ normally at an ambient temperature of 41 degrees Celsius, as specified
 in Standing Data;
 
 \(c\) subject to the exceptions specified in clauses 4.12.5(d),
-4.12.5(f) and 4.12.5(g), the Reserve Capacity Obligation Quantity for an
+### 4.12.5(f) and 4.12.5(g), the Reserve Capacity Obligation Quantity for an
 Electric Storage Resource:
 
 i\. for a Dispatch Interval which does not fall within an Electric
@@ -4844,7 +4844,7 @@ Facility or Separately Certified Component for the relevant Dispatch
 Interval, which automatically accounts for the adjustments described in
 the clause;</p></li>
 <li><p>adjustments for approved Planned Outages are covered in clauses
-4.12.5(e) and 4.12.5(f); and</p></li>
+### 4.12.5(e) and 4.12.5(f); and</p></li>
 <li><p>adjustments for approved Commissioning Tests are covered in
 clause 4.12.5(d).</p></li>
 </ul>
@@ -4859,7 +4859,7 @@ Interval.</p></th>
 </tbody>
 </table>
 
-4.12.6. The Reserve Capacity Obligation Quantity for a Registered
+### 4.12.6. The Reserve Capacity Obligation Quantity for a Registered
 Facility f for a Trading Interval t is equal to:
 
 $$\text{RCOQ(f,t)=}\frac{\sum\_{\text{DI}\text{∈}\text{t}}^{}\text{RCOQ(f,DI)}}{\text{6}}$$
@@ -4892,9 +4892,9 @@ Programmes.</p>
 </tbody>
 </table>
 
-4.13. Reserve Capacity Security[3]
+### 4.13. Reserve Capacity Security[3]
 
-4.13.1. Where AEMO assigns Certified Reserve Capacity to a Facility
+### 4.13.1. Where AEMO assigns Certified Reserve Capacity to a Facility
 (which, for the purposes of this section 4.13, excludes a Demand Side
 Programme) that is yet to enter service (or re-enter service after
 significant maintenance or having been upgraded), the relevant Market
@@ -4906,13 +4906,13 @@ Capacity Security that is:
 \(b\) an amount determined under clause 4.13.2(a) by the date and time
 specified in clause 4.1.13.
 
-4.13.1A For the purposes of this section 4.13, where an existing
+### 4.13.1A For the purposes of this section 4.13, where an existing
 Facility is undergoing significant maintenance or being upgraded the
 requirement to provide Reserve Capacity Security applies only to the
 part of the Facility either undergoing significant maintenance or being
 upgraded.
 
-4.13.1B. The obligation under clause 4.13.1 to provide Reserve Capacity
+### 4.13.1B. The obligation under clause 4.13.1 to provide Reserve Capacity
 Security does not apply where the Market Participant has provided
 Reserve Capacity Security in relation to the same Facility for a
 previous Reserve Capacity Cycle, unless:
@@ -4923,11 +4923,11 @@ maintenance or being upgraded; or
 \(b\) AEMO cancelled the Capacity Credits assigned to the Facility for
 that previous Reserve Capacity Cycle in accordance with clause 4.20.14.
 
-4.13.1C For the purposes of this section 4.13, a Facility includes part
+### 4.13.1C For the purposes of this section 4.13, a Facility includes part
 of a Facility, any upgrade or significant maintenance to an existing
 Facility, unless otherwise stated.
 
-4.13.2. For the purposes of this section 4.13 the amount of Reserve
+### 4.13.2. For the purposes of this section 4.13 the amount of Reserve
 Capacity Security is:
 
 \(a\) at the time and date referred to in clause 4.1.13, 25 percent of
@@ -4948,17 +4948,17 @@ expressed in $/MW per year, multiplied by an amount equal to the total
 number of Capacity Credits assigned to the Facility under
 clause 4.20.5A.
 
-4.13.2A A Market Participant may apply to AEMO for a recalculation of
+### 4.13.2A A Market Participant may apply to AEMO for a recalculation of
 the amount of Reserve Capacity Security required to be held for a
 Facility using the formula in clause 4.13.2(b) after the time and date
 referred to in clause 4.1.21.
 
-4.13.2B Within 10 Business Days after receipt of a request from a Market
+### 4.13.2B Within 10 Business Days after receipt of a request from a Market
 Participant under clause 4.13.2A AEMO must recalculate the amount of
 Reserve Capacity Security required to be held by a Facility using the
 formula in clause 4.13.2(b). If the amount recalculated by AEMO under
 clause 4.13.2(b) is less than that originally calculated under clause
-4.13.2(a) then AEMO must:
+### 4.13.2(a) then AEMO must:
 
 \(a\) notify the Market Participant of the result of the calculation;
 
@@ -4969,7 +4969,7 @@ Reserve Capacity Security in accordance with clause 4.13.2C, and
 Security in accordance with clause 4.13.2C, return any excess Reserve
 Capacity Security.
 
-4.13.2C Where under clause 4.13.2B AEMO notifies a Market Participant
+### 4.13.2C Where under clause 4.13.2B AEMO notifies a Market Participant
 that excess Reserve Capacity Security is currently held, then a Market
 Participant may replace the existing Reserve Capacity Security with
 replacement Reserve Capacity Security which must:
@@ -4977,12 +4977,12 @@ replacement Reserve Capacity Security which must:
 \(a\) be in the form specified in clause 4.13.5;
 
 \(b\) be an amount not less than the amount required under clause
-4.13.2(b); and
+### 4.13.2(b); and
 
 \(c\) become effective before AEMO returns any excess Reserve Capacity
 Security.
 
-4.13.3. Where a Market Participant’s existing Reserve Capacity Security
+### 4.13.3. Where a Market Participant’s existing Reserve Capacity Security
 is due to expire or cease to have effect for any other reason and after
 that expiration the Market Participant will continue to have an
 obligation to ensure AEMO holds the benefit of a Reserve Capacity
@@ -5015,7 +5015,7 @@ to be specified in a WEM Procedure.</p></th>
 </tbody>
 </table>
 
-4.13.4. Where a Market Participant’s Reserve Capacity Security is
+### 4.13.4. Where a Market Participant’s Reserve Capacity Security is
 affected by any of the circumstances specified in the WEM Procedure
 referred to in clause 4.13.8 that may require replacement Reserve
 Capacity Security, then the Market Participant must ensure that AEMO
@@ -5048,7 +5048,7 @@ Glossary (Chapter 11) to add definitions for “Security Deposit” and
 </tbody>
 </table>
 
-4.13.5. The Reserve Capacity Security for a Market Participant must be:
+### 4.13.5. The Reserve Capacity Security for a Market Participant must be:
 
 \(a\) an obligation in writing that:
 
@@ -5070,14 +5070,14 @@ v\. permits drawings or claims by AEMO up to a stated amount; or
 in the circumstances to the obligation under clause 4.13.5(a), a
 Security Deposit.
 
-4.13.6. Where Reserve Capacity Security is provided as a Security
+### 4.13.6. Where Reserve Capacity Security is provided as a Security
 Deposit in accordance with clause 4.13.5(b), it will accrue interest
 daily at the AEMO Deposit Rate, and AEMO must pay the Market Participant
 the interest accumulated at the end of each calendar month less any
 liabilities and expenses incurred by AEMO, including bank fees and
 charges.
 
-4.13.7. \[Blank\]
+### 4.13.7. \[Blank\]
 
 <table>
 <colgroup>
@@ -5097,7 +5097,7 @@ replaced for the purposes of clause 4.13.4.</p></th>
 </tbody>
 </table>
 
-4.13.8. AEMO must develop a WEM Procedure dealing with:
+### 4.13.8. AEMO must develop a WEM Procedure dealing with:
 
 \(a\) determining Reserve Capacity Security;
 
@@ -5136,7 +5136,7 @@ Capacity is not used to set these quantities.</p></th>
 </tbody>
 </table>
 
-4.13.9. If a Market Participant does not comply with clause 4.13.1 in
+### 4.13.9. If a Market Participant does not comply with clause 4.13.1 in
 full by the date and time specified in clause 4.1.13 for the Reserve
 Capacity Cycle to which the certification relates, the Certified Reserve
 Capacity assigned to that Facility will lapse for the purposes of these
@@ -5150,7 +5150,7 @@ WEM Rules.
 <tr class="header">
 <th><p><strong>Explanatory Note</strong></p>
 <p>Clause 4.13.10 is amended to resolve inconsistencies with clause
-4.13.2 under which Reserve Capacity Security is provided on a Facility
+### 4.13.2 under which Reserve Capacity Security is provided on a Facility
 level and should therefore be returned based on Facility
 performance.</p>
 <p>AEMO will be unable to assess if a 'component' has met its Required
@@ -5162,7 +5162,7 @@ references to 'component of a Facility'.</p></th>
 </tbody>
 </table>
 
-4.13.10. If a Market Participant that provides Reserve Capacity Security
+### 4.13.10. If a Market Participant that provides Reserve Capacity Security
 in respect of a Facility:
 
 \(a\) either:
@@ -5184,11 +5184,11 @@ Participant as soon as practicable after the end of the relevant
 Capacity Year and in any event by 30 November of Year 4 of the relevant
 Reserve Capacity Cycle.
 
-4.13.10A A Market Participant may request AEMO to determine that a
+### 4.13.10A A Market Participant may request AEMO to determine that a
 Facility is in Commercial Operation for the purposes of Chapter 4 of
 these WEM Rules.
 
-4.13.10B. On receipt of a request made under clause 4.13.10A AEMO must
+### 4.13.10B. On receipt of a request made under clause 4.13.10A AEMO must
 determine, within 20 Business Days, whether the Facility is in
 Commercial Operation. In making each such determination AEMO:
 
@@ -5216,7 +5216,7 @@ relevant.
 <tr class="header">
 <th><p><strong>Explanatory Note</strong></p>
 <p>Clause 4.13.10C is amended to resolve inconsistencies with clause
-4.13.2 under which Reserve Capacity Security is provided on a Facility
+### 4.13.2 under which Reserve Capacity Security is provided on a Facility
 level and should therefore be returned based on Facility
 performance.</p>
 <p>AEMO will be unable to assess if a 'component' has met its Required
@@ -5228,7 +5228,7 @@ references to 'component of a Facility'.</p></th>
 </tbody>
 </table>
 
-4.13.10C. For a Facility, or component of a Facility, assigned a
+### 4.13.10C. For a Facility, or component of a Facility, assigned a
 quantity of Certified Reserve Capacity under clause 4.11.2(b), a Market
 Participant may provide AEMO with a report, in accordance with the
 relevant WEM Procedure, prepared by an independent expert accredited by
@@ -5237,7 +5237,7 @@ specify the independent expert’s best estimate of the level to which the
 Facility can operate, expressed in MW as a sent out value, at the time
 the report is prepared.
 
-4.13.11. If a Market Participant that provides a Reserve Capacity
+### 4.13.11. If a Market Participant that provides a Reserve Capacity
 Security in respect of a Facility fails to operate that Facility in
 accordance with clauses 4.13.10(a) and (b) before the end of the
 relevant Capacity Year then the Market Participant must pay to AEMO, as
@@ -5246,7 +5246,7 @@ Security amount for that Facility as soon as practicable after the end
 of the relevant Capacity Year and in any event by 30 November of Year 4
 of the relevant Reserve Capacity Cycle.
 
-4.13.11A The payment obligation under clause 4.13.11 may be satisfied by
+### 4.13.11A The payment obligation under clause 4.13.11 may be satisfied by
 AEMO drawing upon the Reserve Capacity Security for the Facility, and
 applying the amount claimed (after meeting AEMO’s costs associated with
 doing so) so as to:
@@ -5260,23 +5260,23 @@ covered, make a rebate payment to Market Participants in proportion to
 their Individual Reserve Capacity Requirements during the Trading Month
 in accordance with Chapter 9.
 
-4.13.12. If the Reserve Capacity Security drawn upon under clause 4.13
+### 4.13.12. If the Reserve Capacity Security drawn upon under clause 4.13
 is a Security Deposit, then the Market Participant forfeits the amount
 of the Security Deposit.
 
-4.13.13 A Market Participant may apply to AEMO for the release of any
+### 4.13.13 A Market Participant may apply to AEMO for the release of any
 Reserve Capacity Security held by AEMO, at any time prior to the end of
 the relevant Capacity Year, if the Reserve Capacity Security relates to
 a Facility that:
 
 \(a\) has operated at a level equivalent to its Required Level, adjusted
 to 100 percent of the level of Capacity Credits specified in clause
-4.20.5A, in at least two Trading Intervals prior to the end of the
+### 4.20.5A, in at least two Trading Intervals prior to the end of the
 relevant Capacity Year; and
 
 \(b\) is considered by AEMO to be in Commercial Operation.
 
-4.13.14 Where AEMO receives an application made under clause 4.13.13 or
+### 4.13.14 Where AEMO receives an application made under clause 4.13.13 or
 clause 4.28C.12 it must, within 10 Business Days:
 
 \(a\) determine whether the need to maintain the Reserve Capacity
@@ -5316,23 +5316,23 @@ with the Protected Provisions for Reserve Capacity Security).</p></th>
 </tbody>
 </table>
 
-4.13A. DSM Reserve Capacity Security
+### 4.13A. DSM Reserve Capacity Security
 
-4.13A.1. Where AEMO assigns Certified Reserve Capacity to a Demand Side
+### 4.13A.1. Where AEMO assigns Certified Reserve Capacity to a Demand Side
 Programme, the relevant Market Participant must ensure that AEMO holds
 the benefit of DSM Reserve Capacity Security that is:
 
 \(a\) where:
 
 i\. clause 4.1.13 applies, for an amount determined under clause
-4.13A.2(a) by the date and time referred to in clause 4.1.13; or
+### 4.13A.2(a) by the date and time referred to in clause 4.1.13; or
 
 ii\. clause 4.1.21 applies, for an amount determined under clause
-4.13A.2(b) by the date and time referred to in clause 4.1.21; and
+### 4.13A.2(b) by the date and time referred to in clause 4.1.21; and
 
 \(b\) in the form specified in clause 4.13A.6.
 
-4.13A.2. For the purposes of this section 4.13A, the amount of DSM
+### 4.13A.2. For the purposes of this section 4.13A, the amount of DSM
 Reserve Capacity Security is:
 
 \(a\) 25 percent of the Benchmark Reserve Capacity Price included in the
@@ -5353,7 +5353,7 @@ Capacity Cycle, expressed in $/MW per year, multiplied by an amount
 equal to the total number of Capacity Credits assigned to the Demand
 Side Programme under clause 4.20.5A.
 
-4.13A.3. Where:
+### 4.13A.3. Where:
 
 \(a\) AEMO holds the benefit of a DSM Reserve Capacity Security in
 accordance with this section 4.13A in respect of a Demand Side Programme
@@ -5373,18 +5373,18 @@ clause 4.13A.4; and
 \(d\) the DSM Reserve Capacity Security remains in force at all relevant
 times for the purposes of this section 4.13A.
 
-4.13A.4. Subject to clause 4.13A.5, where a Market Participant is
+### 4.13A.4. Subject to clause 4.13A.5, where a Market Participant is
 required to ensure that AEMO holds the benefit of DSM Reserve Capacity
 Security for more than one Reserve Capacity Cycle, the total amount of
 the DSM Reserve Capacity Security for all of those Reserve Capacity
 Cycles in aggregate is the highest amount determined under clause
-4.13A.1.
+### 4.13A.1.
 
-4.13A.5. The amount determined under clause 4.13A.4 does not include
+### 4.13A.5. The amount determined under clause 4.13A.4 does not include
 Reserve Capacity Cycles for which the Demand Side Programme does not
 have any Reserve Capacity Obligations.
 
-4.13A.6. The DSM Reserve Capacity Security for a Demand Side Programme
+### 4.13A.6. The DSM Reserve Capacity Security for a Demand Side Programme
 must be:
 
 \(a\) an obligation in writing that:
@@ -5407,7 +5407,7 @@ v\. permits drawings or claims by AEMO up to a stated amount; or
 in the circumstances to the obligation under clause 4.13A.6(a), a
 Security Deposit.
 
-4.13A.7. If, at any time, and for whatever reason, the amount of the DSM
+### 4.13A.7. If, at any time, and for whatever reason, the amount of the DSM
 Reserve Capacity Security is less than the amount determined in
 accordance with clauses 4.13A.1 or 4.13A.4, as applicable, the Market
 Participant must immediately:
@@ -5427,23 +5427,23 @@ clause 4.13A.6(a); or
 
 \(b\) in the case of a Security Deposit, increase the amount of the
 Security Deposit to the amount determined in accordance with clauses
-4.13A.1 or 4.13A.4, as applicable, and do all other things AEMO may
+### 4.13A.1 or 4.13A.4, as applicable, and do all other things AEMO may
 require, including signing any deeds or other documents, to ensure AEMO
 has the benefit of the increase in the amount of the Security Deposit.
 
-4.13A.8. In respect of a Reserve Capacity Cycle, after the time and date
+### 4.13A.8. In respect of a Reserve Capacity Cycle, after the time and date
 referred to in clause 4.1.23, a Market Participant may apply to AEMO for
 a recalculation of the amount of DSM Reserve Capacity Security required
 to be held for a Demand Side Programme under clauses 4.13A.1 or 4.13A.4,
 as applicable.
 
-4.13A.9. Within ten Business Days after receipt of a request from a
+### 4.13A.9. Within ten Business Days after receipt of a request from a
 Market Participant under clause 4.13A.8, AEMO must recalculate the
 amount of DSM Reserve Capacity Security required to be held for a Demand
 Side Programme under clauses 4.13A.1 or 4.13A.4, as applicable. If the
 amount recalculated by AEMO under clauses 4.13A.1 or 4.13A.4, as
 applicable, is less than that previously calculated under clauses
-4.13A.1 or 4.13A.4, as applicable, then AEMO must:
+### 4.13A.1 or 4.13A.4, as applicable, then AEMO must:
 
 \(a\) notify the Market Participant of the result of the calculation;
 
@@ -5454,7 +5454,7 @@ Reserve Capacity Security in accordance with clause 4.13A.10, and
 Capacity Security in accordance with clause 4.13A.10, return any excess
 DSM Reserve Capacity Security.
 
-4.13A.10. Where under clause 4.13A.9 AEMO notifies a Market Participant
+### 4.13A.10. Where under clause 4.13A.9 AEMO notifies a Market Participant
 that excess DSM Reserve Capacity Security is currently held, then a
 Market Participant may replace the existing DSM Reserve Capacity
 Security with replacement DSM Reserve Capacity Security which must:
@@ -5462,12 +5462,12 @@ Security with replacement DSM Reserve Capacity Security which must:
 \(a\) be in the form specified in clause 4.13A.6;
 
 \(b\) be an amount not less than the amount required under clauses
-4.13A.1 or 4.13A.4, as applicable; and
+### 4.13A.1 or 4.13A.4, as applicable; and
 
 \(c\) become effective before AEMO returns any excess DSM Reserve
 Capacity Security.
 
-4.13A.11. Where a Market Participant’s existing DSM Reserve Capacity
+### 4.13A.11. Where a Market Participant’s existing DSM Reserve Capacity
 Security is due to expire or cease to have effect for any reason and
 after that expiration the Market Participant will continue to have an
 obligation to ensure AEMO holds the benefit of DSM Reserve Capacity
@@ -5483,7 +5483,7 @@ or 4.13A.4, as applicable; and
 \(c\) effective when the existing DSM Reserve Capacity Security expires
 or otherwise ceases to have effect.
 
-4.13A.12. Where a Market Participant’s DSM Reserve Capacity Security is
+### 4.13A.12. Where a Market Participant’s DSM Reserve Capacity Security is
 affected by any of the circumstances specified in the WEM Procedure
 referred to in clause 4.13A.23 that may require replacement DSM Reserve
 Capacity Security, then the Market Participant must ensure that AEMO
@@ -5500,7 +5500,7 @@ first becomes aware of the relevant change in circumstance (whether by
 reason of the Market Participant’s own knowledge or a notification by
 AEMO).
 
-4.13A.13. Where DSM Reserve Capacity Security is provided as a Security
+### 4.13A.13. Where DSM Reserve Capacity Security is provided as a Security
 Deposit in accordance with clause 4.13A.6(b), it will accrue interest
 daily at the AEMO Deposit Rate, and AEMO must pay the Market Participant
 the interest accumulated at the end of each calendar month less any
@@ -5522,13 +5522,13 @@ Reserve Capacity Auction.</p></th>
 </tbody>
 </table>
 
-4.13A.14. If a Market Participant does not comply with clause 4.13A.1 in
+### 4.13A.14. If a Market Participant does not comply with clause 4.13A.1 in
 full by the date and time specified in clause 4.1.13 for the Reserve
 Capacity Cycle to which the certification relates, the Certified Reserve
 Capacity assigned to that Demand Side Programme will lapse for the
 purposes of these WEM Rules.
 
-4.13A.15. If a Market Participant that provides DSM Reserve Capacity
+### 4.13A.15. If a Market Participant that provides DSM Reserve Capacity
 Security in respect of a Demand Side Programme fails to reduce the
 consumption of the Associated Loads for that Demand Side Programme to a
 level which is at least equivalent to its Required Level, adjusted to 90
@@ -5555,7 +5555,7 @@ registration taxonomy.</p></th>
 </tbody>
 </table>
 
-4.13A.16. The payment obligation under clause 4.13A.15 may be satisfied
+### 4.13A.16. The payment obligation under clause 4.13A.15 may be satisfied
 by AEMO drawing upon the DSM Reserve Capacity Security for the Demand
 Side Programme, and applying the amount claimed (after meeting AEMO’s
 costs associated with doing so) so as to:
@@ -5569,11 +5569,11 @@ covered, make a rebate payment to Market Participants in proportion to
 their Individual Reserve Capacity Requirements during the relevant
 Trading Day in accordance with Chapter 9.
 
-4.13A.17. If the DSM Reserve Capacity Security drawn upon under clause
-4.13A.16 is a Security Deposit, then the Market Participant forfeits the
+### 4.13A.17. If the DSM Reserve Capacity Security drawn upon under clause
+### 4.13A.16 is a Security Deposit, then the Market Participant forfeits the
 amount of the Security Deposit for the applicable Capacity Year.
 
-4.13A.18. A Market Participant may:
+### 4.13A.18. A Market Participant may:
 
 \(a\) where AEMO has the benefit of DSM Reserve Capacity Security in
 accordance with this section 4.13A, request that the DSM Reserve
@@ -5583,7 +5583,7 @@ Capacity Security be released; or
 Capacity Security in accordance with this section 4.13A, request that
 the requirement for DSM Reserve Capacity Security is waived.
 
-4.13A.19. Where AEMO receives a request under clause 4.13A.18 it must,
+### 4.13A.19. Where AEMO receives a request under clause 4.13A.18 it must,
 within ten Business Days:
 
 \(a\) having regard to the matters in clause 4.13A.20, determine whether
@@ -5599,7 +5599,7 @@ to be released, return the Security Deposit (plus interest earned); and
 is to be released, notify the Security Provider that AEMO relinquishes
 any rights to draw on the DSM Reserve Capacity Security.
 
-4.13A.20. In making a determination under clause 4.13A.19, AEMO must
+### 4.13A.20. In making a determination under clause 4.13A.19, AEMO must
 have regard to the following matters:
 
 \(a\) the size and type of the Loads associated with the Demand Side
@@ -5610,7 +5610,7 @@ the results of any Reserve Capacity Tests or Verification Tests; and
 
 \(c\) any other matters AEMO considers relevant.
 
-4.13A.21. If, at any time, AEMO is no longer satisfied that an
+### 4.13A.21. If, at any time, AEMO is no longer satisfied that an
 assessment under clause 4.13A.20 would result in AEMO determining to
 release or waive the requirement for a Market Participant to provide
 AEMO with the benefit of DSM Reserve Capacity Security, AEMO must give
@@ -5628,12 +5628,12 @@ accordance with clauses 4.13A.1 or 4.13A.4, as applicable; and
 the benefit of DSM Reserve Capacity Security, which must not be before
 the date which is five Business Days after the date of the notice.
 
-4.13A.22. Where a Market Participant receives a notice under clause
-4.13A.21, the Market Participant must provide AEMO with the benefit of
+### 4.13A.22. Where a Market Participant receives a notice under clause
+### 4.13A.21, the Market Participant must provide AEMO with the benefit of
 DSM Reserve Capacity Security for an amount and by the date specified in
 the notice.
 
-4.13A.23. AEMO must document in a WEM Procedure the processes relating
+### 4.13A.23. AEMO must document in a WEM Procedure the processes relating
 to:
 
 \(a\) determining DSM Reserve Capacity Security;
@@ -5669,14 +5669,14 @@ reasons to the relevant Market Participant; and
 
 \(e\) any other matters relating to this section 4.13A.
 
-4.13A.24. If AEMO determines that a Market Participant no longer has any
+### 4.13A.24. If AEMO determines that a Market Participant no longer has any
 Reserve Capacity Obligations with respect to any Capacity Year for which
 the Market Participant was assigned Capacity Credits, AEMO must return
 any DSM Reserve Capacity Security to the Market Participant as soon as
 practicable after the end of the relevant Capacity Year and in any event
 by 30 November of Year 4 of the relevant Reserve Capacity Cycle.
 
-4.13A.25. For the purposes of these WEM Rules, in determining whether a
+### 4.13A.25. For the purposes of these WEM Rules, in determining whether a
 Demand Side Programme is in Commercial Operation, AEMO may have regard
 to any information AEMO considers relevant.
 
@@ -5696,14 +5696,14 @@ of Reserve Capacity for storage capacity.</p></th>
 </tbody>
 </table>
 
-4.13B. Coordinator Review of Effectiveness of Certification of Reserve
+### 4.13B. Coordinator Review of Effectiveness of Certification of Reserve
 Capacity for Electric Storage Resources
 
-4.13B.1. The Coordinator must review the effectiveness of the approach
+### 4.13B.1. The Coordinator must review the effectiveness of the approach
 for certification of Reserve Capacity for Electric Storage Resources in
 accordance with this section 4.13B.
 
-4.13B.2. The Coordinator must complete a review under clause 4.13B.1:
+### 4.13B.2. The Coordinator must complete a review under clause 4.13B.1:
 
 \(a\) for the first review, within five years of the start of the 2021
 Reserve Capacity Cycle; and
@@ -5711,7 +5711,7 @@ Reserve Capacity Cycle; and
 \(b\) for each subsequent review, at least once every five years from
 the completion of the preceding review under this section 4.13B.
 
-4.13B.3. A review conducted under clause 4.13B.1 must examine :
+### 4.13B.3. A review conducted under clause 4.13B.1 must examine :
 
 \(a\) whether the methodology for rating the capacity of Electric
 Storage Resources for the purposes of setting Certified Reserve Capacity
@@ -5730,11 +5730,11 @@ the Electric Storage Resource Obligation Intervals, in which the Reserve
 Capacity Obligation Quantity for Electric Storage Resources applies,
 remain consistent with the Wholesale Market Objectives.
 
-4.13B.4. In conducting a review under clause 4.13B.1, the Coordinator
+### 4.13B.4. In conducting a review under clause 4.13B.1, the Coordinator
 must invite submissions, and publish all submissions received, from Rule
 Participants and any other interested stakeholders.
 
-4.13B.5. The Coordinator must publish a report containing:
+### 4.13B.5. The Coordinator must publish a report containing:
 
 \(a\) the issues identified by the Coordinator;
 
@@ -5754,7 +5754,7 @@ submissions;
 \(g\) any other matters the Coordinator considers relevant to the
 review.
 
-4.13B.6. If the Coordinator recommends changes as a result of the report
+### 4.13B.6. If the Coordinator recommends changes as a result of the report
 prepared under this section 4.13B, the Coordinator must either submit a
 Rule Change Proposal or, where the change relates to the WEM Procedure
 documented by AEMO under clause 4.11.3A, recommend that AEMO initiate a
@@ -5777,7 +5777,7 @@ a consequence of the deletion of the Reserve Capacity Auction.</p></th>
 
 Commitment of Capacity to Bilateral Trade
 
-4.14. Bilateral Trade Declaration
+### 4.14. Bilateral Trade Declaration
 
 <table>
 <colgroup>
@@ -5796,7 +5796,7 @@ Reserve Capacity Mechanism.</p></th>
 </tbody>
 </table>
 
-4.14.1. Subject to clause 4.14.3, each Market Participant holding
+### 4.14.1. Subject to clause 4.14.3, each Market Participant holding
 Certified Reserve Capacity for the current Reserve Capacity Cycle must,
 by the date and time specified in clause 4.1.14 provide the following
 information to AEMO for each Facility and component of a Facility
@@ -5816,7 +5816,7 @@ where the sum of the values for clauses 4.14.1(c) and (d) must equal the
 Certified Reserve Capacity of the Facility for the Reserve Capacity
 Cycle.
 
-4.14.1B. A Market Participant holding Certified Reserve Capacity for the
+### 4.14.1B. A Market Participant holding Certified Reserve Capacity for the
 current Reserve Capacity Cycle may, by the date and time specified in
 clause 4.1.14, nominate to AEMO by notice in writing that the Facility
 be classified as a Fixed Price Facility.
@@ -5837,7 +5837,7 @@ deletion of section 4.28B (Treatment of New Small Generators).</p></th>
 </tbody>
 </table>
 
-4.14.1C. For the purposes of clause 4.14.1B, a Facility may only be
+### 4.14.1C. For the purposes of clause 4.14.1B, a Facility may only be
 nominated to be classified as a Fixed Price Facility if:
 
 \(a\) the Facility has not been assigned Capacity Credits in a previous
@@ -5877,7 +5877,7 @@ Cycle.</p></th>
 </tbody>
 </table>
 
-4.14.1D. A Market Participant holding Certified Reserve Capacity for the
+### 4.14.1D. A Market Participant holding Certified Reserve Capacity for the
 current Reserve Capacity Cycle for a Facility that is not committed
 must, by the date and time specified in clause 4.1.14, notify AEMO in
 writing of the Minimum Capacity Credits Quantity for the Facility for
@@ -5898,7 +5898,7 @@ previous Reserve Capacity Cycles.</p></th>
 </tbody>
 </table>
 
-4.14.2. A Capacity Credit (and the Reserve Capacity associated with a
+### 4.14.2. A Capacity Credit (and the Reserve Capacity associated with a
 Capacity Credit) is “traded bilaterally” for the purposes of these WEM
 Rules where:
 
@@ -5915,15 +5915,15 @@ a Facility allocates any of the Capacity Credits for that Facility for
 settlement purposes to meet its own Individual Reserve Capacity
 Requirement in accordance with sections 4.30 and 4.31.
 
-4.14.3. A Market Participant holding Certified Reserve Capacity with
+### 4.14.3. A Market Participant holding Certified Reserve Capacity with
 respect to a Facility subject to an NCESS Contract must nominate all
 Certified Reserve Capacity under clause 4.14.1(c).
 
-4.14.4. \[Blank\]
+### 4.14.4. \[Blank\]
 
-4.14.5 \[Blank\]
+### 4.14.5 \[Blank\]
 
-4.14.6. If two or more Facilities cannot simultaneously exist (for
+### 4.14.6. If two or more Facilities cannot simultaneously exist (for
 example, because more than one Market Participant is proposing to build
 a Facility that will be located at the same site,) then AEMO cannot
 accept a non-zero value provided in accordance with either or both of
@@ -5948,7 +5948,7 @@ Expressions of Interest will be accepted ahead of other Facilities; then
 on the order in which they applied for Certified Reserve Capacity,
 including applications for Conditional Certified Reserve Capacity.
 
-4.14.7. AEMO must review the information provided by Market Participants
+### 4.14.7. AEMO must review the information provided by Market Participants
 in accordance with clause 4.14.1 to ensure that the information provided
 is consistent with the Certified Reserve Capacity of each Facility and
 the requirements of this section 4.14, and:
@@ -5994,7 +5994,7 @@ determined.</p></th>
 </tbody>
 </table>
 
-4.14.8. If Certified Reserve Capacity is not to be made available to the
+### 4.14.8. If Certified Reserve Capacity is not to be made available to the
 market as a result of the acceptance by AEMO of information submitted by
 a Market Participant in accordance with clause 4.14.1(d), or because
 clause 4.14.7(c)(ii) applies, then all obligations associated with that
@@ -6005,9 +6005,9 @@ clause 4.14.1 or the application of clause 4.14.7(c)(ii) (as applicable)
 and that part of the Certified Reserve Capacity ceases to be Certified
 Reserve Capacity for the purposes of these WEM Rules (including for the
 purposes of determining an Initial Network Access Quantity under clause
-4.1A.2).
+### 4.1A.2).
 
-4.14.9. AEMO must notify each Market Participant that specified a
+### 4.14.9. AEMO must notify each Market Participant that specified a
 non-zero amount under clause 4.14.1(c) by the date and time specified in
 clause 4.1.15 of the quantity of Certified Reserve Capacity held by the
 Market Participant in respect of each Facility that it can trade
@@ -6029,7 +6029,7 @@ Reserve Capacity Auction.</p></th>
 </tbody>
 </table>
 
-4.14.10. \[Blank\]
+### 4.14.10. \[Blank\]
 
 <table>
 <colgroup>
@@ -6048,7 +6048,7 @@ clauses in section 4.14).</p></th>
 </tbody>
 </table>
 
-4.14.11. AEMO must develop a WEM Procedure documenting the process AEMO
+### 4.14.11. AEMO must develop a WEM Procedure documenting the process AEMO
 and Market Participants must follow for the bilateral trade declaration
 under this section 4.14.
 
@@ -6118,7 +6118,7 @@ out below) below commence on 1 September 2022.</p></th>
 </tbody>
 </table>
 
-4.15. Network Access Quantity
+### 4.15. Network Access Quantity
 
 <table>
 <colgroup>
@@ -6154,9 +6154,9 @@ Reserve Capacity or their Network Access Quantity assigned in the
 previous Reserve Capacity Cycle. In the situation where either the total
 assigned Certified Reserve Capacity or Network Access Quantities is less
 than the peak demand it will be impossible for AEMO to satisfy clause
-4.15.5(c).</p>
+### 4.15.5(c).</p>
 <p>For this reason, clause 4.15.5 is further amended to remove clause
-4.15.5(c). How AEMO will create facility dispatch scenarios in a
+### 4.15.5(c). How AEMO will create facility dispatch scenarios in a
 shortfall situation will be covered in the Network Access Quantity WEM
 Procedure.</p>
 <p>Finally, following the consultation period for Tranche 6 Exposure
@@ -6196,9 +6196,9 @@ appropriate at this stage.</p></th>
 </tbody>
 </table>
 
-4.15.1. AEMO must determine Network Access Quantities and Indicative
+### 4.15.1. AEMO must determine Network Access Quantities and Indicative
 Network Access Quantities for Facilities in accordance with this section
-4.15 and Appendix 3.
+### 4.15 and Appendix 3.
 
 <table>
 <colgroup>
@@ -6216,7 +6216,7 @@ Appendix 3.</p></th>
 </tbody>
 </table>
 
-4.15.2. The Network Access Quantity for a Facility for a Reserve
+### 4.15.2. The Network Access Quantity for a Facility for a Reserve
 Capacity Cycle is the Final Network Access Quantity, if any, determined
 in accordance with the processes in Appendix 3 for that Reserve Capacity
 Cycle.
@@ -6236,7 +6236,7 @@ determined.</p></th>
 </tbody>
 </table>
 
-4.15.3. The assumptions that must be taken into account by the Network
+### 4.15.3. The assumptions that must be taken into account by the Network
 Access Quantity Model developed under clause 4.15.7, for the relevant
 Reserve Capacity Cycle are:
 
@@ -6248,10 +6248,10 @@ under peak demand conditions described in clause 4.4B.3;
 assumed status of the Network under peak demand conditions; and
 
 \(c\) assume peak demand is equal to the value determined under clause
-4.5.10(a)(iv) and used in the calculation of the Reserve Capacity
+### 4.5.10(a)(iv) and used in the calculation of the Reserve Capacity
 Requirement for the relevant Capacity Year.
 
-4.15.4. Subject to clause 4.15.5, AEMO must develop, in accordance with
+### 4.15.4. Subject to clause 4.15.5, AEMO must develop, in accordance with
 the WEM Procedure referred to in clause 4.15.17, a range of facility
 dispatch scenarios that describe how Facilities could be dispatched at
 the time of peak demand (as described in clause 4.15.3(c)).
@@ -6279,7 +6279,7 @@ specifications for the dispatch of intermittent Loads).</p></li>
 </tbody>
 </table>
 
-4.15.5. The facility dispatch scenarios to be developed by AEMO pursuant
+### 4.15.5. The facility dispatch scenarios to be developed by AEMO pursuant
 to clause 4.15.4 must:
 
 \(a\) include, in AEMO’s sole discretion, variations in the output of
@@ -6311,12 +6311,12 @@ section 4.15 and Appendix 3.</p></th>
 </tbody>
 </table>
 
-4.15.6. AEMO must develop and maintain a Network Access Quantity Model
+### 4.15.6. AEMO must develop and maintain a Network Access Quantity Model
 in accordance with clause 4.15.7 and use the Network Access Quantity
 Model when undertaking the processes in Appendix 3 for each Reserve
 Capacity Cycle.
 
-4.15.7. The Network Access Quantity Model must:
+### 4.15.7. The Network Access Quantity Model must:
 
 \(a\) apply the principles specified in clause 4.15.9;
 
@@ -6350,7 +6350,7 @@ must apply in developing the NAQ Model.</p></th>
 </tbody>
 </table>
 
-4.15.8. The matters that must be taken into account by the Network
+### 4.15.8. The matters that must be taken into account by the Network
 Access Quantity Model developed under clause 4.15.6, for the relevant
 Reserve Capacity Cycle, are:
 
@@ -6366,7 +6366,7 @@ provided under clause 4.4A.1;
 \(d\) any other matters specified in the WEM Procedure referred to in
 clause 4.15.17.
 
-4.15.9. The principles that must be applied by the Network Access
+### 4.15.9. The principles that must be applied by the Network Access
 Quantity Model under clause 4.15.7 are:
 
 \(a\) where a redispatch is required to avoid a constraint in the RCM
@@ -6407,7 +6407,7 @@ precision of 0.001 MW.</p></th>
 </tbody>
 </table>
 
-4.15.10. The Network Access Quantity determined for a Facility is to be
+### 4.15.10. The Network Access Quantity determined for a Facility is to be
 expressed to a precision of 0.001 MW.
 
 <table>
@@ -6425,7 +6425,7 @@ for their Facility.</p></th>
 </tbody>
 </table>
 
-4.15.11. AEMO must notify each Market Participant that specified a
+### 4.15.11. AEMO must notify each Market Participant that specified a
 non-zero amount under clause 4.14.1(c) of the Network Access Quantity,
 if any, determined for its Facility under clause 4.15.2 by the date and
 time specified in clause 4.1.16A.
@@ -6452,7 +6452,7 @@ date for the Facility specified in the section 4.4A.1 notice.</p></th>
 </tbody>
 </table>
 
-4.15.12. A Network Access Quantity for a Facility that is to cease
+### 4.15.12. A Network Access Quantity for a Facility that is to cease
 operation permanently is:
 
 \(a\) deemed to be relinquished by the Market Participant in respect to
@@ -6462,13 +6462,13 @@ operation permanently; and
 \(b\) the relinquishment is effective from the earlier of:
 
 i\. the expected closure date specified in the notice under section
-4.4A.1 in respect to the Facility; and
+### 4.4A.1 in respect to the Facility; and
 
 ii\. any earlier date pursuant to an amendment to the notice under
 clause 4.4A.1 in accordance with clause 4.4A.3,
 
 regardless of whether the notice is subsequently withdrawn under clause
-4.4A.6.
+### 4.4A.6.
 
 <table>
 <colgroup>
@@ -6486,17 +6486,17 @@ in Appendix 3.</p></th>
 </tbody>
 </table>
 
-4.15.13. AEMO must determine and record a Highest Network Access
+### 4.15.13. AEMO must determine and record a Highest Network Access
 Quantity for each Facility in accordance with clause 4.15.14.
 
-4.15.14. The Highest Network Access Quantity for a Facility for a
+### 4.15.14. The Highest Network Access Quantity for a Facility for a
 Reserve Capacity Cycle is the quantity determined by AEMO as being equal
 to:
 
 \(a\) the Highest Network Access Quantity assigned to the Facility for
 the previous Reserve Capacity Cycle which may be increased or decreased
 for the current Reserve Capacity Cycle in accordance with clause
-4.15.15; and
+### 4.15.15; and
 
 \(b\) where the Facility has not been assigned a Highest Network Access
 Quantity in a previous Reserve Capacity Cycle, the Network Access
@@ -6527,7 +6527,7 @@ Capacity Cycle.</p></th>
 </tbody>
 </table>
 
-4.15.15. Where, for a Reserve Capacity Cycle:
+### 4.15.15. Where, for a Reserve Capacity Cycle:
 
 \(a\) a Facility, that is not assigned Certified Reserve Capacity using
 the methodology described in clause 4.11.2(b) and is assigned a quantity
@@ -6566,14 +6566,14 @@ Network Access Quantities.</p>
 provided for the Facilities assessed in the NAQ model.</p>
 <p>The requirement from clause 10.5.1(f)(xiii) to publish the Highest
 Network Access Quantity for each Facility has been relocated to clause
-4.15.16.</p></th>
+### 4.15.16.</p></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
 
-4.15.16. AEMO must publish the following information on the WEM Website
+### 4.15.16. AEMO must publish the following information on the WEM Website
 by the date and time specified in clause 4.1.16A(d):
 
 \(a\) the Network Access Quantity Model Inputs;
@@ -6599,7 +6599,7 @@ respect to this section 4.15 in a WEM Procedure.</p></th>
 </tbody>
 </table>
 
-4.15.17. AEMO must document in a WEM Procedure:
+### 4.15.17. AEMO must document in a WEM Procedure:
 
 \(a\) the processes, methodologies, inputs, parameters and assumptions
 to be applied in the Network Access Quantity Model for modelling the
@@ -6627,16 +6627,16 @@ performing its functions under this section 4.15.
 
 The Benchmark Reserve Capacity Price
 
-4.16. The Benchmark Reserve Capacity Price
+### 4.16. The Benchmark Reserve Capacity Price
 
-4.16.1. For all Reserve Capacity Cycles, the Economic Regulation
+### 4.16.1. For all Reserve Capacity Cycles, the Economic Regulation
 Authority must publish a Benchmark Reserve Capacity Price as determined
 in accordance with this section 4.16 prior to the time specified in
 section 4.1.4.
 
-4.16.2. \[Blank\]
+### 4.16.2. \[Blank\]
 
-4.16.3 The Economic Regulation Authority must develop a WEM Procedure
+### 4.16.3 The Economic Regulation Authority must develop a WEM Procedure
 documenting the methodology it must use and the process it must follow
 in determining the Benchmark Reserve Capacity Price, and:
 
@@ -6650,13 +6650,13 @@ Procedure to annually review the value of the Benchmark Reserve Capacity
 Price in accordance with this section 4.16 and in accordance with the
 timing requirements specified in clause 4.1.19.
 
-4.16.4. \[Blank\]
+### 4.16.4. \[Blank\]
 
-4.16.5. The Economic Regulation Authority must revise the value of the
+### 4.16.5. The Economic Regulation Authority must revise the value of the
 Benchmark Reserve Capacity Price using the methodology described in the
 WEM Procedure referred to in clause 4.16.3.
 
-4.16.6. The Economic Regulation Authority must prepare a draft report
+### 4.16.6. The Economic Regulation Authority must prepare a draft report
 describing how it has arrived at a proposed revised value for the
 Benchmark Reserve Capacity Price under clause 4.16.5. The Economic
 Regulation Authority must publish the report on its website and
@@ -6664,13 +6664,13 @@ advertise the report in newspapers widely distributed in Western
 Australia and request submissions from all sectors of the Western
 Australia energy industry, including end-users.
 
-4.16.7. After considering of the submissions on the draft report
+### 4.16.7. After considering of the submissions on the draft report
 described in clause 4.16.6 the Economic Regulation Authority must
 propose a final revised value for the Benchmark Reserve Capacity Price
 and publish that value and its final report, including submissions
 received on the draft report on its website.
 
-4.16.8. A proposed revised value for the Benchmark Reserve Capacity
+### 4.16.8. A proposed revised value for the Benchmark Reserve Capacity
 Price becomes the Benchmark Reserve Capacity Price after the Economic
 Regulation Authority has posted a notice on its website of the new value
 of the Benchmark Reserve Capacity Price with effect from the date and
@@ -6692,17 +6692,17 @@ below.</p></th>
 </tbody>
 </table>
 
-4.16.8A. Within five days of publication of the Benchmark Reserve
+### 4.16.8A. Within five days of publication of the Benchmark Reserve
 Capacity Price by the Economic Regulation Authority under clause 4.16.8,
 AEMO must publish the Benchmark Reserve Capacity Price on the WEM
 Website.
 
-4.16.9 At least once in every five year period, the Economic Regulation
+### 4.16.9 At least once in every five year period, the Economic Regulation
 Authority must review the WEM Procedure referred to in clause 4.16.3 and
 must undertake a public consultation process in respect of the outcome
 of the review.
 
-4.16.10. If the Economic Regulation Authority recommends changes as a
+### 4.16.10. If the Economic Regulation Authority recommends changes as a
 result of the review in clause 4.16.9, the Economic Regulation Authority
 must either submit a Rule Change Proposal or initiate a Procedure Change
 Process, as the case may be, to implement those changes.
@@ -6722,7 +6722,7 @@ Reserve Capacity Auction.</p></th>
 </tbody>
 </table>
 
-4.17. \[Blank\]
+### 4.17. \[Blank\]
 
 <table>
 <colgroup>
@@ -6739,7 +6739,7 @@ Reserve Capacity Auction.</p></th>
 </tbody>
 </table>
 
-4.18. \[Blank\]
+### 4.18. \[Blank\]
 
 <table>
 <colgroup>
@@ -6756,11 +6756,11 @@ Reserve Capacity Auction.</p></th>
 </tbody>
 </table>
 
-4.19. \[Blank\]
+### 4.19. \[Blank\]
 
 Capacity Credits
 
-4.20. Capacity Credits
+### 4.20. Capacity Credits
 
 <table>
 <colgroup>
@@ -6777,15 +6777,15 @@ the deletion of the Reserve Capacity Auction.</p></th>
 </tbody>
 </table>
 
-4.20.1. \[Blank\]
+### 4.20.1. \[Blank\]
 
-4.20.2. \[Blank\]
+### 4.20.2. \[Blank\]
 
-4.20.3. \[Blank\]
+### 4.20.3. \[Blank\]
 
-4.20.4. \[Blank\]
+### 4.20.4. \[Blank\]
 
-4.20.5. \[Blank\]
+### 4.20.5. \[Blank\]
 
 <table>
 <colgroup>
@@ -6809,7 +6809,7 @@ component of the “hybrid” facility.</p></th>
 </tbody>
 </table>
 
-4.20.5A. AEMO must:
+### 4.20.5A. AEMO must:
 
 \(a\) subject to clause 4.20.5C, assign a quantity of Capacity Credits
 to each Facility where the quantity is determined in accordance with
@@ -6831,7 +6831,7 @@ Operation; and
 i\. AEMO’s determination under clause 4.20.5A(aA); and,
 
 ii\. for each Facility assigned Capacity Credits under clause
-4.20.5A(a):
+### 4.20.5A(a):
 
 1\. the quantity of Capacity Credits assigned;
 
@@ -6930,7 +6930,7 @@ Cycle)</td>
 </tbody>
 </table>
 
-4.20.5AA. For each Reserve Capacity Cycle, where AEMO has assigned
+### 4.20.5AA. For each Reserve Capacity Cycle, where AEMO has assigned
 Capacity Credits to Facilities at any of the following prices, AEMO must
 publish a summary of the aggregate quantity of MW of Capacity Credits
 assigned to Facilities at each price for the Reserve Capacity Cycle:
@@ -6974,7 +6974,7 @@ commence.</p></th>
 </tbody>
 </table>
 
-4.20.5B. The quantity of Capacity Credits assigned to a Facility f is
+### 4.20.5B. The quantity of Capacity Credits assigned to a Facility f is
 equal to the sum of:
 
 \(a\) the Network Access Quantity determined by AEMO in accordance with
@@ -7010,7 +7010,7 @@ commence.</p></th>
 </tbody>
 </table>
 
-4.20.5C. Where, for a Facility for a Reserve Capacity Cycle:
+### 4.20.5C. Where, for a Facility for a Reserve Capacity Cycle:
 
 \(a\) the Network Access Quantity determined for the Facility in
 accordance with section 4.15 is not greater than zero; or
@@ -7037,7 +7037,7 @@ Reserve Capacity Auction.</p></th>
 </tbody>
 </table>
 
-4.20.5D. \[Blank\]
+### 4.20.5D. \[Blank\]
 
 <table>
 <colgroup>
@@ -7053,21 +7053,21 @@ Reserve Capacity Auction.</p></th>
 </tbody>
 </table>
 
-4.20.6. \[Blank\]
+### 4.20.6. \[Blank\]
 
-4.20.7. Payments for Capacity Credits under these WEM Rules can only
+### 4.20.7. Payments for Capacity Credits under these WEM Rules can only
 occur for the period between the time and date that the associated
 Reserve Capacity Obligations commence and the time and date that the
 associated Reserve Capacity Obligations cease.
 
-4.20.8 If, by the date and time specified in clause 4.1.21B, AEMO
+### 4.20.8 If, by the date and time specified in clause 4.1.21B, AEMO
 becomes aware that no capacity associated with the Capacity Credits
 assigned to a new Facility that is yet to enter service will be made
 available to the market for an entire Capacity Year, it must issue a
 Notice of Intention to Cancel Capacity Credits to the Market Participant
 for that Facility for that Capacity Year.
 
-4.20.9 A Notice of Intention to Cancel Capacity Credits issued to a
+### 4.20.9 A Notice of Intention to Cancel Capacity Credits issued to a
 Market Participant by AEMO, in accordance with clause 4.20.8, must
 include:
 
@@ -7081,22 +7081,22 @@ will be made available to the market for the entire Capacity Year; and
 \(c\) the Capacity Year for which the cancellation of Capacity Credits
 assigned to the Facility will apply.
 
-4.20.10. Within 10 Business Days of being issued a Notice of Intention
+### 4.20.10. Within 10 Business Days of being issued a Notice of Intention
 to Cancel Capacity Credits in accordance with clause 4.20.8, the Market
 Participant may make a submission to AEMO detailing any reasons it
 considers should be taken into account by AEMO in making a final
 determination to cancel the Capacity Credits assigned to the Facility
 for the Capacity Year.
 
-4.20.11. Where AEMO has issued a Notice of Intention to Cancel Capacity
+### 4.20.11. Where AEMO has issued a Notice of Intention to Cancel Capacity
 Credits in accordance with clause 4.20.8, AEMO must, within 20 Business
 Days of issuing the Notice of Intention to Cancel Capacity Credits,
 decide whether it will cancel the Capacity Credits assigned to the
 Facility for the Capacity Year.
 
-4.20.12. Where AEMO makes a decision to cancel the Capacity Credits
+### 4.20.12. Where AEMO makes a decision to cancel the Capacity Credits
 assigned to a Facility for a Capacity Year in accordance with clause
-4.20.11, it must notify the Market Participant of its decision within 5
+### 4.20.11, it must notify the Market Participant of its decision within 5
 Business Days, including:
 
 \(a\) the details of the Facility;
@@ -7111,17 +7111,17 @@ will be made available to the market for the entire Capacity Year; and
 \(d\) the Capacity Year for which the cancellation of Capacity Credits
 assigned to the Facility will apply.
 
-4.20.13. Within 10 Business Days of making a decision, in accordance
+### 4.20.13. Within 10 Business Days of making a decision, in accordance
 with clause 4.20.11, to cancel the Capacity Credits assigned to a
 Facility AEMO must publish on the WEM Website the information specified
 in clauses 4.20.12(a), 4.20.12(c) and 4.20.12(d).
 
-4.20.14. Where AEMO has made a decision to cancel the Capacity Credits
+### 4.20.14. Where AEMO has made a decision to cancel the Capacity Credits
 assigned to a Facility in accordance with clause 4.20.11, AEMO must
 cancel the Capacity Credits assigned to the Facility for the Capacity
 Year specified in clause 4.20.12(d).
 
-4.20.15. Where AEMO has made a decision not to cancel the Capacity
+### 4.20.15. Where AEMO has made a decision not to cancel the Capacity
 Credits assigned to a Facility for a Capacity Year in accordance with
 clause 4.20.11, it must notify the Market Participant of its decision
 within 5 Business Days.
@@ -7145,7 +7145,7 @@ component.</p></th>
 </tbody>
 </table>
 
-4.20.16. Where AEMO has assigned Capacity Credits to a Facility for a
+### 4.20.16. Where AEMO has assigned Capacity Credits to a Facility for a
 Capacity Year that is less than the total Certified Reserve Capacity for
 each component of the Facility for that Capacity Year, the Market
 Participant must, by the date and time specified in clause 4.1.21A,
@@ -7172,7 +7172,7 @@ relevant components, including Electric Storage Resources.</p></th>
 </tbody>
 </table>
 
-4.20.17. Where AEMO has assigned Capacity Credits to a Facility for a
+### 4.20.17. Where AEMO has assigned Capacity Credits to a Facility for a
 Capacity Year, AEMO must set the number of Capacity Credits to be
 associated with each component of the Facility for the Capacity Year as:
 
@@ -7198,7 +7198,7 @@ been relocated from clause 10.5.1(f)(iv) to new clause 4.20.18.</p></th>
 </tbody>
 </table>
 
-4.20.18. AEMO must publish on the WEM Website, for each Market
+### 4.20.18. AEMO must publish on the WEM Website, for each Market
 Participant holding Capacity Credits, the Capacity Credits provided by
 each Facility for each Reserve Capacity Cycle.
 
@@ -7217,20 +7217,20 @@ Reserve Capacity Auction.</p></th>
 </tbody>
 </table>
 
-4.21. \[Blank\]
+### 4.21. \[Blank\]
 
-4.22. \[Blank\]
+### 4.22. \[Blank\]
 
-4.23. Capacity Credits and Force Majeure
+### 4.23. Capacity Credits and Force Majeure
 
-4.23.1. There are no force majeure conditions associated with Capacity
+### 4.23.1. There are no force majeure conditions associated with Capacity
 Credits.
 
-4.23A. Capacity Credits and Facility Registration
+### 4.23A. Capacity Credits and Facility Registration
 
-4.23A.1. \[Blank\]
+### 4.23A.1. \[Blank\]
 
-4.23A.2. \[Blank\]
+### 4.23A.2. \[Blank\]
 
 <table>
 <colgroup>
@@ -7251,7 +7251,7 @@ assigned to a Facility.</p></th>
 </tbody>
 </table>
 
-4.23A.3. If at any time a Market Participant holds Capacity Credits with
+### 4.23A.3. If at any time a Market Participant holds Capacity Credits with
 respect to a facility (the “**primary facility**”) that must be
 registered as more than one Registered Facility, either as a result of
 Facility aggregation not being approved by AEMO or being revoked, then
@@ -7301,7 +7301,7 @@ Facility”.</p></th>
 </tbody>
 </table>
 
-4.23A.4. If at any time a Market Participant holds Capacity Credits with
+### 4.23A.4. If at any time a Market Participant holds Capacity Credits with
 respect to Registered Facilities, for which AEMO has approved
 aggregation as a single Aggregated Facility in accordance with clause
 2.30.7, then AEMO may re-allocate the Certified Reserve Capacity,
@@ -7338,9 +7338,9 @@ accordance with clause 4.23A.3.
 
 Addressing Shortages of Reserve Capacity
 
-4.24. Supplementary Capacity
+### 4.24. Supplementary Capacity
 
-4.24.1. If, at any time after the day which is six months before the
+### 4.24.1. If, at any time after the day which is six months before the
 start of a Capacity Year AEMO considers that inadequate Reserve Capacity
 will be available in the SWIS to maintain Power System Security and
 Power System Reliability, using the most recent published forecasts and
@@ -7353,9 +7353,9 @@ shortfall;
 \(b\) determine the expected amount of the shortfall; and
 
 \(c\) seek to acquire supplementary capacity in accordance with clause
-4.24.2.
+### 4.24.2.
 
-4.24.1A. Without limiting clause 4.24.1, if, at any time after the day
+### 4.24.1A. Without limiting clause 4.24.1, if, at any time after the day
 which is six months before the start of a Capacity Year AEMO considers
 that there is a risk that adequate Reserve Capacity may not be available
 in the SWIS to maintain Power System Security and Power System
@@ -7363,7 +7363,7 @@ Reliability, then it may advertise a call for expressions of interest
 for supplementary capacity by publishing a notice on the WEM Website and
 issuing a Market Advisory.
 
-4.24.1B. A notice calling for expressions of interest for supplementary
+### 4.24.1B. A notice calling for expressions of interest for supplementary
 capacity in accordance with clause 4.24.1A must include:
 
 \(a\) the date and time by when any person wishing to respond to the
@@ -7400,7 +7400,7 @@ responding to the call for expressions of interest; and
 \(j\) the location on the WEM Website of the WEM Procedure referred to
 in clause 4.24.18.
 
-4.24.1C. Following the close of a call for expressions of interest for
+### 4.24.1C. Following the close of a call for expressions of interest for
 supplementary capacity in accordance with clause 4.24.1A, AEMO:
 
 \(a\) must assess all responses received by the closing date, and may
@@ -7416,7 +7416,7 @@ Eligible Services they propose to provide would be capable of meeting
 the requirements outlined in the call for expressions of interest and
 contained in the standard Supplementary Capacity Contract.
 
-4.24.2. If AEMO decides to seek to acquire supplementary capacity and:
+### 4.24.2. If AEMO decides to seek to acquire supplementary capacity and:
 
 \(a\) the expected start date of the shortfall is at least 12 weeks from
 the date AEMO becomes aware of the shortfall, then it must call for
@@ -7431,7 +7431,7 @@ in an invitation to tender; or
 ii\. negotiate directly with potential suppliers of supplementary
 capacity.
 
-4.24.3. The only eligible sources of supplementary capacity are the
+### 4.24.3. The only eligible sources of supplementary capacity are the
 following services (“**Eligible Services**”):
 
 \(a\) load reduction, that is measures to reduce a consumer’s
@@ -7468,17 +7468,17 @@ through the installation of physical equipment; and
 Producing Systems, or the maximum amount of load that can be curtailed,
 that existed prior to the installation of the physical equipment.
 
-4.24.4. A person is not required to be a Rule Participant in order to
+### 4.24.4. A person is not required to be a Rule Participant in order to
 submit a tender in response to a call for tenders under clause 4.24.2 or
 enter into a Supplementary Capacity Contract with AEMO. However, if a
 Rule Participant does enter into a Supplementary Capacity Contract with
 AEMO, then it must comply with that contract.
 
-4.24.5. AEMO must not call for tenders for supplementary capacity
+### 4.24.5. AEMO must not call for tenders for supplementary capacity
 earlier than six calendar months prior to the calendar month in which
 the shortfall period is expected to start.
 
-4.24.6. If AEMO decides to call for tenders for supplementary capacity,
+### 4.24.6. If AEMO decides to call for tenders for supplementary capacity,
 then, no earlier than 30 Business Days and no later than 10 Business
 Days prior to the proposed closing date for submission of tenders, AEMO
 must advertise the call for tenders in accordance with clause 4.24.6A.
@@ -7509,8 +7509,8 @@ Capacity Contract; and
 \(i\) the location on the WEM Website of the tender form to be used in
 applying to provide Eligible Services.
 
-4.24.6A. In advertising the call for tenders in accordance with clause
-4.24.6, AEMO must:
+### 4.24.6A. In advertising the call for tenders in accordance with clause
+### 4.24.6, AEMO must:
 
 \(a\) publish a notice on the WEM Website;
 
@@ -7518,7 +7518,7 @@ applying to provide Eligible Services.
 
 \(c\) issue a Market Advisory.
 
-4.24.7. AEMO must prescribe the tender form to be used by those applying
+### 4.24.7. AEMO must prescribe the tender form to be used by those applying
 to provide Eligible Services. This form must require the specification
 of:
 
@@ -7571,12 +7571,12 @@ with clause 4.24.7(d),
 
 must not exceed the maximum contract value per hour of availability
 specified in the advertisement for the call for tenders under clause
-4.24.6(g); and
+### 4.24.6(g); and
 
 \(k\) the location of the Eligible Service and any associated
 Transmission Node Identifier.
 
-4.24.8. In determining the result of a call for tenders and entering
+### 4.24.8. In determining the result of a call for tenders and entering
 into Supplementary Capacity Contracts:
 
 \(a\) AEMO must only accept an offer for the provision of Eligible
@@ -7612,11 +7612,11 @@ relevant tender form in accordance with clause 4.24.7(d); and
 \(d\) AEMO must be reasonably satisfied that the provider of the
 Eligible Service has access to a network, where applicable.
 
-4.24.9. AEMO is not under any obligation to accept any tender, or enter
+### 4.24.9. AEMO is not under any obligation to accept any tender, or enter
 into a Supplementary Capacity Contract in respect of any tender, made in
 response to a call for tenders under clause 4.24.2.
 
-4.24.10. If AEMO negotiates directly with a potential supplier of
+### 4.24.10. If AEMO negotiates directly with a potential supplier of
 Eligible Services in accordance with clause 4.24.2(b)(ii), then it must
 provide the following information to the potential supplier:
 
@@ -7644,22 +7644,22 @@ opportunity costs incurred; and
 vi\. the location of the Eligible Service and any associated
 Transmission Node Identifier.
 
-4.24.11. Subject to clauses 4.24.3, 4.24.11A and 4.24.14, AEMO may at
+### 4.24.11. Subject to clauses 4.24.3, 4.24.11A and 4.24.14, AEMO may at
 its discretion enter into any negotiated Supplementary Capacity
 Contract, but must use reasonable endeavours to minimise the cost of
 Eligible Services acquired in this manner.
 
-4.24.11A. Where AEMO has issued a call for tenders under clauses
-4.24.2(a) or 4.24.2(b)(i), AEMO must not enter into negotiations for a
+### 4.24.11A. Where AEMO has issued a call for tenders under clauses
+### 4.24.2(a) or 4.24.2(b)(i), AEMO must not enter into negotiations for a
 negotiated Supplementary Capacity Contract under clause 4.24.11 before
 the completion of the tender, including, to avoid doubt, assessment of
 all in-time responses received by AEMO in response to the tender.
 
-4.24.12. AEMO must, in consultation with stakeholders, develop and
+### 4.24.12. AEMO must, in consultation with stakeholders, develop and
 maintain a standard form Supplementary Capacity Contract, which accords
 with the requirements in clause 4.24.13.
 
-4.24.13. A standard form Supplementary Capacity Contract will require
+### 4.24.13. A standard form Supplementary Capacity Contract will require
 the supplier of an Eligible Service to reduce net consumption, or to
 increase energy production, on instruction from AEMO and must specify:
 
@@ -7718,7 +7718,7 @@ and
 
 xiii\. the fact that activation instructions will be given by AEMO.
 
-4.24.14. AEMO must enter into a Supplementary Capacity Contract in the
+### 4.24.14. AEMO must enter into a Supplementary Capacity Contract in the
 form of the standard form Supplementary Capacity Contract, except where
 AEMO considers that one or more variations are reasonably required,
 having regard to the specific characteristics of the facility providing
@@ -7726,22 +7726,22 @@ the supplementary capacity and to any other matter that AEMO considers
 appropriate, then AEMO may enter into a Supplementary Capacity Contract
 containing such variations.
 
-4.24.14A. The notification time for activation specified in a
+### 4.24.14A. The notification time for activation specified in a
 Supplementary Capacity Contract must be aligned, to the extent
 practicable and considering the characteristics of the facility
 providing the Eligible Service, with the notification time applicable to
 a similar type of facility providing a similar service under the WEM
 Rules.
 
-4.24.15. AEMO must recover the full cost it incurs in respect of
+### 4.24.15. AEMO must recover the full cost it incurs in respect of
 Supplementary Capacity Contracts in accordance with section 4.28 and
 Chapter 9.
 
-4.24.16. \[Blank\]
+### 4.24.16. \[Blank\]
 
-4.24.17. \[Blank\]
+### 4.24.17. \[Blank\]
 
-4.24.18. AEMO must document in a WEM Procedure:
+### 4.24.18. AEMO must document in a WEM Procedure:
 
 \(a\) the process it follows in:
 
@@ -7762,7 +7762,7 @@ Service has access to the network;
 \(b\) requirements regarding the information and assistance AEMO may
 require from Western Power to support an expression of interest process
 or a procurement process for supplementary capacity under this section
-4.24;
+### 4.24;
 
 \(c\) requirements, developed in consultation with Western Power,
 regarding the information that must be provided by those applying to
@@ -7776,14 +7776,14 @@ assistance or an assessment of requests submitted; and
 \(e\) contact details for Western Power which must be used by AEMO or
 those applying to provide Eligible Services when assistance or
 assessment by Western Power is requested in accordance with clause
-4.24.18B.
+### 4.24.18B.
 
-4.24.18A. Western Power must provide information and respond to requests
+### 4.24.18A. Western Power must provide information and respond to requests
 for assistance or assessment related to the provision of supplementary
 capacity under this section 4.24 in accordance with the WEM Procedure
 referred to in clause 4.24.18.
 
-4.24.18B. A request to Western Power for assistance or an assessment by
+### 4.24.18B. A request to Western Power for assistance or an assessment by
 those applying to provide Eligible Services or a request to Western
 Power by AEMO must:
 
@@ -7797,7 +7797,7 @@ timelines specified under clause 4.24.18(d); and
 \(c\) contain the information and analysis as may be required under the
 WEM Procedure referred to in clause 4.24.18.
 
-4.24.19. Following each call for tenders for supplementary capacity or
+### 4.24.19. Following each call for tenders for supplementary capacity or
 otherwise acquiring Eligible Services, the Coordinator must review the
 supplementary capacity provisions of this section 4.24 with regard to
 the Wholesale Market Objectives and must undertake a public consultation
@@ -7805,7 +7805,7 @@ process in respect of the outcome of the review.
 
 Testing, Monitoring and Compliance
 
-4.25. Reserve Capacity Testing
+### 4.25. Reserve Capacity Testing
 
 <table>
 <colgroup>
@@ -7847,8 +7847,8 @@ commence.</p></th>
 </tbody>
 </table>
 
-4.25.1. AEMO must take steps to verify, in accordance with clause
-4.25.2, that each Facility or Separately Certified Component of a
+### 4.25.1. AEMO must take steps to verify, in accordance with clause
+### 4.25.2, that each Facility or Separately Certified Component of a
 Facility assigned Capacity Credits can:
 
 \(a\) in the case of a Non-Intermittent Generating System or an Electric
@@ -7874,8 +7874,8 @@ level equivalent to its Required Level, adjusted to the level of
 Capacity Credits currently held, at least once during the period between
 1 October to 31 March.
 
-4.25.1A. Notwithstanding anything else in this section 4.25, clause
-4.25.1 does not apply to an Intermittent Generating System or
+### 4.25.1A. Notwithstanding anything else in this section 4.25, clause
+### 4.25.1 does not apply to an Intermittent Generating System or
 Non-Scheduled Facility. To avoid doubt, an Intermittent Generating
 System or Non-Scheduled Facility is not subject to Reserve Capacity
 Tests under this section 4.25.
@@ -7902,19 +7902,19 @@ a Non-Intermittent Generating System. This change aligns with the
 existing scheduled testing requirements under clause 4.25.2(a)(ii)(1)
 and 4.25.2(e)(ii)(2) which is also two Trading Intervals.</p>
 <p>Clause 4.25.2(a)(i)(2), 4.25.2(a)(ii)(2), 4.25.2(e)(i)(2) and
-4.25.2(e)(ii)(2) confirm that observation testing and scheduled testing
+### 4.25.2(e)(ii)(2) confirm that observation testing and scheduled testing
 must be demonstrated for eight Trading Intervals for an Electric Storage
 Resource, known as the Electric Storage Resource Obligation
 Duration.</p>
 <p>Clause 4.25.2(b) has been amended to reduce repetition with clause
-4.25.1(c).</p></th>
+### 4.25.1(c).</p></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
 
-4.25.2. AEMO may verify the matters specified in clause 4.25.1 by:
+### 4.25.2. AEMO may verify the matters specified in clause 4.25.1 by:
 
 \(a\) in the case of a Facility that is not required to install Facility
 Sub-Metering in accordance with clause 2.29.12:
@@ -7929,7 +7929,7 @@ Intervals; or
 Obligation Duration; or
 
 ii\. subject to clause 4.25.2B, testing, in accordance with clause
-4.25.9, for not less than:
+### 4.25.9, for not less than:
 
 1\. for a Non-Intermittent Generating System, two consecutive Trading
 Intervals; or
@@ -7986,7 +7986,7 @@ Intervals; or
 Obligation Duration; or
 
 ii\. subject to clause 4.25.2B, testing, in accordance with clause
-4.25.9, in respect of each Separately Certified Component, as determined
+### 4.25.9, in respect of each Separately Certified Component, as determined
 from Meter Data Submissions and meter data recorded by the Facility
 Sub-Metering, for not less than:
 
@@ -8019,7 +8019,7 @@ this aligns with clause 4.25.2C.</p></th>
 </tbody>
 </table>
 
-4.25.2A. A Market Participant for a Facility required to install
+### 4.25.2A. A Market Participant for a Facility required to install
 Facility Sub-Metering in accordance with clause 2.29.12 may provide AEMO
 with meter data, recorded by Facility Sub-Metering, by:
 
@@ -8057,7 +8057,7 @@ Required Level in the observation period.</p></th>
 </tbody>
 </table>
 
-4.25.2B. AEMO must subject a Facility or Separately Certified Component
+### 4.25.2B. AEMO must subject a Facility or Separately Certified Component
 to a Reserve Capacity Test under clauses 4.25.2(a)(ii) or 4.25.2(e)(ii)
 where:
 
@@ -8066,7 +8066,7 @@ data, recorded by the Facility Sub-Metering to AEMO, where applicable,
 in accordance with and by the time specified in clause 4.25.2A;
 
 \(b\) AEMO has determined, in accordance with clauses 4.25.2(a)(i) or
-4.25.2(e)(i), that the Facility or Separately Certified Component of the
+### 4.25.2(e)(i), that the Facility or Separately Certified Component of the
 Facility, as applicable, did not operate at the level specified in
 clause 4.25.1(a) by:
 
@@ -8077,7 +8077,7 @@ ii\. 31 July, in respect of the immediately preceding period 1 April to
 31 July; or
 
 \(c\) AEMO is conducting a re-test in accordance with clauses 4.25.4 and
-4.25.6.
+### 4.25.6.
 
 <table>
 <colgroup>
@@ -8099,14 +8099,14 @@ subject to the test will be reduced to zero.</p></th>
 </tbody>
 </table>
 
-4.25.2C. A Market Participant for a Facility required to install
+### 4.25.2C. A Market Participant for a Facility required to install
 Facility Sub-Metering in accordance with clause 2.29.12 that is tested
 by AEMO in accordance with clauses 4.25.2(e)(ii), 4.25.4 or 4.25.6 must
 provide meter data, recorded by Facility Sub-Metering, for the Reserve
 Capacity Test period to AEMO within five Business Days of the Reserve
 Capacity Test.
 
-4.25.2D. Where the Market Participant does not provide meter data to
+### 4.25.2D. Where the Market Participant does not provide meter data to
 AEMO in accordance with and by the time specified in clause 4.25.2C,
 AEMO must reduce the Capacity Credits associated with the Separately
 Certified Component of the Facility subject to the Reserve Capacity Test
@@ -8129,9 +8129,9 @@ clause 4.25.1 and 4.25.2.</p></th>
 </tbody>
 </table>
 
-4.25.2E. AEMO must, in assessing the performance of a Facility or
+### 4.25.2E. AEMO must, in assessing the performance of a Facility or
 Separately Certified Component tested in accordance with clauses
-4.25.2(a), 4.25.2(e), 4.25.4 or 4.25.6:
+### 4.25.2(a), 4.25.2(e), 4.25.4 or 4.25.6:
 
 \(a\) in the case of an Electric Storage Resource, measure the average
 performance across the Electric Storage Resource Obligation Duration
@@ -8140,7 +8140,7 @@ based on the average performance across the eight Trading Intervals; and
 \(b\) in the case of a Non-Intermittent Generating System, measure the
 maximum performance in each Trading Interval.
 
-4.25.3. AEMO must not subject a Facility to more Reserve Capacity Tests
+### 4.25.3. AEMO must not subject a Facility to more Reserve Capacity Tests
 than it considers are required to satisfy the verification requirements
 of this section 4.25.
 
@@ -8164,7 +8164,7 @@ Outages</p></th>
 </tbody>
 </table>
 
-4.25.3A. AEMO must not subject a Facility to a Reserve Capacity Test if:
+### 4.25.3A. AEMO must not subject a Facility to a Reserve Capacity Test if:
 
 \(a\) that Facility is subject to a Planned Outage, or
 
@@ -8199,7 +8199,7 @@ from the 2019 Reserve Capacity Cycle.</p></th>
 </tbody>
 </table>
 
-4.25.4. Subject to clause 4.25.4G, if a Facility, or a Separately
+### 4.25.4. Subject to clause 4.25.4G, if a Facility, or a Separately
 Certified Component of a Facility, fails a Reserve Capacity Test
 requested by AEMO under clause 4.25.2, AEMO must re-test that Facility,
 or Separately Certified Component of that Facility, as applicable, in
@@ -8232,7 +8232,7 @@ the Electric Storage Resource Obligation Duration in either Reserve
 Capacity Test, in accordance with 4.25.2E(a) (after adjusting these
 results to performance at a temperature of 41 degrees Celsius).
 
-4.25.4A A Market Participant may apply to AEMO for a reduction in the
+### 4.25.4A A Market Participant may apply to AEMO for a reduction in the
 number of Capacity Credits the Market Participant holds for a Facility.
 
 <table>
@@ -8252,7 +8252,7 @@ if applicable.</p></th>
 </tbody>
 </table>
 
-4.25.4B. In order for an application under clause 4.25.4A to be assessed
+### 4.25.4B. In order for an application under clause 4.25.4A to be assessed
 by AEMO, it must:
 
 \(a\) be in writing;
@@ -8277,7 +8277,7 @@ relates to each Separately Certified Component; and
 \(d\) indicate whether the application relates only to the current
 Capacity Year or includes subsequent Capacity Years.
 
-4.25.4C. Upon receiving an application under clause 4.25.4A, AEMO must,
+### 4.25.4C. Upon receiving an application under clause 4.25.4A, AEMO must,
 subject to clause 4.25.4CA:
 
 \(a\) assess the application and any supporting documentation;
@@ -8309,15 +8309,15 @@ settlement.</p></th>
 </tbody>
 </table>
 
-4.25.4CA. AEMO must not approve an application received under clause
-4.25.4A if the reduction of Capacity Credits for the relevant Facility
+### 4.25.4CA. AEMO must not approve an application received under clause
+### 4.25.4A if the reduction of Capacity Credits for the relevant Facility
 would result in the number of Capacity Credits for the Facility
 allocated by the relevant Market Participant in Capacity Credit
 Allocations for a Trading Day exceeding the number of Capacity Credits
 for the Facility held for that Trading Day by the Market Participant
 that are able to be traded bilaterally under the WEM Rules.
 
-4.25.4D A Market Participant may not apply to AEMO for an increase in
+### 4.25.4D A Market Participant may not apply to AEMO for an increase in
 the number of Capacity Credits for a Facility during a Capacity Year if
 the Facility has had its Capacity Credits reduced in accordance with
 clause 4.25.4C for any part of that Capacity Year.
@@ -8338,9 +8338,9 @@ voluntary reduction of Capacity Credits.</p></th>
 </tbody>
 </table>
 
-4.25.4E. \[Blank\]
+### 4.25.4E. \[Blank\]
 
-4.25.4F. A Market Participant may not offer a Demand Side Programme for
+### 4.25.4F. A Market Participant may not offer a Demand Side Programme for
 Supplementary Capacity if the Demand Side Programme has had its Capacity
 Credits reduced in accordance with clause 4.25.4C for any part of that
 Capacity Year.
@@ -8362,7 +8362,7 @@ in the (failed) first Reserve Capacity Test.</p></th>
 </tbody>
 </table>
 
-4.25.4G. A Market Participant may, for a Demand Side Programme that
+### 4.25.4G. A Market Participant may, for a Demand Side Programme that
 failed a Reserve Capacity Test requested by AEMO under clause 4.25.2,
 elect not to subject the relevant Demand Side Programme to a second
 Reserve Capacity Test in accordance with clause 4.25.4 by providing
@@ -8385,7 +8385,7 @@ which the notice must be given by a Market Participant to AEMO.</p></th>
 </tbody>
 </table>
 
-4.25.4H. A notification provided under clause 4.25.4G must be given to
+### 4.25.4H. A notification provided under clause 4.25.4G must be given to
 AEMO by 5:00 PM on the second Business Day after receiving notification
 from AEMO that the relevant Demand Side Programme failed the Reserve
 Capacity Test requested by AEMO under clause 4.25.2.
@@ -8399,7 +8399,7 @@ Capacity Test requested by AEMO under clause 4.25.2.
 <th><p><strong>Explanatory Note</strong></p>
 <p>A Market Participant may elect to 'opt out' of a second Reserve
 Capacity Test by giving notice to AEMO in accordance with clause
-4.25.4H.</p>
+### 4.25.4H.</p>
 <p>Upon receipt of such a notice, clause 4.25.4I is to require AEMO to
 reduce the Capacity Credits for a Market Participant who elected to 'opt
 out' of a second Reserve Capacity Test to the maximum level of the
@@ -8410,13 +8410,13 @@ reduction achieved in the Reserve Capacity Test.</p></th>
 </tbody>
 </table>
 
-4.25.4I. If a notification is given under clause 4.25.4G in accordance
+### 4.25.4I. If a notification is given under clause 4.25.4G in accordance
 with clause 4.25.4H, AEMO must reduce the Capacity Credits for the
 relevant Demand Side Programme to the maximum level of reduction
 achieved in the Reserve Capacity Test conducted in accordance with
 clause 4.25.2.
 
-4.25.5. In the event that the number of Capacity Credits held by a
+### 4.25.5. In the event that the number of Capacity Credits held by a
 Market Participant is reduced during a Capacity Year in accordance with
 clause 4.25.4, then that Market Participant may request once prior to
 the end of the Capacity Year that AEMO perform a single re-test to be
@@ -8431,19 +8431,19 @@ Facility, during the seven days following that request.
 <tr class="header">
 <th><p><strong>Explanatory Note</strong></p>
 <p>Clause 4.25.6 has been amended to align with changes made in clause
-4.25.2.</p></th>
+### 4.25.2.</p></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
 
-4.25.6. If AEMO receives a request for a Reserve Capacity re-test in
+### 4.25.6. If AEMO receives a request for a Reserve Capacity re-test in
 accordance with clause 4.25.5, then:
 
 \(a\) if the re-test relates to a Non-Intermittent Generating System,
 AEMO must conduct such a re-test in accordance with clauses
-4.25.2(a)(ii) or 4.25.2(e)(ii) and, following the re-test, set the
+### 4.25.2(a)(ii) or 4.25.2(e)(ii) and, following the re-test, set the
 number of Capacity Credits held by the relevant Market Participant for
 the Facility or Separately Certified Component of the Facility to
 reflect the maximum capabilities achieved in the re-test (after
@@ -8465,7 +8465,7 @@ Capacity Cycle; and
 
 \(c\) if the re-test relates to an Electric Storage Resource, AEMO must
 conduct such a re-test in accordance with clauses 4.25.2(a)(ii) or
-4.25.2(e)(ii) and, following the re-test, set the number of Capacity
+### 4.25.2(e)(ii) and, following the re-test, set the number of Capacity
 Credits held by the relevant Market Participant for the Facility or
 Separately Certified Component of the Facility to higher average
 performance achieved over the Electric Storage Resource Obligation
@@ -8475,9 +8475,9 @@ Capacity Credits originally confirmed by AEMO for the Facility or
 Separately Certified Component of the Facility under section 4.20 in
 respect of the relevant Reserve Capacity Cycle.
 
-4.25.7. \[Blank\]
+### 4.25.7. \[Blank\]
 
-4.25.8. \[Blank\]
+### 4.25.8. \[Blank\]
 
 <table>
 <colgroup>
@@ -8513,7 +8513,7 @@ it determines was invalid.</p></li>
 </tbody>
 </table>
 
-4.25.9. In conducting a Reserve Capacity Test, AEMO must:
+### 4.25.9. In conducting a Reserve Capacity Test, AEMO must:
 
 \(a\) subject to clauses 4.25.9(b), 4.25.9(c) and 4.25.9(dA), endeavour
 to conduct the Reserve Capacity Test without warning;
@@ -8551,9 +8551,9 @@ Capacity Test must be performed, and the level of output required by the
 Separately Certified Component or level of Injection or Withdrawal
 required by the Facility for the Reserve Capacity Test, as applicable.
 
-4.25.10. \[Blank\]
+### 4.25.10. \[Blank\]
 
-4.25.11. Every three months AEMO must publish details of:
+### 4.25.11. Every three months AEMO must publish details of:
 
 \(a\) Facilities that have undergone a Reserve Capacity Test during the
 preceding three months; and
@@ -8577,11 +8577,11 @@ changes to section 4.12.</p></th>
 </tbody>
 </table>
 
-4.25.12. AEMO may use the results of Reserve Capacity Tests in respect
+### 4.25.12. AEMO may use the results of Reserve Capacity Tests in respect
 of a Facility in assigning Certified Reserve Capacity for the Facility
 for subsequent Reserve Capacity Cycles.
 
-4.25.13. \[Blank\]
+### 4.25.13. \[Blank\]
 
 <table>
 <colgroup>
@@ -8599,7 +8599,7 @@ Procedure.</p></th>
 </tbody>
 </table>
 
-4.25.14. AEMO must document the procedure to be followed in performing
+### 4.25.14. AEMO must document the procedure to be followed in performing
 Reserve Capacity Tests in a WEM Procedure, including the situations in
 which AEMO may deem a Reserve Capacity Test to be invalid.
 
@@ -8624,7 +8624,7 @@ Test.</p></th>
 
 > 4.25A. Verification Test for a Demand Side Programme
 
-4.25A.1. In each Capacity Year each Market Participant must undertake a
+### 4.25A.1. In each Capacity Year each Market Participant must undertake a
 Verification Test during the period specified in clause 4.10.1(f)(vi)
 for each Demand Side Programme registered to the Market Participant.
 Each test must be conducted in accordance with the WEM Procedure
@@ -8635,24 +8635,24 @@ clause 2.31.6, of the Demand Side Programme, if applicable; or
 
 \(b\) between 1 October and 30 November.
 
-4.25A.2. To undertake a Verification Test a Market Participant must
+### 4.25A.2. To undertake a Verification Test a Market Participant must
 activate the Demand Side Programme and provide evidence satisfactory to
 AEMO of the Trading Intervals during which the Verification Test was
 conducted.
 
-4.25A.3. A Demand Side Programme will be deemed to have failed the
+### 4.25A.3. A Demand Side Programme will be deemed to have failed the
 Verification Test unless a reduction in demand equal to at least 10% of
 the Capacity Credits, when measured against the Demand Side Programme’s
 Relevant Demand determined under clause 4.26.2CA, is identified from the
 Demand Side Programme Load associated with that Demand Side Programme.
 
-4.25A.4. Where a Demand Side Programme fails a Verification Test AEMO
+### 4.25A.4. Where a Demand Side Programme fails a Verification Test AEMO
 must reduce the Capacity Credits assigned to the Demand Side Programme
 to zero from the second Trading Day following the Scheduling Day on
 which AEMO determines that the Verification Test was failed under clause
-4.25A.3.
+### 4.25A.3.
 
-4.25A.5. Where a Demand Side Programme fails a Verification Test the
+### 4.25A.5. Where a Demand Side Programme fails a Verification Test the
 relevant Market Participant may request that a second Verification Test
 be undertaken. If the Demand Side Programme:
 
@@ -8690,7 +8690,7 @@ calculations have been moved to section 4.28A.</p></th>
 </tbody>
 </table>
 
-4.26.1. If a Market Participant holding Capacity Credits associated with
+### 4.26.1. If a Market Participant holding Capacity Credits associated with
 a Facility fails to comply with its Reserve Capacity Obligations
 applicable to any given Trading Interval then the Market Participant
 must pay a refund to AEMO calculated in accordance with the following
@@ -8909,7 +8909,7 @@ Level.</p></th>
 </tbody>
 </table>
 
-4.26.1A. AEMO must calculate the Reserve Capacity Deficit refund for
+### 4.26.1A. AEMO must calculate the Reserve Capacity Deficit refund for
 each Facility f, for which a Market Participant holds Capacity Credits,
 (“**Facility Reserve Capacity Deficit Refund**”) in each Trading
 Interval t as the lesser of:
@@ -9044,7 +9044,7 @@ determinations apply to Capacity Adjusted Planned Outage Quantities
 rather than Planned Outages;</p></li>
 <li><p>clarify that clause 4.26.1C applies to Separately Certified
 Components that are Non‑Intermittent Generating Systems, while clause
-4.26.1CA applies to Separately Certified Components that are Electric
+### 4.26.1CA applies to Separately Certified Components that are Electric
 Storage Resources; and</p></li>
 <li><p>clarify that a Refund Exempt Planned Outage Count is calculated
 for a Separately Certified Component and a period of time.</p></li>
@@ -9055,7 +9055,7 @@ for a Separately Certified Component and a period of time.</p></li>
 </tbody>
 </table>
 
-4.26.1B. AEMO must calculate the Real-Time Market Reserve Capacity
+### 4.26.1B. AEMO must calculate the Real-Time Market Reserve Capacity
 Deficit for each Scheduled Facility or Semi-Scheduled Facility f for
 each Trading Interval t in which AEMO considers the Facility to have
 been in Commercial Operation as:
@@ -9082,13 +9082,13 @@ Facility f in Trading Interval t under clause 4.26.1G;
 \(f\) NIMGRPPO(f,t) is the total Refund Payable Planned Outage Quantity
 determined for Separately Certified Components of Facility f which are
 Non‑Intermittent Generating Systems in Trading Interval t under clause
-4.26.1C; and
+### 4.26.1C; and
 
 \(g\) ESRRPPO(f,t) is the total Refund Payable Planned Outage Quantity
 determined for Separately Certified Components of Facility f which are
 Electric Storage Resources in Trading Interval t under clause 4.26.1CA.
 
-4.26.1C. If the Capacity Adjusted Planned Outage Quantity in a Trading
+### 4.26.1C. If the Capacity Adjusted Planned Outage Quantity in a Trading
 Interval for a Separately Certified Component of a Scheduled Facility or
 Semi-Scheduled Facility which is a Non‑Intermittent Generating System is
 greater than zero, then AEMO must determine that Capacity Adjusted
@@ -9118,7 +9118,7 @@ to clause 4.26.1B.</p></th>
 </tbody>
 </table>
 
-4.26.1CA. If the Capacity Adjusted Planned Outage Quantity in a Trading
+### 4.26.1CA. If the Capacity Adjusted Planned Outage Quantity in a Trading
 Interval for a Separately Certified Component of a Scheduled Facility or
 Semi-Scheduled Facility which is an Electric Storage Resource is greater
 than zero, then AEMO must determine that Capacity Adjusted Planned
@@ -9151,7 +9151,7 @@ resulting values to produce a Trading Interval quantity.</p></th>
 </tbody>
 </table>
 
-4.26.1D. AEMO must calculate the Not In-Service Capacity Refund Quantity
+### 4.26.1D. AEMO must calculate the Not In-Service Capacity Refund Quantity
 for each Scheduled Facility or Semi-Scheduled Facility f for each
 Trading Interval t in which AEMO considers the Facility to have been in
 Commercial Operation as:
@@ -9191,7 +9191,7 @@ quantity for the Facility.</p></th>
 </tbody>
 </table>
 
-4.26.1E. AEMO must calculate the ESR Charge Shortfall for each Scheduled
+### 4.26.1E. AEMO must calculate the ESR Charge Shortfall for each Scheduled
 Facility or Semi-Scheduled Facility f for each Trading Interval t in
 which AEMO considers the Facility to have been in Commercial Operation
 as:
@@ -9203,7 +9203,7 @@ where:
 
 \(a\) ESRCSF(c,DI) is the capacity shortfall in MW determined for
 Separately Certified Component c in Dispatch Interval DI under clause
-4.26.1F;
+### 4.26.1F;
 
 \(b\) DI∈t denotes all Dispatch Intervals DI in Trading Interval t; and
 
@@ -9227,7 +9227,7 @@ exceed the Electric Storage Resource’s RCOQ.</p></th>
 </tbody>
 </table>
 
-4.26.1F. ESRCSF(c,DI) for Separately Certified Component c (which is an
+### 4.26.1F. ESRCSF(c,DI) for Separately Certified Component c (which is an
 Electric Storage Resource) for Dispatch Interval DI is:
 
 > ESRCSF(c,DI)
@@ -9280,7 +9280,7 @@ outage.</p></th>
 </tbody>
 </table>
 
-4.26.1G. AEMO must determine the shortfall in Reserve Capacity offered
+### 4.26.1G. AEMO must determine the shortfall in Reserve Capacity offered
 into the Real‑Time Market (“Real-Time Market Offer Shortfall”) for each
 Scheduled Facility or Semi-Scheduled Facility f for each Trading
 Interval t in which AEMO considers the Facility to have been in
@@ -9320,7 +9320,7 @@ Real-Time Market Offers for a Facility for a Dispatch Interval.</p></th>
 </tbody>
 </table>
 
-4.26.1H. RTMOSF(f,DI) for Facility f in Dispatch Interval DI is:
+### 4.26.1H. RTMOSF(f,DI) for Facility f in Dispatch Interval DI is:
 
 *R**T**M**O**S**F*(*f*,*D**I*) = *m**a**x*(0,*R**C**O**Q*(*f*,*D**I*) − *O**f**f**e**r**A**v**a**i**l*(*f*,*D**I*))
 
@@ -9355,7 +9355,7 @@ Semi-Scheduled Facility or Non-Scheduled Facility.</p></th>
 </tbody>
 </table>
 
-4.26.1I. AEMO must calculate the Generation Reserve Capacity Deficit
+### 4.26.1I. AEMO must calculate the Generation Reserve Capacity Deficit
 Refund for each Market Participant for each Trading Interval as the sum
 of the Facility Reserve Capacity Deficit Refunds for the Trading
 Interval for each Facility with a Facility Class (or, for an
@@ -9386,7 +9386,7 @@ Dispatch Target or Cap exceeds the Facility’s RCOQ).</p></th>
 </tbody>
 </table>
 
-4.26.1J. Where a Scheduled Facility or a Semi-Scheduled Facility that
+### 4.26.1J. Where a Scheduled Facility or a Semi-Scheduled Facility that
 has a Reserve Capacity Obligation Quantity greater than zero for a
 Dispatch Interval:
 
@@ -9431,16 +9431,16 @@ Submission Cutoff) and the RCOQs that apply for the Real-Time Market and
 other capacity refund calculations.</p></li>
 </ul>
 <p>Clause 4.26.2 is deleted and replaced with clauses 4.26.2AA to
-4.26.2AH (inclusive).</p></th>
+### 4.26.2AH (inclusive).</p></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
 
-4.26.2. \[Blank\]
+### 4.26.2. \[Blank\]
 
-4.26.2A. \[Blank\]
+### 4.26.2A. \[Blank\]
 
 <table>
 <colgroup>
@@ -9463,7 +9463,7 @@ also subject to a Net STEM Refund.</p></th>
 </tbody>
 </table>
 
-4.26.2AA. AEMO must determine the net STEM shortfall (“Net STEM
+### 4.26.2AA. AEMO must determine the net STEM shortfall (“Net STEM
 Shortfall”) in Reserve Capacity supplied by each Market Participant p
 holding Capacity Credits for one or more Scheduled Facilities,
 Semi-Scheduled Facilities or Non-Scheduled Facilities in each Trading
@@ -9499,7 +9499,7 @@ for each Dispatch Interval.</p></th>
 </tbody>
 </table>
 
-4.26.2AB. STEMREQ(p,t) for Market Participant p in Trading Interval t
+### 4.26.2AB. STEMREQ(p,t) for Market Participant p in Trading Interval t
 is:
 
 $$STEMREQ(p,t) = \frac{\sum\_{DI \in t}^{}{STEMREQ(p,DI)}}{6}$$
@@ -9528,7 +9528,7 @@ Participant’s relevant Facilities in that Dispatch Interval.</p></th>
 </tbody>
 </table>
 
-4.26.2AC. STEMREQ(p,DI) for Market Participant p in Dispatch Interval DI
+### 4.26.2AC. STEMREQ(p,DI) for Market Participant p in Dispatch Interval DI
 is:
 
 $$STEMREQ(p,DI) = \sum\_{f \in SFFacilities(p,DI)}^{}{STEMFREQ(f,DI)}$$
@@ -9564,7 +9564,7 @@ reference for the calculation of STEMCAFO(f,DI) values.</p></th>
 </tbody>
 </table>
 
-4.26.2AD. STEMFREQ(f,DI) for Facility f in Dispatch Interval DI is:
+### 4.26.2AD. STEMFREQ(f,DI) for Facility f in Dispatch Interval DI is:
 
 *S**T**E**M**F**R**E**Q*(*f*, *D**I*) = *S**T**E**M**R**C**O**Q*(*f*, *D**I*) − *M**a**x*(0,*S**T**E**M**C**A**F**O*(*f*,*D**I*)−*C**A**F**O*(*f*,*D**I*))
 
@@ -9604,7 +9604,7 @@ and</p></li>
 </tbody>
 </table>
 
-4.26.2AE. CAPASTEM(p,t) for Market Participant p in Trading Interval t
+### 4.26.2AE. CAPASTEM(p,t) for Market Participant p in Trading Interval t
 is:
 
 \(a\) where the STEM Auction has been suspended by AEMO in accordance
@@ -9637,7 +9637,7 @@ and
 v\. LF(p,t) is determined for Market Participant p in Trading Interval t
 under clause 4.26.2AF.
 
-4.26.2AF. LF(p,t) for Market Participant p for Trading Interval t is:
+### 4.26.2AF. LF(p,t) for Market Participant p for Trading Interval t is:
 
 $$\text{LF(p,t)=}\frac{\sum\_{\text{DI}\text{∈}\text{t}}^{}{\text{LF}\left( \text{p,DI} \right)}}{\text{6}}$$
 
@@ -9650,7 +9650,7 @@ clause 4.26.2AG; and
 
 \(b\) DI∊t denotes all Dispatch Intervals in Trading Interval t.
 
-4.26.2AG. LF(p,DI) for Market Participant p in Dispatch Interval DI is:
+### 4.26.2AG. LF(p,DI) for Market Participant p in Dispatch Interval DI is:
 
 $$LF(p,DI) = \frac{\sum\_{f \in SFFacilities(p,DI)}^{}{(LossFactor(f,DI)x\\STEMRCOQ(f,DI))}}{\sum\_{f \in SFFacilities(p,DI)}^{}{STEMRCOQ(f,DI)}}$$
 
@@ -9688,7 +9688,7 @@ apply to Capacity Adjusted Planned Outage Quantities rather than Planned
 Outages; and</p></li>
 <li><p>clarify that clause 4.26.1C applies to Separately Certified
 Components that are Non‑Intermittent Generating Systems, while clause
-4.26.1CA applies to Separately Certified Components that are Electric
+### 4.26.1CA applies to Separately Certified Components that are Electric
 Storage Resources.</p></li>
 </ul></th>
 </tr>
@@ -9697,7 +9697,7 @@ Storage Resources.</p></li>
 </tbody>
 </table>
 
-4.26.2AH. RTCR(p,t) for Market Participant p in Trading Interval t is:
+### 4.26.2AH. RTCR(p,t) for Market Participant p in Trading Interval t is:
 
 $$RTCR(p,t) = \sum\_{f \in SFFacilities(p,t)}^{}{(CAFO(f,t) + NISCRQ(f,t) + ESRCSF(f,t) + RTMOSF(f,t) + \max\left( 0,NIMGRPPO(f,t) + ESRRPPO(f,t) - STEMCAPO(f,t) \right))}$$
 
@@ -9718,7 +9718,7 @@ Facility f in Trading Interval t under clause 4.26.1G;
 \(e\) NIMGRPPO(f,t) is the total Refund Payable Planned Outage Quantity
 determined for Separately Certified Components of Facility f which are
 Non-Intermittent Generating Systems in Trading Interval t under clause
-4.26.1C;
+### 4.26.1C;
 
 \(f\) ESRRPPO(f,t) is the total Refund Payable Planned Outage Quantity
 determined for Separately Certified Components of Facility f which are
@@ -9733,11 +9733,11 @@ Semi-Scheduled Facilities for which Market Participant p holds Capacity
 Credits in Trading Interval t and which AEMO considers to be in
 Commercial Operation in Trading Interval t.
 
-4.26.2B. \[Blank\]
+### 4.26.2B. \[Blank\]
 
-4.26.2C. \[Blank\]
+### 4.26.2C. \[Blank\]
 
-4.26.2CA. The Relevant Demand of a Demand Side Programme for a Trading
+### 4.26.2CA. The Relevant Demand of a Demand Side Programme for a Trading
 Day d in a Capacity Year is the lesser of:
 
 \(a\) a value determined for the Demand Side Programme using the
@@ -9747,7 +9747,7 @@ methodology set out in Appendix 10; and
 of the Associated Loads of the Demand Side Programme for the Trading
 Month in which Trading Day d falls.
 
-4.26.2CB. For the purposes of step 2(c) of Appendix 10:
+### 4.26.2CB. For the purposes of step 2(c) of Appendix 10:
 
 \(a\) a Market Participant may submit a Consumption Deviation
 Application to AEMO in accordance with the WEM Procedure referred to in
@@ -9766,14 +9766,14 @@ consumption was due to:
 
 \(b\) AEMO must accept or reject a Consumption Deviation Application
 submitted under clause 4.26.2CB(a) by the time specified in clause
-4.26.2CG.
+### 4.26.2CG.
 
-4.26.2CC. AEMO may charge an Application Fee to cover its costs of
+### 4.26.2CC. AEMO may charge an Application Fee to cover its costs of
 requesting clarification or further information of any aspect of a
 Consumption Deviation Application in accordance with clause 4.26.2CF.
 
-4.26.2CD. A Consumption Deviation Application submitted under clause
-4.26.2CB(a) must:
+### 4.26.2CD. A Consumption Deviation Application submitted under clause
+### 4.26.2CB(a) must:
 
 \(a\) subject to clause 4.26.2CH, be submitted as soon as practicable
 but, in any event, on or before 31 October in the Capacity Year to which
@@ -9782,11 +9782,11 @@ the Relevant Demand applies; and
 \(b\) contain, or be accompanied by, the information specified in the
 WEM Procedure referred to in clause 4.26.2CE.
 
-4.26.2CE. AEMO must specify the following matters in a WEM Procedure:
+### 4.26.2CE. AEMO must specify the following matters in a WEM Procedure:
 
 \(a\) the process that a Market Participant must follow when submitting
 a Consumption Deviation Application for an Associated Load under clause
-4.26.2CB(a);
+### 4.26.2CB(a);
 
 \(b\) the information and supporting evidence that a Market Participant
 must provide in its Consumption Deviation Application submitted under
@@ -9804,23 +9804,23 @@ AEMO must follow when estimating what the consumption of an Associated
 Load would have been if it had not been affected by the matters set out
 in the Consumption Deviation Application.
 
-4.26.2CF. If it considers it reasonably necessary to assess the
+### 4.26.2CF. If it considers it reasonably necessary to assess the
 Consumption Deviation Application, AEMO may request clarification or
 further information of any aspect of the Consumption Deviation
 Application submitted under clause 4.26.2CB(a). Any clarification or
 information received is deemed to be part of the Consumption Deviation
 Application.
 
-4.26.2CG. AEMO must accept or reject a Consumption Deviation Application
+### 4.26.2CG. AEMO must accept or reject a Consumption Deviation Application
 submitted by a Market Participant in accordance with clause 4.26.2CB(a)
 within 10 Business Days of the later of:
 
 \(a\) receipt of the Consumption Deviation Application; and
 
 \(b\) receipt of any clarification or information provided under clause
-4.26.2CF.
+### 4.26.2CF.
 
-4.26.2CH. A Consumption Deviation Application for a Load that was first
+### 4.26.2CH. A Consumption Deviation Application for a Load that was first
 associated with a Demand Side Programme under clause 2.29.5G, for the
 Market Participant submitting the Consumption Deviation Application,
 after the date referred to in clause 4.26.2CD, must be submitted on or
@@ -9848,7 +9848,7 @@ MW rather MWh values.</p></li>
 </tbody>
 </table>
 
-4.26.2D. AEMO must determine the capacity shortfall in Reserve Capacity
+### 4.26.2D. AEMO must determine the capacity shortfall in Reserve Capacity
 (“Capacity Shortfall”) supplied by each Market Participant holding
 Capacity Credits associated with a Demand Side Programme f in each
 Trading Interval t relative to its Reserve Capacity Obligation Quantity
@@ -9882,7 +9882,7 @@ of MW; and
 quantity under section 7.6 to the Demand Side Programme f for Trading
 Interval t.
 
-4.26.2E. For each Market Participant holding Capacity Credits, AEMO must
+### 4.26.2E. For each Market Participant holding Capacity Credits, AEMO must
 determine the amount of the refund (“**Capacity Cost Refund**”) to be
 applied for Trading Day d as the sum of the Trading Interval Capacity
 Cost Refunds of every Trading Interval in the Trading Day d, as
@@ -9898,7 +9898,7 @@ calculated in accordance with clause 4.26.2F.
 <p>Clause 4.26.2F is amended to:</p>
 <ul>
 <li><p>remove the reference to Electric Storage Resources in clause
-4.26.2F(a)(i), which is redundant because an Energy Producing System is
+### 4.26.2F(a)(i), which is redundant because an Energy Producing System is
 defined as “one or more electricity producing units, such as generation
 systems or Electric Storage Resources, located behind a single network
 connection point or electrically connected behind two or more shared
@@ -9914,7 +9914,7 @@ Class of Demand Side Programme.</p></li>
 </tbody>
 </table>
 
-4.26.2F. The Trading Interval Capacity Cost Refund for Market
+### 4.26.2F. The Trading Interval Capacity Cost Refund for Market
 Participant p and Trading Interval t is the sum of:
 
 \(a\) either:
@@ -9947,7 +9947,7 @@ Storage Resources.</p></th>
 </tbody>
 </table>
 
-4.26.3. The Generation Capacity Cost Refund for Trading Interval t in
+### 4.26.3. The Generation Capacity Cost Refund for Trading Interval t in
 Capacity Year y for a Market Participant p holding Capacity Credits
 associated with an Energy Producing System is the lesser of:
 
@@ -10007,7 +10007,7 @@ Programme.</p></th>
 </tbody>
 </table>
 
-4.26.3A. The Demand Side Programme Capacity Cost Refund for Trading
+### 4.26.3A. The Demand Side Programme Capacity Cost Refund for Trading
 Interval t for a Facility f with a Facility Class (or, for an
 unregistered Facility, an indicative Facility Class) of Demand Side
 Programme is equal to the lesser of:
@@ -10028,7 +10028,7 @@ i\. either:
 where:
 
 S is the Capacity Shortfall in MW determined in accordance with clause
-4.26.2D in Trading Interval t, and
+### 4.26.2D in Trading Interval t, and
 
 TIRR(f,t) is the Trading Interval Refund Rate for Facility f in Trading
 Interval t; or
@@ -10038,14 +10038,14 @@ Interval t; or
 ii\. the Facility Reserve Capacity Deficit Refund for Trading Interval t
 for Facility f, determined in accordance with clause 4.26.1A.
 
-4.26.4. For each Market Participant holding Capacity Credits associated
+### 4.26.4. For each Market Participant holding Capacity Credits associated
 with a Scheduled Facility, Semi Scheduled Facility or a Demand Side
 Programme, AEMO must determine the amount of the rebate (“**Participant
 Capacity Rebate**”) to be applied for Trading Interval t as the sum of
 all Facility Capacity Rebates determined in accordance with clause
-4.26.6.
+### 4.26.6.
 
-4.26.5. \[Blank\]
+### 4.26.5. \[Blank\]
 
 <table>
 <colgroup>
@@ -10067,7 +10067,7 @@ Facilities in the test because the refunds for each such Facility are
 capped on a Facility basis.</p>
 <p>Clause 4.26.6(e)(ii)(4) is removed because the test in that clause is
 unnecessary - if the Facility passes the test in clause
-4.26.6(e)(ii)(3), then the Market Participant would never fail the test
+### 4.26.6(e)(ii)(3), then the Market Participant would never fail the test
 in clause 4.26.6(e)(ii)(4), because of the way that caps are applied to
 the refunds of the Market Participant’s other Facilities.</p></th>
 </tr>
@@ -10076,7 +10076,7 @@ the refunds of the Market Participant’s other Facilities.</p></th>
 </tbody>
 </table>
 
-4.26.6. The Facility Capacity Rebate in Trading Interval t for Facility
+### 4.26.6. The Facility Capacity Rebate in Trading Interval t for Facility
 f, being a Scheduled Facility, Semi-Scheduled Facility or a Demand Side
 Programme for which a Market Participant holds Capacity Credits:
 
@@ -10156,7 +10156,7 @@ iii\. zero otherwise.
 
 > 4.27. Reserve Capacity Performance Monitoring
 
-4.27.1. \[Blank\]
+### 4.27.1. \[Blank\]
 
 <table>
 <colgroup>
@@ -10173,31 +10173,31 @@ taxonomy.</p></th>
 </tbody>
 </table>
 
-4.27.2. By the 25th day of each month, AEMO must assess the number of
+### 4.27.2. By the 25th day of each month, AEMO must assess the number of
 Equivalent Planned Outage Hours taken in the preceding 12 Trading Months
 by each Scheduled Facility and Semi-Scheduled Facility assigned Capacity
 Credits for the current Capacity Year.
 
-4.27.3. If the number of Equivalent Planned Outage Hours for a Facility,
+### 4.27.3. If the number of Equivalent Planned Outage Hours for a Facility,
 as determined under clause 4.27.2, exceeds 1,750 hours for the preceding
 12 Trading Months, AEMO may require the Market Participant holding
 Capacity Credits for that Facility to provide to AEMO:
 
 \(a\) a Reserve Capacity Performance Report as described in clause
-4.27.4; and
+### 4.27.4; and
 
 \(b\) a Reserve Capacity Performance Improvement Report as described in
 clause 4.27.4A, to be provided at intervals specified by AEMO, but not
 more frequently than once per quarter.
 
-4.27.3A. In making its decision whether to require a report under clause
-4.27.3, AEMO must assess whether the number of Equivalent Planned Outage
+### 4.27.3A. In making its decision whether to require a report under clause
+### 4.27.3, AEMO must assess whether the number of Equivalent Planned Outage
 Hours taken by the Facility in the previous 12 Trading Months was
 attributable to specific, infrequent events or is indicative of an
 underlying performance deficiency, and may consider any matters it deems
 relevant in making this assessment.
 
-4.27.4. A Reserve Capacity Performance Report must include:
+### 4.27.4. A Reserve Capacity Performance Report must include:
 
 \(a\) explanations of all Planned Outages taken by the Facility in the
 12 Trading Months referred to in clause 4.27.2;
@@ -10218,7 +10218,7 @@ anticipated effect on the frequency of Planned Outages; and
 \(d\) any other information concerning the availability of the Facility
 that AEMO may request.
 
-4.27.4A. A Reserve Capacity Performance Improvement Report must include:
+### 4.27.4A. A Reserve Capacity Performance Improvement Report must include:
 
 \(a\) descriptions of the measures proposed, being undertaken or already
 undertaken by the Market Participant to increase the availability of the
@@ -10234,7 +10234,7 @@ and
 improvement of the availability of the Facility as a result of the
 measures taken.
 
-4.27.5. A Market Participant must:
+### 4.27.5. A Market Participant must:
 
 \(a\) provide a Reserve Capacity Performance Report to AEMO in a format
 specified in the WEM Procedure referred to in clause 4.27.12 within 20
@@ -10244,19 +10244,19 @@ Business Days of being requested to do so; and
 in a format specified in the WEM Procedure referred to in clause 4.27.12
 by the date specified by AEMO under clause 4.27.3(b).
 
-4.27.6. AEMO may, at the Market Participant’s expense, consult with any
+### 4.27.6. AEMO may, at the Market Participant’s expense, consult with any
 person AEMO considers suitably qualified to provide an opinion on a
 report provided under clause 4.27.5. AEMO may ask the person to provide
 an opinion on the report generally, or to limit the scope of the opinion
 to specified matters covered in the report.
 
-4.27.7. \[Blank\]
+### 4.27.7. \[Blank\]
 
-4.27.8. \[Blank\]
+### 4.27.8. \[Blank\]
 
-4.27.9. \[Blank\]
+### 4.27.9. \[Blank\]
 
-4.27.10. Market Participants holding Capacity Credits for Facilities
+### 4.27.10. Market Participants holding Capacity Credits for Facilities
 that are yet to commence operation must file a report on progress with
 AEMO:
 
@@ -10269,39 +10269,39 @@ date AEMO notifies the Market Participant, under clause 4.13.14, that
 the need to maintain the Reserve Capacity Security for the Facility has
 ceased.
 
-4.27.11. Reports provided under clause 4.27.10 must include any changes
+### 4.27.11. Reports provided under clause 4.27.10 must include any changes
 to Key Project Dates.
 
-4.27.11A Upon receipt of a report provided under clause 4.27.10(a) AEMO
+### 4.27.11A Upon receipt of a report provided under clause 4.27.10(a) AEMO
 must revise the date referred to in clause 4.10.1(c)(iii)(7) in
 accordance with the report unless, in its opinion, the Facility, or part
 of the Facility, is unlikely to have completed all Commissioning Tests
 by that date.
 
-4.27.11B \[Blank\]
+### 4.27.11B \[Blank\]
 
-4.27.11C If, in accordance with clause 4.27.11A, AEMO rejects a change
+### 4.27.11C If, in accordance with clause 4.27.11A, AEMO rejects a change
 to the Key Project Dates provided in accordance with clause 4.27.10(b)
 or 4.27.11D AEMO must, within ten Business Days of receiving the report,
 notify the Market Participant of its decision and provide reasons why
 the dates have been rejected.
 
-4.27.11D Where AEMO rejects a change to the Key Project Dates it may
+### 4.27.11D Where AEMO rejects a change to the Key Project Dates it may
 require the Market Participant to provide additional information,
 submitted by a suitably authorised person, and may also require the
 Market Participant to submit further reports or revise the Key Project
 Dates. The provisions of clauses 4.27.11 to this clause 4.27.11D will
 apply to any further reports.
 
-4.27.12. AEMO must document the procedure to be followed in performing
+### 4.27.12. AEMO must document the procedure to be followed in performing
 Reserve Capacity monitoring in a WEM Procedure. Amongst other things,
 the WEM Procedure must list the documents and other items that may be
 required by AEMO as supporting evidence in accordance with clause
-4.27.11D.
+### 4.27.11D.
 
 Funding Reserve Capacity Purchased by AEMO
 
-4.28. Funding Reserve Capacity Purchased by AEMO
+### 4.28. Funding Reserve Capacity Purchased by AEMO
 
 <table>
 <colgroup>
@@ -10324,7 +10324,7 @@ Capacity Year).</p></th>
 </tbody>
 </table>
 
-4.28.1. AEMO must separate the total costs of Capacity Credits acquired
+### 4.28.1. AEMO must separate the total costs of Capacity Credits acquired
 by it for a Trading Day into the following two sets:
 
 \(a\) the cost of acquiring enough Capacity Credits to ensure, to the
@@ -10370,7 +10370,7 @@ to section 4.29.</p></th>
 </tbody>
 </table>
 
-4.28.2. For the purposes of clause 4.28.1:
+### 4.28.2. For the purposes of clause 4.28.1:
 
 \(a\) AEMO is taken to have acquired a Capacity Credit held by a Market
 Participant in respect of a Facility for a Trading Day if that Capacity
@@ -10413,7 +10413,7 @@ taxonomy.</p></th>
 </tbody>
 </table>
 
-4.28.3. For each Trading Day, AEMO must calculate the Targeted Reserve
+### 4.28.3. For each Trading Day, AEMO must calculate the Targeted Reserve
 Capacity Cost and must allocate this cost to Market Participants in
 accordance with section 9.8.
 
@@ -10432,7 +10432,7 @@ taxonomy.</p></th>
 </tbody>
 </table>
 
-4.28.4. For each Trading Day, AEMO must calculate a Shared Reserve
+### 4.28.4. For each Trading Day, AEMO must calculate a Shared Reserve
 Capacity Cost being the sum of:
 
 \(a\) the cost defined under clause 4.28.1(b); and
@@ -10443,7 +10443,7 @@ DSM Reserve Capacity Security by AEMO and distributed in accordance with
 clauses 4.13.11A(a) or 4.13A.16(a) for that Trading Day; less
 
 \(c\) the sum of all Intermittent Load Refunds, calculated under clause
-4.28A.1, paid by all Market Participants for that Trading Day; less
+### 4.28A.1, paid by all Market Participants for that Trading Day; less
 
 \(d\) any amount drawn under a Reserve Capacity Security or a DSM
 Reserve Capacity Security by AEMO and distributed in accordance with
@@ -10453,7 +10453,7 @@ and AEMO must allocate this total cost to Market Participants in
 proportion to each Market Participant’s Individual Reserve Capacity
 Requirement.
 
-4.28.5. The Shared Reserve Capacity Cost may have a negative value.
+### 4.28.5. The Shared Reserve Capacity Cost may have a negative value.
 
 <table>
 <colgroup>
@@ -10472,10 +10472,10 @@ Participant.</p></th>
 </tbody>
 </table>
 
-4.28.6. For each Trading Month, AEMO must determine and provide to each
+### 4.28.6. For each Trading Month, AEMO must determine and provide to each
 Market Participant that Market Participant’s Indicative Individual
 Reserve Capacity Requirement by the date and time specified in clause
-4.1.23C, where this Indicative Individual Reserve Capacity Requirement
+### 4.1.23C, where this Indicative Individual Reserve Capacity Requirement
 is determined using the methodology described in Appendix 5.
 
 <table>
@@ -10493,7 +10493,7 @@ taxonomy.</p></th>
 </tbody>
 </table>
 
-4.28.7. For each Trading Month, AEMO must determine and provide to each
+### 4.28.7. For each Trading Month, AEMO must determine and provide to each
 Market Participant that Market Participant’s Individual Reserve Capacity
 Requirement by the date and time specified in clause 4.1.24, where this
 Individual Reserve Capacity Requirement is determined using the
@@ -10521,7 +10521,7 @@ already be registered by the relevant date.</p></th>
 </tbody>
 </table>
 
-4.28.8. To assist AEMO in determining Indicative Individual Reserve
+### 4.28.8. To assist AEMO in determining Indicative Individual Reserve
 Capacity Requirements in accordance with clause 4.28.6 and Individual
 Reserve Capacity Requirements in accordance with clause 4.28.7 for the
 Capacity Year starting on 1 October of Year 3 of a Reserve Capacity
@@ -10547,9 +10547,9 @@ relates. The Market Participant must provide evidence to AEMO of this
 Contract Maximum Demand level unless AEMO has previously been provided
 with that evidence.
 
-4.28.8A. \[Blank\]
+### 4.28.8A. \[Blank\]
 
-4.28.8B. AEMO must accept a nomination for capacity for an Intermittent
+### 4.28.8B. AEMO must accept a nomination for capacity for an Intermittent
 Load from a Market Participant if that nomination is made in accordance
 with clause 4.28.8 provided that AEMO is satisfied of the accuracy of
 the data and evidence provided in accordance with clause 4.28.8(c)(ii).
@@ -10570,7 +10570,7 @@ infeasibility of operationalising the rule).</p></th>
 </tbody>
 </table>
 
-4.28.8C. Subject to clause 4.28.11, a Market Participant may provide to
+### 4.28.8C. Subject to clause 4.28.11, a Market Participant may provide to
 AEMO the identity of additional interval meters (to those provided under
 clause 4.28.8) associated with the Market Participant which measure
 Loads that it nominates as Non-Temperature Dependent Loads for the
@@ -10580,12 +10580,12 @@ time specified in clause 4.1.23C for the first Trading Month for which
 the Market Participant wants AEMO to take the updated information into
 account.
 
-4.28.9. AEMO must only accept the load measured by an interval meter
+### 4.28.9. AEMO must only accept the load measured by an interval meter
 nominated in accordance with clauses 4.28.8(a) or 4.28.8C as a
 Non-Temperature Dependent Load if that load satisfies the requirements
 of Appendix 5A.
 
-4.28.9A. A Market Participant may submit a Consumption Deviation
+### 4.28.9A. A Market Participant may submit a Consumption Deviation
 Application to AEMO in accordance with the WEM Procedure referred to in
 clause 4.28.9E, in respect of a Load that it has nominated as a
 Non-Temperature Dependent Load under clause 4.28.8(a) or clause 4.28.8C
@@ -10602,12 +10602,12 @@ Day; or
 
 ii\. a maintenance event.
 
-4.28.9B. AEMO may charge an Application Fee to cover its costs of
+### 4.28.9B. AEMO may charge an Application Fee to cover its costs of
 requesting clarification or further information of any aspect of a
 Consumption Deviation Application in accordance with clause 4.28.9F.
 
-4.28.9C. A Consumption Deviation Application submitted under clause
-4.28.9A must:
+### 4.28.9C. A Consumption Deviation Application submitted under clause
+### 4.28.9A must:
 
 \(a\) be submitted as soon as practicable, but in any event:
 
@@ -10623,13 +10623,13 @@ clause 4.28.8C; and
 \(b\) contain, or be accompanied by, the information specified in the
 WEM Procedure referred to in clause 4.28.9E.
 
-4.28.9D. AEMO must accept or reject a Consumption Deviation Application
+### 4.28.9D. AEMO must accept or reject a Consumption Deviation Application
 submitted under clause 4.28.9A in accordance with the WEM Procedure
 referred to in clause 4.28.9E no later than the time the information is
 needed for the calculation of the relevant Indicative Individual Reserve
 Capacity Requirement.
 
-4.28.9E. AEMO must specify the following matters in a WEM Procedure:
+### 4.28.9E. AEMO must specify the following matters in a WEM Procedure:
 
 \(a\) the process that a Market Participant must follow when submitting
 a Consumption Deviation Application for a Load under clause 4.28.9A;
@@ -10645,7 +10645,7 @@ Deviation Application submitted under clause 4.28.9A; and
 accept or reject a Consumption Deviation Application submitted under
 clause 4.28.9A.
 
-4.28.9F. If it considers it reasonably necessary to assess the
+### 4.28.9F. If it considers it reasonably necessary to assess the
 Consumption Deviation Application, AEMO may request clarification or
 further information of any aspect of the Consumption Deviation
 Application submitted under clause 4.28.9A. Any clarification or
@@ -10667,9 +10667,9 @@ Participant implementing changes to a single Load.</p></th>
 </tbody>
 </table>
 
-4.28.10. \[Blank\]
+### 4.28.10. \[Blank\]
 
-4.28.11. For each Capacity Year, a Market Participant may only provide
+### 4.28.11. For each Capacity Year, a Market Participant may only provide
 AEMO with the relevant information specified in clauses 4.28.8, 4.28.8A
 and 4.28.8C once with respect to each load.
 
@@ -10687,7 +10687,7 @@ and 4.28.8C once with respect to each load.
 </tbody>
 </table>
 
-4.28.11A. When undertaking the Adjustment Process for a Trading Week,
+### 4.28.11A. When undertaking the Adjustment Process for a Trading Week,
 which Trading Week contains the first Trading Day of a Trading Month,
 under clause 9.3.5 in accordance with the settlement cycle timeline,
 AEMO must recalculate the Individual Reserve Capacity Requirements
@@ -10698,11 +10698,11 @@ for that Market Participant applicable for each Trading Day in that
 Trading Month by the Relevant Settlement Statement Date for the Trading
 Week.
 
-4.28.12. AEMO must document the process to be followed in calculating
+### 4.28.12. AEMO must document the process to be followed in calculating
 Indicative Individual Reserve Capacity Requirements and Individual
 Reserve Capacity Requirements in a WEM Procedure.
 
-4.28.13. AEMO must publish on the WEM Website the following ratios
+### 4.28.13. AEMO must publish on the WEM Website the following ratios
 calculated by it when it determines the Indicative Individual Reserve
 Capacity Requirements or the Individual Reserve Capacity Requirements
 for a Trading Month, or recalculates the Individual Reserve Capacity
@@ -10719,7 +10719,7 @@ and
 
 Intermittent Load Refunds
 
-4.28A. Intermittent Load Refunds
+### 4.28A. Intermittent Load Refunds
 
 <table>
 <colgroup>
@@ -10738,7 +10738,7 @@ registration taxonomy.</p>
 </tbody>
 </table>
 
-4.28A.1. AEMO must determine for each Intermittent Load that is and
+### 4.28A.1. AEMO must determine for each Intermittent Load that is and
 continues to be deemed to be an Intermittent Load under clause 1.48.2,
 registered to Market Participant p the amount of the refund
 (“**Intermittent Load Refund**”) to be applied for each Trading Day d in
@@ -10790,7 +10790,7 @@ Load which were previously specified in clause 4.26.1.</p></th>
 </tbody>
 </table>
 
-4.28A.1A. The Trading Interval Refund Rate for an Intermittent Load f in
+### 4.28A.1A. The Trading Interval Refund Rate for an Intermittent Load f in
 the Trading Interval t is determined as follows:
 
 > Trading Interval Refund Rate(f,t)=RF(f,t) × Y(f,t)
@@ -10814,7 +10814,7 @@ Capacity Price divided by 12 then divided by the number of Trading
 Intervals in the relevant Trading Month in which Trading Interval t
 falls.
 
-4.28A.2. To support the implementation of clause 4.28A.1(c)(iv):
+### 4.28A.2. To support the implementation of clause 4.28A.1(c)(iv):
 
 \(a\) AEMO must record the following temperature data for Energy
 Producing Systems in respect of which this clause 4.28A applies and for
@@ -10845,7 +10845,7 @@ process and timelines for a Reserve Capacity Cycle. Instead, new small
 generators will be required to comply with the standard processes and
 timelines for certification of Reserve Capacity and assignment of
 Capacity Credits and Network Access Quantities set out in this Chapter
-4.</p>
+### 4.</p>
 <p>The new NAQ framework is unable to accommodate assignment of Capacity
 Credits outside the standard processes.</p></th>
 </tr>
@@ -10854,7 +10854,7 @@ Credits outside the standard processes.</p></th>
 </tbody>
 </table>
 
-4.28B. \[Blank\]
+### 4.28B. \[Blank\]
 
 <table>
 <colgroup>
@@ -10901,9 +10901,9 @@ determined and assigned to the facility by AEMO on 30 September
 
 Early Certification of Reserve Capacity
 
-4.28C. Early Certification of Reserve Capacity
+### 4.28C. Early Certification of Reserve Capacity
 
-4.28C.1. This section 4.28C is applicable to Facilities to which the
+### 4.28C.1. This section 4.28C is applicable to Facilities to which the
 following conditions apply:
 
 \(a\) the Facility is a new Facility;
@@ -10922,7 +10922,7 @@ ii\. the Commissioning Tests for the Facility cannot be achieved before
 the commencement of the Capacity Year for which Capacity Credits are
 being sought for the Facility.
 
-4.28C.1A. In forming its opinion under clause 4.28C.1(d), AEMO may have
+### 4.28C.1A. In forming its opinion under clause 4.28C.1(d), AEMO may have
 regard to the type of Energy Producing System for which Capacity Credits
 are being sought for the Facility, and any required augmentation of the
 SWIS or construction of other infrastructure.
@@ -10944,28 +10944,28 @@ sought for a facility.</p></th>
 </tbody>
 </table>
 
-4.28C.2. A Market Participant with a Facility that meets the criteria in
+### 4.28C.2. A Market Participant with a Facility that meets the criteria in
 clause 4.28C.1 may apply to AEMO, at any time, but no earlier than two
 years, before 1 January of Year 1 of the Reserve Capacity Cycle to which
 the application relates, for certification of Reserve Capacity and
 Capacity Credits for that Facility (“**Early Certified Reserve
 Capacity**”).
 
-4.28C.2A. AEMO must acknowledge receipt of an application made under
+### 4.28C.2A. AEMO must acknowledge receipt of an application made under
 clause 4.28C.2 within five Business Days of receiving the application.
 
-4.28C.2B. Where AEMO considers that the Facility does not meet the
+### 4.28C.2B. Where AEMO considers that the Facility does not meet the
 criteria in clause 4.28C.1, AEMO must reject an application made under
 clause 4.28C.2 in respect of the Facility and must notify the relevant
 Market Participant of the rejection and AEMO's reasons for the rejection
 as soon as practicable.
 
-4.28C.3. Each application for Early Certified Reserve Capacity must
+### 4.28C.3. Each application for Early Certified Reserve Capacity must
 relate to a single future Reserve Capacity Cycle. AEMO must not accept
 more than one application for certification of Reserve Capacity per
 Facility per calendar year.
 
-4.28C.4. An application under clause 4.28C.2 must state that the
+### 4.28C.4. An application under clause 4.28C.2 must state that the
 applicant intends to trade all assigned Certified Reserve Capacity
 bilaterally as defined in clause 4.14.2.
 
@@ -10977,7 +10977,7 @@ bilaterally as defined in clause 4.14.2.
 <tr class="header">
 <th><p><strong>Explanatory Note</strong></p>
 <p>Clause 4.28C.5 is amended as the information requirements in section
-4.10.1 relate to Facility Technology Types and Facility Classes and
+### 4.10.1 relate to Facility Technology Types and Facility Classes and
 requires a nomination for the Facility to be classified as a Network
 Augmentation Funding Facility.</p></th>
 </tr>
@@ -10986,7 +10986,7 @@ Augmentation Funding Facility.</p></th>
 </tbody>
 </table>
 
-4.28C.5. An application made under clause 4.28C.2 must include:
+### 4.28C.5. An application made under clause 4.28C.2 must include:
 
 \(a\) the nomination required by clause 4.4.1(d)(vi) of whether the
 Facility is expected to be classified as a Network Augmentation Funding
@@ -11013,7 +11013,7 @@ relates.</p></th>
 </tbody>
 </table>
 
-4.28C.6. AEMO must process each application made in accordance with
+### 4.28C.6. AEMO must process each application made in accordance with
 clause 4.28C.2 so as to determine the Early Certified Reserve Capacity
 for the Facility.
 
@@ -11040,13 +11040,13 @@ Reserve Capacity in or about August 2022.</p></th>
 </tbody>
 </table>
 
-4.28C.7. Where AEMO has received an application under clause 4.28C.2
+### 4.28C.7. Where AEMO has received an application under clause 4.28C.2
 prior to the date and time under clause 4.1.5, AEMO must set Early
 Certified Reserve Capacity for the Facility:
 
 \(a\) to that amount it would normally grant the Facility if processing
 an application for Certified Reserve Capacity in accordance with section
-4.11; and
+### 4.11; and
 
 \(b\) at the time AEMO next processes applications for Certified Reserve
 Capacity in accordance with section 4.11.
@@ -11060,7 +11060,7 @@ Capacity in accordance with section 4.11.
 <th><p><strong>Explanatory Note</strong></p>
 <p>Clause 4.28C.7A requires AEMO to determine an Indicative NAQ for the
 Facility when it next determines NAQs for Facilities under section
-4.15.</p>
+### 4.15.</p>
 <p>See Step 14 of Part A and Part B of Appendix 3.</p>
 <p>For example, for an application submitted under clause 4.28C.2 in
 December 2021 – which relates to the 2023 Reserve Capacity Cycle – AEMO
@@ -11073,12 +11073,12 @@ Capacity in or about August 2022.</p></th>
 </tbody>
 </table>
 
-4.28C.7A. Where AEMO has received an application under clause 4.28C.2,
+### 4.28C.7A. Where AEMO has received an application under clause 4.28C.2,
 AEMO must determine an Indicative Network Access Quantity for the
 Facility in accordance with Appendix 3 at the time AEMO next determines
 Network Access Quantities for Facilities under section 4.15.
 
-4.28C.7AA.Where AEMO has previously determined an Indicative Network
+### 4.28C.7AA.Where AEMO has previously determined an Indicative Network
 Access Quantity for a Facility in accordance with Appendix 3, and at the
 time AEMO next determines Network Access Quantities in accordance with
 Appendix 3 it does not determine a Final Network Access Quantity for
@@ -11102,11 +11102,11 @@ assessments are undertaken by AEMO.</p></th>
 </tbody>
 </table>
 
-4.28C.7B. By 5:00 PM on the last Business Day falling on or before 31
+### 4.28C.7B. By 5:00 PM on the last Business Day falling on or before 31
 October of the year in which AEMO sets the Early Certified Reserve
 Capacity for the Facility under clause 4.28C.7 and determines the
 Indicative Network Access Quantity for the Facility under clause
-4.28C.7A, AEMO must notify the applicant of the Indicative Network
+### 4.28C.7A, AEMO must notify the applicant of the Indicative Network
 Access Quantity determined for the Facility under clause 4.28C.7A.
 
 <table>
@@ -11125,7 +11125,7 @@ which the assessment is undertaken by AEMO.</p></th>
 </tbody>
 </table>
 
-4.28C.7C. By 5:00 PM on the last Business Day falling on or before 31
+### 4.28C.7C. By 5:00 PM on the last Business Day falling on or before 31
 October of the year in which AEMO determines the revised Indicative
 Network Access Quantity under clause 4.28C.7AA, AEMO must notify the
 applicant of the Indicative Network Access Quantity determined for the
@@ -11146,7 +11146,7 @@ revised Indicative NAQ for relevant Facilities.</p></th>
 </tbody>
 </table>
 
-4.28C.7D. AEMO must publish the following information on the WEM Website
+### 4.28C.7D. AEMO must publish the following information on the WEM Website
 by the date and time specified in clause 4.1.16A(d):
 
 \(a\) the name of each Facility for which an Indicative Network Access
@@ -11155,7 +11155,7 @@ the Indicative Network Access Quantity determined for the Facility; and
 
 \(b\) the name of each Facility for which a revised Indicative Network
 Access Quantity has been determined for a Facility under clause
-4.28C.7AA and the revised Network Access Quantity determined for the
+### 4.28C.7AA and the revised Network Access Quantity determined for the
 Facility.
 
 <table>
@@ -11173,7 +11173,7 @@ clarity.</p></th>
 </tbody>
 </table>
 
-4.28C.8. Within 30 Business Days of the applicant receiving notification
+### 4.28C.8. Within 30 Business Days of the applicant receiving notification
 by AEMO under clause 4.1.12 of the amount of Early Certified Reserve
 Capacity assigned to the Facility the applicant must ensure that AEMO
 holds the benefit of a Reserve Capacity Security equal to the amount
@@ -11194,12 +11194,12 @@ Facility will also lapse.</p></th>
 </tbody>
 </table>
 
-4.28C.8A. If a Market Participant does not comply with clause 4.28C.8 in
+### 4.28C.8A. If a Market Participant does not comply with clause 4.28C.8 in
 full by the time specified in clause 4.28C.8, the Early Certified
 Reserve Capacity assigned to that Facility and the Indicative Network
 Access Quantity determined for that Facility will lapse.
 
-4.28C.9. The amount for the purposes of clauses 4.28C.8 and 4.28C.12 is
+### 4.28C.9. The amount for the purposes of clauses 4.28C.8 and 4.28C.12 is
 25 percent of the Benchmark Reserve Capacity Price included in the most
 recent Request for Expressions of Interest at the time and date
 associated with clause 4.28C.8 or 4.28C.12 as applicable, multiplied by
@@ -11215,18 +11215,18 @@ Facility.
 <th><p><strong>Explanatory Note</strong></p>
 <p>Clauses 4.28C.10 and 4.28C.11 are deleted as Capacity Credits will be
 set in line with the Final NAQ determined for Facilities under section
-4.15.</p></th>
+### 4.15.</p></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
 
-4.28C.10. \[Blank\]
+### 4.28C.10. \[Blank\]
 
-4.28C.11. \[Blank\]
+### 4.28C.11. \[Blank\]
 
-4.28C.12. Prior to the time and date specified in clause 4.1.13, in Year
+### 4.28C.12. Prior to the time and date specified in clause 4.1.13, in Year
 1 of the first Reserve Capacity Cycle specified in clause 4.10.1(b) in
 which the Facility will enter service, AEMO must recalculate the amount
 of Reserve Capacity Security to be provided by each Market Participant
@@ -11243,15 +11243,15 @@ Capacity Security, in accordance with clause 4.13.14, provided that at
 all times AEMO holds a Reserve Capacity Security to the level determined
 in accordance with this clause 4.28C.12.
 
-4.28C.12A From the time and date specified in clause 4.1.13 of Year 1 of
+### 4.28C.12A From the time and date specified in clause 4.1.13 of Year 1 of
 the first Reserve Capacity Cycle in which the Facility will enter
 service, all of the provisions of section 4.13 apply equally to the
 Reserve Capacity Security of Facilities with Early Certified Reserve
 Capacity.
 
-4.28C.13. \[Blank\]
+### 4.28C.13. \[Blank\]
 
-4.28C.14. \[Blank\]
+### 4.28C.14. \[Blank\]
 
 <table>
 <colgroup>
@@ -11268,13 +11268,13 @@ the application of this section 4.28C.</p></th>
 </tbody>
 </table>
 
-4.28C.15. AEMO must document the process for the application of this
+### 4.28C.15. AEMO must document the process for the application of this
 section 4.28C and the matters AEMO will have regard to in forming its
 opinion under clause 4.28C.1(d) in a WEM Procedure.
 
 Settlement Data
 
-4.29. Settlement Data
+### 4.29. Settlement Data
 
 <table>
 <colgroup>
@@ -11292,7 +11292,7 @@ Capacity from the 2019 Reserve Capacity Cycle. To facilitate the pricing
 reforms, the clause was restructured so that clause 4.29.1 calculates
 the annual Reserve Capacity Price, instead of a Facility Monthly Reserve
 Capacity Price which is now calculated in accordance with clause
-4.29.1A.</p>
+### 4.29.1A.</p>
 <p>As a result of the RCM Pricing Reforms and the deletion of the
 Reserve Capacity Auction, Facilities will receive the same Reserve
 Capacity Price except in two situations.</p>
@@ -11308,7 +11308,7 @@ the subsequent nine Reserve Capacity Cycles (i.e. up to and including
 the 2028 Reserve Capacity Cycle) by the Reserve Bank of Australia's
 Statement of Monetary Policy forecast Consumer Price Index for June of
 Year 3 of the relevant Reserve Capacity Cycle in accordance with clause
-4.29.1C.</p>
+### 4.29.1C.</p>
 <p>Secondly, if the Facility is a Fixed Price Facility and the Reserve
 Capacity Cycle is a Fixed Price Reserve Capacity Cycle for that Fixed
 Price Facility, the Reserve Capacity Price for the Facility will be the
@@ -11333,7 +11333,7 @@ by removing the brackets around ‘surplus + BRCP Cap Factor’.</p></th>
 </tbody>
 </table>
 
-4.29.1. The Reserve Capacity Price for a Reserve Capacity Cycle to apply
+### 4.29.1. The Reserve Capacity Price for a Reserve Capacity Cycle to apply
 during the period specified in clause 4.1.29 is to equal:
 
 \(a\) for the 2018 Reserve Capacity Cycle, the value calculated using
@@ -11393,7 +11393,7 @@ $surplus = {\lbrack max}{(0,(}\frac{CC - RCR}{RCR})$\]
 > RCR is the Reserve Capacity Requirement for the Reserve Capacity
 > Cycle.
 
-4.29.1A. The Facility Monthly Reserve Capacity Price for a Reserve
+### 4.29.1A. The Facility Monthly Reserve Capacity Price for a Reserve
 Capacity Cycle to apply during the period specified in clause 4.1.29 is
 equal to:
 
@@ -11431,7 +11431,7 @@ equation.</p></th>
 </tbody>
 </table>
 
-4.29.1B. The Facility Monthly Reserve Capacity Price for a Transitional
+### 4.29.1B. The Facility Monthly Reserve Capacity Price for a Transitional
 Facility during a Transitional Reserve Capacity Cycle is the value
 calculated using the formula below:
 
@@ -11455,7 +11455,7 @@ Trans\_Floor equals $114,000 for the 2019 Reserve Capacity Cycle and for
 each subsequent Transitional Reserve Capacity Cycle, the value as
 escalated in accordance with clause 4.29.1C(b).
 
-4.29.1C. The escalation factors used in clause 4.29.1B are equal to:
+### 4.29.1C. The escalation factors used in clause 4.29.1B are equal to:
 
 \(a\) For Trans\_Ceiling:
 
@@ -11502,7 +11502,7 @@ calculation in clause 4.29.2A.
 Trans_Floor and Trans_Ceiling are relocated from clause 10.5.1(f)(ivB)
 to new clause 4.29.1CA as below.</p>
 <p>Following the consultation period for Exposure Draft 2, clause
-4.29.1CA is further amended to include a requirement to also publish the
+### 4.29.1CA is further amended to include a requirement to also publish the
 annualised version of the Facility Monthly Reserve Capacity Price for a
 Transitional Facility.</p></th>
 </tr>
@@ -11511,17 +11511,17 @@ Transitional Facility.</p></th>
 </tbody>
 </table>
 
-4.29.1CA. AEMO must publish on the WEM Website:
+### 4.29.1CA. AEMO must publish on the WEM Website:
 
 \(a\) the values determined for Trans\_Ceiling and Trans\_Floor in
 accordance with clause 4.29.1C that are used in the formula in clause
-4.29.1B; and
+### 4.29.1B; and
 
 \(b\) the value determined by multiplying the Facility Monthly Reserve
 Capacity Price for a Transitional Facility determined in clause 4.29.1B
 by 12.
 
-4.29.1D. The Facility Monthly Reserve Capacity Price for a Fixed Price
+### 4.29.1D. The Facility Monthly Reserve Capacity Price for a Fixed Price
 Facility during a Fixed Price Reserve Capacity Cycle for the Fixed Price
 Facility is:
 
@@ -11568,7 +11568,7 @@ Reserve Capacity Auction.</p></th>
 </tbody>
 </table>
 
-4.29.2. \[Blank\]
+### 4.29.2. \[Blank\]
 
 <table>
 <colgroup>
@@ -11588,7 +11588,7 @@ clause 4.29.2B.</p></th>
 </tbody>
 </table>
 
-4.29.2A. AEMO must determine the information specified in clause 4.29.2B
+### 4.29.2A. AEMO must determine the information specified in clause 4.29.2B
 by the date and time specified in clause 4.1.16A.
 
 <table>
@@ -11606,7 +11606,7 @@ Reserve Capacity Auction.</p></th>
 </tbody>
 </table>
 
-4.29.2B. For each Reserve Capacity Cycle AEMO must determine the
+### 4.29.2B. For each Reserve Capacity Cycle AEMO must determine the
 following information in accordance with this section 4.29:
 
 \(a\) the Facility Monthly Reserve Capacity Price for a Transitional
@@ -11648,7 +11648,7 @@ semi-colon.</p></li>
 </tbody>
 </table>
 
-4.29.3. AEMO must determine the following information in time for
+### 4.29.3. AEMO must determine the following information in time for
 settlement of each Trading Day d:
 
 \(a\) the Facility Monthly Reserve Capacity Price for each Facility
@@ -11699,7 +11699,7 @@ Trading Day d; and
 
 ii\. to whom the payment is to be made.
 
-4.29.4. \[Blank\]
+### 4.29.4. \[Blank\]
 
 <table>
 <colgroup>
@@ -11718,7 +11718,7 @@ relevant Capacity Year. This reflects the current practice.</p></th>
 </tbody>
 </table>
 
-4.29.5. Where a Facility first enters service prior to 1 October of Year
+### 4.29.5. Where a Facility first enters service prior to 1 October of Year
 3 of a Reserve Capacity Cycle and Reserve Capacity Obligations apply to
 the Facility in accordance with clause 4.1.26, then for the period
 between commencement of the Reserve Capacity Obligations for the
@@ -11781,17 +11781,17 @@ owner having CCAs for a Facility they no longer own).</p></li>
 </tbody>
 </table>
 
-4.30. Daily Capacity Credit Allocation Process
+### 4.30. Daily Capacity Credit Allocation Process
 
-4.30.1. A Market Participant may submit one or more Capacity Credit
+### 4.30.1. A Market Participant may submit one or more Capacity Credit
 Allocation Submissions in respect of a Facility by 5:00PM on the
 Scheduling Day for the respective Trading Day.
 
-4.30.2. A Capacity Credit Allocation Submission must be submitted in the
+### 4.30.2. A Capacity Credit Allocation Submission must be submitted in the
 form specified by AEMO and must include the information specified in
 clause 4.31.1.
 
-4.30.3. Within one Business Day following receipt of a Capacity Credit
+### 4.30.3. Within one Business Day following receipt of a Capacity Credit
 Allocation Submission, AEMO must:
 
 \(a\) decide whether to approve or reject the Capacity Credit Allocation
@@ -11808,7 +11808,7 @@ Submission, notify the Market Participant specified as the receiver of
 the Capacity Credits of the details of the Capacity Credit Allocation
 Submission.
 
-4.30.4. AEMO must reject a Capacity Credit Allocation Submission in
+### 4.30.4. AEMO must reject a Capacity Credit Allocation Submission in
 respect of a Facility if the sum of the Capacity Credits:
 
 \(a\) proposed to be allocat6ed in the Capacity Credit Allocation
@@ -11822,25 +11822,25 @@ exceeds the number of Capacity Credits that are able to be traded
 bilaterally for that Facility by that Market Participant under the WEM
 Rules for the Trading Day.
 
-4.30.5. AEMO must approve a Capacity Credit Allocation Submission if the
+### 4.30.5. AEMO must approve a Capacity Credit Allocation Submission if the
 Capacity Credit Allocation Submission is not rejected in accordance with
 clause 4.30.4.
 
-4.30.6. A Market Participant may withdraw a Capacity Credit Allocation
+### 4.30.6. A Market Participant may withdraw a Capacity Credit Allocation
 Submission in respect of a Facility at any time before 5:00 PM on the
 Scheduling Day for the respective Trading Day.
 
-4.30.7. By submitting or withdrawing a Capacity Credit Allocation
+### 4.30.7. By submitting or withdrawing a Capacity Credit Allocation
 Submission a Market Participant acknowledges that it is acting with the
 permission of all affected Market Participants.
 
-4.30.8. Within one Trading Day after a Market Participant has withdrawn
+### 4.30.8. Within one Trading Day after a Market Participant has withdrawn
 a Capacity Credit Allocation Submission in respect of a Facility under
 clause 4.30.6, AEMO must notify the Market Participant specified as the
 receiver of the Capacity Credits that the Capacity Credit Allocation
 Submission for that Facility has been withdrawn.
 
-4.30.9. If the termination of a Capacity Credit in respect of a Facility
+### 4.30.9. If the termination of a Capacity Credit in respect of a Facility
 results in the number of Capacity Credits allocated by a Market
 Participant in Capacity Credit Allocations for that Facility for a
 Trading Day exceeding the number of Capacity Credits held for that
@@ -11849,13 +11849,13 @@ to be traded bilaterally under the WEM Rules, then AEMO must notify the
 Market Participant within one Trading Day after the notification of the
 termination.
 
-4.30.10. Following receipt of a notice provided under clause 4.30.9, a
+### 4.30.10. Following receipt of a notice provided under clause 4.30.9, a
 Market Participant may reduce the number of Capacity Credits allocated
 in respect of the relevant Facility by withdrawing Capacity Credit
 Allocations and submitting Capacity Credit Allocation Submissions in
 accordance with clauses 4.30.6 and 4.30.1, respectively.
 
-4.30.11. If, at 5:00 PM on the Scheduling Day, the Capacity Credit
+### 4.30.11. If, at 5:00 PM on the Scheduling Day, the Capacity Credit
 Allocations for a Market Participant with respect to a Facility exceeds
 the number of Capacity Credits held for the Facility, AEMO must, by 5:00
 PM on the Trading Day for which the Capacity Credit Allocation relates:
@@ -11869,15 +11869,15 @@ held for that Facility; and
 \(b\) for each amended Capacity Credit Allocation, notify each affected
 Market Participant of the details of the amendment.
 
-4.30.12. AEMO must develop a WEM Procedure dealing with:
+### 4.30.12. AEMO must develop a WEM Procedure dealing with:
 
 \(a\) Capacity Credit Allocations; and
 
 \(b\) other matters relating to sections 4.30 and 4.31.
 
-4.31. Format of Capacity Credit Allocation Submissions
+### 4.31. Format of Capacity Credit Allocation Submissions
 
-4.31.1. A Capacity Credit Allocation Submission must set out:
+### 4.31.1. A Capacity Credit Allocation Submission must set out:
 
 \(a\) the identity of the submitting Market Participant, which must be
 the holder of Capacity Credits;
@@ -11894,7 +11894,7 @@ purposes from the Market Participant which was the holder of Capacity
 Credits to the Market Participant which was allocated Capacity Credits,
 which may be the same Market Participant.
 
-4.31.2. A Capacity Credit Allocation Submission in respect of a Facility
+### 4.31.2. A Capacity Credit Allocation Submission in respect of a Facility
 may allocate part of a Capacity Credit for that Facility provided that
 the number of Capacity Credits allocated is specified to a precision of
 0.001 MW.
@@ -11914,9 +11914,9 @@ amendments (for example, reverting to "Trading Month").</p></th>
 </tbody>
 </table>
 
-4.32. Capacity Credit Allocation Timeline
+### 4.32. Capacity Credit Allocation Timeline
 
-4.32.1. AEMO must publish the Capacity Credit Allocation Submission
+### 4.32.1. AEMO must publish the Capacity Credit Allocation Submission
 timeline for a Financial Year at least one calendar month prior to the
 commencement of that Financial Year. The Capacity Credit Allocation
 Submission timeline must include:

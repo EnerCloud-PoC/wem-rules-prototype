@@ -2,7 +2,7 @@
 
 Introduction
 
-9.1. Conventions
+### 9.1. Conventions
 
 <table>
 <colgroup>
@@ -22,13 +22,13 @@ inadvertently captured in settlement equations.</p></th>
 </tbody>
 </table>
 
-9.1.1. In this Chapter 9, apart from clause 9.1.3 (where Rule
+### 9.1.1. In this Chapter 9, apart from clause 9.1.3 (where Rule
 Participant has its ordinary meaning), a reference to "Rule Participant"
 is a reference to the relevant Market Participant or the relevant
 Network Operator as the case may be (and is not a reference to any other
 Rule Participant).
 
-9.1.2. Settlement is to be based on whole Trading Days, though partial
+### 9.1.2. Settlement is to be based on whole Trading Days, though partial
 Trading Days are to be facilitated on the first and last day of a
 financial year and at the commencement of the market. For this purpose,
 AEMO may declare that part of a Trading Day is to be treated as if that
@@ -50,7 +50,7 @@ Regulator Fees for the purposes of GST.</p></th>
 </tbody>
 </table>
 
-9.1.3. With respect to the treatment of GST:
+### 9.1.3. With respect to the treatment of GST:
 
 \(a\) all prices, fees and other charges under these WEM Rules (other
 than under this clause 9.1.3) are exclusive of GST;
@@ -68,7 +68,7 @@ additional amount equal to the GST payable in respect of that supply;
 
 \(d\) AEMO must include in Settlement Statements and Invoices issued
 under these WEM Rules the additional amounts contemplated by clause
-9.1.3(c);
+### 9.1.3(c);
 
 \(e\) Rule Participants must, if requested by AEMO, do everything
 necessary (including entering into recipient created tax invoice
@@ -100,19 +100,19 @@ any part of the cost or expense which is attributable to GST for which
 the party (or a representative member of any GST group of which the
 party is a member) is entitled to an input tax credit.
 
-9.1.4. Where these WEM Rules indicate interest is payable on an amount,
+### 9.1.4. Where these WEM Rules indicate interest is payable on an amount,
 interest accrues daily at the Bank Bill Rate from (and including) the
 date that payment was due up to (but excluding) the date of payment, or
 in the case of an adjusted Settlement Statement provided under clause
-9.15 from (and including) the payment due date for the Invoice issued
+### 9.15 from (and including) the payment due date for the Invoice issued
 for the original Settlement Statement up to (but excluding) the actual
 date of payment for the Invoice issued for the adjusted Settlement
 Statement.
 
-9.1.5. Except where otherwise stated, AEMO will perform all calculations
+### 9.1.5. Except where otherwise stated, AEMO will perform all calculations
 described in this chapter.
 
-9.2. Settlement Process
+### 9.2. Settlement Process
 
 <table>
 <colgroup>
@@ -131,7 +131,7 @@ and Repaid Amount Levies.</p></th>
 </tbody>
 </table>
 
-9.2.1. AEMO must document the settlement process in a WEM Procedure,
+### 9.2.1. AEMO must document the settlement process in a WEM Procedure,
 including, but not limited to:
 
 \(a\) the application of taxes and interest;
@@ -163,10 +163,10 @@ capability of the Registered Facility.</p></th>
 </tbody>
 </table>
 
-9.2.2. AEMO must document in a WEM Procedure the methodology it will use
+### 9.2.2. AEMO must document in a WEM Procedure the methodology it will use
 for undertaking estimates for the purposes of each of clauses
-9.10.6(c)(ii), 9.10.10(c)(ii), 9.10.14(c)(ii), 9.10.22(c)(ii),
-9.10.23(c)(ii) and clause 2.4(a)(ii) of Appendix 2C.
+### 9.10.6(c)(ii), 9.10.10(c)(ii), 9.10.14(c)(ii), 9.10.22(c)(ii),
+### 9.10.23(c)(ii) and clause 2.4(a)(ii) of Appendix 2C.
 
 <table>
 <colgroup>
@@ -176,7 +176,7 @@ for undertaking estimates for the purposes of each of clauses
 <tr class="header">
 <th><p><strong>Explanatory Note</strong></p>
 <p>Clauses relating to settlement timelines have been moved from section
-9.16 and adjusted to combine STEM and NSTEM settlement into a single
+### 9.16 and adjusted to combine STEM and NSTEM settlement into a single
 timeline with a single settlement statement and invoice.</p>
 <p>The Capacity Credit allocation window (former sections 9.4 and 9.5)
 is moved to Chapter 4.</p>
@@ -189,9 +189,9 @@ thirty fifth and fifty first weeks after the Trading Week.</p></th>
 </tbody>
 </table>
 
-9.3. Settlement Timeline
+### 9.3. Settlement Timeline
 
-9.3.1. The settlement timeline for settlement of amounts payable under
+### 9.3.1. The settlement timeline for settlement of amounts payable under
 these WEM Rules for each Trading Week within a Financial Year must be
 published by AEMO at least one calendar month prior to the commencement
 of that Financial Year. This settlement timeline must include for each
@@ -214,7 +214,7 @@ Interval Meter Deadline for a Trading Week;
 transactions covered by a Settlement Statement for a Trading Week are
 settled, which Business Day must be no later than the second Business
 Day following the date of issue of the Invoice described in clause
-9.3.3(b);
+### 9.3.3(b);
 
 \(e\) the commencement date for each settlement Adjustment Process for a
 Trading Week;
@@ -238,10 +238,10 @@ Business Day is determined in accordance with clause 9.15.7; and
 
 \(j\) the Settlement Disagreement Deadline.
 
-9.3.2. Meter Data Submissions for a Trading Week must be provided to
+### 9.3.2. Meter Data Submissions for a Trading Week must be provided to
 AEMO by no later than the Interval Meter Deadline.
 
-9.3.3. For the settlement of amounts payable under these WEM Rules for a
+### 9.3.3. For the settlement of amounts payable under these WEM Rules for a
 Trading Week, AEMO must issue to each Rule Participant:
 
 \(a\) a Settlement Statement covering each of the Trading Days in the
@@ -249,21 +249,21 @@ Trading Week by no later than the Settlement Statement Date for that
 Trading Week as published under clause 9.3.1(b); and
 
 \(b\) an Invoice for the Settlement Statement described in clause
-9.3.3(a) by no later than the Invoice Date for that Trading Week as
+### 9.3.3(a) by no later than the Invoice Date for that Trading Week as
 published under clause 9.3.1(c);
 
-9.3.4. The date for settlement of the transactions covered by the
+### 9.3.4. The date for settlement of the transactions covered by the
 Settlement Statement described in clause 9.3.3(a) and the Invoice
 described in clause 9.3.3(b) is the Settlement Date for that Trading
 Week as published under clause 9.3.1(d).
 
-9.3.5. AEMO must undertake a process for adjusting settlements
+### 9.3.5. AEMO must undertake a process for adjusting settlements
 (“**Adjustment Process**”) in accordance with section 9.15 in relation
 to Relevant Settlement Statements. Adjustments may only be made to
 Relevant Settlement Statements. Adjustments may not be made to
 Settlement Statements outside of an Adjustment Process.
 
-9.3.6. A Relevant Settlement Statement is any Settlement Statement in
+### 9.3.6. A Relevant Settlement Statement is any Settlement Statement in
 respect of a Trading Week, which Trading Week has occurred not greater
 than 52 weeks in the past:
 
@@ -285,7 +285,7 @@ or
 \(f\) that requires correction resulting from any other relevant value
 that has been revised in accordance with the WEM Rules.
 
-9.3.7. A Settlement Statement will be adjusted in accordance with the
+### 9.3.7. A Settlement Statement will be adjusted in accordance with the
 Adjustment Process if it is, at the time, a Relevant Settlement
 Statement on any of:
 
@@ -326,7 +326,7 @@ rule change.</p></th>
 </tbody>
 </table>
 
-9.4. \[Blank\]
+### 9.4. \[Blank\]
 
 <table>
 <colgroup>
@@ -343,7 +343,7 @@ standalone section 9.5 detailing the Metered Schedule.</p></th>
 </tbody>
 </table>
 
-9.5. The Metered Schedule
+### 9.5. The Metered Schedule
 
 <table>
 <colgroup>
@@ -371,7 +371,7 @@ Loads are not Registered Facilities.</p></th>
 </tbody>
 </table>
 
-9.5.1. For each Trading Interval AEMO must determine the Metered
+### 9.5.1. For each Trading Interval AEMO must determine the Metered
 Schedule in accordance with clause 9.5.2 for each:
 
 \(a\) Scheduled Facility;
@@ -382,7 +382,7 @@ Schedule in accordance with clause 9.5.2 for each:
 
 \(d\) Non-Dispatchable Load.
 
-9.5.2. Subject to clauses 2.30B.10 and 2.30B.11, the Metered Schedule
+### 9.5.2. Subject to clauses 2.30B.10 and 2.30B.11, the Metered Schedule
 for a Trading Interval for each:
 
 \(a\) Scheduled Facility;
@@ -401,7 +401,7 @@ Submissions received by AEMO in accordance with section 8.4 or SCADA
 data maintained by AEMO in accordance with clause 7.13.1E(a)(i) where
 interval meter data is not available.
 
-9.5.3. AEMO must determine a single Metered Schedule for a Trading
+### 9.5.3. AEMO must determine a single Metered Schedule for a Trading
 Interval for those Non-Dispatchable Loads without interval meters or
 with meters not read as interval meters that are served by Synergy
 where:
@@ -419,20 +419,20 @@ ii\. the sum of the Metered Schedules with negative quantities for that
 Trading Interval,
 
 where the Metered Schedules referred to in clauses 9.5.3(b)(i) and
-9.5.3(b)(ii) exclude the Metered Schedule for the Notional Wholesale
+### 9.5.3(b)(ii) exclude the Metered Schedule for the Notional Wholesale
 Meter.
 
-9.5.4. AEMO must determine the Demand Side Programme Load for a Demand
+### 9.5.4. AEMO must determine the Demand Side Programme Load for a Demand
 Side Programme for a Trading Interval as the total net MWh quantity of
 energy consumed by the Associated Loads of that Demand Side Programme
 during the Trading Interval, determined from Meter Data Submissions and
 expressed as a positive non-Loss Factor adjusted value.
 
-9.5.5. For the purpose of clauses 9.5.2 and 9.5.3, a quantity of energy
+### 9.5.5. For the purpose of clauses 9.5.2 and 9.5.3, a quantity of energy
 generated and sent out into the relevant Network has a positive value
 and a quantity of energy consumed has a negative value.
 
-9.5.6. AEMO must calculate for each Market Participant the Consumption
+### 9.5.6. AEMO must calculate for each Market Participant the Consumption
 Share for a Trading Interval. The Consumption Share for Market
 Participant p in Trading Interval t is:
 
@@ -470,7 +470,7 @@ and</p></li>
 </tbody>
 </table>
 
-9.5.7. AEMO must calculate for each Market Participant the Consumption
+### 9.5.7. AEMO must calculate for each Market Participant the Consumption
 Contributing Quantity for a Trading Interval. The Consumption
 Contributing Quantity for Market Participant p in Trading Interval t is:
 
@@ -488,7 +488,7 @@ $$\text{ConsumptionContributingQuantity}\left( \text{p,t} \right)\text{\\}\text{
 > Trading Interval t as calculated in accordance with clause 9.5.2 and
 > clause 9.5.3.
 
-9.5.8. AEMO must calculate the total Consumption Contributing Quantity
+### 9.5.8. AEMO must calculate the total Consumption Contributing Quantity
 for all Market Participants for a Trading Interval. The
 TotalConsumptionContributingQuantity(t) for all Market Participants in
 Trading Interval t is:
@@ -525,7 +525,7 @@ net settlement amount calculated in clause 9.6.3. Daily net settlement
 amounts are summed to a weekly settlement amount in clause 9.6.2.</p>
 <p>The Network Operator has been added to the net weekly settlement
 calculation and some of the calculations in the ESS segment (section
-9.10) as it may be liable for costs associated with the RoCoF ESS (see
+### 9.10) as it may be liable for costs associated with the RoCoF ESS (see
 Appendix 2B).</p>
 <p>Section 9.13 outlines the Service Fees payable to AEMO and the
 ERA.</p></th>
@@ -537,12 +537,12 @@ ERA.</p></th>
 
 Settlement Calculations
 
-9.6. Settlement Calculations - Net Settlement Amount
+### 9.6. Settlement Calculations - Net Settlement Amount
 
-9.6.1. AEMO must calculate for each Rule Participant the net settlement
+### 9.6.1. AEMO must calculate for each Rule Participant the net settlement
 amount for a Trading Week.
 
-9.6.2. The net settlement amount for AEMO to Rule Participant p for
+### 9.6.2. The net settlement amount for AEMO to Rule Participant p for
 Trading Week w is:
 
 $$\text{Net\\SA}\left( \text{p,w} \right)\text{\\=}\sum\_{\text{d}\text{∈}\text{w}}^{}\text{Net\\SA(p,d)}$$
@@ -570,7 +570,7 @@ equation.</p></th>
 </tbody>
 </table>
 
-9.6.3. The net settlement amount for AEMO to Rule Participant p for
+### 9.6.3. The net settlement amount for AEMO to Rule Participant p for
 Trading Day d is:
 
 > Net\_SA(p,d) = STEM\_SA(p,d) + RC\_SA(p,d) + RTE\_SA(p,d) + 
@@ -618,12 +618,12 @@ amount for a Market Participant.</p></th>
 </tbody>
 </table>
 
-9.7. Settlement Calculations – STEM
+### 9.7. Settlement Calculations – STEM
 
-9.7.1. AEMO must calculate for each Market Participant the STEM
+### 9.7.1. AEMO must calculate for each Market Participant the STEM
 settlement amount for a Trading Day.
 
-9.7.2. The STEM settlement amount for AEMO to Market Participant p for
+### 9.7.2. The STEM settlement amount for AEMO to Market Participant p for
 Trading Day d is:
 
 > $$\text{STEM\\SA}\left( \text{p,d} \right)\text{\\=}\sum\_{\text{t}\text{∈}\text{d}}^{}\text{STEM\\SA(p,t)}$$
@@ -636,7 +636,7 @@ Trading Day d is:
 >
 > \(b\) t∈d denotes all Trading Intervals t in Trading Day d.
 
-9.7.3. The STEM settlement amount for AEMO to Market Participant p for
+### 9.7.3. The STEM settlement amount for AEMO to Market Participant p for
 Trading Interval t is:
 
 > STEM\_SA(p,t) = STEM\_Price(t) × STEM\_Quantity(p,t) × 
@@ -675,9 +675,9 @@ settlement amount for a Market Participant.</p></th>
 </tbody>
 </table>
 
-9.8. Settlement Calculations - Reserve Capacity
+### 9.8. Settlement Calculations - Reserve Capacity
 
-9.8.1. AEMO must calculate for each Market Participant the Reserve
+### 9.8.1. AEMO must calculate for each Market Participant the Reserve
 Capacity settlement amount for a Trading Day.
 
 <table>
@@ -695,7 +695,7 @@ consistency with the term used in clause 9.6.3.</p></th>
 </tbody>
 </table>
 
-9.8.2. The Reserve Capacity settlement amount for Market Participant p
+### 9.8.2. The Reserve Capacity settlement amount for Market Participant p
 for Trading Day d is:
 
 > RC\_SA(p,d)
@@ -710,7 +710,7 @@ for Trading Day d is:
 > \(b\) Capacity\_Purchaser\_Payment(p,d) is calculated in accordance
 > with clause 9.8.4.
 
-9.8.3. For the purposes of clause 9.8.2,
+### 9.8.3. For the purposes of clause 9.8.2,
 Capacity\_Provider\_Payment(p,d) for Market Participant p for Trading
 Day d is:
 
@@ -792,7 +792,7 @@ within the set; and
 allocated in a Capacity Credit Allocation associated with the Facility f
 to Market Participant p in the Trading Day d.
 
-9.8.4. For the purposes of clause 9.8.2,
+### 9.8.4. For the purposes of clause 9.8.2,
 Capacity\_Purchaser\_Payment(p,d) for Market Participant p for Trading
 Day d is:
 
@@ -834,7 +834,7 @@ Shared\_Reserve\_Capacity\_Cost(p,d)
 > allocated to Market Participant p in the Trading Day d, in a Capacity
 > Credit Allocation.
 
-9.8.5. The net payment to be made by AEMO under a Supplementary Capacity
+### 9.8.5. The net payment to be made by AEMO under a Supplementary Capacity
 Contract to a person who is not a Market Participant will be settled by
 AEMO in accordance with contract conditions which are not required to be
 consistent with other settlement processes or prudential processes under
@@ -877,9 +877,9 @@ a given Trading Interval.</p>
 </tbody>
 </table>
 
-9.9. Settlement Calculations – Real-Time Energy
+### 9.9. Settlement Calculations – Real-Time Energy
 
-9.9.1. AEMO must calculate for each Market Participant the Real-Time
+### 9.9.1. AEMO must calculate for each Market Participant the Real-Time
 Energy settlement amount for a Trading Day.
 
 <table>
@@ -899,7 +899,7 @@ Day.</p></th>
 </tbody>
 </table>
 
-9.9.2. The Real-Time Energy settlement amount for Market Participant p
+### 9.9.2. The Real-Time Energy settlement amount for Market Participant p
 for Trading Day d is:
 
 > $$\text{RTE\\SA}\left( \text{p,d} \right)\text{\\=}\sum\_{\text{t}\text{∈}\text{d}}^{}{\text{RTE\\SA}\left( \text{p,t} \right)}$$
@@ -929,7 +929,7 @@ Energy Uplift Payments recoverable from them.</p></th>
 </tbody>
 </table>
 
-9.9.3. The Real-Time Energy settlement amount for Market Participant p
+### 9.9.3. The Real-Time Energy settlement amount for Market Participant p
 for Trading Interval t is:
 
 RTE\_SA(p,t) = EnergyTradingAmount(p,t) + 
@@ -966,7 +966,7 @@ Metered Schedule).</p></th>
 </tbody>
 </table>
 
-9.9.4. The energy trading amount for Market Participant p for Trading
+### 9.9.4. The energy trading amount for Market Participant p for Trading
 Interval t is:
 
 EnergyTradingAmount(p,t) = ReferenceTradingPrice(t) × NetTradingQuantity(p,t)
@@ -999,7 +999,7 @@ Interval.</p></th>
 </tbody>
 </table>
 
-9.9.5. The Net Trading Quantity for a Market Participant p in Trading
+### 9.9.5. The Net Trading Quantity for a Market Participant p in Trading
 Interval t is:
 
 $$\text{NetTradingQuantity}\left( \text{p,t} \right)\text{\\=\\}\left( \sum\_{\text{f}\text{∈}\text{p}}^{}{\text{MeteredSchedule}\left( \text{f,t} \right)} \right)\text{-NetContractPosition(p,t)}$$
@@ -1041,7 +1041,7 @@ Uplift Payments when negative mispricing occurs.</p>
 <p>There are additional conditions (in addition to the Congestion Rental
 component) that will apply when determining whether a Registered
 Facility is eligible to receive an Energy Uplift Payment (see section
-9.9.9).</p>
+### 9.9.9).</p>
 <p>The total amount of energy uplift payable to a Market Participant in
 a Trading Interval is the sum of Energy Uplift Payments made in respect
 of all of its Registered Facilities in the trading interval.</p></th>
@@ -1051,7 +1051,7 @@ of all of its Registered Facilities in the trading interval.</p></th>
 </tbody>
 </table>
 
-9.9.6. The energy uplift amount payable to Market Participant p for
+### 9.9.6. The energy uplift amount payable to Market Participant p for
 Trading Interval t is:
 
 $$\text{EnergyUplift\\Payable}\left( \text{p,t} \right)\text{\\=}\sum\_{\text{f}\text{∈}\text{p}}^{}\text{EnergyUpliftPayment(f,t)}$$
@@ -1082,7 +1082,7 @@ Trading Interval t.</p></th>
 </tbody>
 </table>
 
-9.9.7. The Energy Uplift Payment for Registered Facility f in Trading
+### 9.9.7. The Energy Uplift Payment for Registered Facility f in Trading
 Interval t is:
 
 $$\text{EnergyUpliftPayment(f,t)\\=}\sum\_{\text{DI}\text{∈}\text{t}}^{}\text{EnergyUpliftPayment(f,DI)}$$
@@ -1111,7 +1111,7 @@ trigger, the Uplift Price and the Uplift Quantity.</p></th>
 </tbody>
 </table>
 
-9.9.8. The Energy Uplift Payment for Registered Facility f in
+### 9.9.8. The Energy Uplift Payment for Registered Facility f in
 Dispatch Interval DI is:
 
 EnergyUpliftPayment(f,DI) = IsMisPriced(f,DI) × EnergyUpliftPrice(f,DI)×
@@ -1126,7 +1126,7 @@ calculated in accordance with clause 9.9.9;
 
 \(b\) EnergyUpliftPrice(f,DI) is the Energy Uplift Price for Registered
 Facility f in Dispatch Interval DI calculated in accordance with clause
-9.9.10; and
+### 9.9.10; and
 
 \(c\) EnergyUpliftQuantity(f,DI) is the Energy Uplift Quantity for
 Registered Facility f in Dispatch Interval DI calculated in accordance
@@ -1175,7 +1175,7 @@ Rental applies even after the ESS offer has been revised to zero.</p>
 </tbody>
 </table>
 
-9.9.9. The mispricing trigger for Registered Facility f in
+### 9.9.9. The mispricing trigger for Registered Facility f in
 Dispatch Interval DI is:
 
 $$\text{IsMisPriced(f,DI)\\=}\left\\ \begin{array}{r}
@@ -1248,7 +1248,7 @@ and</p>
 </tbody>
 </table>
 
-9.9.10. The Energy Uplift Price for Registered Facility f in Dispatch
+### 9.9.10. The Energy Uplift Price for Registered Facility f in Dispatch
 Interval DI is:
 
 EnergyUpliftPrice(f,DI) = Max(0, (MarginalOfferPrice(f,DI)−
@@ -1293,7 +1293,7 @@ error).</p>
 </tbody>
 </table>
 
-9.9.11. The Energy Uplift Quantity for Registered Facility f in Dispatch
+### 9.9.11. The Energy Uplift Quantity for Registered Facility f in Dispatch
 Interval DI is:
 
 $$\text{EnergyUpliftQuantity(f,DI)\\=\\Max(0,\\}\widehat{\text{MeteredQuantity}}\left( \text{f,DI} \right)\text{)}$$
@@ -1304,7 +1304,7 @@ where:
 Withdrawal in MWh for Registered Facility f for a Dispatch Interval
 calculated in accordance with clause 9.9.12.
 
-9.9.12. The metered quantity estimate of Injection or Withdrawal in MWh
+### 9.9.12. The metered quantity estimate of Injection or Withdrawal in MWh
 of Registered Facility f in Dispatch Interval DI is:
 
 $$\widehat{\text{MeteredQuantity}}\left( \text{f,DI} \right)\text{\\=}\left\\ \begin{array}{r}
@@ -1327,7 +1327,7 @@ clause 9.5.2; and
 Registered Facility f for Trading Interval t as calculated accordance
 with clause 9.9.13.
 
-9.9.13. The total MWh Injection or Withdrawal of Registered Facility f
+### 9.9.13. The total MWh Injection or Withdrawal of Registered Facility f
 for Trading Interval t is:
 
 $$\text{TotalSCADAMWh(f,t)\\}\text{=}\sum\_{\text{DI}\text{∈}\text{t}}^{}{\text{SCADAMWh}\left( \text{f,DI} \right)}$$
@@ -1356,7 +1356,7 @@ in that Trading Interval.</p></th>
 </tbody>
 </table>
 
-9.9.14. AEMO must calculate the total amount of energy uplift
+### 9.9.14. AEMO must calculate the total amount of energy uplift
 recoverable in a Trading Interval from all Energy Uplift Payments made
 to all Market Participants in that Trading Interval as follows:
 
@@ -1387,7 +1387,7 @@ Interval Consumption share.</p></th>
 </tbody>
 </table>
 
-9.9.15. The energy uplift recoverable from Market Participant p for
+### 9.9.15. The energy uplift recoverable from Market Participant p for
 Trading Interval t is:
 
 EnergyUplift\_Recoverable(p,t) = EnergyUplift\_Recoverable(t) × 
@@ -1446,9 +1446,9 @@ framework is finalised.</p></th>
 </tbody>
 </table>
 
-9.10. Settlement Calculations - Essential System Services
+### 9.10. Settlement Calculations - Essential System Services
 
-9.10.1. AEMO must calculate for each Rule Participant the Essential
+### 9.10.1. AEMO must calculate for each Rule Participant the Essential
 System Service settlement amount for a Trading Day.
 
 <table>
@@ -1482,7 +1482,7 @@ amounts.</p></li>
 </tbody>
 </table>
 
-9.10.2. The Essential System Service settlement amount for Rule
+### 9.10.2. The Essential System Service settlement amount for Rule
 Participant p for Trading Day d is:
 
 ESS\_SA(p,d) = ESS\_Payable(p,d) − ESS\_Recoverable(p,d)
@@ -1536,7 +1536,7 @@ recover other costs for that FCESS.</p></th>
 </tbody>
 </table>
 
-9.10.3. The Essential System Service amount payable to Market
+### 9.10.3. The Essential System Service amount payable to Market
 Participant p for Trading Day d is:
 
 ESS\_Payable(p,d) = 
@@ -1569,7 +1569,7 @@ clause 9.10.25;
 
 \(f\) NCESS\_Payable(p,d) is the NCESS amount payable to Market
 Participant p for Trading Day d calculated in accordance with clause
-9.10.27A; and
+### 9.10.27A; and
 
 \(g\) FCESSUplift\_Payable(p,d) is the FCESS uplift amount payable to
 Market Participant p for Trading Day d calculated in accordance with
@@ -1601,7 +1601,7 @@ that Trading Day.</p></th>
 </tbody>
 </table>
 
-9.10.3A. The FCESS uplift amount payable to Market Participant p for
+### 9.10.3A. The FCESS uplift amount payable to Market Participant p for
 Trading Day d is:
 
 $$\text{FCESSUplift\\Payable(p,d)}\_{\text{\\}}\text{=}\sum\_{\text{f}\text{∈}\text{p}}^{}{\sum\_{\text{t}\text{∈}\text{d}}^{}{\text{FCESSUpliftPayment}\left( \text{f,t} \right)}}$$
@@ -1610,7 +1610,7 @@ where:
 
 \(a\) FCESSUpliftPayment(f,t) is the FCESS Uplift Payment for Registered
 Facility f in Trading Interval t as calculated in accordance with clause
-9.10.3B;
+### 9.10.3B;
 
 \(b\) f∈p denotes all Registered Facilities f registered to Market
 Participant p; and
@@ -1634,7 +1634,7 @@ Interval.</p></th>
 </tbody>
 </table>
 
-9.10.3B. The FCESS Uplift Payment for Registered Facility f in Trading
+### 9.10.3B. The FCESS Uplift Payment for Registered Facility f in Trading
 Interval t is:
 
 $$\text{FCESSUpliftPayment}\left( \text{f,t} \right)\text{\\=}\sum\_{\text{DI}\text{∈}\text{t}}^{}{\text{FCESSUpliftPayment}\left( \text{f,DI} \right)}$$
@@ -1643,7 +1643,7 @@ where:
 
 \(a\) FCESSUpliftPayment(f,DI) is the FCESS Uplift Payment for
 Registered Facility f in Dispatch Interval DI as calculated under clause
-9.10.3H; and
+### 9.10.3H; and
 
 \(b\) DI∈t denotes all Dispatch Intervals DI in Trading Interval t.
 
@@ -1684,7 +1684,7 @@ determined by AEMO under clause 7.4.52.</p></th>
 </tbody>
 </table>
 
-9.10.3C. The Enablement Losses in respect of Contingency Reserve Raise
+### 9.10.3C. The Enablement Losses in respect of Contingency Reserve Raise
 for Registered Facility f in Dispatch Interval DI are:
 
 \(a\) if Registered Facility f is a Scheduled Facility or Semi-Scheduled
@@ -1701,7 +1701,7 @@ i\. EL\_CR\_Factor(f,DI) is:
 1\. 1 if:
 
 i\. CR\_EnablementQuantity(f,DI), determined in accordance with clause
-9.10.6(c) for Registered Facility f in Dispatch Interval DI, is greater
+### 9.10.6(c) for Registered Facility f in Dispatch Interval DI, is greater
 than zero; and
 
 ii\. IsMisPriced(f,DI), determined in accordance with clause 9.9.9 for
@@ -1732,7 +1732,7 @@ Semi-Scheduled Facility:
 
 EnablementLosses\_CR(f,DI)<sub> </sub>= 0
 
-9.10.3D. The Enablement Losses in respect of Contingency Reserve Lower
+### 9.10.3D. The Enablement Losses in respect of Contingency Reserve Lower
 for Registered Facility f in Dispatch Interval DI are:
 
 \(a\) if Registered Facility f is a Scheduled Facility or Semi-Scheduled
@@ -1749,7 +1749,7 @@ i\. EL\_CL\_Factor(f,DI) is:
 1\. 1 if:
 
 i\. CL\_EnablementQuantity(f,DI), determined in accordance with clause
-9.10.10(c) for Registered Facility f in Dispatch Interval DI, is greater
+### 9.10.10(c) for Registered Facility f in Dispatch Interval DI, is greater
 than zero; and
 
 ii\. IsMisPriced(f,DI), determined in accordance with clause 9.9.9 for
@@ -1780,7 +1780,7 @@ Semi-Scheduled Facility:
 
 EnablementLosses\_CL(f,DI)<sub> </sub>= 0
 
-9.10.3E. The Enablement Losses in respect of RoCoF Control Service for
+### 9.10.3E. The Enablement Losses in respect of RoCoF Control Service for
 Registered Facility f in Dispatch Interval DI are:
 
 \(a\) if Registered Facility f is a Scheduled Facility or Semi-Scheduled
@@ -1797,7 +1797,7 @@ i\. EL\_RCS\_Factor(f,DI) is:
 1\. 1 if:
 
 i\. RCS\_EnablementQuantity(f,DI), determined in accordance with clause
-9.10.14(c) for Registered Facility f in Dispatch Interval DI, is greater
+### 9.10.14(c) for Registered Facility f in Dispatch Interval DI, is greater
 than zero; and
 
 ii\. IsMisPriced(f,DI), determined in accordance with clause 9.9.9 for
@@ -1828,7 +1828,7 @@ Semi-Scheduled Facility:
 
 EnablementLosses\_RCS(f,DI)<sub> </sub>= 0
 
-9.10.3F. The Enablement Losses in respect of Regulation Raise for
+### 9.10.3F. The Enablement Losses in respect of Regulation Raise for
 Registered Facility f in Dispatch Interval DI are:
 
 \(a\) if Registered Facility f is a Scheduled Facility or Semi-Scheduled
@@ -1845,7 +1845,7 @@ i\. EL\_RR\_Factor(f,DI) is:
 1\. 1 if:
 
 i\. RR\_EnablementQuantity(f,DI), determined in accordance with clause
-9.10.22(c) for Registered Facility f in Dispatch Interval DI, is greater
+### 9.10.22(c) for Registered Facility f in Dispatch Interval DI, is greater
 than zero; and
 
 ii\. IsMisPriced(f,DI), determined in accordance with clause 9.9.9 for
@@ -1876,7 +1876,7 @@ Semi-Scheduled Facility:
 
 EnablementLosses\_RR(f,DI)<sub> </sub>= 0
 
-9.10.3G. The Enablement Losses in respect of Regulation Lower for
+### 9.10.3G. The Enablement Losses in respect of Regulation Lower for
 Scheduled Facility or Semi-Scheduled Facility f in Dispatch Interval DI
 are:
 
@@ -1894,7 +1894,7 @@ i\. EL\_RL\_Factor(f,DI) is:
 1\. 1 if:
 
 i\. RL\_EnablementQuantity(f,DI), determined in accordance with clause
-9.10.23(c) for Registered Facility f in Dispatch Interval DI, is greater
+### 9.10.23(c) for Registered Facility f in Dispatch Interval DI, is greater
 than zero; and
 
 ii\. IsMisPriced(f,DI), determined in accordance with clause 9.9.9 for
@@ -1925,7 +1925,7 @@ Semi-Scheduled Facility:
 
 EnablementLosses\_RL(f,DI)<sub> </sub>= 0
 
-9.10.3H. The FCESS Uplift Payment for Registered Facility f in Dispatch
+### 9.10.3H. The FCESS Uplift Payment for Registered Facility f in Dispatch
 Interval DI is:
 
 FCESSUpliftPayment(f,DI)<sub> </sub>=Max(EnablementLosses\_CR(f,DI), 
@@ -1972,7 +1972,7 @@ Facility in the relevant Dispatch Interval.</p></th>
 </tbody>
 </table>
 
-9.10.3I. The number of Frequency Co-optimised Essential System Services
+### 9.10.3I. The number of Frequency Co-optimised Essential System Services
 to be allocated a share of the FCESS Uplift Payment for Registered
 Facility f in Dispatch Interval DI is:
 
@@ -2003,7 +2003,7 @@ Semi-Scheduled Facility:
 
 FCESSCount(f,DI) = 0
 
-9.10.3J. The share of the FCESS Uplift Payment for Registered Facility f
+### 9.10.3J. The share of the FCESS Uplift Payment for Registered Facility f
 in Dispatch Interval DI to be allocated to each applicable Frequency
 Co‑optimised Essential System Service is:
 
@@ -2024,7 +2024,7 @@ Interval DI under clause 9.10.3I; and
 
 FCESSUplift\_Share(f,DI) = 0
 
-9.10.3K. The share of the FCESS Uplift Payment for Registered Facility f
+### 9.10.3K. The share of the FCESS Uplift Payment for Registered Facility f
 in Dispatch Interval DI to be allocated to Contingency Reserve Raise is:
 
 \(a\) if Registered Facility f is a Scheduled Facility or Semi-Scheduled
@@ -2047,7 +2047,7 @@ Semi-Scheduled Facility:
 
 FCESSUplift\_CR(f,DI) = 0
 
-9.10.3L. The share of the FCESS Uplift Payment for Registered Facility f
+### 9.10.3L. The share of the FCESS Uplift Payment for Registered Facility f
 in Dispatch Interval DI to be allocated to Contingency Reserve Lower is:
 
 \(a\) if Registered Facility f is a Scheduled Facility or Semi-Scheduled
@@ -2070,7 +2070,7 @@ Semi-Scheduled Facility:
 
 FCESSUplift\_CL(f,DI) = 0
 
-9.10.3M. The share of the FCESS Uplift Payment for Registered Facility f
+### 9.10.3M. The share of the FCESS Uplift Payment for Registered Facility f
 in Dispatch Interval DI to be allocated to the RoCoF Control Service is:
 
 \(a\) if Registered Facility f is a Scheduled Facility or Semi-Scheduled
@@ -2093,7 +2093,7 @@ Semi-Scheduled Facility:
 
 FCESSUplift\_RCS(f,DI) = 0
 
-9.10.3N. The share of the FCESS Uplift Payment for Registered Facility f
+### 9.10.3N. The share of the FCESS Uplift Payment for Registered Facility f
 in Dispatch Interval DI to be allocated to Regulation Raise is:
 
 \(a\) if Registered Facility f is a Scheduled Facility or Semi-Scheduled
@@ -2116,7 +2116,7 @@ Semi-Scheduled Facility:
 
 FCESSUplift\_RR(f,DI) = 0
 
-9.10.3O. The share of the FCESS Uplift Payment for Registered Facility f
+### 9.10.3O. The share of the FCESS Uplift Payment for Registered Facility f
 in Dispatch Interval DI to be allocated to Regulation Lower is:
 
 \(a\) if Registered Facility f is a Scheduled Facility or Semi-Scheduled
@@ -2155,7 +2155,7 @@ Dispatch Interval.</p></th>
 </tbody>
 </table>
 
-9.10.3P. AEMO must, as soon as practicable after each Settlement
+### 9.10.3P. AEMO must, as soon as practicable after each Settlement
 Statement Date, publish on the WEM Website the FCESS Uplift Payment for
 each Scheduled Facility or Semi-Scheduled Facility for each Dispatch
 Interval in the relevant Trading Week, and the share of each FCESS
@@ -2183,7 +2183,7 @@ Trading Interval t on Trading Day d.</p></th>
 </tbody>
 </table>
 
-9.10.4. The Contingency Reserve Raise amount payable to Market
+### 9.10.4. The Contingency Reserve Raise amount payable to Market
 Participant p for Trading Day d is:
 
 $$\text{CR\\Payable}\left( \text{p,d} \right)\text{\\}\text{=}\sum\_{\text{f}\text{∈}\text{p}}^{}{\sum\_{\text{t}\text{∈}\text{d}}^{}{\text{CR\\Payable}\left( \text{f,t} \right)}}$$
@@ -2216,7 +2216,7 @@ Trading Interval t.</p></th>
 </tbody>
 </table>
 
-9.10.5. The Contingency Reserve Raise amount payable for Registered
+### 9.10.5. The Contingency Reserve Raise amount payable for Registered
 Facility f in Trading Interval t is:
 
 $$\text{CR\\Payable}\left( \text{f,t} \right)\text{\\=}\sum\_{\text{DI}\text{∈}\text{t}}^{}{\text{CR\\Payable}\left( \text{f,DI} \right)}$$
@@ -2255,7 +2255,7 @@ for the Dispatch Interval DI (if applicable).</p></th>
 </tbody>
 </table>
 
-9.10.6. The Contingency Reserve Raise amount payable for Registered
+### 9.10.6. The Contingency Reserve Raise amount payable for Registered
 Facility f in Dispatch Interval DI is:
 
 > $$\text{CR\\Payable}\left( \text{f,DI} \right)\text{\\}\text{=}\text{\\}\text{CR\\MCP}\left( \text{DI} \right)\text{\\}\text{×}\frac{\text{5}}{\text{\\}\text{60}}\text{\\}\text{×}\text{\\}\text{CR\\EnablementQuantity}\left( \text{f,\\DI} \right)\text{\\}\text{×}$$
@@ -2322,7 +2322,7 @@ includes Registered Facilities.</p></th>
 </tbody>
 </table>
 
-9.10.7. The Contingency Reserve Raise amount payable in Dispatch
+### 9.10.7. The Contingency Reserve Raise amount payable in Dispatch
 Interval DI is:
 
 $$\text{CR\\Payable}\left( \text{DI} \right)\text{\\}\text{=}\sum\_{\text{f}\text{∈}\text{Facilities}}^{}{\text{CR\\Payable}\left( \text{f,DI} \right)} + \sum\_{\text{f}\text{∈}\text{Facilities}}^{}{\text{FCESSUplift\\CR}\left( \text{f,DI} \right)}$$
@@ -2360,7 +2360,7 @@ Trading Interval t on Trading Day d.</p></th>
 </tbody>
 </table>
 
-9.10.8. The Contingency Reserve Lower amount payable to Market
+### 9.10.8. The Contingency Reserve Lower amount payable to Market
 Participant p for Trading Day d is:
 
 $$\text{CL\\Payable}\left( \text{p,d} \right)\text{\\}\text{=}\sum\_{\text{f}\text{∈}\text{p}}^{}{\sum\_{\text{t}\text{∈}\text{d}}^{}{\text{CL\\Payable}\left( \text{f,t} \right)}}$$
@@ -2393,7 +2393,7 @@ Dispatch Interval DI in Trading Interval t.</p></th>
 </tbody>
 </table>
 
-9.10.9. The Contingency Reserve Lower amount payable for Registered
+### 9.10.9. The Contingency Reserve Lower amount payable for Registered
 Facility f in Trading Interval t is:
 
 $$\text{CL\\Payable(f,t)}\text{\\}\text{=}\sum\_{\text{DI}\text{∈}\text{t}}^{}\text{CL\\Payable(f,DI)}$$
@@ -2433,7 +2433,7 @@ Facility f for Dispatch Interval DI (if applicable).</p></th>
 </tbody>
 </table>
 
-9.10.10. The Contingency Reserve Lower amount payable for Registered
+### 9.10.10. The Contingency Reserve Lower amount payable for Registered
 Facility f in Dispatch Interval DI is:
 
 > $$\text{CL\\Payable}\left( \text{f,DI} \right)\text{\\=\\CL\\MCP}\left( \text{DI} \right)\text{\\×}\frac{\text{5}}{\text{\\60}}\text{\\×\\CL\\EnablementQuantity}\left( \text{f,\\DI} \right)\text{\\×}$$
@@ -2500,7 +2500,7 @@ includes Registered Facilities.</p></th>
 </tbody>
 </table>
 
-9.10.11. The total cost of procuring Contingency Reserve Lower in
+### 9.10.11. The total cost of procuring Contingency Reserve Lower in
 Trading Interval t is:
 
 $$\text{CL\\Payable}\left( \text{t} \right)\text{\\}\text{=}\sum\_{\text{f}\text{∈}\text{Facilities}}^{}{\text{CL\\Payable}\left( \text{f,t} \right)} + \sum\_{\text{f}\text{∈}\text{Facilities}}^{}{\sum\_{\text{DI}\text{∈}\text{t}}^{}{\text{FCESSUplift\\CL}\left( \text{f,DI} \right)}}$$
@@ -2540,7 +2540,7 @@ Interval t on Trading Day d.</p></th>
 </tbody>
 </table>
 
-9.10.12. The RoCoF Control Service amount payable to Market
+### 9.10.12. The RoCoF Control Service amount payable to Market
 Participant p for Trading Day d is:
 
 $$\text{RCS\\Payable}\left( \text{p,d} \right)\text{\\}\text{=}\sum\_{\text{f}\text{∈}\text{p}}^{}{\sum\_{\text{t}\text{∈}\text{d}}^{}{\text{RCS\\Payable}\left( \text{f,t} \right)}}$$
@@ -2573,7 +2573,7 @@ Interval DI in Trading Interval t.</p></th>
 </tbody>
 </table>
 
-9.10.13. The RoCoF Control Service amount payable for Registered
+### 9.10.13. The RoCoF Control Service amount payable for Registered
 Facility f in Trading Interval t is:
 
 $$\text{RCS\\Payable}\left( \text{f,t} \right)\text{\\}\text{=}\sum\_{\text{DI}\text{∈}\text{t}}^{}{\text{RCS\\Payable}\left( \text{f,DI} \right)}$$
@@ -2612,7 +2612,7 @@ Facility for the Dispatch Interval (if applicable).</p></th>
 </tbody>
 </table>
 
-9.10.14. The RoCoF Control Service amount payable for Registered
+### 9.10.14. The RoCoF Control Service amount payable for Registered
 Facility f in Dispatch Interval DI is:
 
 > $$\text{RCS\\Payable}\left( \text{f,DI} \right)\text{\\=\\RCS\\MCP}\left( \text{DI} \right)\text{\\×}\frac{\text{5}}{\text{\\60}}\text{\\×\\RCS\\EnablementQuantity}\left( \text{f,\\DI} \right)\text{\\×}$$
@@ -2679,7 +2679,7 @@ includes Registered Facilities.</p></th>
 </tbody>
 </table>
 
-9.10.15. The cost of procuring RoCoF Control Service in Dispatch
+### 9.10.15. The cost of procuring RoCoF Control Service in Dispatch
 Interval DI is:
 
 $$\text{RCS\\Payable}\left( \text{DI} \right)\text{\\}\text{=}\sum\_{\text{f}\text{∈}\text{Facilities}}^{}{\text{RCS\\Payable}\left( \text{f,DI} \right)} + \sum\_{\text{f}\text{∈}\text{Facilities}}^{}{\text{FCESSUplift\\RCS}\left( \text{f,DI} \right)}$$
@@ -2729,7 +2729,7 @@ Interval DI.</p></li>
 </tbody>
 </table>
 
-9.10.16. AEMO must calculate the cost of procuring the Minimum RoCoF
+### 9.10.16. AEMO must calculate the cost of procuring the Minimum RoCoF
 Control Requirement component of RoCoF Control Service in Dispatch
 Interval DI. Subject to clause 9.10.17, the cost of procuring the
 Minimum RoCoF Control Requirement component of RoCoF Control Service in
@@ -2749,7 +2749,7 @@ Requirement in Dispatch Interval DI as published by AEMO under clause
 \(c\) RoCoFControlRequirement(DI) is the RoCoF Control Requirement in
 Dispatch Interval DI as published by AEMO under clause 7.13.1B(h).
 
-9.10.17. AEMO must calculate the cost of procuring the Minimum RoCoF
+### 9.10.17. AEMO must calculate the cost of procuring the Minimum RoCoF
 Control Requirement component of RoCoF Control Service in Dispatch
 Interval DI, MinRCS\_Payable(DI), as zero if the RoCoF Control
 Requirement in Dispatch Interval DI is zero.
@@ -2771,7 +2771,7 @@ Interval t.</p></th>
 </tbody>
 </table>
 
-9.10.18. The cost associated with procuring the Minimum RoCoF Control
+### 9.10.18. The cost associated with procuring the Minimum RoCoF Control
 Requirement component of RoCoF Control Service in Trading Interval t is:
 
 $$\text{MinRCS\\Payable}\left( \text{t} \right)\text{\\}\text{=}\sum\_{\text{DI}\text{∈}\text{t}}^{}{\text{MinRCS\\Payable}\left( \text{DI} \right)}$$
@@ -2801,7 +2801,7 @@ Dispatch Interval DI.</p></th>
 </tbody>
 </table>
 
-9.10.19. The cost of procuring the Additional RoCoF Control Requirement
+### 9.10.19. The cost of procuring the Additional RoCoF Control Requirement
 component of RoCoF Control Service in Dispatch Interval DI is:
 
 AdditionalRCS\_Payable(DI) = RCS\_Payable(DI) − MinRCS\_Payable(DI)
@@ -2837,7 +2837,7 @@ Day d.</p></th>
 </tbody>
 </table>
 
-9.10.20. The Regulation amount payable to Market Participant p for
+### 9.10.20. The Regulation amount payable to Market Participant p for
 Trading Day d is:
 
 $$\text{Regulation}\text{\\}\text{Payable(p,d)\\}\text{=}\sum\_{\text{f}\text{∈}\text{p}}^{}{\sum\_{\text{t}\text{∈}\text{d}}^{}{\text{Regulation}\text{\\}\text{Payable(f,t)}}}$$
@@ -2874,7 +2874,7 @@ each Dispatch Interval DI in Trading Interval t.</p></li>
 </tbody>
 </table>
 
-9.10.21. The Regulation amount payable for Registered Facility f in
+### 9.10.21. The Regulation amount payable for Registered Facility f in
 Trading Interval t is:
 
 > $$\text{Regulation\\Payable}\left( \text{f,t} \right)\text{\\=}\sum\_{\text{DI}\text{∈}\text{t}}^{}\left( \text{RR\\Payable}\left( \text{f,DI} \right)\text{\\+\\RL\\Payable}\left( \text{f,DI} \right) \right)$$
@@ -2919,7 +2919,7 @@ be 1 at Market Start.</p></th>
 </tbody>
 </table>
 
-9.10.22. The Regulation Raise amount payable for Registered Facility f
+### 9.10.22. The Regulation Raise amount payable for Registered Facility f
 in Dispatch Interval DI is:
 
 > $$\text{RR\\Payable}\left( \text{f,DI} \right)\text{\\=\\RR\\MCP}\left( \text{DI} \right)\text{\\×}\frac{\text{5}}{\text{\\60}}\text{\\×\\RR\\EnablementQuantity}\left( \text{f,\\DI} \right)\text{\\×}$$
@@ -2993,7 +2993,7 @@ Facility for the Dispatch Interval (if applicable)</p></th>
 </tbody>
 </table>
 
-9.10.23. The Regulation Lower amount payable for Registered Facility f
+### 9.10.23. The Regulation Lower amount payable for Registered Facility f
 in Dispatch Interval DI is:
 
 > $$\text{RL\\Payable}\left( \text{f,DI} \right)\text{\\=\\RL\\MCP}\left( \text{DI} \right)\text{\\×}\frac{\text{5}}{\text{\\60}}\text{\\×\\RL\\EnablementQuantity}\left( \text{f,\\DI} \right)\text{\\×}$$
@@ -3059,7 +3059,7 @@ includes Registered Facilities.</p></th>
 </tbody>
 </table>
 
-9.10.24. The total cost of procuring Regulation in Trading Interval t
+### 9.10.24. The total cost of procuring Regulation in Trading Interval t
 is:
 
 $$\text{Regulation\\Payable}\left( \text{t} \right)\text{\\=}\sum\_{\text{f}\text{∈}\text{Facilities}}^{}\text{Regulation\\Payable(f,t)} + \sum\_{\text{f}\text{∈}\text{Facilities}}^{}{\sum\_{\text{DI}\text{∈}\text{t}}^{}{\text{FCESSUplift\\RR}\left( \text{f,DI} \right) + \sum\_{\text{f}\text{∈}\text{Facilities}}^{}{\sum\_{\text{DI}\text{∈}\text{t}}^{}{\text{FCESSUplift\\RL}\left( \text{f,DI} \right)}}}}$$
@@ -3100,7 +3100,7 @@ contractual basis.</p></th>
 </tbody>
 </table>
 
-9.10.25. The System Restart Services amount payable to Market
+### 9.10.25. The System Restart Services amount payable to Market
 Participant p for Trading Day d is:
 
 $$\text{SR}\text{S\\Payable(p,d)}\_{\text{\\}}\text{=}\sum\_{\text{t}\text{∈}\text{d}}^{}{\text{SR}\text{S\\Payable(p,t)}\_{\text{\\}}}$$
@@ -3133,7 +3133,7 @@ Restart Service Contracts.</p></th>
 </tbody>
 </table>
 
-9.10.26. The System Restart Services amount payable to Market
+### 9.10.26. The System Restart Services amount payable to Market
 Participant p for System Restart Services in Trading Interval t is:
 
 $$\text{SR}\text{S\\Payable(p,t)}\_{\text{\\}}\text{=}\sum\_{\text{c}\text{∈}\text{p}}^{}{\text{SR}\text{S\\Payable(c,t)}\_{\text{\\}}}$$
@@ -3164,7 +3164,7 @@ that provide System Restart Services in Trading Interval t.</p></th>
 </tbody>
 </table>
 
-9.10.27. The total cost of procuring System Restart Services in Trading
+### 9.10.27. The total cost of procuring System Restart Services in Trading
 Interval t is:
 
 $$\text{SR}\text{S\\Payable(t)}\_{\text{\\}} = \sum\_{\text{p}\text{∈}\text{P}}^{}{\text{SR}\text{S\\Payable(p,t)}\_{\text{\\}}}$$
@@ -3196,7 +3196,7 @@ Services on a contractual basis.</p></th>
 </tbody>
 </table>
 
-9.10.27A. The NCESS amount payable to Market Participant p for Trading
+### 9.10.27A. The NCESS amount payable to Market Participant p for Trading
 Day d is:
 
 > $$\text{NCESS\\Payable(p,d)}\_{\text{\\}}\text{=}\sum\_{\text{t}\text{∈}\text{d}}^{}\text{NCESS\\Payable(p,t)}\_{\text{\\}}$$
@@ -3226,7 +3226,7 @@ Interval DI in Trading Interval t.</p></th>
 </tbody>
 </table>
 
-9.10.27B. The NCESS amount payable to Market Participant p for NCESS in
+### 9.10.27B. The NCESS amount payable to Market Participant p for NCESS in
 Trading Interval t is:
 
 $$\text{NCESS\\Payable(p,t)}\_{\text{\\}}\text{=}\sum\_{\text{DI}\text{∈}\text{t}}^{}\text{NCESS\\Payable(p,DI)}\_{\text{\\}}$$
@@ -3256,7 +3256,7 @@ contract c in Dispatch Interval DI.</p></th>
 </tbody>
 </table>
 
-9.10.27C. The NCESS amount payable to Market Participant p for NCESS in
+### 9.10.27C. The NCESS amount payable to Market Participant p for NCESS in
 Dispatch Interval DI is:
 
 $$\text{NCESS\\Payable(p,DI)}\_{\text{\\}}\text{=}\sum\_{\text{c}\text{∈}\text{p}}^{}\text{NCESS\\Payable(c,DI)}\_{\text{\\}}$$
@@ -3288,7 +3288,7 @@ Trading Interval t.</p></th>
 </tbody>
 </table>
 
-9.10.27D. The total cost of procuring NCESS in Trading Interval t is:
+### 9.10.27D. The total cost of procuring NCESS in Trading Interval t is:
 
 > $$\text{NCESS\\Payable(t)}\_{\text{\\}} = \sum\_{\text{p}\text{∈}\text{P}}^{}\text{NCESS\\Payable(p,t)}\_{\text{\\}}$$
 
@@ -3331,7 +3331,7 @@ Dispatch Engine rather than metered schedules.</p></th>
 </tbody>
 </table>
 
-9.10.28. The Essential System Service amount recoverable from Rule
+### 9.10.28. The Essential System Service amount recoverable from Rule
 Participant p for Trading Day d is:
 
 > ESS\_Recoverable(p,d) = CR\_Recoverable(p,d) + CL\_Recoverable(p,d) +
@@ -3382,7 +3382,7 @@ Interval t in Trading Day d.</p></th>
 </tbody>
 </table>
 
-9.10.29. The Contingency Reserve Raise amount recoverable from Market
+### 9.10.29. The Contingency Reserve Raise amount recoverable from Market
 Participant p for Trading Day d is:
 
 $$\text{C}\text{R\\Recoverable(p,d)}\_{\text{\\}}\text{=}\sum\_{\text{t}\text{∈}\text{d}}^{}{\text{C}\text{R\\Recoverable(p,t)}\_{\text{\\}}}$$
@@ -3425,7 +3425,7 @@ RoCoF Control Requirement cost calculations in Appendix 2B.</p></th>
 </tbody>
 </table>
 
-9.10.30. The Contingency Reserve Raise amount recoverable from Market
+### 9.10.30. The Contingency Reserve Raise amount recoverable from Market
 Participant p for Trading Interval t is:
 
 $$\text{C}{\text{R\\Recoverable}\left( \text{p,t} \right)}\_{\text{\\}}\text{=}\sum\_{\text{DI}\text{∈}\text{t}}^{}{\text{C}\text{R\\Payable(DI)}\_{\text{\\}}\text{×}\text{\\}\text{TotalRunwayShare}\left( \text{p,DI} \right)}$$
@@ -3434,7 +3434,7 @@ where:
 
 \(a\) CR\_Payable(DI) is the total cost of procuring Contingency Reserve
 Raise in Dispatch Interval DI calculated in accordance with clause
-9.10.7;
+### 9.10.7;
 
 \(b\) TotalRunwayShare(p,DI) is Market Participant p's share of the
 total cost of procuring Contingency Reserve Raise in Dispatch
@@ -3460,7 +3460,7 @@ Interval t in Trading Day d.</p></th>
 </tbody>
 </table>
 
-9.10.31. The Contingency Reserve Lower amount recoverable from Market
+### 9.10.31. The Contingency Reserve Lower amount recoverable from Market
 Participant p for Trading Day d is:
 
 $$\text{C}\text{L\\Recoverable(p,d)}\_{\text{\\}}\text{=}\sum\_{\text{t}\text{∈}\text{d}}^{}{\text{C}\text{L\\Recoverable(p,t)}\_{\text{\\}}}$$
@@ -3498,7 +3498,7 @@ Interval t.</p></li>
 </tbody>
 </table>
 
-9.10.32. The Contingency Reserve Lower amount recoverable from Market
+### 9.10.32. The Contingency Reserve Lower amount recoverable from Market
 Participant p for Trading Interval t is:
 
 CL\_Recoverable(p,t)<sub> </sub>= CL\_Payable(t)<sub> </sub>× ConsumptionShare(p,t)
@@ -3507,7 +3507,7 @@ where:
 
 \(a\) CL\_Payable(t) is the total cost of procuring Contingency Reserve
 Lower in Trading Interval t as calculated in accordance with clause
-9.10.11; and
+### 9.10.11; and
 
 \(b\) ConsumptionShare(p,t) is the Consumption Share for Market
 Participant p for Trading Interval t as calculated in accordance with
@@ -3530,7 +3530,7 @@ Trading Day d.</p></th>
 </tbody>
 </table>
 
-9.10.33. The RoCoF Control Service amount recoverable from Rule
+### 9.10.33. The RoCoF Control Service amount recoverable from Rule
 Participant p for Trading Day d is:
 
 $$\text{RC}\text{S\\Recoverable(p,d)}\_{\text{\\}}\text{=}\sum\_{\text{t}\text{∈}\text{d}}^{}{\text{RC}\text{S\\Recoverable(p,t)}\_{\text{\\}}}$$
@@ -3589,7 +3589,7 @@ Contingency Reserve Raise cost recovery calculations.</p></th>
 </tbody>
 </table>
 
-9.10.34. The RoCoF Control Service amount recoverable from Rule
+### 9.10.34. The RoCoF Control Service amount recoverable from Rule
 Participant p for Trading Interval t is:
 
 $$\text{RCS\\Recoverable(p,t)}\text{\\}\text{=}\text{\\}\text{MinRCS\\Recoverable}\left( \text{p,t} \right)\text{\\}\text{+}\\\sum\_{\text{DI}\text{∈}\text{t}}^{}\text{AdditionalRCS\\Recoverable(p,DI)}$$
@@ -3625,7 +3625,7 @@ Day d.</p></th>
 </tbody>
 </table>
 
-9.10.35. The Regulation amount recoverable from Market Participant p for
+### 9.10.35. The Regulation amount recoverable from Market Participant p for
 Trading Day d is:
 
 $$\text{Regulatio}\text{n\\Recoverable(p,d)}\_{\text{\\}}\text{=}\sum\_{\text{t}\text{∈}\text{d}}^{}{\text{Regulatio}\text{n\\Recoverable(p,t)}\_{\text{\\}}}$$
@@ -3661,7 +3661,7 @@ Trading Interval t,</p></li>
 </tbody>
 </table>
 
-9.10.36. The Regulation amount recoverable from Market Participant p for
+### 9.10.36. The Regulation amount recoverable from Market Participant p for
 Trading Interval t is:
 
 Regulation\_Recoverable(p,t)<sub> </sub>= Regulation\_Payable(t)<sub> </sub>× Regulation\_Share(p,t)<sub> </sub>
@@ -3699,7 +3699,7 @@ Interval t.</p></li>
 </tbody>
 </table>
 
-9.10.37. Market Participant p's share of the total cost of Regulation
+### 9.10.37. Market Participant p's share of the total cost of Regulation
 payable for Trading Interval t is:
 
 $$\text{Regulatio}\text{n\\Share(p,t)}\_{\text{\\}}\text{=}\frac{\text{RegulationContributingQuantity}\left( \text{p,t} \right)}{\text{RegulationContributingQuantity}\left( \text{t} \right)}$$
@@ -3736,7 +3736,7 @@ Non-Dispatchable Load (see clause 9.5.3).</p></th>
 </tbody>
 </table>
 
-9.10.38. Market Participant p’s Regulation contributing quantity in
+### 9.10.38. Market Participant p’s Regulation contributing quantity in
 Trading Interval t is:
 
 > RegulationContributingQuantity(p,t) 
@@ -3784,7 +3784,7 @@ Participant p in Trading Interval t.</p>
 </tbody>
 </table>
 
-9.10.39. The Regulation contributing quantity in Trading Interval t is:
+### 9.10.39. The Regulation contributing quantity in Trading Interval t is:
 
 $$\text{RegulationContributingQuantity}\left( \text{t} \right)\text{\\}\text{=}\sum\_{\text{p}\text{∈}\text{P}}^{}{\text{RegulationC}\text{ontributingQuantity}\left( \text{p,t} \right)}$$
 
@@ -3813,7 +3813,7 @@ Interval t in Trading Day d.</p></th>
 </tbody>
 </table>
 
-9.10.40. The System Restart Service amount recoverable from Market
+### 9.10.40. The System Restart Service amount recoverable from Market
 Participant p for Trading Day d is:
 
 $$\text{SR}\text{S\\Recoverable(p,d)}\_{\\}\text{=}\sum\_{\text{t}\text{∈}\text{d}}^{}{\text{SR}\text{S\\Recoverable(p,t)}\_{\\}}$$
@@ -3850,7 +3850,7 @@ Interval t.</p></li>
 </tbody>
 </table>
 
-9.10.41. The System Restart Service amount recoverable from Market
+### 9.10.41. The System Restart Service amount recoverable from Market
 Participant p for Trading Interval t is:
 
 SRS\_Recoverable(p,t)<sub> </sub>= SRS\_Payable(t)<sub> </sub>× ConsumptionShare(p,t)
@@ -3859,13 +3859,13 @@ where:
 
 \(a\) SRS\_Payable(t) is the total cost of procuring System Restart
 Services in Trading Interval t as calculated in accordance with clause
-9.10.27; and
+### 9.10.27; and
 
 \(b\) ConsumptionShare(p,t) is the Consumption Share for Market
 Participant p in Trading Interval t as calculated in accordance with
 clause 9.5.6.
 
-9.10.42. The cost of procuring the Minimum RoCoF Control Requirement
+### 9.10.42. The cost of procuring the Minimum RoCoF Control Requirement
 component of RoCoF Control Service recoverable from Rule Participant p
 in Trading Interval t is:
 
@@ -3883,7 +3883,7 @@ Control Service in Trading Interval t as calculated following the steps
 set out in Appendix 2B and as finally calculated in clause 2.8 of
 Appendix 2B.
 
-9.10.43. The cost of procuring the Additional RoCoF Control Requirement
+### 9.10.43. The cost of procuring the Additional RoCoF Control Requirement
 component of RoCoF Control Service recoverable from Rule Participant p
 in Dispatch Interval DI is:
 
@@ -3921,7 +3921,7 @@ System Services for each Trading Interval t in Trading Day d.</p></th>
 </tbody>
 </table>
 
-9.10.44. The NCESS amount recoverable from Market Participant p for
+### 9.10.44. The NCESS amount recoverable from Market Participant p for
 Trading Day d is:
 
 $$\text{NCESS\\Recoverable(p,d)}\_{\\}\text{=}\sum\_{\text{t}\text{∈}\text{d}}^{}\text{NCESS\\Recoverable(p,t)}\_{\\}$$
@@ -3930,7 +3930,7 @@ where:
 
 \(a\) NCESS\_Recoverable(p,t) is the NCESS amount recoverable from
 Market Participant p for Trading Interval t in accordance with clause
-9.10.45; and
+### 9.10.45; and
 
 \(b\) t∈d denotes all Trading Intervals t in Trading Day d.
 
@@ -3957,7 +3957,7 @@ Interval t.</p></li>
 </tbody>
 </table>
 
-9.10.45. The NCESS amount recoverable from Market Participant p for
+### 9.10.45. The NCESS amount recoverable from Market Participant p for
 Trading Interval t is:
 
 NCESS\_Recoverable(p,t)<sub> </sub>= NCESS\_Payable(t)<sub> </sub>× ConsumptionShare(p,t)
@@ -3971,9 +3971,9 @@ Interval t as calculated in accordance with clause 9.10.27D; and
 Participant p in Trading Interval t as calculated in accordance with
 clause 9.5.6.
 
-9.11. Settlement Calculations - Outage Compensation
+### 9.11. Settlement Calculations - Outage Compensation
 
-9.11.1. AEMO must calculate for each Market Participant the Outage
+### 9.11.1. AEMO must calculate for each Market Participant the Outage
 Compensation settlement amount for a Trading Day. Outage Compensation
 must be settled in the first Adjustment Process following the date on
 which a determination is made under clause 3.18H.5 that Outage
@@ -4003,7 +4003,7 @@ Participant p in Trading Day d.</p></li>
 </tbody>
 </table>
 
-9.11.2. The Outage Compensation settlement amount for Market
+### 9.11.2. The Outage Compensation settlement amount for Market
 Participant p for Trading Day d is:
 
 > *O**C*\_*S**A*(*p*,*d*)<sub> </sub>= *O**C*\_*P**a**y**a**b**l**e*(*p*,*d*)<sub> </sub> −  *O**C*\_*R**e**c**o**v**e**r**a**b**l**e*(*p*,*d*)<sub> </sub>
@@ -4012,7 +4012,7 @@ where:
 
 \(a\) OC\_Payable(p,d) is the Outage Compensation payable to Market
 Participant p for Trading Day d calculated in accordance with clause
-9.11.3; and
+### 9.11.3; and
 
 \(b\) OC\_Recoverable(p,d) is the amount recoverable in respect of
 Outage Compensation from Market Participant p for Trading Day d
@@ -4034,7 +4034,7 @@ for each Trading Interval t in Trading Day d.</p></th>
 </tbody>
 </table>
 
-9.11.3. The Outage Compensation payable to Market Participant p for
+### 9.11.3. The Outage Compensation payable to Market Participant p for
 Trading Day d is:
 
 > $$\text{O}\text{C\\Payable(p,d)}\_{\text{\\}}\text{=}\sum\_{\text{t}\text{∈}\text{d}}^{}{\text{O}\text{C\\Payable(p,t)}\_{\text{\\}}}$$
@@ -4064,7 +4064,7 @@ Interval t.</p></th>
 </tbody>
 </table>
 
-9.11.4. The Outage Compensation payable to Market Participant p for
+### 9.11.4. The Outage Compensation payable to Market Participant p for
 Trading Interval t is:
 
 > $$\text{O}{\text{C\\Payable}\left( \text{p,t} \right)}\_{\text{\\}}\text{=}\sum\_{\text{f}\text{∈}\text{p}}^{}{\text{O}\text{C\\Payable(f,t)}\_{\text{\\}}}$$
@@ -4094,7 +4094,7 @@ in Trading Interval t.</p></th>
 </tbody>
 </table>
 
-9.11.5. The total Outage Compensation payable for Trading Interval t is:
+### 9.11.5. The total Outage Compensation payable for Trading Interval t is:
 
 > $$\text{O}{\text{C\\Payable}\left( \text{t} \right)}\_{\text{\\}}\text{=}\sum\_{\text{p∈P}}^{}{\text{O}{\text{C\\Payable(}\text{p}\text{,t)}}\_{\text{\\}}}$$
 
@@ -4122,7 +4122,7 @@ Day d.</p></th>
 </tbody>
 </table>
 
-9.11.6. The Outage Compensation recoverable from Market Participant p
+### 9.11.6. The Outage Compensation recoverable from Market Participant p
 for Trading Day d is:
 
 > $$\text{O}\text{C\\Recoverable(p,d)}\_{\text{\\}}\text{=}\sum\_{\text{t}\text{∈}\text{d}}^{}{\text{O}\text{C\\Recoverable(p,t)}\_{\text{\\}}}$$
@@ -4159,7 +4159,7 @@ t.</p></li>
 </tbody>
 </table>
 
-9.11.7. The amount recoverable in respect of Outage Compensation from
+### 9.11.7. The amount recoverable in respect of Outage Compensation from
 Market Participant p for Trading Interval t is:
 
 > OC\_Recoverable(p,t)<sub> </sub>= OC\_Payable(t)<sub> </sub>× ConsumptionShare(p,t)
@@ -4191,10 +4191,10 @@ amounts consistently with their application in other settlement clauses
 </tbody>
 </table>
 
-9.12. Settlement Calculations - Market Participant Market Fees, Market
+### 9.12. Settlement Calculations - Market Participant Market Fees, Market
 Participant Coordinator Fees and Market Participant Regulator Fees
 
-9.12.1. AEMO must calculate for each Market Participant the Market
+### 9.12.1. AEMO must calculate for each Market Participant the Market
 Participant fee settlement amount for a Trading Day.
 
 <table>
@@ -4220,7 +4220,7 @@ Participant p for Trading Day d</p></li>
 </tbody>
 </table>
 
-9.12.2. The applicable Market Participant fee settlement amount for
+### 9.12.2. The applicable Market Participant fee settlement amount for
 Market Participant p for Trading Day d is:
 
 MPF\_SA(p,d)<sub> </sub>=  − MPMF\_SA(p,d)<sub> </sub> −  MPRF\_SA(p,d)  −  MPCF\_SA(p,d)<sub> </sub>
@@ -4265,7 +4265,7 @@ an amount paid by the Market Participant.</p></th>
 </tbody>
 </table>
 
-9.12.3. The Market Participant Market Fees settlement amount for Market
+### 9.12.3. The Market Participant Market Fees settlement amount for Market
 Participant p for Trading Day d is:
 
 MPMF\_SA(p,d)<sub> </sub>= MarketFeeRate(d) × ParticipantContribution(p,d)
@@ -4305,7 +4305,7 @@ is an amount paid by the Market Participant.</p></th>
 </tbody>
 </table>
 
-9.12.4. The Market Participant Regulator Fees settlement amount for
+### 9.12.4. The Market Participant Regulator Fees settlement amount for
 Market Participant p for Trading Day d is:
 
 MPRF\_SA(p,d)<sub> </sub>= RegulatorFeeRate(d) × ParticipantContribution(p,d)
@@ -4322,7 +4322,7 @@ and
 \(b\) ParticipantContribution(p,d) is calculated in accordance with
 clause 9.12.5.
 
-9.12.4A. The Market Participant Coordinator Fees settlement amount for
+### 9.12.4A. The Market Participant Coordinator Fees settlement amount for
 Market Participant p for Trading Day d is:
 
 MPCF\_SA(p,d)<sub> </sub>= CoordinatorFeeRate(d) × ParticipantContribution(p,d)
@@ -4358,7 +4358,7 @@ Non-Dispatchable loads). See clauses 9.5.2 and 9.5.3.</p></th>
 </tbody>
 </table>
 
-9.12.5. The Participant Contribution for Market Participant p in Trading
+### 9.12.5. The Participant Contribution for Market Participant p in Trading
 Day d is:
 
 > $$\text{ParticipantContribution}\left( \text{p,d} \right)\text{\\=}\sum\_{\text{t}\text{∈}\text{d}}^{}{\sum\_{\text{f}\text{∈}\text{p}}^{}\left| \text{MeteredSchedule}\left( \text{f,t} \right) \right|}$$
@@ -4391,11 +4391,11 @@ Non-Dispatchable Loads.</p></th>
 Participant p and all Non-Dispatchable Loads associated with Market
 Participant p (including Synergy’s Notional Wholesale Meter where
 Synergy is Market Participant p calculated in accordance with clause
-9.5.3).
+### 9.5.3).
 
-9.13. Settlement Calculations - Service Fees
+### 9.13. Settlement Calculations - Service Fees
 
-9.13.1. AEMO must determine a Service Fee Settlement Amount for a
+### 9.13.1. AEMO must determine a Service Fee Settlement Amount for a
 Trading Day payable to AEMO, to the Coordinator, to the Economic
 Regulation Authority and to the Coordinator.
 
@@ -4417,7 +4417,7 @@ is a payment made by the Market Participant to AEMO.</p></th>
 </tbody>
 </table>
 
-9.13.2. The Service Fee Settlement Amount payable to AEMO for Trading
+### 9.13.2. The Service Fee Settlement Amount payable to AEMO for Trading
 Day d is:
 
 $$\text{SFM}\text{F\\SA(d)}\_{\text{\\}}\text{=}\text{\\}\sum\_{\text{p}\text{∈}\text{P}}^{}{\text{MPM}\text{F\\SA(p,d)}\_{\text{\\}}}$$
@@ -4450,7 +4450,7 @@ AEMO.</p></th>
 </tbody>
 </table>
 
-9.13.3. The Service Fee Settlement Amount payable to the Economic
+### 9.13.3. The Service Fee Settlement Amount payable to the Economic
 Regulation Authority for Trading Day d is:
 
 $$\text{SFR}\text{F\\SA(d)}\_{\text{\\}}\text{=}\text{\\}\sum\_{\text{p}\text{∈}\text{P}}^{}{\text{MPR}\text{F\\SA(p,d)}\_{\text{\\}}}$$
@@ -4483,7 +4483,7 @@ AEMO.</p></th>
 </tbody>
 </table>
 
-9.13.4 The Service Fee Settlement Amount payable to the Coordinator for
+### 9.13.4 The Service Fee Settlement Amount payable to the Coordinator for
 Trading Day d is:
 
 $$\text{SFC}\text{F\\SA(d)}\_{\text{\\}}\text{=\\}\sum\_{\text{p}\text{∈}\text{P}}^{}{\text{MPC}\text{F\\SA(p,d)}\_{\text{\\}}}$$
@@ -4518,13 +4518,13 @@ example, EnergyUplift Payments).</p></th>
 </tbody>
 </table>
 
-9.14. Settlement Statements
+### 9.14. Settlement Statements
 
-9.14.1. AEMO must provide Settlement Statements to Market Participants
+### 9.14.1. AEMO must provide Settlement Statements to Market Participants
 and to each Network Operator in accordance with the settlement timeline
 in section 9.3.
 
-9.14.2. A Settlement Statement must include:
+### 9.14.2. A Settlement Statement must include:
 
 \(a\) details of the Trading Days to which the Settlement Statement
 relates;
@@ -4679,9 +4679,9 @@ to repay the market in these situations.</p></th>
 </tbody>
 </table>
 
-9.15. Adjustment Process
+### 9.15. Adjustment Process
 
-9.15.1. When undertaking an Adjustment Process AEMO must:
+### 9.15.1. When undertaking an Adjustment Process AEMO must:
 
 \(a\) recalculate the amounts included in the Relevant Settlement
 Statements in accordance with this Chapter 9 but taking into account
@@ -4708,21 +4708,21 @@ WEM Rules; and
 Relevant Settlement Statements on the Relevant Settlement Adjustment
 Date.
 
-9.15.2. Where AEMO decides that it will use a revised value, as
+### 9.15.2. Where AEMO decides that it will use a revised value, as
 contemplated under clause 9.15.1(a)(vi), in the final adjusted
 Settlement Statement (to be issued on Settlement Adjustment Date 3 for a
 Trading Week), AEMO must, as soon as practicable, notify the relevant
 Rule Participant of the proposed revised value and the reason for its
 decision.
 
-9.15.3. Subject to clause 9.15.4, an adjusted Settlement Statement must
+### 9.15.3. Subject to clause 9.15.4, an adjusted Settlement Statement must
 be in the same form as the original Settlement Statement, but where data
 is modified between the issuance of the original Settlement Statement
 and the adjusted Settlement Statement, AEMO must record adjusted
 settlement values in the adjusted Settlement Statement and provide an
 explanation of any changes on request.
 
-9.15.4. An adjusted Settlement Statement must include details of the
+### 9.15.4. An adjusted Settlement Statement must include details of the
 adjustment to be paid by or to the Rule Participant, being:
 
 \(a\) the adjustment which will need to be paid by or to the Rule
@@ -4735,22 +4735,22 @@ adjustments previously made under this section 9.15); plus
 \(b\) interest on the amount referred to in clause 9.15.4(a) calculated
 in accordance with clause 9.1.4.
 
-9.15.5. In recalculating amounts as part of an Adjustment Process, AEMO
+### 9.15.5. In recalculating amounts as part of an Adjustment Process, AEMO
 may use the version of the settlement calculation software current at
 the time of the recalculation.
 
-9.15.6. At the same time as AEMO provides a Rule Participant with an
+### 9.15.6. At the same time as AEMO provides a Rule Participant with an
 adjusted Settlement Statement under clause 9.15.1(b), it must also
 provide that Rule Participant with an Invoice reflecting the adjusted
 Settlement Statement and the amounts referred to in clause 9.15.4.
 
-9.15.7. The Settlement Date for a Settlement Statement issued under
+### 9.15.7. The Settlement Date for a Settlement Statement issued under
 clause 9.15.1(b) is the date upon which transactions covered by that
 Settlement Statement are settled and must be no later than the second
 Business Day following the date of issue of the Invoice described in
 clause 9.15.6.
 
-9.15.8. If, for an Adjustment Process, the Service Fee Settlement Amount
+### 9.15.8. If, for an Adjustment Process, the Service Fee Settlement Amount
 payable to AEMO under clause 9.13.2 based on the adjusted Market
 Participant Market Fees settlement amount is less than the Service Fee
 Settlement Amount payable to AEMO under clause 9.13.2 for the last
@@ -4758,7 +4758,7 @@ Settlement Statement for that period, AEMO must make available the
 shortfall amount from the fund established under clause 9.18.9 for the
 purpose of meeting AEMO’s obligations under clause 9.18.8.
 
-9.15.9. AEMO and the Economic Regulation Authority must agree and
+### 9.15.9. AEMO and the Economic Regulation Authority must agree and
 implement an arrangement to apply for any Adjustment Process where the
 Service Fee Settlement Amount payable to the Economic Regulation
 Authority under clause 9.13.3 based on the adjusted Market Participant
@@ -4774,9 +4774,9 @@ to AEMO by 10:00 AM on the relevant Settlement Date; and
 shortfall amount to AEMO by 10:00 AM on the relevant Settlement Date, to
 make available the shortfall amount from the fund established under
 clause 9.18.9 for the purpose of meeting AEMO’s obligations under clause
-9.18.8.
+### 9.18.8.
 
-9.15.10. AEMO and the Coordinator must agree and implement an
+### 9.15.10. AEMO and the Coordinator must agree and implement an
 arrangement to apply for any Adjustment Process where the Service Fee
 Settlement Amount payable to the Coordinator under clause 9.13.4 based
 on the adjusted Market Participant Coordinator Fees settlement amount is
@@ -4810,13 +4810,13 @@ Statement from Adjustment 1 or Adjustment 2.</p></th>
 </tbody>
 </table>
 
-9.16. Notices of Disagreement
+### 9.16. Notices of Disagreement
 
-9.16.1. A Rule Participant may under this section 9.16 issue a Notice of
+### 9.16.1. A Rule Participant may under this section 9.16 issue a Notice of
 Disagreement in respect of a Settlement Statement by the relevant
 Settlement Disagreement Deadline.
 
-9.16.2. The Settlement Disagreement Deadline for a Trading Week is 5:00
+### 9.16.2. The Settlement Disagreement Deadline for a Trading Week is 5:00
 PM on the first Business Day of the forty-fifth (45<sup>th</sup>) week
 following that Trading Week. A Rule Participant has until this time to
 lodge a Notice of Disagreement with AEMO pertaining to any amount
@@ -4825,13 +4825,13 @@ including, for the avoidance of doubt, an adjusted Settlement Statement
 in relation to that Trading Week issued on any of Settlement Adjustment
 Date 1 or Settlement Adjustment Date 2.
 
-9.16.3. A Notice of Disagreement must be submitted to AEMO in accordance
+### 9.16.3. A Notice of Disagreement must be submitted to AEMO in accordance
 with the WEM Procedure specified in clause 9.2.1.
 
-9.16.4. Upon receipt of a Notice of Disagreement, AEMO must confirm
+### 9.16.4. Upon receipt of a Notice of Disagreement, AEMO must confirm
 receipt within one Business Day.
 
-9.16.5. A Notice of Disagreement must include:
+### 9.16.5. A Notice of Disagreement must include:
 
 \(a\) details of the Settlement Statement and Trading Day to which the
 Notice of Disagreement relates;
@@ -4850,13 +4850,13 @@ this is known,
 and must comply with any format that may be specified in the WEM
 Procedure specified in clause 9.2.1.
 
-9.16.6. AEMO may, if it reasonably considers it is required to assess or
+### 9.16.6. AEMO may, if it reasonably considers it is required to assess or
 resolve a Notice of Disagreement, request clarification or further
 information regarding any aspect of the Notice of Disagreement submitted
 under this section 9.16 from the submitting Rule Participant. A Rule
 Participant must comply with a request under this clause 9.16.6.
 
-9.16.7. If a Notice of Disagreement relates to information provided to
+### 9.16.7. If a Notice of Disagreement relates to information provided to
 AEMO by a Metering Data Agent or SCADA data provided by a Network
 Operator then as soon as practicable, but not later than five Business
 Days after AEMO confirms receipt of the Notice of Disagreement, AEMO
@@ -4882,7 +4882,7 @@ ii\. if applicable, providing a revised value for the item that the
 Metering Data Agent or Network Operator (as applicable) considers to be
 in compliance with these WEM Rules and accurate.
 
-9.16.8. If a Notice of Disagreement relates to any item of information
+### 9.16.8. If a Notice of Disagreement relates to any item of information
 developed by AEMO, then:
 
 \(a\) if the information relates to values that are inputs to the
@@ -4894,7 +4894,7 @@ with these WEM Rules and accurate; or
 settlement process AEMO must review its settlement calculations and
 assess whether any errors were made.
 
-9.16.9. AEMO must, as soon as practicable, but within 20 Business Days
+### 9.16.9. AEMO must, as soon as practicable, but within 20 Business Days
 of receipt of a Notice of Disagreement respond to a Rule Participant who
 issued a Notice of Disagreement indicating the actions (if any) AEMO
 will take in response to the Notice of Disagreement, where such actions
@@ -4912,7 +4912,7 @@ accordance with clause 9.16.8; and
 settlement calculations that has produced an incorrect Settlement
 Statement.
 
-9.16.10. AEMO may extend the deadline to respond to a Notice of
+### 9.16.10. AEMO may extend the deadline to respond to a Notice of
 Disagreement in clause 9.16.9 where it requires additional time to
 respond to the Notice of Disagreement, including additional time to
 assess relevant information or determine the actions it will take. Where
@@ -4929,7 +4929,7 @@ Notice of Disagreement in clause 9.16.9;
 \(c\) subject to clause 9.16.11, the time by which AEMO will respond to
 the Notice of Disagreement.
 
-9.16.11. AEMO must not extend the deadline to respond to a Notice of
+### 9.16.11. AEMO must not extend the deadline to respond to a Notice of
 Disagreement under clause 9.16.10 to a date that is later than the
 earlier to occur of:
 
@@ -4938,7 +4938,7 @@ and
 
 \(b\) Settlement Adjustment Date 3.
 
-9.16.12. If a Rule Participant is not satisfied with AEMO’s response to
+### 9.16.12. If a Rule Participant is not satisfied with AEMO’s response to
 a Notice of Disagreement, it may issue a Notice of Dispute to AEMO in
 accordance with section 9.17.
 
@@ -4966,9 +4966,9 @@ Notice of Disagreement submission deadline.</p></th>
 </tbody>
 </table>
 
-9.17. Settlement Disputes
+### 9.17. Settlement Disputes
 
-9.17.1. Subject to clause 9.17.2, a Rule Participant may only issue a
+### 9.17.1. Subject to clause 9.17.2, a Rule Participant may only issue a
 Notice of Dispute in regard to a Settlement Statement after:
 
 \(a\) having raised a Notice of Disagreement with respect to a
@@ -4977,7 +4977,7 @@ Settlement Statement; and
 \(b\) AEMO having given a response under clause 9.16.9 in respect of the
 Notice of Disagreement with which the Rule Participant is not satisfied.
 
-9.17.2. A Rule Participant may issue a Notice of Dispute in regard to an
+### 9.17.2. A Rule Participant may issue a Notice of Dispute in regard to an
 adjusted Settlement Statement for a Trading Week issued on Settlement
 Adjustment Date 3, but only in respect of an adjustment first made by
 AEMO to that Settlement Statement and not in respect of any other
@@ -5000,12 +5000,12 @@ changes (for example, cross referencing).</p></th>
 </tbody>
 </table>
 
-9.18. Invoicing and Payment
+### 9.18. Invoicing and Payment
 
-9.18.1. Invoices must be issued to Rule Participants by AEMO in
+### 9.18.1. Invoices must be issued to Rule Participants by AEMO in
 accordance with the timelines specified under clauses 9.3.3 and 9.15.6.
 
-9.18.2. An Invoice must include:
+### 9.18.2. An Invoice must include:
 
 \(a\) all Settlement Statements (including adjusted Settlement
 Statements) to which the Invoice relates;
@@ -5019,12 +5019,12 @@ and a negative amount is to be paid by AEMO to the Rule Participant;
 \(d\) any amounts outstanding, including from overdue payments, in
 relation to previous Settlement Statements.
 
-9.18.3. AEMO must maintain an account with an institution that meets
+### 9.18.3. AEMO must maintain an account with an institution that meets
 either of the requirements specified in clause 2.38.6(a) for the sole
 purpose of settling market transactions, where this account is to be
 maintained at a branch of the institution located in Western Australia.
 
-9.18.4. AEMO must:
+### 9.18.4. AEMO must:
 
 > \(a\) nominate and publish the electronic funds transfer (“**EFT**”)
 > facility that must be used by Rule Participants for the purpose of
@@ -5034,41 +5034,41 @@ maintained at a branch of the institution located in Western Australia.
 > charged by the EFT facility for processing a transaction on the WEM
 > Website.
 
-9.18.5. Unless otherwise authorised by AEMO, all Rule Participants must
+### 9.18.5. Unless otherwise authorised by AEMO, all Rule Participants must
 use the EFT facility nominated by AEMO under clause 9.18.4 for the
 purpose of settlements under these WEM Rules and the payment of Market
 Fees to AEMO to the extent nominated by AEMO.
 
-9.18.6. If an Invoice indicates that a Rule Participant owes to AEMO an
+### 9.18.6. If an Invoice indicates that a Rule Participant owes to AEMO an
 amount payable greater than the Minimum Transaction Cost, then the Rule
 Participant must pay the full amount to AEMO (in cleared funds) by 10:00
 AM on the date determined in accordance with clauses 9.3.4 and 9.15.7
 (as applicable), whether or not it disputes the amount indicated to be
 payable.
 
-9.18.7. Late payments by Rule Participants accrue interest calculated in
+### 9.18.7. Late payments by Rule Participants accrue interest calculated in
 accordance with clause 9.1.4.
 
-9.18.8. If an Invoice indicates that AEMO owes to a Rule Participant an
+### 9.18.8. If an Invoice indicates that AEMO owes to a Rule Participant an
 amount payable greater than the Minimum Transaction Cost, then AEMO must
 make available the full amount to the Rule Participant (in cleared
 funds) by 2:00 PM on the date specified in the Invoice in accordance
 with clauses 9.3.4 and 9.15.7 (as applicable), except as provided for in
 section 9.20.
 
-9.18.9. AEMO must establish, in its books, a separate fund in which it
+### 9.18.9. AEMO must establish, in its books, a separate fund in which it
 will credit all Service Fee Settlement Amounts payable to AEMO under
 these WEM Rules.
 
-9.18.10. The Service Fee Settlement Amount owing to AEMO will be taken
+### 9.18.10. The Service Fee Settlement Amount owing to AEMO will be taken
 to have been paid when it is transferred into the account established by
 AEMO for the purpose of meeting its obligations under clause 9.18.9.
 
-9.18.11. AEMO may apply money from the fund established under clause
-9.18.9 to meet the costs incurred in carrying out its functions or
+### 9.18.11. AEMO may apply money from the fund established under clause
+### 9.18.9 to meet the costs incurred in carrying out its functions or
 obligations under these WEM Rules.
 
-9.18.12. Notwithstanding this section 9.18, AEMO is not required to
+### 9.18.12. Notwithstanding this section 9.18, AEMO is not required to
 render an Invoice to a Network Operator where the net amount to be paid
 to or by AEMO is zero.
 
@@ -5099,7 +5099,7 @@ timeframes and types of information relevant to the new market.</p></th>
 </tbody>
 </table>
 
-9.18.13. AEMO must publish on the WEM Website summary information
+### 9.18.13. AEMO must publish on the WEM Website summary information
 pertaining to the account maintained by AEMO for market settlement for
 each Trading Week ending in the preceding 24 calendar months (excluding
 any Trading Weeks ending on or before New WEM Commencement Day):
@@ -5159,9 +5159,9 @@ changes (for example, cross referencing).</p></th>
 </tbody>
 </table>
 
-9.19. Default
+### 9.19. Default
 
-9.19.1. For the purposes of these WEM Rules, a “**Suspension Event**”
+### 9.19.1. For the purposes of these WEM Rules, a “**Suspension Event**”
 occurs in relation to a Market Participant, as applicable, if:
 
 \(a\) the Market Participant fails to make a payment under these WEM
@@ -5202,7 +5202,7 @@ Participant ceases or threatens to cease to carry on its business of
 providing Credit Support;
 
 \(j\) the Market Participant is insolvent within the meaning of clause
-9.19.2;
+### 9.19.2;
 
 \(k\) a provider of Credit Support in relation to the Market Participant
 is insolvent within the meaning of clause 9.19.2;
@@ -5214,7 +5214,7 @@ provider of Credit Support in relation to that Market Participant; or
 \(m\) the Market Participant or a provider of Credit Support in relation
 to the Market Participant is dissolved.
 
-9.19.2. A person is insolvent for the purposes of clause 9.19.1 if :
+### 9.19.2. A person is insolvent for the purposes of clause 9.19.1 if :
 
 \(a\) the person states that it is insolvent or insolvent under
 administration (each as defined in the Corporations Act) or that it is
@@ -5249,11 +5249,11 @@ from which AEMO reasonably deduces the person is so subject); or
 \(h\) notice under section 601AB(3) of the Corporations Act is given in
 relation to the person.
 
-9.19.3. If a Market Participant becomes aware that a Suspension Event
+### 9.19.3. If a Market Participant becomes aware that a Suspension Event
 has occurred in relation to it, then the Market Participant must
 promptly notify AEMO, giving full details of the event.
 
-9.19.4. If AEMO becomes aware that a Suspension Event has occurred in
+### 9.19.4. If AEMO becomes aware that a Suspension Event has occurred in
 relation to a Market Participant and the Suspension Event has not been
 remedied, then AEMO must as soon as practicable:
 
@@ -5266,9 +5266,9 @@ in relation to that Market Participant for the amount which AEMO
 determines is actually or contingently owing by the Market Participant
 to AEMO under these WEM Rules.
 
-9.19.5. Where AEMO has given a Cure Notice to a Market Participant in
+### 9.19.5. Where AEMO has given a Cure Notice to a Market Participant in
 respect of a Suspension Event described in clauses 9.19.1(a) or
-9.19.1(b), AEMO may extend the deadline for remedying the Suspension
+### 9.19.1(b), AEMO may extend the deadline for remedying the Suspension
 Event by up to five Business Days from the date on which the Suspension
 Event occurred if AEMO considers that:
 
@@ -5279,9 +5279,9 @@ deadline; and
 \(b\) the Market Participant is not capable of doing so within the 24
 hours following the issuance of the Cure Notice.
 
-9.19.6. Where AEMO has given a Cure Notice to a Market Participant in
+### 9.19.6. Where AEMO has given a Cure Notice to a Market Participant in
 respect of a Suspension Event described in any of clauses 9.19.1(c) to
-9.19.1(m), AEMO may extend the deadline for remedying the Suspension
+### 9.19.1(m), AEMO may extend the deadline for remedying the Suspension
 Event for such period as AEMO considers appropriate if AEMO considers
 that:
 
@@ -5291,7 +5291,7 @@ before the end of the extended deadline; and
 \(b\) the Market Participant is not capable of doing so within the 24
 hours following the issuance of the Cure Notice.
 
-9.19.7. If a Market Participant does not remedy a Suspension Event
+### 9.19.7. If a Market Participant does not remedy a Suspension Event
 before the deadline specified in clause 9.19.4(a) (as extended, if
 applicable, under clauses 9.19.5 or 9.19.6), then AEMO may issue a
 Suspension Notice to the relevant Market Participant in which case
@@ -5313,9 +5313,9 @@ the Default Levy.</p></th>
 </tbody>
 </table>
 
-9.20. Settlement in Default Situations
+### 9.20. Settlement in Default Situations
 
-9.20.1. If a Rule Participant fails to make a payment under these WEM
+### 9.20.1. If a Rule Participant fails to make a payment under these WEM
 Rules to AEMO before it is due, then AEMO may, as applicable, Draw Upon
 any Credit Support held in relation to that Rule Participant to meet the
 payment.
@@ -5339,7 +5339,7 @@ Glossary.</p></th>
 </tbody>
 </table>
 
-9.20.2. If, under Part 5.7B of the Corporations Act or another law
+### 9.20.2. If, under Part 5.7B of the Corporations Act or another law
 relating to insolvency or the protection of creditors or similar
 matters, AEMO is required to disgorge or repay an amount, or pay an
 amount equivalent to an amount, paid by a Rule Participant under the WEM
@@ -5362,19 +5362,19 @@ for which Settlement Statements have been issued, as a proportion of the
 total of those values for all Market Participants (other than Market
 Participants with unrecovered Payment Defaults).
 
-9.20.2A. AEMO must notify each relevant Market Participant of the amount
+### 9.20.2A. AEMO must notify each relevant Market Participant of the amount
 it must pay in respect of the Repaid Amount Levy as determined in
 accordance with clause 9.20.2(b) within six Business Days of AEMO being
 notified of the requirement to provide the Repaid Amount under clause
-9.20.2.
+### 9.20.2.
 
-9.20.2B. A Market Participant must pay the full amount notified by AEMO
+### 9.20.2B. A Market Participant must pay the full amount notified by AEMO
 under clause 9.20.2A to AEMO (in cleared funds) by 10:00 AM on the
 eighth Business Day after the date of AEMO's notification under clause
-9.20.2A, whether or not the Market Participant disputes the amount
+### 9.20.2A, whether or not the Market Participant disputes the amount
 required to be paid.
 
-9.20.2C. By the end of the second month following the end of a Financial
+### 9.20.2C. By the end of the second month following the end of a Financial
 Year, AEMO must re-allocate any Repaid Amount Levies raised during that
 Financial Year as follows:
 
@@ -5419,7 +5419,7 @@ Process.</p></th>
 </tbody>
 </table>
 
-9.20.3. Notwithstanding anything else in these WEM Rules, if at any time
+### 9.20.3. Notwithstanding anything else in these WEM Rules, if at any time
 the total amount received by AEMO from Rule Participants in cleared
 funds, including any payments from AEMO on behalf of the Economic
 Regulation Authority under clause 9.15.8 and the Coordinator under
@@ -5444,7 +5444,7 @@ Repaid Amount.</p></th>
 </tbody>
 </table>
 
-9.20.4. AEMO must apply the Total Amount as follows.
+### 9.20.4. AEMO must apply the Total Amount as follows.
 
 \(a\) First, AEMO must apply the Total Amount to satisfy:
 
@@ -5488,7 +5488,7 @@ Week, calculated by summing all values of NAP; and
 iv\. MAA is the remainder of the Total Amount available for payment by
 AEMO after the application of clause 9.20.4(a).
 
-9.20.5. If AEMO has reduced any payment under clause 9.20.4 as a result
+### 9.20.5. If AEMO has reduced any payment under clause 9.20.4 as a result
 of a Payment Default and, within five Business Days of the Payment
 Default, it has received full or partial payment of the overdue amount,
 then AEMO must within one Business Day apply the amount received
@@ -5520,7 +5520,7 @@ the application of clause 9.20.5(a); and
 iii\. NAP and TNAP have the same values as when the reduction was
 calculated.
 
-9.20.6. If, five Business Days after a Payment Default, AEMO is yet to
+### 9.20.6. If, five Business Days after a Payment Default, AEMO is yet to
 recover in full the overdue amount, then it must raise a Default Levy
 from all Market Participants (other than from Market Participants with
 unrecovered Payment Defaults) to cover the remaining shortfall
@@ -5533,17 +5533,17 @@ for which Settlement Statements have been issued, as a proportion of the
 total of those values for all Market Participants (other than Market
 Participants with unrecovered Payment Defaults).
 
-9.20.7. AEMO must notify each relevant Market Participant of the amount
+### 9.20.7. AEMO must notify each relevant Market Participant of the amount
 it must pay in respect of the Default Levy as determined in accordance
 with clause 9.20.6 within six Business Days of the Payment Default
 occurring.
 
-9.20.8. A Market Participant must pay the full amount notified by AEMO
+### 9.20.8. A Market Participant must pay the full amount notified by AEMO
 under clause 9.20.7 to AEMO (in cleared funds) by 10:00 AM of the eighth
 Business Day following the date of the Payment Default, whether or not
 it disputes the amount notified.
 
-9.20.9. By 2:00 PM on the eighth Business Day following the date of a
+### 9.20.9. By 2:00 PM on the eighth Business Day following the date of a
 Payment Default, AEMO is to allocate the total of the Default Levy
 amounts received under clause 9.20.8 as follows.
 
@@ -5569,7 +5569,7 @@ Participant;
 
 ii\. MAA referred to the remainder of the total of the Default Levy
 amounts received under clause 9.20.8 after the application of clause
-9.20.9(a); and
+### 9.20.9(a); and
 
 iii\. NAP and TNAP have the same values as when the reduction was
 calculated.
@@ -5590,7 +5590,7 @@ Levies.</p></th>
 </tbody>
 </table>
 
-9.20.10. If a Market Participant pays part or all of a Default Levy
+### 9.20.10. If a Market Participant pays part or all of a Default Levy
 after the date and time prescribed in clause 9.20.8 but within five
 Business Days of that date, then AEMO must within one Business Day apply
 the amount received in accordance with clause 9.20.9 as if it was an
@@ -5612,7 +5612,7 @@ Default Levies.</p></th>
 </tbody>
 </table>
 
-9.20.11. By the end of the second month following the end of a Financial
+### 9.20.11. By the end of the second month following the end of a Financial
 Year, AEMO must re-allocate any Default Levies raised during that
 Financial Year as follows:
 
@@ -5640,7 +5640,7 @@ under clause 9.20.8; and
 \(e\) AEMO must include that adjustment in the Settlement Statement for
 the most recently completed Trading Week.
 
-9.20.12. If, after raising a Default Levy in respect of a Payment
+### 9.20.12. If, after raising a Default Levy in respect of a Payment
 Default in accordance with clause 9.20.6, AEMO recovers all or part of
 the relevant shortfall from the defaulting Rule Participant, then it
 must use the amount recovered to refund Default Levy amounts paid under
@@ -5684,7 +5684,7 @@ revenue).</p></th>
 
 Financial Penalty Distribution
 
-9.21. Financial Penalty Distribution
+### 9.21. Financial Penalty Distribution
 
 <table>
 <colgroup>
@@ -5701,7 +5701,7 @@ Financial Penalty Distribution
 </tbody>
 </table>
 
-9.21.1. For the purpose of Regulation 37(a) of the WEM Regulations,
+### 9.21.1. For the purpose of Regulation 37(a) of the WEM Regulations,
 where a Civil Penalty Amount is imposed on a Rule Participant for a
 breach of these WEM Rules, the amount of that Civil Penalty Amount
 received by AEMO shall be distributed in accordance with these WEM
@@ -5723,7 +5723,7 @@ Participant p’s Financial Penalty Share.</p></th>
 </tbody>
 </table>
 
-9.21.2. Where a Financial Penalty is issued for a contravention of the
+### 9.21.2. Where a Financial Penalty is issued for a contravention of the
 clauses listed in Schedule 1 of the WEM Regulations, AEMO must calculate
 for each Market Participant the Financial Penalty distribution amount.
 The Financial Penalty distribution amount must be distributed as soon as
@@ -5738,7 +5738,7 @@ where:
 \(a\) FinancialPenaltyAmount is the value of the Financial Penalty; and
 
 \(b\) FinancialPenaltyShare(p) is calculated in accordance with clause
-9.21.3.
+### 9.21.3.
 
 <table>
 <colgroup>
@@ -5773,7 +5773,7 @@ set DistributionDays.</p></th>
 </tbody>
 </table>
 
-9.21.3. The Financial Penalty share for Market Participant p is:
+### 9.21.3. The Financial Penalty share for Market Participant p is:
 
 $$\text{FinancialPenaltyShare(p)}\text{\\}\text{=}\sum\_{\text{d}\text{∈}\text{DistributionDays}}^{}\text{\\}$$
 
@@ -5819,7 +5819,7 @@ Participants.</p>
 </tbody>
 </table>
 
-9.21.4. The Total Participant Contribution for Trading Day d is:
+### 9.21.4. The Total Participant Contribution for Trading Day d is:
 
 $$\text{TotalParticipantContribution}\left( \text{d} \right)\text{\\}\text{=}\sum\_{\text{p}\text{∈}\text{P}}^{}{\text{ParticipantContribution}\left( \text{p,d} \right)}$$
 

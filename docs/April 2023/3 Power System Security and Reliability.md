@@ -18,22 +18,22 @@ Rules.</p></th>
 </tbody>
 </table>
 
-3.1. SWIS Operating Standards
+### 3.1. SWIS Operating Standards
 
-3.1.1. The frequency and time error standards for the SWIS are as
+### 3.1.1. The frequency and time error standards for the SWIS are as
 defined in Chapter 3B and Appendix 13.
 
-3.1.2. The voltage standards for a Network in the SWIS are as defined in
+### 3.1.2. The voltage standards for a Network in the SWIS are as defined in
 the Technical Rules that apply to that Network.
 
-3.1A. Operating Protocol
+### 3.1A. Operating Protocol
 
-3.1A.1. If AEMO reasonably believes it is necessary to support the
+### 3.1A.1. If AEMO reasonably believes it is necessary to support the
 management of Power System Security and Power System Reliability, AEMO
 and a Network Operator must jointly develop and maintain an Operating
 Protocol in accordance with this section 3.1A.
 
-3.1A.2. An Operating Protocol must describe how AEMO and the relevant
+### 3.1A.2. An Operating Protocol must describe how AEMO and the relevant
 Network Operator will coordinate their performance of relevant Power
 System Security and Power System Reliability related responsibilities
 under these WEM Rules. An Operating Protocol must include, but is not
@@ -78,30 +78,30 @@ the Operating Protocol; and
 necessary for the maintenance of Power System Security and Power System
 Reliability.
 
-3.1A.3. AEMO and a Network Operator must use reasonable endeavours to
+### 3.1A.3. AEMO and a Network Operator must use reasonable endeavours to
 operate and provide information in accordance with the applicable
 Operating Protocol.
 
-3.1A.4. In accordance with the communication processes specified in an
+### 3.1A.4. In accordance with the communication processes specified in an
 applicable Operating Protocol, a Network Operator must notify and advise
 AEMO where it identifies threats to Power System Security or Power
 System Reliability outside of the Operating Zones specified in the
 Operating Protocol.
 
-3.1A.5. Where an Operating Protocol has been jointly developed in
+### 3.1A.5. Where an Operating Protocol has been jointly developed in
 accordance with clause 3.1A.1, AEMO must publish an agreed version of
 the Operating Protocol on the WEM Website as soon as reasonably
 practicable.
 
-3.1A.6. AEMO must publish the first agreed version of the Operating
+### 3.1A.6. AEMO must publish the first agreed version of the Operating
 Protocol applicable to Western Power's Network on the WEM Website by no
 later than 1 October 2022.
 
-3.1A.7. In consultation with the relevant Network Operator, AEMO may
+### 3.1A.7. In consultation with the relevant Network Operator, AEMO may
 redact confidential or sensitive information from an Operating Protocol
 published on the WEM Website.
 
-3.1A.8. If AEMO and Western Power have not agreed a version of the
+### 3.1A.8. If AEMO and Western Power have not agreed a version of the
 relevant Operating Protocol by 1 October 2022, then the document titled
 ‘Operating Protocol – AEMO and Western Power (Non-Binding)’ bearing the
 document reference ‘SO\_WA\_OP-6470’ is the Operating Protocol for the
@@ -110,10 +110,10 @@ published by AEMO on the WEM Website.
 
 Voltage Control
 
-3.1A.9. AEMO, in consultation with a Network Operator, may determine a
+### 3.1A.9. AEMO, in consultation with a Network Operator, may determine a
 Secure Operational Voltage Envelope for each Operating Zone.
 
-3.1A.10. When determining a Secure Operational Voltage Envelope under
+### 3.1A.10. When determining a Secure Operational Voltage Envelope under
 clause 3.1A.9, AEMO must consider:
 
 \(a\) any voltage standards applicable to the Network Operator’s Network
@@ -125,7 +125,7 @@ Operator; and
 \(c\) the operation of Facilities and other equipment within their
 defined capability limits.
 
-3.1A.11. To the extent reasonably practicable, a Network Operator must
+### 3.1A.11. To the extent reasonably practicable, a Network Operator must
 operate its Network within the Secure Operational Voltage Envelopes
 specified by AEMO. If a Network Operator cannot operate within the
 specified Secure Operational Voltage Envelope, it must notify AEMO and
@@ -133,7 +133,7 @@ provide relevant information and documentation in accordance with the
 communication processes contemplated by the applicable Operating
 Protocol.
 
-3.1A.12. AEMO must notify the relevant Network Operator of the Secure
+### 3.1A.12. AEMO must notify the relevant Network Operator of the Secure
 Operational Voltage Envelope for each Operating Zone (as determined by
 AEMO under clause 3.1A.9) in accordance with the processes described in
 the Operating Protocol.
@@ -153,19 +153,19 @@ framework.</p></th>
 </tbody>
 </table>
 
-3.2. Technical Envelope, Security and Equipment Limits
+### 3.2. Technical Envelope, Security and Equipment Limits
 
-3.2.1. An Equipment Limit means any limit on the operation of a
+### 3.2.1. An Equipment Limit means any limit on the operation of a
 Facility’s equipment that is provided as Standing Data for the Facility,
 or otherwise provided to AEMO by a Rule Participant for its Facility's
 equipment in accordance with clause 3.2.2.
 
-3.2.2. AEMO must record Equipment Limit information in accordance with
+### 3.2.2. AEMO must record Equipment Limit information in accordance with
 the WEM Procedure specified in clause 3.2.7.
 
-3.2.3. \[Blank\]
+### 3.2.3. \[Blank\]
 
-3.2.4. \[Blank\]
+### 3.2.4. \[Blank\]
 
 <table>
 <colgroup>
@@ -187,7 +187,7 @@ reliability.</p></th>
 </tbody>
 </table>
 
-3.2.5. The Technical Envelope represents the limits within which the
+### 3.2.5. The Technical Envelope represents the limits within which the
 SWIS can be operated in each SWIS Operating State. In establishing and
 modifying the Technical Envelope under clause 3.2.6, AEMO must:
 
@@ -208,11 +208,11 @@ including any applicable System Strength Requirements; and
 \(g\) take into account all other matters AEMO considers relevant to
 assessing Power System Security and Power System Reliability.
 
-3.2.6. AEMO must establish and modify the Technical Envelope in
+### 3.2.6. AEMO must establish and modify the Technical Envelope in
 accordance with clause 3.2.5 and the WEM Procedure specified in clause
-3.2.7.
+### 3.2.7.
 
-3.2.7. AEMO must develop a WEM Procedure documenting:
+### 3.2.7. AEMO must develop a WEM Procedure documenting:
 
 \(a\) the process to be followed by Rule Participants in providing
 Equipment Limit information to AEMO;
@@ -231,7 +231,7 @@ Requirements; and
 \(e\) the process to be followed by AEMO to assess and maintain Power
 System Stability, including System Strength.
 
-3.2.8. AEMO must ensure the SWIS operates in accordance with the WEM
+### 3.2.8. AEMO must ensure the SWIS operates in accordance with the WEM
 Procedure specified in clause 3.2.7 and the Technical Envelope for the
 applicable SWIS Operating State.
 
@@ -251,36 +251,36 @@ matters.</p></th>
 </tbody>
 </table>
 
-3.2A. Security and Reliability Planning and Coordination with Network
+### 3.2A. Security and Reliability Planning and Coordination with Network
 Operators
 
-3.2A.1. Where AEMO considers it necessary, AEMO may require a Network
+### 3.2A.1. Where AEMO considers it necessary, AEMO may require a Network
 Operator to develop and implement a plan or provide AEMO with
 information to assist AEMO in ensuring that Power System Security and
 Power System Reliability is maintained.
 
-3.2A.2. Where AEMO requires a Network Operator to develop a plan under
+### 3.2A.2. Where AEMO requires a Network Operator to develop a plan under
 clause 3.2A.1, the Network Operator must consult with AEMO on the
 development of the plan and seek AEMO's approval of the plan within the
 time agreed with AEMO.
 
-3.2A.3. AEMO may, acting reasonably:
+### 3.2A.3. AEMO may, acting reasonably:
 
 \(a\) agree to the implementation of the plan developed by the Network
 Operator under clause 3.2A.1; or
 
 \(b\) reject the plan developed by the Network Operator under clause
-3.2A.1 in which case the Network Operator must make all necessary
+### 3.2A.1 in which case the Network Operator must make all necessary
 amendments to the plan so that it is acceptable to AEMO within the time
 agreed with AEMO.
 
-3.2A.4. Where AEMO requires a Network Operator to provide information
+### 3.2A.4. Where AEMO requires a Network Operator to provide information
 under clause 3.2A.1, the Network Operator must consult with AEMO as to
 the scope, manner and form of the information it is required to provide
 under clause 3.2A.1 and provide the information within the time or times
 agreed with AEMO.
 
-3.2A.5. Where, following receipt of the information under clause 3.2A.4,
+### 3.2A.5. Where, following receipt of the information under clause 3.2A.4,
 AEMO considers that further information is required, the Network
 Operator must consult with AEMO as to the scope, manner and form of the
 further information and provide the information within the time or times
@@ -312,9 +312,9 @@ new WEM Procedure.</p></th>
 </tbody>
 </table>
 
-3.3. Reliable Operating State
+### 3.3. Reliable Operating State
 
-3.3.1. The SWIS is in a Reliable Operating State when AEMO has not
+### 3.3.1. The SWIS is in a Reliable Operating State when AEMO has not
 initiated any manual load shedding directions, and does not reasonably
 expect to initiate any manual load shedding directions, in accordance
 with the WEM Procedure referred to in clause 3.3.2.
@@ -337,7 +337,7 @@ Chapter 4 of the WEM Rules.</p></th>
 </tbody>
 </table>
 
-3.3.2. AEMO must develop and maintain a WEM Procedure which:
+### 3.3.2. AEMO must develop and maintain a WEM Procedure which:
 
 \(a\) sets out how AEMO assesses reliability in relation to the
 following:
@@ -372,7 +372,7 @@ accordance with the Power System Reliability Principles.</p></th>
 </tbody>
 </table>
 
-3.3.3. The Power System Reliability Principles are:
+### 3.3.3. The Power System Reliability Principles are:
 
 \(a\) the SWIS should be operated such that it is in a Reliable
 Operating State to the extent practicable;
@@ -413,13 +413,13 @@ replace the existing clauses 3.4.1-3.4.9 as intended.</p></th>
 </tbody>
 </table>
 
-3.4. Satisfactory and Secure Operating States
+### 3.4. Satisfactory and Secure Operating States
 
-3.4.1. The SWIS is in a Satisfactory Operating State when the SWIS is
+### 3.4.1. The SWIS is in a Satisfactory Operating State when the SWIS is
 operating in accordance with all relevant requirements of the Technical
 Envelope.
 
-3.4.2. The SWIS is in a Secure Operating State when the SWIS is able to
+### 3.4.2. The SWIS is in a Secure Operating State when the SWIS is able to
 return to a Satisfactory Operating State following a Credible
 Contingency Event in accordance with the Power System Security
 Principles and the requirements of the Technical Envelope.
@@ -447,7 +447,7 @@ Operating State.</p></th>
 </tbody>
 </table>
 
-3.4.3. The Power System Security Principles are:
+### 3.4.3. The Power System Security Principles are:
 
 \(a\) the power system should be operated such that it is and will
 remain in a Secure Operating State to the extent practicable;
@@ -480,7 +480,7 @@ respect to the operation of its network equipment.</p></th>
 </tbody>
 </table>
 
-3.4.4. In order to restore and maintain Power System Security or Power
+### 3.4.4. In order to restore and maintain Power System Security or Power
 System Reliability, AEMO may, in addition to the provisions specified in
 Chapter 7:
 
@@ -504,7 +504,7 @@ ways; or
 with the relevant Network Operator, to disconnect generating equipment,
 load and/or other equipment connected to the Network Operator’s network.
 
-3.4.5. AEMO may take any other actions it considers are required,
+### 3.4.5. AEMO may take any other actions it considers are required,
 consistent with good electricity industry practice, in order to maintain
 Power System Security or Power System Reliability, having regard to the
 provisions specified in Chapter 7.
@@ -525,7 +525,7 @@ clause 3.4.4.</p></th>
 </tbody>
 </table>
 
-3.4.5A. Where AEMO issues a direction under clauses 3.4.4(d), 3.4.4(e)
+### 3.4.5A. Where AEMO issues a direction under clauses 3.4.4(d), 3.4.4(e)
 or 3.4.4(f) or takes any other action under clause 3.4.5, AEMO must
 record:
 
@@ -552,7 +552,7 @@ by the direction or action;
 </tbody>
 </table>
 
-3.4.6. Rule Participants must:
+### 3.4.6. Rule Participants must:
 
 \(a\) subject to clause 3.4.7, comply with directions issued by AEMO in
 accordance with clause 3.4.4; and
@@ -562,12 +562,12 @@ remains in a Satisfactory Operating State or Secure Operating State,
 including providing information and coordinating with AEMO on directions
 as required by AEMO.
 
-3.4.7. A Rule Participant is not required to comply with a direction
+### 3.4.7. A Rule Participant is not required to comply with a direction
 issued by AEMO, in accordance with clause 3.4.4, if such compliance
 would endanger the safety of any person, damage equipment, or breach any
 applicable law.
 
-3.4.8. Where a Rule Participant cannot comply with a direction issued by
+### 3.4.8. Where a Rule Participant cannot comply with a direction issued by
 AEMO in accordance with clause 3.4.4 it must notify AEMO immediately and
 provide the reasons why it cannot comply with the direction.
 
@@ -588,28 +588,28 @@ more detail in a WEM Procedure.</p></th>
 </tbody>
 </table>
 
-3.5. Emergency Operating State
+### 3.5. Emergency Operating State
 
-3.5.1. The SWIS is in an Emergency Operating State when AEMO considers
+### 3.5.1. The SWIS is in an Emergency Operating State when AEMO considers
 that circumstances exist on the SWIS that impact the ability of AEMO to
 operate the SWIS as intended in accordance with these WEM Rules.
 
-3.5.1A. AEMO must develop a WEM Procedure which sets out conditions
+### 3.5.1A. AEMO must develop a WEM Procedure which sets out conditions
 under which AEMO may declare an Emergency Operating State. To avoid
 doubt, the WEM Procedure referred to in this clause 3.5.1A does not
 limit the ability of AEMO to declare an Emergency Operating State.
 
-3.5.2. An Emergency Operating State as defined in these WEM Rules does
+### 3.5.2. An Emergency Operating State as defined in these WEM Rules does
 not necessarily correspond to a civil emergency, or emergencies as
 defined in legislation but may commence as a result of these.
 
-3.5.3. AEMO must ensure that when it becomes aware of any actions by a
+### 3.5.3. AEMO must ensure that when it becomes aware of any actions by a
 Rule Participant that in AEMO's opinion would be reasonably likely to
 lead to an Emergency Operating State, AEMO takes all actions necessary
 and within its control to prevent the Rule Participant engaging in such
 actions.
 
-3.5.4. When the SWIS is in an Emergency Operating State, AEMO must not
+### 3.5.4. When the SWIS is in an Emergency Operating State, AEMO must not
 require Registered Facilities to operate inconsistently with their
 Equipment Limits for the Emergency Operating State.
 
@@ -629,7 +629,7 @@ State at the same time.</p></th>
 </tbody>
 </table>
 
-3.5.5. When the SWIS is in an Emergency Operating State, AEMO may in
+### 3.5.5. When the SWIS is in an Emergency Operating State, AEMO may in
 addition to any other ability AEMO has:
 
 \(a\) direct any Rule Participant to provide Essential System Services
@@ -642,15 +642,15 @@ Facilities at a particular level or in a particular way; and
 electricity industry practice, in order to return the SWIS from the
 Emergency Operating State.
 
-3.5.6. AEMO must ensure the SWIS returns from an Emergency Operating
+### 3.5.6. AEMO must ensure the SWIS returns from an Emergency Operating
 State as soon as possible.
 
-3.5.7. Subject to clause 3.5.6, while operating under an Emergency
+### 3.5.7. Subject to clause 3.5.6, while operating under an Emergency
 Operating State, AEMO must attempt to ensure the SWIS operates according
 to the principles set out in clause 7.2.4, to the extent that is
 reasonably practicable to do so in the circumstances.
 
-3.5.8. When the SWIS is in an Emergency Operating State, Rule
+### 3.5.8. When the SWIS is in an Emergency Operating State, Rule
 Participants must:
 
 \(a\) subject to clause 3.5.9, comply with directions issued by AEMO in
@@ -659,12 +659,12 @@ accordance with clauses 3.4.4 and 3.5.5; and
 \(b\) otherwise, use their best endeavours to assist AEMO to ensure the
 SWIS returns from the Emergency Operating State.
 
-3.5.9. A Rule Participant is not required to comply with any directions
+### 3.5.9. A Rule Participant is not required to comply with any directions
 issued by AEMO, in accordance with clause 3.5.5, if such compliance
 would endanger the safety of any person, damage equipment, or breach any
 applicable law.
 
-3.5.10. Where a Rule Participant cannot comply with a direction issued
+### 3.5.10. Where a Rule Participant cannot comply with a direction issued
 by AEMO in accordance with clause 3.5.5, it must notify AEMO immediately
 and provide AEMO with the reasons why it cannot comply with the
 direction.
@@ -692,7 +692,7 @@ resulting in frequency dropping below the levels identified in the
 Frequency Operating Standard, the under frequency load shedding schemes
 will operate in accordance with the parameters in the UFLS Requirements
 and UFLS Specification documents. Other WEM rules (e.g. new section
-3.2A) are already in place to ensure appropriate coordination between
+### 3.2A) are already in place to ensure appropriate coordination between
 AEMO as the System Operator and Network Operators.</p></th>
 </tr>
 </thead>
@@ -700,9 +700,9 @@ AEMO as the System Operator and Network Operators.</p></th>
 </tbody>
 </table>
 
-3.6. Under Frequency Load Shedding
+### 3.6. Under Frequency Load Shedding
 
-3.6.1. AEMO must:
+### 3.6.1. AEMO must:
 
 \(a\) subject to clause 3.6.3, determine the UFLS Requirements, taking
 into account the SWIS Frequency Operating Standards; and
@@ -710,7 +710,7 @@ into account the SWIS Frequency Operating Standards; and
 \(b\) publish the UFLS Requirements, and any amendments to them, on the
 WEM Website.
 
-3.6.2. The UFLS Requirements must contain guidance to enable each
+### 3.6.2. The UFLS Requirements must contain guidance to enable each
 Network Operator whose Network is impacted by the UFLS Requirements to
 design and implement automatic under frequency load shedding schemes
 that support Power System Security in respect of their Network. The
@@ -733,12 +733,12 @@ based on conditions in the SWIS; and
 \(g\) any other relevant matters required to support Power System
 Security.
 
-3.6.3. AEMO must consult in good faith with each Network Operator whose
+### 3.6.3. AEMO must consult in good faith with each Network Operator whose
 Network the UFLS Requirements apply to when AEMO determines the UFLS
 Requirements in accordance with clause 3.6.1 and periodically reviews
 the UFLS Requirements under clause 3.6.11.
 
-3.6.4. AEMO or a Network Operator may propose an amendment to the UFLS
+### 3.6.4. AEMO or a Network Operator may propose an amendment to the UFLS
 Requirements. In respect of a proposed amendment:
 
 \(a\) where AEMO is proposing the amendment, AEMO must consult in good
@@ -755,12 +755,12 @@ Network Operator whose Network is likely to be impacted by the proposed
 amendment agree, acting reasonably, that the proposed amendment is
 reasonably necessary.
 
-3.6.5. Each Network Operator whose Network the UFLS Requirements apply
+### 3.6.5. Each Network Operator whose Network the UFLS Requirements apply
 to must develop and maintain an UFLS Specification. The UFLS
 Specification must set out how the Network Operator's schemes meet the
 UFLS Requirements.
 
-3.6.6. Each Network Operator must submit the UFLS Specification that it
+### 3.6.6. Each Network Operator must submit the UFLS Specification that it
 has developed for its Network under clause 3.6.5 to AEMO for approval,
 and following the initial approval of the UFLS Specification, whenever:
 
@@ -769,7 +769,7 @@ and following the initial approval of the UFLS Specification, whenever:
 \(b\) amendments are required as a result of an amendment to the UFLS
 Requirements.
 
-3.6.7. Where AEMO receives an UFLS Specification from a Network Operator
+### 3.6.7. Where AEMO receives an UFLS Specification from a Network Operator
 under clause 3.6.6, AEMO must, within a reasonable timeframe agreed with
 the relevant Network Operator, determine whether to approve or reject
 the UFLS Specification or the amendment to it, as applicable. Where
@@ -790,8 +790,8 @@ ii\. the amendments to the UFLS Specification that AEMO reasonably
 considers are required for the UFLS Specification to meet the UFLS
 Requirements.
 
-3.6.8. Where a Network Operator receives a notice from AEMO under clause
-3.6.7(b), the Network Operator:
+### 3.6.8. Where a Network Operator receives a notice from AEMO under clause
+### 3.6.7(b), the Network Operator:
 
 \(a\) may consult with AEMO on the amendments AEMO considers are
 reasonably required to the UFLS Specification, both parties acting
@@ -802,12 +802,12 @@ requested by AEMO under clause 3.6.7(b)(ii) or as agreed with AEMO
 pursuant to clause 3.6.8(a), as applicable, to AEMO for approval under
 clause 3.6.7.
 
-3.6.9. Each Network Operator must implement and maintain systems,
+### 3.6.9. Each Network Operator must implement and maintain systems,
 schemes or standards in accordance with its UFLS Specification, and must
 agree a timeframe with AEMO for changes to its systems, schemes, or
 standards triggered by any changes to its UFLS Specification.
 
-3.6.10. Each Network Operator must, in respect of its Network, provide a
+### 3.6.10. Each Network Operator must, in respect of its Network, provide a
 report to AEMO on the compliance of its UFLS Specification with the UFLS
 Requirements:
 
@@ -817,7 +817,7 @@ future ten-year horizon; and
 \(b\) within a timeframe agreed with AEMO, both parties acting
 reasonably, following each under frequency load shedding event.
 
-3.6.11. Without limiting AEMO's ability to amend the UFLS Requirements
+### 3.6.11. Without limiting AEMO's ability to amend the UFLS Requirements
 in accordance with this section 3.6, AEMO must review the UFLS
 Requirements to ensure they are appropriate and consistent with the
 requirements of this section 3.6 within three years of the date the UFLS
@@ -853,14 +853,14 @@ disruption’ as an event requiring System Restart Service.</p></th>
 </tbody>
 </table>
 
-3.7. System Restart
+### 3.7. System Restart
 
 System Restart Standard and System Restart Plan
 
-3.7.1. AEMO must determine the System Restart Standard in accordance
+### 3.7.1. AEMO must determine the System Restart Standard in accordance
 with clause 3.7.2.
 
-3.7.2. The System Restart Standard:
+### 3.7.2. The System Restart Standard:
 
 \(a\) must identify the minimum length of time for which a System
 Restart Service may be required to operate continuously following a
@@ -880,11 +880,11 @@ major supply disruption; and
 to ensure the SWIS is restarted in the event of a system shutdown or
 major supply disruption.
 
-3.7.3. AEMO must develop and maintain the System Restart Plan for the
+### 3.7.3. AEMO must develop and maintain the System Restart Plan for the
 purposes of managing and coordinating restart and restoration of the
 SWIS in the event of a system shutdown or major supply disruption.
 
-3.7.4. The System Restart Plan must:
+### 3.7.4. The System Restart Plan must:
 
 \(a\) be consistent with the System Restart Standard;
 
@@ -893,10 +893,10 @@ separable components; and
 
 \(c\) take into account any Local Black Start Procedures.
 
-3.7.5. AEMO must in:
+### 3.7.5. AEMO must in:
 
 \(a\) developing the System Restart Plan in accordance with clause
-3.7.3; and
+### 3.7.3; and
 
 \(b\) making any revisions to the System Restart Plan pursuant to
 clauses 3.7.10 or 3.7.11,
@@ -907,12 +907,12 @@ clauses 3.7.10 or 3.7.11,
 > effective and achievable, including in relation to viable restart
 > paths.
 
-3.7.6. Each Network Operator that may be impacted by the System Restart
+### 3.7.6. Each Network Operator that may be impacted by the System Restart
 Plan must conduct any studies or analyses that are reasonably required
 to provide input into the System Restart Plan, within a reasonable
 timeframe to be agreed with AEMO.
 
-3.7.7. AEMO must, in developing, and making revisions to, the System
+### 3.7.7. AEMO must, in developing, and making revisions to, the System
 Restart Plan, take into account any input provided by a Network Operator
 under clause 3.7.6, including any information in relation to:
 
@@ -921,23 +921,23 @@ under clause 3.7.6, including any information in relation to:
 \(b\) following a successful restart, the restoration of any sensitive
 Loads on the Network Operator’s Network.
 
-3.7.8. Where a Network Operator considers that the conditions on its
+### 3.7.8. Where a Network Operator considers that the conditions on its
 Network have changed sufficiently to require changes to the System
 Restart Plan, the Network Operator:
 
 \(a\) may request AEMO to review the System Restart Plan; and
 
 \(b\) must, where a request is made by the Network Operator under clause
-3.7.8(a), provide details of the changes to the conditions on its
+### 3.7.8(a), provide details of the changes to the conditions on its
 Network with the request.
 
-3.7.9. Where the System Restart Plan, or any revision to it, requires a
+### 3.7.9. Where the System Restart Plan, or any revision to it, requires a
 Network Operator to change or modify any Network equipment, AEMO and the
 Network Operator must agree a timeframe that is sufficient for the
 Network Operator to make any such change or modification, including time
 to undertake appropriate and reasonable testing.
 
-3.7.10. Where AEMO:
+### 3.7.10. Where AEMO:
 
 \(a\) has received a request from a Network Operator under clause 3.7.8;
 or
@@ -951,7 +951,7 @@ necessary to ensure that the System Restart Standard and the System
 Restart Plan are achievable and effective for restarting the SWIS in the
 event of a system shutdown or major supply disruption.
 
-3.7.11. Without limiting the frequency of reviews AEMO may undertake in
+### 3.7.11. Without limiting the frequency of reviews AEMO may undertake in
 accordance with clause 3.7.10, AEMO must review the System Restart
 Standard and the System Restart Plan to ensure they are appropriate and
 consistent with the requirements of this section 3.7 within three years
@@ -961,10 +961,10 @@ of the previous review.
 
 Local Black Start Procedures
 
-3.7.12. AEMO must publish guidelines for developing Local Black Start
+### 3.7.12. AEMO must publish guidelines for developing Local Black Start
 Procedures on the WEM Website.
 
-3.7.13. Unless exempted by AEMO (in its absolute discretion), a Market
+### 3.7.13. Unless exempted by AEMO (in its absolute discretion), a Market
 Participant with a Registered Facility that is an energy producing
 system must:
 
@@ -975,24 +975,24 @@ modifications published under clause 3.7.16; and
 \(b\) promptly provide the Local Black Start Procedures to AEMO,
 including any amendments to them.
 
-3.7.14. Local Black Start Procedures must provide sufficient information
+### 3.7.14. Local Black Start Procedures must provide sufficient information
 to enable AEMO to understand the likely condition and capabilities of
 Registered Facilities following a system shutdown or major supply
 disruption such that AEMO is able to develop and maintain the System
 Restart Plan.
 
-3.7.15. If AEMO forms the view, acting reasonably, that it would be
+### 3.7.15. If AEMO forms the view, acting reasonably, that it would be
 useful for the effective operation of the System Restart Plan, AEMO must
 provide each Network Operator with the Local Black Start Procedures that
 AEMO considers are relevant to the Network Operator.
 
-3.7.16. Following a review conducted under clause 3.7.10 or clause
-3.7.11, AEMO may modify the guidelines for Local Black Start Procedures
+### 3.7.16. Following a review conducted under clause 3.7.10 or clause
+### 3.7.11, AEMO may modify the guidelines for Local Black Start Procedures
 by publishing the modified guidelines on the WEM Website, which are
 deemed to take effect from the date of publication or later date
 notified by AEMO.
 
-3.7.17. Following any modification to the guidelines for Local Black
+### 3.7.17. Following any modification to the guidelines for Local Black
 Start Procedures, AEMO may require a Market Participant with a
 Registered Facility that is an energy producing system to amend the
 Local Black Start Procedures for the Registered Facility. Any such
@@ -1029,9 +1029,9 @@ framework in Chapter 10 of the WEM Rules.</p></th>
 
 Publication
 
-3.7.18. AEMO must publish the System Restart Standard, including any
+### 3.7.18. AEMO must publish the System Restart Standard, including any
 revisions following a review in accordance with clause 3.7.10 or clause
-3.7.11, on the WEM Website.
+### 3.7.11, on the WEM Website.
 
 <table>
 <colgroup>
@@ -1050,7 +1050,7 @@ to disclose as appropriate or required.</p></th>
 </tbody>
 </table>
 
-3.7.19. The System Restart Plan, and any revisions following a review in
+### 3.7.19. The System Restart Plan, and any revisions following a review in
 accordance with clause 3.7.10 or clause 3.7.11, are Confidential
 Information. Notwithstanding this classification, AEMO may disclose
 information contained in the System Restart Plan with System Restart
@@ -1076,21 +1076,21 @@ System Restart Plan in the event it is enacted.</p></th>
 
 Obligations to Restart the SWIS
 
-3.7.20. AEMO must use its reasonable endeavours to ensure the SWIS is
+### 3.7.20. AEMO must use its reasonable endeavours to ensure the SWIS is
 restarted and restored in the event of a system shutdown or major supply
 disruption.
 
-3.7.21. In performing its obligation under clause 3.7.20, AEMO must,
+### 3.7.21. In performing its obligation under clause 3.7.20, AEMO must,
 when coordinating with Network Operators regarding the restoration of
 the SWIS following a successful restart, have reasonable regard to
 information provided by Network Operators.
 
-3.7.22. Each Network Operator must use its reasonable endeavours to
+### 3.7.22. Each Network Operator must use its reasonable endeavours to
 ensure that, at all times, its Network is capable of being restarted or
 restored in accordance with the System Restart Plan in the event of a
 system shutdown or major supply disruption.
 
-3.7.23. Each Network Operator must take all actions necessary to support
+### 3.7.23. Each Network Operator must take all actions necessary to support
 and enable AEMO to implement the System Restart Plan in the event the
 System Restart Plan is enacted, including by:
 
@@ -1108,7 +1108,7 @@ actual conditions on the Network during the restoration; and
 endeavours to provide any information requested by AEMO within the time
 specified by AEMO.
 
-3.7.24. Where directed by AEMO, a Market Participant must take all
+### 3.7.24. Where directed by AEMO, a Market Participant must take all
 actions necessary to support the enactment of the System Restart Plan,
 including by:
 
@@ -1148,22 +1148,22 @@ to restart the system.</p></th>
 
 Procurement of System Restart Services
 
-3.7.25. AEMO must use its reasonable endeavours to procure System
+### 3.7.25. AEMO must use its reasonable endeavours to procure System
 Restart Services to meet the System Restart Standard.
 
-3.7.26. AEMO may enter into a System Restart Service Contract with a
+### 3.7.26. AEMO may enter into a System Restart Service Contract with a
 Market Participant.
 
-3.7.27. AEMO must prepare a specification for a System Restart Service
+### 3.7.27. AEMO must prepare a specification for a System Restart Service
 requirement to meet the System Restart Standard in accordance with the
 WEM Procedure specified in clause 3.7.40.
 
-3.7.28. AEMO must publish a call for submissions for the provision of
+### 3.7.28. AEMO must publish a call for submissions for the provision of
 System Restart Service, no later than 20 Business Days prior to the
 proposed closing date for submissions, on the WEM Website and at least
 one major tender portal.
 
-3.7.29. AEMO must include in the call for submissions referred to in
+### 3.7.29. AEMO must include in the call for submissions referred to in
 clause 3.7.28:
 
 \(a\) the date and time for lodgement of submissions;
@@ -1195,7 +1195,7 @@ for the provision of System Restart Service.</p></th>
 </tbody>
 </table>
 
-3.7.30. AEMO must develop, maintain and publish on the WEM Website, a
+### 3.7.30. AEMO must develop, maintain and publish on the WEM Website, a
 standard form contract for the provision of a System Restart Service
 which must include, at a minimum, the following fields:
 
@@ -1220,7 +1220,7 @@ iv\. a service usage price;
 
 \(e\) a standard list of terms and conditions to apply to the contract.
 
-3.7.31. A submission made by a prospective System Restart Service
+### 3.7.31. A submission made by a prospective System Restart Service
 Provider in response to a call for submissions under clause 3.7.28 must:
 
 \(a\) be made in good faith;
@@ -1234,7 +1234,7 @@ Participant and AEMO; and
 \(d\) include the cost information and any assumptions used to calculate
 the proposed offer for the provision of the System Restart Service.
 
-3.7.32. Any costs incurred by a prospective System Restart Provider to
+### 3.7.32. Any costs incurred by a prospective System Restart Provider to
 determine the adequacy and capability of its equipment to assist it in
 making a valid submission under clause 3.7.31 are to be borne by that
 prospective System Restart Provider. To avoid doubt, this includes the
@@ -1242,7 +1242,7 @@ costs of any negotiations with a Network Operator in respect to any
 Network equipment augmentation that may assist the prospective System
 Restart Service Provider in making a valid submission.
 
-3.7.33. Where a prospective System Restart Service Provider initiates
+### 3.7.33. Where a prospective System Restart Service Provider initiates
 discussions with a Network Operator with respect to a proposed
 submission made by the prospective System Restart Service Provider under
 clause 3.7.31, the Network Operator must negotiate in good faith with
@@ -1253,7 +1253,7 @@ prospective System Restart Service Provider.
 
 Sharing System Restart Service submissions
 
-3.7.34. Where a prospective System Restart Service Provider makes a
+### 3.7.34. Where a prospective System Restart Service Provider makes a
 submission under clause 3.7.31, the Market Participant consents to AEMO
 sharing information contained in the submission in accordance with
 clause 3.7.35.
@@ -1276,8 +1276,8 @@ framework.</p></th>
 </tbody>
 </table>
 
-3.7.35. AEMO may, as part of assessing a submission made under clause
-3.7.31, provide details of the submission, except for the offer price
+### 3.7.35. AEMO may, as part of assessing a submission made under clause
+### 3.7.31, provide details of the submission, except for the offer price
 and any other commercially sensitive information, to each relevant
 Network Operator to assist AEMO to determine whether the proposal in the
 submission is technically feasible, including whether any augmentation
@@ -1303,7 +1303,7 @@ Contract.</p></th>
 
 Awarding System Restart Service Contract
 
-3.7.36. Where AEMO accepts a submission made under clause 3.7.31, it
+### 3.7.36. Where AEMO accepts a submission made under clause 3.7.31, it
 must:
 
 \(a\) notify the Market Participant within five Business Days of
@@ -1312,16 +1312,16 @@ accepting the submission; and
 \(b\) publish a notice on the WEM Website within five Business Days of
 accepting the submission.
 
-3.7.36A. AEMO and Market Participants, when entering into a System
+### 3.7.36A. AEMO and Market Participants, when entering into a System
 Restart Service Contract, must use the standard form contract published
 under clause 3.7.30.
 
-3.7.36B. AEMO may allow a System Restart Service contract to vary from
+### 3.7.36B. AEMO may allow a System Restart Service contract to vary from
 the standard form contract where AEMO considers that those variations
 are reasonably required, having regard to the specific characteristics
 of the Facility providing the System Restart Service.
 
-3.7.37. AEMO's acceptance of a submission made under clause 3.7.31 forms
+### 3.7.37. AEMO's acceptance of a submission made under clause 3.7.31 forms
 a binding System Restart Service Contract between the Market Participant
 and AEMO.
 
@@ -1343,7 +1343,7 @@ conducting analysis and supporting testing.</p></th>
 
 Network Operator’s Obligations to Facilitate System Restart Services
 
-3.7.38. A Network Operator must:
+### 3.7.38. A Network Operator must:
 
 \(a\) provide any information to AEMO and conduct any analysis which
 AEMO reasonably requires in order for AEMO to assess the capability of a
@@ -1377,7 +1377,7 @@ contract.</p></th>
 </tbody>
 </table>
 
-3.7.39. Except to the extent specified in these WEM Rules or the System
+### 3.7.39. Except to the extent specified in these WEM Rules or the System
 Restart Service Contract, AEMO, each Network Operator and each System
 Restart Service Provider must bear their own costs in respect of:
 
@@ -1402,13 +1402,13 @@ required to document in a WEM Procedure.</p></th>
 </tbody>
 </table>
 
-3.7.40. AEMO must document in a WEM Procedure:
+### 3.7.40. AEMO must document in a WEM Procedure:
 
 \(a\) the methodology and processes it uses to determine the System
 Restart Standard and System Restart Plan;
 
 \(b\) any matters, in addition to the requirements specified in clause
-3.7.30, that the standard form contract for System Restart Service
+### 3.7.30, that the standard form contract for System Restart Service
 submissions may address;
 
 \(c\) the factors AEMO may consider when determining whether changes
@@ -1434,9 +1434,9 @@ clauses 3.7.10 and 3.7.11 and consulting with Network Operators; and
 \(g\) any other matters AEMO considers as reasonably required in
 relation to System Restart Service provision or operation.
 
-3.8. Investigating Incidents in the SWIS
+### 3.8. Investigating Incidents in the SWIS
 
-3.8.1. AEMO must investigate any incidents in the operation of equipment
+### 3.8.1. AEMO must investigate any incidents in the operation of equipment
 comprising the SWIS that:
 
 \(a\) endangers Power System Security or Power System Reliability to a
@@ -1448,7 +1448,7 @@ Dispatch Process set out in section 7.6; and
 \(c\) AEMO considers has had, or had the potential to have had, a
 significant impact on the effectiveness of the market.
 
-3.8.2. Where an incident referred to in clause 3.8.1 occurs:
+### 3.8.2. Where an incident referred to in clause 3.8.1 occurs:
 
 (a) AEMO may require the Rule Participants involved in the incident to
 provide data, information or a report on the incident within a
@@ -1465,12 +1465,12 @@ information or a report under clause 3.8.2(a) or clause 3.8.2(b); and
 \(d\) AEMO may conduct its own investigation of, or engage independent
 experts to report on, the incident.
 
-3.8.2A. Following the investigation, AEMO must provide a report
+### 3.8.2A. Following the investigation, AEMO must provide a report
 detailing its findings to the Economic Regulation Authority. The report
 must identify any information that cannot be made public, or which AEMO
 considers should be removed, from any public version of the report.
 
-3.8.3. Following the investigation, AEMO must publish a report detailing
+### 3.8.3. Following the investigation, AEMO must publish a report detailing
 its findings and including:
 
 \(a\) any reports provided in accordance with clause 3.8.2(d) after AEMO
@@ -1481,29 +1481,29 @@ Rules or which AEMO considers should not be released; and
 that AEMO considers necessary to prevent the future occurrence of
 similar incidents.
 
-3.8.4. Where AEMO considers that changes in the WEM Rules are necessary,
+### 3.8.4. Where AEMO considers that changes in the WEM Rules are necessary,
 it must draft a suitable Rule Change Proposal and submit it using the
 rule change process in sections 2.5 to 2.8.
 
-3.8.5. Where AEMO considers that changes in a WEM Procedure which these
+### 3.8.5. Where AEMO considers that changes in a WEM Procedure which these
 WEM Rules contemplate will be developed by AEMO are necessary, it must
 draft a suitable Procedure Change Proposal and progress it using the
 Procedure Change Process in section 2.10.
 
-3.8.5A. Where AEMO has recommended any changes to the WEM Procedures
+### 3.8.5A. Where AEMO has recommended any changes to the WEM Procedures
 which these WEM Rules contemplate will be developed by the Economic
 Regulation Authority, then if the Economic Regulation Authority
 considers they are necessary, it must draft a suitable Procedure Change
 Proposal and progress it using the Procedure Change Process in section
 2.10.
 
-3.8.6. Where AEMO has recommended any changes to the WEM Procedures
+### 3.8.6. Where AEMO has recommended any changes to the WEM Procedures
 which these WEM Rules contemplate will be developed by a Network
 Operator, then if the Network Operator considers they are necessary, it
 must draft a suitable Procedure Change Proposal and progress it using
 the Procedure Change Process in section 2.10.
 
-3.8.7. Where AEMO recommends to the Economic Regulation Authority
+### 3.8.7. Where AEMO recommends to the Economic Regulation Authority
 pursuant to clause 3.8.5A or a Network Operator pursuant to clause 3.8.6
 that changes to a WEM Procedure are necessary, the Economic Regulation
 Authority or the Network Operator, as applicable, must publish:
@@ -1540,9 +1540,9 @@ longer relevant.</p></li>
 </tbody>
 </table>
 
-3.8A. Contingency Events
+### 3.8A. Contingency Events
 
-3.8A.1. A Contingency Event is an event affecting the SWIS which AEMO
+### 3.8A.1. A Contingency Event is an event affecting the SWIS which AEMO
 expects would be likely to involve:
 
 \(a\) the failure or removal from operational service of one or more
@@ -1551,7 +1551,7 @@ energy producing units, Facilities and/or Network elements; or
 \(b\) an unplanned change in load, Intermittent Generation or other
 elements of the SWIS not controlled by AEMO.
 
-3.8A.2. A Credible Contingency Event means one or more Contingency
+### 3.8A.2. A Credible Contingency Event means one or more Contingency
 Events, the occurrence of which AEMO considers in accordance with the
 WEM Procedure referred to in clause 3.8A.4 to be reasonably possible in
 the prevailing circumstances, taking into account the Technical
@@ -1569,7 +1569,7 @@ equipment; or
 Contingency Events in accordance with the WEM Procedure referred to in
 clause 3.8A.4.
 
-3.8A.3. A Non-credible Contingency Event means a Contingency Event other
+### 3.8A.3. A Non-credible Contingency Event means a Contingency Event other
 than a Credible Contingency Event. Without limitation, examples of
 Non-credible Contingency Events include simultaneous disruptive events
 such as:
@@ -1578,7 +1578,7 @@ such as:
 
 \(b\) failure of multiple items of Network equipment.
 
-3.8A.4. AEMO must develop and maintain a WEM Procedure which sets out:
+### 3.8A.4. AEMO must develop and maintain a WEM Procedure which sets out:
 
 \(a\) the process for determination and classification of Credible
 Contingency Events;
@@ -1600,7 +1600,7 @@ considered as Credible Contingency Events, taking into consideration
 relevant requirements in the Technical Rules of the relevant Network
 Operator.
 
-3.8A.5. AEMO must:
+### 3.8A.5. AEMO must:
 
 \(a\) determine a Credible Contingency Event; and
 
@@ -1609,7 +1609,7 @@ Contingency Event,
 
 in accordance with the WEM Procedure referred to in clause 3.8A.4.
 
-3.8A.6. Where AEMO determines a new Credible Contingency Event, or
+### 3.8A.6. Where AEMO determines a new Credible Contingency Event, or
 reclassifies a Non-credible Contingency Event as a Credible Contingency
 Event, AEMO must:
 
@@ -1631,11 +1631,11 @@ iv\. if applicable, the Contingency Reclassification Conditions that
 gave rise to the reclassification of a Non-credible Contingency Event as
 a Credible Contingency Event.
 
-3.8A.7. If any of the information provided to Rule Participants in
+### 3.8A.7. If any of the information provided to Rule Participants in
 accordance with clause 3.8A.6 changes in any material respect, AEMO must
 publish the changes on the WEM Website and notify the affected Rule
 Participants in accordance with the WEM Procedure referred to in clause
-3.8A.4.
+### 3.8A.4.
 
 <table>
 <colgroup>
@@ -1655,39 +1655,39 @@ NCESS.</p></th>
 
 Essential System Services
 
-3.9. Definitions of Essential System Services
+### 3.9. Definitions of Essential System Services
 
-3.9.1. Regulation is the service, measured in MW, of frequently
+### 3.9.1. Regulation is the service, measured in MW, of frequently
 adjusting the Injection or Withdrawal of a Facility in accordance with
 an AEMO centralised control scheme in order to assist in maintaining the
 SWIS Frequency according to the Frequency Operating Standards.
 
-3.9.2. Regulation Raise is a Regulation service, measured in MW of
+### 3.9.2. Regulation Raise is a Regulation service, measured in MW of
 response capability, that operates to raise the SWIS Frequency.
 
-3.9.3. Regulation Lower is a Regulation service, measured in MW of
+### 3.9.3. Regulation Lower is a Regulation service, measured in MW of
 response capability, that operates to lower the SWIS Frequency.
 
-3.9.4. Contingency Reserve is the service, measured in MW, of holding
+### 3.9.4. Contingency Reserve is the service, measured in MW, of holding
 response capability associated with a Facility in reserve so that the
 relevant Facility can rapidly adjust Injection or Withdrawal in order to
 assist in maintaining the SWIS Frequency according to the Frequency
 Operating Standards after a Contingency Event.
 
-3.9.5. Contingency Reserve Raise is a Contingency Reserve service,
+### 3.9.5. Contingency Reserve Raise is a Contingency Reserve service,
 measured in MW of response capability, that enables a Facility to adjust
 Injection or Withdrawal to raise the SWIS Frequency.
 
-3.9.6. Contingency Reserve Lower is a Contingency Reserve service,
+### 3.9.6. Contingency Reserve Lower is a Contingency Reserve service,
 measured in MW of response capability, that enables a Facility to adjust
 Injection or Withdrawal to lower the SWIS Frequency.
 
-3.9.7. Rate of Change of Frequency Control Service (“**RoCoF Control
+### 3.9.7. Rate of Change of Frequency Control Service (“**RoCoF Control
 Service**”) is the service, measured in MWs, of providing Inertia which
 provides instantaneous response to slow down the rate of change of the
 SWIS Frequency.
 
-3.9.8. System Restart Service is the service of an Energy Producing
+### 3.9.8. System Restart Service is the service of an Energy Producing
 System starting without requiring energy to be supplied from a Network
 to assist in the re-energisation of the SWIS in the event of system
 shutdown, or a major supply disruption.
@@ -1712,9 +1712,9 @@ that time.</p></th>
 </tbody>
 </table>
 
-3.9.9. Non-Co-optimised Essential System Service ("NCESS") is an
+### 3.9.9. Non-Co-optimised Essential System Service ("NCESS") is an
 Essential System Service that is procured in accordance with section
-3.11B.
+### 3.11B.
 
 <table>
 <colgroup>
@@ -1737,18 +1737,18 @@ commence.</p></th>
 </tbody>
 </table>
 
-3.10. Essential System Service Standards
+### 3.10. Essential System Service Standards
 
-3.10.1. Subject to clause 3.12.2, AEMO must schedule and dispatch
+### 3.10.1. Subject to clause 3.12.2, AEMO must schedule and dispatch
 sufficient Regulation to ensure that the frequency in the SWIS is
 maintained within the Normal Operating Frequency Band and the Normal
 Operating Frequency Excursion Band in accordance with Chapter 3B.
 
-3.10.2. When determining the quantity of Regulation to schedule and
+### 3.10.2. When determining the quantity of Regulation to schedule and
 dispatch in accordance with clause 3.10.1, AEMO must take into account
 the historic and expected variability of the frequency in the SWIS.
 
-3.10.3. Subject to clause 3.12.2, AEMO must schedule and dispatch
+### 3.10.3. Subject to clause 3.12.2, AEMO must schedule and dispatch
 sufficient Contingency Reserve and RoCoF Control Service to ensure that,
 in combination, following a Credible Contingency Event the frequency in
 the SWIS is maintained within:
@@ -1779,7 +1779,7 @@ will apply until that time.</p></th>
 </tbody>
 </table>
 
-3.11. Determining & Procuring Frequency Co-optimised Essential System
+### 3.11. Determining & Procuring Frequency Co-optimised Essential System
 Service Requirements
 
 <table>
@@ -1801,7 +1801,7 @@ FCESS.</p></th>
 </tbody>
 </table>
 
-3.11.1. Where the quantities of any Frequency Co-optimised Essential
+### 3.11.1. Where the quantities of any Frequency Co-optimised Essential
 System Service expected to be required in a Dispatch Interval, or the
 combined quantities of more than one Frequency Co-optimised Essential
 System Service which are to be provided by the same accredited Facility,
@@ -1816,7 +1816,7 @@ Shortfall**"), AEMO must identify:
 \(b\) the maximum incremental Frequency Co-optimised Essential System
 Service requirement for each of the affected Dispatch Intervals.
 
-3.11.2. AEMO must identify, record and publish on the WEM Website by no
+### 3.11.2. AEMO must identify, record and publish on the WEM Website by no
 later than noon on the first Business Day following the day on which the
 Trading Day ends:
 
@@ -1824,7 +1824,7 @@ Trading Day ends:
 for which, four hours ahead of the relevant Dispatch Interval, AEMO has
 scheduled a shortfall in each Frequency Co-optimised Essential System
 Service, as a result of AEMO’s obligations under clauses 3.12.1 and
-3.12.2, in the Reference Scenario; and
+### 3.12.2, in the Reference Scenario; and
 
 \(b\) the number of Dispatch Intervals in the previous 90 Trading Days
 for which AEMO directed a Market Participant to commit a Facility to
@@ -1832,8 +1832,8 @@ provide a Frequency Co-optimised Essential System Service due to a
 forecast real-time shortfall not being resolved in response to a Low
 Reserve Condition Declaration ("**FCESS Participation Shortfall**").
 
-3.11.3. Where the number of Dispatch Intervals identified in clause
-3.11.2(b) is greater than the threshold specified in the WEM Procedure
+### 3.11.3. Where the number of Dispatch Intervals identified in clause
+### 3.11.2(b) is greater than the threshold specified in the WEM Procedure
 referred to in clause 3.11.4 for each Dispatch Interval identified in
 clause 3.11.2(b), AEMO must identify and publish on the WEM Website
 within 15 Business Days:
@@ -1848,7 +1848,7 @@ Interval and the Market Clearing Price which was initially calculated
 for the Dispatch Interval before AEMO applied the intervention pricing
 procedure described in the WEM Procedure referred to in clause 7.11C.11.
 
-3.11.4. AEMO must document in a WEM Procedure the process and basis to
+### 3.11.4. AEMO must document in a WEM Procedure the process and basis to
 determine the number of Dispatch Intervals in any 90 Trading Day period
 in which it issues directions for a specific Frequency Co-optimised
 Essential System Service that, once reached, requires AEMO to trigger
@@ -1878,7 +1878,7 @@ the new Essential System Service capability.</p></th>
 </tbody>
 </table>
 
-3.11.5. In developing the WEM Procedure referred to in clause 3.11.4,
+### 3.11.5. In developing the WEM Procedure referred to in clause 3.11.4,
 AEMO must have regard to:
 
 \(a\) the impact of the directions on AEMO’s dispatch process; and
@@ -1887,7 +1887,7 @@ AEMO must have regard to:
 pursuant to clause 7.7.5 (including in the form of Intervention
 Pricing).
 
-3.11.6. Where:
+### 3.11.6. Where:
 
 \(a\) AEMO identifies a Frequency Co-optimised Essential System Service
 Accreditation Shortfall and, in its reasonable opinion, the Frequency
@@ -1902,7 +1902,7 @@ AEMO must trigger the SESSM in accordance with section 3.15A and must
 identify the quantity of forecast shortfall and the times of the
 Dispatch Intervals forecast to be affected.
 
-3.11.7. AEMO must document in a WEM Procedure the methodologies and
+### 3.11.7. AEMO must document in a WEM Procedure the methodologies and
 processes to be followed by AEMO in determining, for each Pre-Dispatch
 Interval and Dispatch Interval:
 
@@ -1957,7 +1957,7 @@ until New WEM Commencement Day. As this Companion Version of the WEM
 Rules contains the provisions that will apply from the start of the new
 market, please see Schedule B of the Tranche 5 Amendments for the
 amendments comprising the interim framework (i.e. sections 3.11A and
-3.11B) that will apply until that time.</p>
+### 3.11B) that will apply until that time.</p>
 <p>This Framework will replace the concept of Dispatch Support Service
 contract with an AEMO-procured NCESS contract (i.e., it is no longer an
 Ancillary Service), and a Network Control Service contract with a
@@ -1969,7 +1969,7 @@ following obligations applied to them:</p>
 <li><p>AEMO and Western Power will trigger the procurement of
 AEMO-procured and NO-procured NCESS respectively. New clauses for
 trigger conditions have been drafted (see interim clause 3.11A.2 and
-3.11A.2A);</p></li>
+### 3.11A.2A);</p></li>
 <li><p>the Coordinator may also trigger at any time based on certain
 trigger conditions (see interim clause 3.11A.4);</p></li>
 <li><p>the Coordinator will approve the trigger. The ERA will no longer
@@ -1984,10 +1984,10 @@ section 3.11B; and</p></li>
 </tbody>
 </table>
 
-3.11A. Triggering Procurement of Non-Co-optimised Essential System
+### 3.11A. Triggering Procurement of Non-Co-optimised Essential System
 Services (NCESS)
 
-3.11A.1. The Coordinator may only trigger procurement of a NCESS in
+### 3.11A.1. The Coordinator may only trigger procurement of a NCESS in
 accordance with this section 3.11A.
 
 <table>
@@ -2026,7 +2026,7 @@ replaces clauses 3.11A.2 and 3.11A.2A) and 3.11A.3(b).</p></th>
 </tbody>
 </table>
 
-3.11A.2. If AEMO or a Network Operator reasonably considers that one or
+### 3.11A.2. If AEMO or a Network Operator reasonably considers that one or
 more of the following events has occurred or applies:
 
 \(a\) if the forecasted or actual magnitude and frequency of Energy
@@ -2070,12 +2070,12 @@ both of them) must make a submission (jointly or separately) to request
 the Coordinator to determine whether to trigger an NCESS procurement
 process in accordance with section 3.11B.
 
-3.11A.2A. The Coordinator, in consultation with AEMO and a Network
+### 3.11A.2A. The Coordinator, in consultation with AEMO and a Network
 Operator, must develop, and publish on the WEM Website, a guideline
 providing further details regarding the events described in clause
-3.11A.2.
+### 3.11A.2.
 
-3.11A.3. A submission by a Network Operator or AEMO under clause 3.11A.2
+### 3.11A.3. A submission by a Network Operator or AEMO under clause 3.11A.2
 must:
 
 \(a\) be in writing;
@@ -2109,7 +2109,7 @@ procurement.</p></th>
 </tbody>
 </table>
 
-3.11A.4. The Coordinator may trigger an NCESS procurement process in
+### 3.11A.4. The Coordinator may trigger an NCESS procurement process in
 accordance with section 3.11B where any one or more of the following
 events has occurred or applies:
 
@@ -2133,7 +2133,7 @@ service; or
 or AEMO pursuant to clause 3.11A.2.
 
 <u>.11A.7. When assessing submissions made under clauses 3.11A.2 or
-3.11A.3, the Coordinator may:</u>
+### 3.11A.3, the Coordinator may:</u>
 
 <table>
 <colgroup>
@@ -2156,12 +2156,12 @@ determination.</p></th>
 </tbody>
 </table>
 
-3.11A.5. When determining under clause 3.11A.4 whether or not to trigger
+### 3.11A.5. When determining under clause 3.11A.4 whether or not to trigger
 an NCESS procurement process in accordance with section 3.11B, the
 Coordinator may:
 
 \(a\) where the Coordinator has received a submission under clause
-3.11A.3, request any reasonable further information or analysis from
+### 3.11A.3, request any reasonable further information or analysis from
 AEMO or the Network Operator to supplement the submission, and AEMO or
 the Network Operator, as applicable, must provide the information or
 analysis by the time specified in the request, which must be a
@@ -2173,7 +2173,7 @@ requested;
 \(c\) undertake any reasonable studies, analysis or assessment to
 support her or his decision.
 
-3.11A.6. The Coordinator must determine whether to trigger the
+### 3.11A.6. The Coordinator must determine whether to trigger the
 procurement of an NCESS under clause 3.11A.4:
 
 \(a\) where the Coordinator has received a submission from AEMO or a
@@ -2183,7 +2183,7 @@ later of:
 i\. receipt of the submission; and
 
 ii\. receipt of any further information or analysis under clause
-3.11A.5; or
+### 3.11A.5; or
 
 \(b\) where the Coordinator becomes aware of any other event specified
 in clause 3.11A.4, within 20 Business Days of the later of:
@@ -2193,7 +2193,7 @@ i\. becoming aware of the event; and
 ii\. receipt of any further information or analysis under clause 3.11A.5
 relating to the event.
 
-3.11A.7. The Coordinator must take the following factors into account
+### 3.11A.7. The Coordinator must take the following factors into account
 when determining whether to trigger the procurement of an NCESS under
 clause 3.11A.4:
 
@@ -2215,7 +2215,7 @@ Wholesale Market Objectives; and
 \(f\) whether procurement of an NCESS will be in the long-term interests
 of consumers.
 
-3.11A.8. Where the Coordinator determines under clause 3.11.4 to trigger
+### 3.11A.8. Where the Coordinator determines under clause 3.11.4 to trigger
 an NCESS procurement process in accordance with section 3.11B, the
 Coordinator must publish a determination on the Coordinator’s website,
 redacting any commercially sensitive or other confidential information,
@@ -2235,11 +2235,11 @@ NCESS and pay for the service; and
 \(e\) any other matters relevant to the Coordinator's decision or
 procurement of an NCESS.
 
-3.11A.9. AEMO or the Network Operator, or both of them, as directed
+### 3.11A.9. AEMO or the Network Operator, or both of them, as directed
 under clause 3.11A.8(e), must commence an NCESS procurement process in
 accordance with section 3.11B.
 
-3.11A.10. Where the Coordinator determines under clause 3.11A.4 not to
+### 3.11A.10. Where the Coordinator determines under clause 3.11A.4 not to
 trigger an NCESS procurement process, the Coordinator must publish a
 notice on the Coordinator's website, redacting any commercially
 sensitive or other confidential information, setting out the reasons for
@@ -2276,17 +2276,17 @@ framework.</p></th>
 </tbody>
 </table>
 
-3.11B. Procuring Non-Co-optimised Essential System Services
+### 3.11B. Procuring Non-Co-optimised Essential System Services
 
 **Expression of interest**
 
-3.11B.1. AEMO or the Network Operator, as directed under clause
-3.11A.8(e), must prepare a draft NCESS Service Specification in
+### 3.11B.1. AEMO or the Network Operator, as directed under clause
+### 3.11A.8(e), must prepare a draft NCESS Service Specification in
 accordance with clause 3.11B.5. In preparing the draft NCESS Service
 Specification, AEMO and the Network Operator must consult with each
 other on the draft NCESS Service Specification.
 
-3.11B.2. Within 20 Business Days, or as reasonably agreed with the
+### 3.11B.2. Within 20 Business Days, or as reasonably agreed with the
 Coordinator, of the publication of the Coordinator's determination under
 clause 3.11A.8, AEMO or the Network Operator, as applicable, must
 advertise a call for expressions of interest by:
@@ -2297,7 +2297,7 @@ the Network Operator; and
 
 \(b\) publishing a notice in a major Australian newspaper.
 
-3.11B.3. AEMO or the Network Operator, as applicable, must include in
+### 3.11B.3. AEMO or the Network Operator, as applicable, must include in
 each notice referred to in clause 3.11B.2:
 
 \(a\) the date and time for lodgement of expressions of interest, which
@@ -2315,7 +2315,7 @@ and
 Network Operator's website, in the case of the Network Operator, of the
 expression of interest form referred to in clause 3.11B.3A.
 
-3.11B.3A. AEMO or the Network Operator, as applicable, must develop and
+### 3.11B.3A. AEMO or the Network Operator, as applicable, must develop and
 publish on the WEM Website, in the case of AEMO, or the Network
 Operator's website, in the case of the Network Operator, an expression
 of interest form, setting out the details prospective service providers
@@ -2324,7 +2324,7 @@ must include whether the facility or equipment that may be able to
 provide the service can fully or partially meet the draft NCESS Service
 Specification.
 
-3.11B.4. Within 10 Business Days, or as reasonably agreed with the
+### 3.11B.4. Within 10 Business Days, or as reasonably agreed with the
 Coordinator, of the closing date for expressions of interest under
 clause 3.11B.3, AEMO or the Network Operator, as applicable, must
 consult with the Coordinator to determine whether, based on the
@@ -2354,7 +2354,7 @@ ii\. notify each person that submitted an expression of interest that
 procurement of the NCESS is not proceeding and the location on the WEM
 Website, in the case of AEMO, or the Network Operator's website, in the
 case of the Network Operator, of the notice referred to in clause
-3.11B.4(c)(i).
+### 3.11B.4(c)(i).
 
 <table>
 <colgroup>
@@ -2385,7 +2385,7 @@ grammatical errors and use standard terminology.</p></th>
 </tbody>
 </table>
 
-3.11B.5. An NCESS Service Specification must, at a minimum, include:
+### 3.11B.5. An NCESS Service Specification must, at a minimum, include:
 
 \(a\) the service requirements;
 
@@ -2413,7 +2413,7 @@ and
 
 \(i\) any other relevant matters.
 
-3.11B.6. In advertising a call for NCESS Submissions in accordance with
+### 3.11B.6. In advertising a call for NCESS Submissions in accordance with
 clause 3.11B.4(a), AEMO or the Network Operator, as applicable, must:
 
 \(a\) publish a notice requesting NCESS Submissions:
@@ -2425,7 +2425,7 @@ ii\. on at least one major tender portal; and
 
 \(b\) notify Market Participants in writing.
 
-3.11B.6A. AEMO or the Network Operator, as applicable, must include in
+### 3.11B.6A. AEMO or the Network Operator, as applicable, must include in
 each notice referred to in clause 3.11B.6:
 
 \(a\) the date and time for lodgement of NCESS Submissions, which must:
@@ -2449,7 +2449,7 @@ Service Specification referred to in clause 3.11B.5; and
 \(e\) any qualifying criteria in respect of making an NCESS Submission
 in accordance with clause 3.11B.8.
 
-3.11B.7. An NCESS Submission form must, at a minimum, include:
+### 3.11B.7. An NCESS Submission form must, at a minimum, include:
 
 \(a\) the name and type of facility or equipment, and whether it is
 registered or intended to be registered under these WEM Rules;
@@ -2527,7 +2527,7 @@ under the WEM Rules.</p></th>
 
 **Participation in NCESS Procurement**
 
-3.11B.8. An NCESS Submission must:
+### 3.11B.8. An NCESS Submission must:
 
 \(a\) be made in good faith;
 
@@ -2547,7 +2547,7 @@ the proposed NCESS payment structure.
 <p>The selection process of NCESS Submissions requires AEMO or Western
 Power, as applicable to determine whether value for money will be
 maximised by selecting the relevant NCESS Submission – see clause
-3.11B.11.</p>
+### 3.11B.11.</p>
 <p>Under the Electricity Networks Access Code clause 6.52, Western Power
 is required to conduct a new facilities investment test (NFIT) to
 determine whether costs will be efficiently minimised when investing in
@@ -2562,7 +2562,7 @@ required under clause 3.11B.12.</p></th>
 
 **Selection process and signing of NCESS Contract**
 
-3.11B.9. Within 20 Business Days, or as reasonably agreed with the
+### 3.11B.9. Within 20 Business Days, or as reasonably agreed with the
 Coordinator, of the closing date for NCESS Submissions, AEMO or the
 Network Operator, as applicable, must:
 
@@ -2581,7 +2581,7 @@ NCESS; and
 \(b\) notify the relevant Market Participant or service provider that
 their NCESS Submission has been selected.
 
-3.11B.10. Subject to clause 3.11B.12, when determining which NCESS
+### 3.11B.10. Subject to clause 3.11B.12, when determining which NCESS
 Submissions to select under clause 3.11B.9, AEMO or the Network
 Operator, as applicable, must:
 
@@ -2595,7 +2595,7 @@ dates; or
 
 ii\. sufficient Environmental Approvals have not been granted.
 
-3.11B.11. AEMO or the Network Operator, as applicable, must, when
+### 3.11B.11. AEMO or the Network Operator, as applicable, must, when
 assessing highest value for money under clause 3.11B.9(a)(iii) in
 respect of an NCESS Submission:
 
@@ -2607,7 +2607,7 @@ including, but not limited to, costs relating to Certified Reserve
 Capacity in respect to the Facility or equipment the subject of the
 NCESS Submission.
 
-3.11B.12. AEMO or the Network Operator, as applicable, may decide to not
+### 3.11B.12. AEMO or the Network Operator, as applicable, may decide to not
 select any NCESS Submissions where AEMO or the Network Operator
 considers, in their absolute discretion, that none of the NCESS
 Submissions represent value for money. Where this occurs, AEMO or the
@@ -2615,7 +2615,7 @@ Network Operator, as applicable, must publish the reasons for the
 decision the WEM Website, in the case of AEMO, or the Network Operator's
 website, in the case of the Network Operator.
 
-3.11B.13. Where a Network Operator intends to enter into an NCESS
+### 3.11B.13. Where a Network Operator intends to enter into an NCESS
 Contract that it reasonably believes may require operational
 coordination with AEMO in order to manage Power System Security or Power
 System Reliability, or that is captured in the Operating Protocol
@@ -2630,7 +2630,7 @@ dispatch, enablement and monitoring of the NCESS with AEMO; and
 requirements for control with AEMO and specify the agreed requirements
 in the NCESS Contract.
 
-3.11B.14. Each Market Participant or service provider who is notified in
+### 3.11B.14. Each Market Participant or service provider who is notified in
 accordance with clause 3.11B.9(b) that their NCESS Submission has been
 selected must, within 10 Business Days of receiving the executed NCESS
 Contract from AEMO or the Network Operator, as applicable:
@@ -2647,7 +2647,7 @@ required to be registered under these WEM Rules, make an application in
 accordance with these WEM Rules to register the facility or equipment in
 the relevant Facility Class.
 
-3.11B.15. AEMO or the Network Operator, as applicable, must publish the
+### 3.11B.15. AEMO or the Network Operator, as applicable, must publish the
 following details regarding each NCESS Contract on the WEM Website, in
 the case of AEMO, or the Network Operator's website, in the case of the
 Network Operator, as soon as practicable after the NCESS Contract has
@@ -2685,14 +2685,14 @@ accordance with Chapter 7.</p></th>
 </tbody>
 </table>
 
-3.12. Essential System Service Dispatch
+### 3.12. Essential System Service Dispatch
 
-3.12.1. AEMO must schedule and dispatch Registered Facilities (or cause
+### 3.12.1. AEMO must schedule and dispatch Registered Facilities (or cause
 them to be scheduled and dispatched) to meet the Essential System
 Service Standards in each Dispatch Interval in accordance with Chapter
 7.
 
-3.12.2. AEMO must schedule or dispatch Registered Facilities for energy
+### 3.12.2. AEMO must schedule or dispatch Registered Facilities for energy
 in preference to Frequency Co-optimised Essential System Service.
 
 <table>
@@ -2718,9 +2718,9 @@ section 3.13 that commenced on 1 October 2021.</p></th>
 </tbody>
 </table>
 
-3.13. \[Blank\]
+### 3.13. \[Blank\]
 
-3.14. \[Blank\]
+### 3.14. \[Blank\]
 
 <table>
 <colgroup>
@@ -2739,24 +2739,24 @@ review will encompass all ESS, not only FCESS.</p></th>
 </tbody>
 </table>
 
-3.15. Review of Essential System Service Process and Standards
+### 3.15. Review of Essential System Service Process and Standards
 
-3.15.1. The Coordinator, with the assistance of AEMO, must carry out a
+### 3.15.1. The Coordinator, with the assistance of AEMO, must carry out a
 review on the Essential System Service Standards and the basis for
 setting Essential System Service requirements.
 
-3.15.1A. The Coordinator must conduct the first review under clause
-3.15.1 within two and a half years of the New WEM Commencement Day and
+### 3.15.1A. The Coordinator must conduct the first review under clause
+### 3.15.1 within two and a half years of the New WEM Commencement Day and
 then, subject to clause 3.15.1B, at least once in every three year
 period from completion of the previous review.
 
-3.15.1B. The Coordinator may conduct a review contemplated by clause
-3.15.1 earlier than the time referred to in clause 3.15.1A if it
+### 3.15.1B. The Coordinator may conduct a review contemplated by clause
+### 3.15.1 earlier than the time referred to in clause 3.15.1A if it
 reasonably forms the opinion that any of the metrics developed under
 clause 3.15.2 are significantly departing from the targets set in the
 previous review.
 
-3.15.1C. A review conducted pursuant to clause 3.15.1A or clause 3.15.1B
+### 3.15.1C. A review conducted pursuant to clause 3.15.1A or clause 3.15.1B
 must include:
 
 \(a\) technical analyses determining the relationship between the
@@ -2781,7 +2781,7 @@ triggered during the review period; and
 
 \(f\) a public consultation process.
 
-3.15.2. As part of each review under clause 3.15.1A or clause 3.15.1B,
+### 3.15.2. As part of each review under clause 3.15.1A or clause 3.15.1B,
 the Coordinator, with the support of AEMO, must determine and publish a
 set of metrics to be used for ongoing monitoring of Essential System
 Services, which must include:
@@ -2796,7 +2796,7 @@ System Service costs; and
 \(c\) economic outcomes, such as the overall electricity costs faced by
 consumers.
 
-3.15.3. The Coordinator must publish a report containing:
+### 3.15.3. The Coordinator must publish a report containing:
 
 \(a\) the inputs and results of the technical reviews conducted pursuant
 to clause 3.15.1A and clause 3.15.1B and cost-benefit studies;
@@ -2812,15 +2812,15 @@ setting Essential System Service requirements.; and
 \(d\) the metrics and targets to be used for ongoing monitoring of
 Essential System Services.
 
-3.15.4. The Coordinator must publish the report referred to in clause
-3.15.3 no later than:
+### 3.15.4. The Coordinator must publish the report referred to in clause
+### 3.15.3 no later than:
 
 \(a\) for the first report, two and a half years of the New WEM
 Commencement Day; and
 
 \(b\) thereafter, three years after publishing the previous review.
 
-3.15.5. If the Coordinator recommends any changes in a report published
+### 3.15.5. If the Coordinator recommends any changes in a report published
 under clause 3.15.3, the Coordinator must, as relevant:
 
 \(a\) draft a Rule Change Proposal in accordance with clause 2.5.1 to
@@ -2885,7 +2885,7 @@ Procurement Process, Selection, Veto of Award, and SESSM.</p></th>
 </tbody>
 </table>
 
-3.15A. Supplementary Essential System Service Mechanism (SESSM)
+### 3.15A. Supplementary Essential System Service Mechanism (SESSM)
 
 Triggering the SESSM
 
@@ -2907,18 +2907,18 @@ been removed.</p></th>
 </tbody>
 </table>
 
-3.15A.1. AEMO may only trigger the SESSM in accordance with clause
-3.11.6.
+### 3.15A.1. AEMO may only trigger the SESSM in accordance with clause
+### 3.11.6.
 
-3.15A.2. The Economic Regulation Authority may only trigger the SESSM
+### 3.15A.2. The Economic Regulation Authority may only trigger the SESSM
 when, pursuant to a review by the Coordinator under clauses 3.15.1A or
-3.15.1B or the Economic Regulation Authority's monitoring pursuant to
+### 3.15.1B or the Economic Regulation Authority's monitoring pursuant to
 clause 2.16.9, it reasonably considers that Real-Time Market outcomes
 are not consistent with the efficient operation of the Real-Time Market
 in respect of Frequency Co-optimised Essential System Services or the
 Wholesale Market Objectives.
 
-3.15A.3. Where AEMO is required to trigger the SESSM, AEMO must, within
+### 3.15A.3. Where AEMO is required to trigger the SESSM, AEMO must, within
 five Business Days of determining to trigger the SESSM, publish on the
 WEM Website:
 
@@ -2943,7 +2943,7 @@ Frequency Co-optimised Essential System Service that otherwise would not
 have been required if Frequency Co-optimised Essential System Services
 had been procured pursuant to the SESSM for that 90 Trading Day period.
 
-3.15A.4. When the Economic Regulation Authority triggers the SESSM
+### 3.15A.4. When the Economic Regulation Authority triggers the SESSM
 pursuant to clause 3.15A.2 it must publish:
 
 \(a\) the reasons why it triggered the SESSM;
@@ -2961,7 +2961,7 @@ Economic Regulation Authority's reasonable estimate of the cost of those
 Frequency Co-optimised Essential System Services if they were procured
 in an efficient Real-Time Market.
 
-3.15A.5. The Economic Regulation Authority must document in a WEM
+### 3.15A.5. The Economic Regulation Authority must document in a WEM
 Procedure the process it will undertake to identify inefficient
 Real-Time Market outcomes pursuant to clause 3.15A.2, which may include,
 but is not limited to:
@@ -3012,8 +3012,8 @@ years thereafter.</p></th>
 
 SESSM Service specification
 
-3.15A.6. When the SESSM is triggered under clause 3.15A.1 or clause
-3.15A.2, AEMO must prepare a SESSM Service Specification for each
+### 3.15A.6. When the SESSM is triggered under clause 3.15A.1 or clause
+### 3.15A.2, AEMO must prepare a SESSM Service Specification for each
 Frequency Co-optimised Essential System Service being procured under the
 SESSM which must include the:
 
@@ -3030,7 +3030,7 @@ services;
 
 \(f\) SESSM Availability Requirement.
 
-3.15A.7. Where the SESSM has been triggered by AEMO, the SESSM Service
+### 3.15A.7. Where the SESSM has been triggered by AEMO, the SESSM Service
 Timing and SESSM Service Quantity Profile must align with the relevant
 quantities and times identified by AEMO under clause 3.11.6.
 
@@ -3053,7 +3053,7 @@ facilities who wish to participate.</p></th>
 </tbody>
 </table>
 
-3.15A.8. Where the SESSM has been triggered by the Economic Regulation
+### 3.15A.8. Where the SESSM has been triggered by the Economic Regulation
 Authority, the SESSM Service Timing must align with the relevant times
 identified by the Economic Regulation Authority under clause 3.15A.4 and
 the SESSM Service Quantity Profile must align with the quantities of the
@@ -3072,7 +3072,7 @@ participate in the SESSM.</p>
 <p>A Facility does not need to be registered to participate in SESSM
 procurement. However, if the facility is successful then it will be
 required to register and be accredited pursuant to clause
-3.15A.39.</p></th>
+### 3.15A.39.</p></th>
 </tr>
 </thead>
 <tbody>
@@ -3081,7 +3081,7 @@ required to register and be accredited pursuant to clause
 
 Participation
 
-3.15A.9. The facilities that may participate in a SESSM procurement are:
+### 3.15A.9. The facilities that may participate in a SESSM procurement are:
 
 \(a\) a Registered Facility, whether or not it is accredited to provide
 a Frequency Co-optimised Essential System Service under clause 2.34A.1;
@@ -3107,7 +3107,7 @@ FCESS.</p></th>
 </tbody>
 </table>
 
-3.15A.10. Where AEMO has identified a FCESS Accreditation Shortfall
+### 3.15A.10. Where AEMO has identified a FCESS Accreditation Shortfall
 under clause 3.11.1, then a Facility that is accredited under clause
 2.34A.1 to provide a Frequency Co-optimised Essential System Service may
 only participate in a SESSM procurement for that Frequency Co-optimised
@@ -3131,7 +3131,7 @@ to exercise, market power in respect to any of its facilities.</p></th>
 </tbody>
 </table>
 
-3.15A.11. Where the Economic Regulation Authority triggers the SESSM,
+### 3.15A.11. Where the Economic Regulation Authority triggers the SESSM,
 subject to clause 3.15A.13, the Economic Regulation Authority may
 designate one or more Registered Facilities that must participate in the
 SESSM procurement process.
@@ -3151,14 +3151,14 @@ designated facilities.</p></th>
 </tbody>
 </table>
 
-3.15A.12. Where the Economic Regulation Authority has designated a
+### 3.15A.12. Where the Economic Regulation Authority has designated a
 Registered Facility pursuant to clause 3.15A.11, the Market Participant
 responsible for that Registered Facility must offer up to the lesser of
 the SESSM Service Quantity Profile or the available accredited
 capability in excess of any existing SESSM Award for the applicable
 Frequency Co-optimised Essential System Service.
 
-3.15A.13. The Economic Regulation Authority may only designate a
+### 3.15A.13. The Economic Regulation Authority may only designate a
 Registered Facility pursuant to clause 3.15A.11:
 
 \(a\) that the Economic Regulation Authority reasonably considers is
@@ -3185,7 +3185,7 @@ To avoid doubt, the Economic Regulation Authority may, but is not
 obliged to, consult with AEMO in respect of designating a Facility
 pursuant to clause 3.15A.11.
 
-3.15A.14. Where the Economic Regulation Authority has designated a
+### 3.15A.14. Where the Economic Regulation Authority has designated a
 Facility pursuant to clause 3.15A.11, the Economic Regulation Authority
 must notify:
 
@@ -3193,12 +3193,12 @@ must notify:
 
 \(b\) the relevant Market Participant responsible for the Facility.
 
-3.15A.15. A Facility that has not been designated by the Economic
+### 3.15A.15. A Facility that has not been designated by the Economic
 Regulation Authority pursuant to clause 3.15A.11 may still participate
 in a SESSM procurement process triggered by the Economic Regulation
 Authority.
 
-3.15A.16. Where the Economic Regulation Authority has designated a
+### 3.15A.16. Where the Economic Regulation Authority has designated a
 Registered Facility pursuant to clause 3.15A.11, the Market Participant
 responsible for the Registered Facility must submit a SESSM Submission
 to the SESSM procurement process
@@ -3220,12 +3220,12 @@ maximise participation.</p></th>
 
 Procurement notice
 
-3.15A.17. Where the SESSM is triggered under clause 3.15A.1 or clause
-3.15A.2, AEMO must advertise a call for SESSM Submissions, no later than
+### 3.15A.17. Where the SESSM is triggered under clause 3.15A.1 or clause
+### 3.15A.2, AEMO must advertise a call for SESSM Submissions, no later than
 20 Business Days prior to the proposed closing date for SESSM
 Submissions.
 
-3.15A.18. In advertising the call for SESSM Submissions in accordance
+### 3.15A.18. In advertising the call for SESSM Submissions in accordance
 with clause 3.15A.19, AEMO must:
 
 \(a\) publish a notice on the WEM Website;
@@ -3237,8 +3237,8 @@ Economic Regulation Authority pursuant to clause 3.15A.11; and
 
 \(d\) issue a Market Advisory.
 
-3.15A.19. AEMO must include in each notice referred to in clause
-3.15A.18:
+### 3.15A.19. AEMO must include in each notice referred to in clause
+### 3.15A.18:
 
 \(a\) the date and time for lodgement of SESSM Submissions, which must
 be in accordance with the form referred to in clause 3.15A.20;
@@ -3263,7 +3263,7 @@ clause 3.15A.6.
 <tr class="header">
 <th><p><strong>Explanatory Note</strong></p>
 <p>The requirements for responses to the SESSM are set out in clauses
-3.15A.20 to 3.15A.23.</p></th>
+### 3.15A.20 to 3.15A.23.</p></th>
 </tr>
 </thead>
 <tbody>
@@ -3272,7 +3272,7 @@ clause 3.15A.6.
 
 Response requirements
 
-3.15A.20. AEMO must develop and publish a SESSM Submission form which
+### 3.15A.20. AEMO must develop and publish a SESSM Submission form which
 must include the following fields for the SESSM procurement:
 
 \(a\) the SESSM Availability Quantity for each Dispatch Interval in the
@@ -3332,18 +3332,18 @@ person subsequently seeks to be registered under the WEM Rules.</p></th>
 </tbody>
 </table>
 
-3.15A.21. A SESSM Submission submitted by a Market Participant in
+### 3.15A.21. A SESSM Submission submitted by a Market Participant in
 response to a call for SESSM Submissions under clause 3.15A.17 must:
 
 \(a\) be made in good faith;
 
 \(b\) be in the form published by AEMO in accordance with clause
-3.15A.20; and
+### 3.15A.20; and
 
 \(c\) include the cost information and any assumptions used to calculate
 the proposed SESSM Offer Cap and SESSM Availability Payment.
 
-3.15A.22. Where a Market Participant submits a SESSM Submission under
+### 3.15A.22. Where a Market Participant submits a SESSM Submission under
 clause 3.15A.21 in respect of an accredited Facility, the SESSM
 Submission must also include:
 
@@ -3360,7 +3360,7 @@ Timing; and
 its historic offer prices offered in the Real-Time Market over the past
 12 months.
 
-3.15A.23. Where a Market Participant submits a SESSM Submission under
+### 3.15A.23. Where a Market Participant submits a SESSM Submission under
 clause 3.15A.21 in respect of a new or existing facility which is:
 
 \(a\) not accredited for the relevant Frequency Co-optimised Essential
@@ -3416,7 +3416,7 @@ will be considered “conforming”.</p></th>
 </tbody>
 </table>
 
-3.15A.24. A Market Participant wishing to participate in the SESSM may
+### 3.15A.24. A Market Participant wishing to participate in the SESSM may
 make one or more SESSM Submissions in respect of a single facility
 which:
 
@@ -3438,7 +3438,7 @@ Service Specification;
 \(f\) are not contingent on being awarded a SESSM Award for more than
 one Frequency Co-optimised Essential System Service.
 
-3.15A.25. Where a Market Participant has made a SESSM Submission under
+### 3.15A.25. Where a Market Participant has made a SESSM Submission under
 clause 3.15A.24, it may make one or more additional SESSM Submissions in
 respect of the same facility which:
 
@@ -3478,7 +3478,7 @@ the SESSM procurement will be set out in the WEM Procedure.</p></th>
 
 Selection analysis and approval
 
-3.15A.26. Within 20 Business Days of the date and time for lodgement of
+### 3.15A.26. Within 20 Business Days of the date and time for lodgement of
 SESSM Submissions specified in clause 3.15A.19(a), AEMO must:
 
 \(a\) select the SESSM Submissions which:
@@ -3489,15 +3489,15 @@ and
 ii\. meet the SESSM Service Specification which, taken together, in
 AEMO’s opinion will result in the lowest cost of providing the Frequency
 Co-optimised Essential System Service in accordance with clause
-3.15A.27;
+### 3.15A.27;
 
 \(b\) identify the Market Participants and the Facilities who it
 approves and intends to grant a SESSM Award; and
 
 \(c\) notify the Economic Regulation Authority in accordance with clause
-3.15A.29.
+### 3.15A.29.
 
-3.15A.27. When selecting the lowest cost combination of SESSM
+### 3.15A.27. When selecting the lowest cost combination of SESSM
 Submissions in accordance with clause 3.15A.26(a), AEMO must:
 
 \(a\) exclude SESSM Submissions that do not comply with the SESSM
@@ -3541,7 +3541,7 @@ SESSM Availability Quantity to account for Network Constraints; and
 assessed capability of the Facility to provide the relevant Frequency
 Co-optimised Essential System Service.
 
-3.15A.28. If AEMO is selecting Facilities to meet more than one SESSM
+### 3.15A.28. If AEMO is selecting Facilities to meet more than one SESSM
 Service Specification in a single SESSM procurement process, AEMO must:
 
 \(a\) identify where the SESSM Submissions from a Facility for the
@@ -3559,7 +3559,7 @@ Award under a previous selection; and
 \(d\) ensure that proposed SESSM Awards will deliver the total Essential
 System Service requirement.
 
-3.15A.29. AEMO must notify the Economic Regulation Authority of the
+### 3.15A.29. AEMO must notify the Economic Regulation Authority of the
 outcome of the SESSM, including providing the Economic Regulation
 Authority with the following information:
 
@@ -3583,7 +3583,7 @@ Co-optimised Essential System Service in the Real-Time Market within the
 SESSM Service Timing for the relevant Frequency Co-optimised Essential
 System Service over the previous 12 months.
 
-3.15A.30. AEMO must provide to the Economic Regulation Authority all
+### 3.15A.30. AEMO must provide to the Economic Regulation Authority all
 information and data provided by a Market Participant as part of a SESSM
 Submission within five Business Days of notifying the Economic
 Regulation Authority of the outcome of its analysis and selection of
@@ -3605,13 +3605,13 @@ process.</p></th>
 </tbody>
 </table>
 
-3.15A.31. Where AEMO triggered the SESSM, the Economic Regulation
+### 3.15A.31. Where AEMO triggered the SESSM, the Economic Regulation
 Authority must, within 10 Business Days of AEMO notifying it pursuant to
 clause 3.15A.29, review the proposed SESSM Awards AEMO intends to grant
 and determine whether or not to veto the SESSM Awards AEMO intends to
 grant pursuant to clause 3.15A.32.
 
-3.15A.32. If, following the review pursuant to clause 3.15A.31, the
+### 3.15A.32. If, following the review pursuant to clause 3.15A.31, the
 Economic Regulation Authority reasonably considers that AEMO has not
 followed the processes in clause 3.15A.26 and clause 3.15A.27, the
 Economic Regulation Authority may veto the SESSM Awards AEMO intends to
@@ -3639,13 +3639,13 @@ activities.</p></th>
 </tbody>
 </table>
 
-3.15A.33. Where the Economic Regulation Authority triggered the SESSM,
+### 3.15A.33. Where the Economic Regulation Authority triggered the SESSM,
 the Economic Regulation Authority must, within 20 Business Days of AEMO
 notifying it pursuant to clause 3.15A.29, review the proposed SESSM
 Awards AEMO intends to grant and determine whether or not to veto the
 SESSM Awards AEMO intends to grant pursuant to clause 3.15A.34.
 
-3.15A.34. If, following a review pursuant to clause 3.15A.33, the
+### 3.15A.34. If, following a review pursuant to clause 3.15A.33, the
 Economic Regulation Authority reasonably considers that:
 
 \(a\) the SESSM Awards AEMO intends to grant will not reduce the cost to
@@ -3678,7 +3678,7 @@ dispute resolution clauses.</p></th>
 </tbody>
 </table>
 
-3.15A.35. Where the Economic Regulation Authority reasonably considers
+### 3.15A.35. Where the Economic Regulation Authority reasonably considers
 that a Market Participant has breached the obligation to make a SESSM
 Submission in good faith in accordance with clause 3.15A.21, then in
 addition to its powers under clause 3.15A.34(b), the Economic Regulation
@@ -3708,7 +3708,7 @@ otherwise the information in a submission will be confidential.</p></th>
 
 Notification
 
-3.15A.36. If the Economic Regulation Authority notifies AEMO that it
+### 3.15A.36. If the Economic Regulation Authority notifies AEMO that it
 will not veto a SESSM Award AEMO intends to grant in accordance with
 clause 3.15A.34, AEMO must grant the SESSM Award as submitted to the
 Economic Regulation Authority in accordance with clause 3.15A.29 and:
@@ -3762,8 +3762,8 @@ to access this information as necessary.</p></th>
 </tbody>
 </table>
 
-3.15A.37. Subject to the obligation to publish the information in clause
-3.15A.36 the information contained in any SESSM Submissions received
+### 3.15A.37. Subject to the obligation to publish the information in clause
+### 3.15A.36 the information contained in any SESSM Submissions received
 pursuant to the SESSM is Confidential Information.
 
 <table>
@@ -3782,7 +3782,7 @@ pursuant to the SESSM is Confidential Information.
 
 Obligation to comply
 
-3.15A.38. A Market Participant that was granted a SESSM Award must
+### 3.15A.38. A Market Participant that was granted a SESSM Award must
 comply with the SESSM Service Specification for that SESSM Award.
 
 <table>
@@ -3804,7 +3804,7 @@ new Facilities holding Capacity Credits.</p></th>
 
 SESSM new entrants
 
-3.15A.39. A Market Participant that is granted a SESSM Award for a
+### 3.15A.39. A Market Participant that is granted a SESSM Award for a
 Facility that is yet to commence operation must, within any timeframe
 specified by AEMO:
 
@@ -3818,7 +3818,7 @@ capability for each Dispatch Interval in the SESSM Award Duration must
 be at least the sum of the Base ESS Quantity and the SESSM Availability
 Quantity.
 
-3.15A.40. A Market Participant that is granted a SESSM Award for a
+### 3.15A.40. A Market Participant that is granted a SESSM Award for a
 facility that is yet to commence operation and for which it is not
 required to submit a report pursuant to clause 4.27.10 must file a
 report on progress with AEMO:
@@ -3831,7 +3831,7 @@ months prior to the SESSM Service Commencement Date,
 
 or as otherwise agreed with AEMO.
 
-3.15A.41. Each report provided pursuant to clause 3.15A.40 must include
+### 3.15A.41. Each report provided pursuant to clause 3.15A.40 must include
 any changes to Key Project Dates.
 
 <table>
@@ -3851,7 +3851,7 @@ award.</p></th>
 </tbody>
 </table>
 
-3.15A.42. Within 10 Business Days of receiving a report provided
+### 3.15A.42. Within 10 Business Days of receiving a report provided
 pursuant to clause 3.15A.40, clause 4.27.10 or this clause 3.15A.42, as
 applicable, AEMO:
 
@@ -3875,7 +3875,7 @@ iii\. revise the SESSM Service Commencement Date or cancel the SESSM
 Award and, where it does so, must notify the Economic Regulation
 Authority.
 
-3.15A.43. AEMO or the Economic Regulation Authority may re-trigger the
+### 3.15A.43. AEMO or the Economic Regulation Authority may re-trigger the
 SESSM if, as result of cancelling the SESSM Award:
 
 \(a\) AEMO reasonably considers that one or more of the matters in
@@ -3888,7 +3888,7 @@ Essential System Services or the Wholesale Market Objectives.
 
 SESSM performance monitoring
 
-3.15A.44. During the SESSM Service Timing, AEMO must monitor the
+### 3.15A.44. During the SESSM Service Timing, AEMO must monitor the
 quantity of Frequency Co-optimised Essential System Service offered by a
 Facility that was granted a SESSM Award.
 
@@ -3910,7 +3910,7 @@ obligations is to be outlined in the WEM Procedure</p></th>
 </tbody>
 </table>
 
-3.15A.45. Where a Facility that was granted a SESSM Award consistently
+### 3.15A.45. Where a Facility that was granted a SESSM Award consistently
 fails to offer at least the sum of the SESSM Availability Quantity and
 the Base ESS Quantity for Dispatch Intervals within the SESSM Service
 Timing, AEMO may:
@@ -3924,7 +3924,7 @@ ratio as the adjustment to the SESSM Availability Quantity.
 
 WEM Procedure
 
-3.15A.46. AEMO must document in a WEM Procedure the process to be
+### 3.15A.46. AEMO must document in a WEM Procedure the process to be
 followed by AEMO and Market Participants in the SESSM. The WEM Procedure
 must include:
 
@@ -3988,18 +3988,18 @@ support and give effect to that process.</p></th>
 </tbody>
 </table>
 
-3.15B. Expressions of Interest for Essential System Services
+### 3.15B. Expressions of Interest for Essential System Services
 
-3.15B.1. From New WEM Commencement Day, at least once every two years,
+### 3.15B.1. From New WEM Commencement Day, at least once every two years,
 AEMO must conduct a Frequency Co-optimised Essential System Service
 expression of interest process.
 
-3.15B.2. In conducting an expression of interest process pursuant to
+### 3.15B.2. In conducting an expression of interest process pursuant to
 clause 3.15B.1, AEMO must advertise the call for expressions of interest
 no later than 20 Business Days prior to the proposed closing date for
 the expressions of interest.
 
-3.15B.3. In advertising the call for expressions of interest under
+### 3.15B.3. In advertising the call for expressions of interest under
 clause 3.15B.2, AEMO must:
 
 \(a\) publish a notice on the WEM Website;
@@ -4024,7 +4024,7 @@ for publishing data related to FCESS from Chapter 10 to Chapter
 </tbody>
 </table>
 
-3.15B.4. AEMO must include in each notice referred to in clause 3.15B.3:
+### 3.15B.4. AEMO must include in each notice referred to in clause 3.15B.3:
 
 \(a\) the date and time for lodgement of an expression of interest,
 which must be in accordance with the form referred to in clause 3.15B.5;
@@ -4041,7 +4041,7 @@ Services in accordance with clause 7.13.1I; and
 \(e\) the location on the WEM Website of the expression of interest form
 referred to in clause 3.15B.5.
 
-3.15B.5. AEMO must develop and publish an expression of interest form,
+### 3.15B.5. AEMO must develop and publish an expression of interest form,
 which must include the following fields:
 
 \(a\) the type of the facility;
@@ -4068,7 +4068,7 @@ Standing Enablement Minimum limit; and
 
 \(i\) the start-up costs of the facility.
 
-3.15B.6. The information contained in any expression of interest form
+### 3.15B.6. The information contained in any expression of interest form
 submitted in accordance with this section 3.15B must be provided in good
 faith but is not binding on the respondent.
 
@@ -4092,11 +4092,11 @@ necessary.</p></th>
 </tbody>
 </table>
 
-3.15B.7. Subject to clause 3.15B.8, the information contained in any
+### 3.15B.7. Subject to clause 3.15B.8, the information contained in any
 expression of interest form submitted in accordance with this section
-3.15B is Confidential Information.
+### 3.15B is Confidential Information.
 
-3.15B.8. AEMO must provide all information contained in any expression
+### 3.15B.8. AEMO must provide all information contained in any expression
 of interest form submitted in accordance with this section 3.15B to the
 Economic Regulation Authority as soon as practicable following the
 closing date for the expressions of interest.
@@ -4118,7 +4118,7 @@ requirements.</p></th>
 </tbody>
 </table>
 
-3.15B.9. The Economic Regulation Authority may use any information
+### 3.15B.9. The Economic Regulation Authority may use any information
 provided in expressions of interest forms submitted in accordance with
 this section 3.15B in its monitoring and review functions under these
 WEM Rules, including its monitoring pursuant to clause 2.16.9, and in
@@ -4147,7 +4147,7 @@ Low Reserve Conditions.</p></th>
 
 Medium and Short Term Planning
 
-3.16. Projected Assessment of System Adequacy
+### 3.16. Projected Assessment of System Adequacy
 
 <table>
 <colgroup>
@@ -4166,7 +4166,7 @@ Procedure referred to in clause 3.16.10.</p></th>
 </tbody>
 </table>
 
-3.16.1. AEMO must conduct periodic PASA assessments in accordance with
+### 3.16.1. AEMO must conduct periodic PASA assessments in accordance with
 this section 3.16 and the WEM Procedure referred to in clause 3.16.10
 covering the following periods:
 
@@ -4196,7 +4196,7 @@ date of publication.</p></th>
 </tbody>
 </table>
 
-3.16.2. The objective of the Medium Term PASA and Short Term PASA is to:
+### 3.16.2. The objective of the Medium Term PASA and Short Term PASA is to:
 
 \(a\) provide an assessment of the likelihood and impact of security and
 reliability related scenarios on the SWIS that may affect the ability of
@@ -4217,7 +4217,7 @@ decisions about supply, demand and Outages.
 <th><p><strong>Explanatory Note</strong></p>
 <p>AEMO will require up to date information from Rule Participants to
 conduct and prepare the Medium Term PASA and Short Term PASA. Clauses
-3.16.3 to 3.16.6 set out the obligations on Rule Participants to provide
+### 3.16.3 to 3.16.6 set out the obligations on Rule Participants to provide
 that information, including additional information or clarifications and
 updated information where the information provided has materially
 changed. While AEMO will rely on that information, if AEMO considers
@@ -4234,13 +4234,13 @@ so.</p></th>
 </tbody>
 </table>
 
-3.16.3. A Rule Participant must use best endeavours to provide AEMO with
+### 3.16.3. A Rule Participant must use best endeavours to provide AEMO with
 all required information necessary for AEMO to prepare the Medium Term
 PASA and Short Term PASA as set out and in accordance with the
 timeframes specified in the WEM Procedure referred to in clause 3.16.10,
 including additional information or clarifications sought by AEMO.
 
-3.16.4. AEMO must review any information provided by Rule Participants
+### 3.16.4. AEMO must review any information provided by Rule Participants
 in accordance with clause 3.16.3 and, where necessary, seek additional
 information or clarification in accordance with the process described in
 the WEM Procedure referred to in clause 3.16.10.
@@ -4259,13 +4259,13 @@ the WEM Procedure referred to in clause 3.16.10.
 </tbody>
 </table>
 
-3.16.5. Where a Rule Participant becomes aware that the information it
+### 3.16.5. Where a Rule Participant becomes aware that the information it
 provided AEMO in accordance with clause 3.16.3 has materially changed,
 then it must re-submit the relevant information to AEMO as soon as
 practicable, and in any case in accordance with the obligations and
 timeframes described in the WEM Procedure referred to in clause 3.16.10.
 
-3.16.6. In conducting a Medium Term PASA or a Short Term PASA, AEMO may,
+### 3.16.6. In conducting a Medium Term PASA or a Short Term PASA, AEMO may,
 if AEMO considers that it is consistent with the objectives of the
 Medium Term PASA or Short Term PASA specified in clause 3.16.2, use any
 information developed by AEMO in performing its functions under these
@@ -4295,7 +4295,7 @@ Schedule Horizon is covered in section 7.3.</p></th>
 </tbody>
 </table>
 
-3.16.7. As soon as practicable following the publication of the Medium
+### 3.16.7. As soon as practicable following the publication of the Medium
 Term PASA, AEMO must publish on the WEM Website the following forecast
 demand information for the SWIS:
 
@@ -4324,7 +4324,7 @@ specified in clause 3.16.8.</p></th>
 </tbody>
 </table>
 
-3.16.8. After AEMO conducts each Medium Term PASA or Short Term PASA,
+### 3.16.8. After AEMO conducts each Medium Term PASA or Short Term PASA,
 AEMO must publish a report, which has confidential or sensitive data
 aggregated or redacted (as applicable), summarising the information from
 the relevant assessment which must, at a minimum, include:
@@ -4335,7 +4335,7 @@ the relevant assessment which must, at a minimum, include:
 
 \(c\) any projected inability to maintain Power System Reliability as
 assessed in accordance with the WEM Procedure referred to in clause
-3.3.2;
+### 3.3.2;
 
 \(d\) requirements for and forecast shortfall in Essential System
 Services; and
@@ -4363,13 +4363,13 @@ rather than wait for the next scheduled date.</p></th>
 </tbody>
 </table>
 
-3.16.9. AEMO may publish an updated version of a Medium Term PASA or a
+### 3.16.9. AEMO may publish an updated version of a Medium Term PASA or a
 Short Term PASA outside of the timeline specified in the WEM Procedure
 referred to in clause 3.16.10 where AEMO considers that there has been a
 material change in the matters impacting a Medium Term PASA or a Short
 Term PASA, and publication would be consistent with the objectives of
 either the Medium Term PASA or Short Term PASA specified in clause
-3.16.2 (as applicable).
+### 3.16.2 (as applicable).
 
 <table>
 <colgroup>
@@ -4389,7 +4389,7 @@ PASA framework.</p></th>
 </tbody>
 </table>
 
-3.16.10. AEMO must develop a WEM Procedure which sets out:
+### 3.16.10. AEMO must develop a WEM Procedure which sets out:
 
 \(a\) the process it follows in:
 
@@ -4456,9 +4456,9 @@ declare a Low Reserve Condition.</p></th>
 </tbody>
 </table>
 
-3.17. Low Reserve Conditions
+### 3.17. Low Reserve Conditions
 
-3.17.1. Where AEMO considers that, in accordance with the WEM Procedure
+### 3.17.1. Where AEMO considers that, in accordance with the WEM Procedure
 referred to in clause 3.17.11, and taking into account the requirements
 specified in the WEM Procedure referred to in clause 3.2.3, for a
 particular period of time there is a risk of:
@@ -4492,10 +4492,10 @@ infrequent so a 6 month reporting period has been provided.</p></th>
 </tbody>
 </table>
 
-3.17.2. Every six months from the New WEM Commencement Day, AEMO must
+### 3.17.2. Every six months from the New WEM Commencement Day, AEMO must
 publish a Low Reserve Condition Report in accordance with clause 3.17.3.
 
-3.17.3. A Low Reserve Condition Report must include:
+### 3.17.3. A Low Reserve Condition Report must include:
 
 \(a\) whether there have been any Low Reserve Conditions Declarations
 made;
@@ -4511,7 +4511,7 @@ Reserve Conditions,
 
 during the relevant reporting period.
 
-3.17.4. AEMO must as soon as reasonably practicable publish any Low
+### 3.17.4. AEMO must as soon as reasonably practicable publish any Low
 Reserve Condition Declaration made.
 
 <table>
@@ -4530,7 +4530,7 @@ the Low Reserve Condition Declaration.</p></th>
 </tbody>
 </table>
 
-3.17.5. The publication of a Low Reserve Condition Declaration must, to
+### 3.17.5. The publication of a Low Reserve Condition Declaration must, to
 the extent reasonably practicable, include:
 
 \(a\) the nature and extent of the Low Reserve Condition;
@@ -4547,7 +4547,7 @@ Intervention Event, an estimate of the latest time at which it would
 need to intervene through a AEMO Intervention Event if the response from
 the market would not remove the requirement to do so.
 
-3.17.6. Where AEMO has made a Low Reserve Condition Declaration, AEMO
+### 3.17.6. Where AEMO has made a Low Reserve Condition Declaration, AEMO
 must as soon as reasonably practicable publish notice of:
 
 \(a\) any cancellation of the Low Reserve Condition Declaration; or
@@ -4557,7 +4557,7 @@ considers that there is, or has been, a significant change in the
 relevant conditions impacting the status or circumstances of the Low
 Reserve Condition.
 
-3.17.7. AEMO may, if it reasonably considers it is required in order to
+### 3.17.7. AEMO may, if it reasonably considers it is required in order to
 estimate, or support the estimate of the latest time referred to in
 clause 3.17.5(d), request information from Rule Participants.
 
@@ -4575,11 +4575,11 @@ clause 3.17.5(d), request information from Rule Participants.
 </tbody>
 </table>
 
-3.17.8. A Rule Participant must comply with a request made by AEMO under
+### 3.17.8. A Rule Participant must comply with a request made by AEMO under
 clause 3.17.7 within the time specified in the request or another time
 agreed with AEMO.
 
-3.17.9. AEMO must regularly review an estimate of the latest time
+### 3.17.9. AEMO must regularly review an estimate of the latest time
 referred to in clause 3.17.5(d) and, where it considers that the
 estimate is not accurate, publish a revised estimate.
 
@@ -4603,7 +4603,7 @@ necessary.</p></th>
 </tbody>
 </table>
 
-3.17.10. Any information provided by a Rule Participant in response to a
+### 3.17.10. Any information provided by a Rule Participant in response to a
 request under clause 3.17.8 is Confidential Information.
 
 <table>
@@ -4624,7 +4624,7 @@ in order to provide more flexibility.</p></th>
 </tbody>
 </table>
 
-3.17.11. AEMO must develop a WEM Procedure that sets out how AEMO will
+### 3.17.11. AEMO must develop a WEM Procedure that sets out how AEMO will
 assess a Low Reserve Condition and make a Low Reserve Condition
 Declaration, which must:
 
@@ -4651,7 +4651,7 @@ follow when making a Low Reserve Condition Declaration; and
 resolving a Low Reserve Condition, including describing general
 intervention principles and the interaction with section 7.7.
 
-3.17.12. The assessment of the probability levels described in the WEM
+### 3.17.12. The assessment of the probability levels described in the WEM
 Procedure referred to in clause 3.17.11(d) must be consistent with good
 electricity industry practice and must take into account:
 
@@ -4685,13 +4685,13 @@ that time.</p></th>
 </tbody>
 </table>
 
-3.18. Outages
+### 3.18. Outages
 
-3.18.1. The obligations specified in this section 3.18 and sections
-3.18A to 3.21 apply to Equipment List Facilities and Self-Scheduling
+### 3.18.1. The obligations specified in this section 3.18 and sections
+### 3.18A to 3.21 apply to Equipment List Facilities and Self-Scheduling
 Outage Facilities.
 
-3.18.2. Where a reference is made to an Outage of a Registered Facility
+### 3.18.2. Where a reference is made to an Outage of a Registered Facility
 or item of equipment in this section 3.18 and sections 3.18A to 3.21,
 this includes partial and complete outages and de-ratings of the
 Registered Facility or item of equipment.
@@ -4711,7 +4711,7 @@ restructured to specifically relate to the definition of an Outage.</p>
 Programmes with Capacity Credits to be included on the Equipment
 List.</p>
 <p>However, the outage quantity calculations in clauses 3.21.6 to
-3.21.8B do not work properly for Demand Side Programmes and produce
+### 3.21.8B do not work properly for Demand Side Programmes and produce
 capacity adjusted outage quantities that are always equal to zero. While
 the outage quantity calculations could be enhanced to account for Demand
 Side Programmes properly, the calculation of a non-zero Forced Outage
@@ -4722,7 +4722,7 @@ quantities.</p>
 <p>Addressing these issues would require material changes, which could
 be superseded by the outcomes of the RCM Review. For this reason, Energy
 Policy WA proposes to make the following changes to clauses 3.18.3,
-3.18.4 and 3.18A.3 to remove Demand Side Programmes from the Equipment
+### 3.18.4 and 3.18A.3 to remove Demand Side Programmes from the Equipment
 List, and to reconsider the treatment of Demand Side Programme outages
 more holistically as part of the RCM Review.</p>
 <p>Clause 3.18.3 is further amended to clarify:</p>
@@ -4736,7 +4736,7 @@ Facilities that contain an Intermittent Generating System;</p></li>
 <li><p>the references to Standing Data items in clause 3.18.2(c)(ii);
 and</p></li>
 <li><p>that the temperature de-rating limitations specified in clause
-3.18.2(d) do not only apply to Scheduled Facilities.</p></li>
+### 3.18.2(d) do not only apply to Scheduled Facilities.</p></li>
 </ul></th>
 </tr>
 </thead>
@@ -4744,7 +4744,7 @@ and</p></li>
 </tbody>
 </table>
 
-3.18.3. An outage (“**Outage**”):
+### 3.18.3. An outage (“**Outage**”):
 
 \(a\) occurs where any Outage Capability of an Outage Facility could
 not, or would not be able to, fully respond to a permitted instruction
@@ -4801,14 +4801,14 @@ Procedure referred to in clause 3.18.4.
 be documented by AEMO in a WEM Procedure. Clause 3.18.4 is amended to
 provide reference to specific information requirements that must be
 include in Outage publication, as described in amended clauses 3.22.1,
-3.22.1A and 3.22.2.</p></th>
+### 3.22.1A and 3.22.2.</p></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
 
-3.18.4. AEMO must develop a WEM Procedure dealing with:
+### 3.18.4. AEMO must develop a WEM Procedure dealing with:
 
 \(a\) the submission, evaluation and approval of Outage Plans, including
 applicable timelines, which must include a requirement for AEMO to
@@ -4875,20 +4875,20 @@ implications.</p></th>
 </tbody>
 </table>
 
-3.18A. Equipment List and Self-Scheduling Outage Facilities
+### 3.18A. Equipment List and Self-Scheduling Outage Facilities
 
-3.18A.1. AEMO must maintain a list of all equipment on the SWIS that it
+### 3.18A.1. AEMO must maintain a list of all equipment on the SWIS that it
 determines is subject to Outage scheduling in accordance with this
 section 3.18A and sections 3.18B to 3.21 (“**Equipment List**”).
 
-3.18A.2. AEMO must publish the Equipment List on the WEM Website and
+### 3.18A.2. AEMO must publish the Equipment List on the WEM Website and
 must, as soon as practicable after it becomes aware of an error relating
 to the Equipment List, or otherwise determines that a change is required
 to the Equipment List, update the Equipment List to address the error or
 reflect the change and publish the updated Equipment List on the WEM
 Website.
 
-3.18A.3. The Equipment List must include:
+### 3.18A.3. The Equipment List must include:
 
 \(a\) any part of a transmission system that could limit the output of
 an Energy Producing System that AEMO has included on the Equipment List,
@@ -4912,20 +4912,20 @@ scheduling to maintain Power System Security and Power System
 Reliability, which may include secondary network equipment, or
 communication and control systems, however described by AEMO.
 
-3.18A.4. The Equipment List may specify that an Equipment List Facility
+### 3.18A.4. The Equipment List may specify that an Equipment List Facility
 is subject to Outage scheduling by AEMO only at certain times of the
 year.
 
-3.18A.5. A Market Participant and a Network Operator must schedule
+### 3.18A.5. A Market Participant and a Network Operator must schedule
 Outages for each of its Equipment List Facilities in accordance with
 this section 3.18A and sections 3.18B to 3.21.
 
-3.18A.6. AEMO must maintain a list of Self-Scheduling Outage Facilities
+### 3.18A.6. AEMO must maintain a list of Self-Scheduling Outage Facilities
 that it determines must submit Outage Plans to AEMO in accordance with
 this section 3.18A and sections 3.18B to 3.21 (“**Self-Scheduling Outage
 Facility List**”).
 
-3.18A.7. AEMO must publish the Self-Scheduling Outage Facility List on
+### 3.18A.7. AEMO must publish the Self-Scheduling Outage Facility List on
 the WEM Website and must, as soon as practicable after it becomes aware
 of an error relating to the Self-Scheduling Outage Facility List, or
 otherwise determines that a change is required to the Self-Scheduling
@@ -4933,7 +4933,7 @@ Outage Facility List, update the Self-Scheduling Outage Facility List to
 address the error or reflect the change and publish the updated
 Self-Scheduling Outage Facility List on the WEM Website.
 
-3.18A.8. The Self-Scheduling Outage Facility List must include:
+### 3.18A.8. The Self-Scheduling Outage Facility List must include:
 
 \(a\) any Scheduled Facility, Semi-Scheduled Facility, Non-Scheduled
 Facility, and any Energy Producing System serving an Intermittent Load
@@ -4944,11 +4944,11 @@ Facility; and
 to AEMO to maintain Power System Security and Power System Reliability
 however described by AEMO, which may include secondary equipment.
 
-3.18A.9. The Self-Scheduling Outage Facility List may specify that a
+### 3.18A.9. The Self-Scheduling Outage Facility List may specify that a
 Self-Scheduling Outage Facility is required to submit Outage Plans to
 AEMO only at certain times of the year.
 
-3.18A.10. A Market Participant and a Network Operator must submit Outage
+### 3.18A.10. A Market Participant and a Network Operator must submit Outage
 Plans to AEMO for each of its Self-Scheduling Outage Facilities in
 accordance with this section 3.18A and sections 3.18B to 3.21.
 
@@ -4967,9 +4967,9 @@ respect to the submission of Outage Plans.</p></th>
 </tbody>
 </table>
 
-3.18B. Submission of Outage Plan
+### 3.18B. Submission of Outage Plan
 
-3.18B.1. An outage plan (“**Outage Plan**”) must:
+### 3.18B.1. An outage plan (“**Outage Plan**”) must:
 
 \(a\) relate to an Outage of the Facility;
 
@@ -4977,7 +4977,7 @@ respect to the submission of Outage Plans.</p></th>
 
 \(c\) only be for the purposes of Outage Facility Maintenance.
 
-3.18B.2. A Market Participant or Network Operator must submit a request
+### 3.18B.2. A Market Participant or Network Operator must submit a request
 to AEMO to approve an Outage Plan for an Equipment List Facility or
 Self-Scheduling Outage Facility.
 
@@ -5013,7 +5013,7 @@ service.</p></li>
 </tbody>
 </table>
 
-3.18B.3. An Outage Plan must contain:
+### 3.18B.3. An Outage Plan must contain:
 
 \(a\) details of the Outage Plan including:
 
@@ -5048,7 +5048,7 @@ as specified in the WEM Procedure referred to in clause 3.18.4;
 \(c\) any other details specified in the WEM Procedure referred to in
 clause 3.18.4.
 
-3.18B.4. Despite clause 3.18B.8(c)(i), a Market Participant or Network
+### 3.18B.4. Despite clause 3.18B.8(c)(i), a Market Participant or Network
 Operator may submit an Outage Plan for approval where, for that Outage
 Plan ("**Availability Declaration Exemption**"):
 
@@ -5078,7 +5078,7 @@ Participant or Network Operator is not aware of any other reason why the
 relevant Outage Capability would otherwise be affected if the Outage
 Plan did not proceed.
 
-3.18B.5. If, at the time a Market Participant submits an Outage Plan
+### 3.18B.5. If, at the time a Market Participant submits an Outage Plan
 that is a request for Opportunistic Maintenance for a Scheduled
 Facility:
 
@@ -5117,7 +5117,7 @@ Facility Maintenance is intended to commence.
 </tbody>
 </table>
 
-3.18B.6. An Outage Plan and any information submitted as part of the
+### 3.18B.6. An Outage Plan and any information submitted as part of the
 request to approve an Outage Plan by a Market Participant or a Network
 Operator must represent the good faith intention of the Market
 Participant or Network Operator that the requested Outage is for the
@@ -5137,13 +5137,13 @@ purpose of Outage Facility Maintenance.
 </tbody>
 </table>
 
-3.18B.7. An Outage Plan and any information submitted as part of the
+### 3.18B.7. An Outage Plan and any information submitted as part of the
 request to approve an Outage Plan for a Self-Scheduling Outage Facility,
 must represent the good faith intention of the Market Participant or
 Network Operator that the Outage is for the purpose of Outage Facility
 Maintenance.
 
-3.18B.8. A Market Participant or Network Operator must submit an Outage
+### 3.18B.8. A Market Participant or Network Operator must submit an Outage
 Plan in accordance with the following requirements, as applicable:
 
 \(a\) for an Outage exceeding 24 hours in duration for an Equipment List
@@ -5205,9 +5205,9 @@ respect to outage coordination.</p></th>
 </tbody>
 </table>
 
-3.18C. Outage Coordination
+### 3.18C. Outage Coordination
 
-3.18C.1. For the purposes of this section 3.18C:
+### 3.18C.1. For the purposes of this section 3.18C:
 
 \(a\) a Network Operator that submits an Outage Plan that impacts an
 Outage Facility (other than a Load) of a Market Participant is an
@@ -5219,7 +5219,7 @@ impacted by a Network Operator is an “Impacted Participant”,
 where "impacts" and "impacted" are determined as per the process
 identified in the WEM Procedure in clause 3.18.4.
 
-3.18C.2. An Outage Plan that is submitted by an Impacting Participant,
+### 3.18C.2. An Outage Plan that is submitted by an Impacting Participant,
 who is aware of an impact, must include:
 
 \(a\) a confirmation by the Impacting Participant that it has notified
@@ -5231,7 +5231,7 @@ Plan and the outcome of those discussions,
 
 at least 6 months prior to the Outage Commencement Interval.
 
-3.18C.3. An Impacted Participant may request AEMO to undertake Outage
+### 3.18C.3. An Impacted Participant may request AEMO to undertake Outage
 coordination where:
 
 \(a\) it reasonably considers that its Outage Facility will be unduly
@@ -5245,14 +5245,14 @@ the impact on its Outage Facility; and
 \(c\) its request is made in accordance with the process specified in
 the WEM Procedure referred to in clause 3.18.4.
 
-3.18C.4. Following a request from an Impacted Participant under clause
-3.18C.3, AEMO must determine, acting reasonably, and in accordance with
+### 3.18C.4. Following a request from an Impacted Participant under clause
+### 3.18C.3, AEMO must determine, acting reasonably, and in accordance with
 the principles specified in clause 3.18C.5 and the WEM Procedure
 referred to in clause 3.18.4, whether the Outage Plan submitted by the
 Impacting Participant should be revised and the revisions that are
 required to be made.
 
-3.18C.5. When making a determination under clause 3.18C.4, AEMO must
+### 3.18C.5. When making a determination under clause 3.18C.4, AEMO must
 have regard to the following principles in the following order of
 importance:
 
@@ -5280,27 +5280,27 @@ not be varied as requested by the Impacted Participant;
 \(g\) any other information provided by the Impacting Participant or an
 Impacted Participant to AEMO as part of the Outage coordination.
 
-3.18C.6. AEMO must notify each Impacted Participant and the Impacting
+### 3.18C.6. AEMO must notify each Impacted Participant and the Impacting
 Participant of its determination under clause 3.18C.4 as soon as
 practicable.
 
-3.18C.7. AEMO may include in the Outage coordination any other Impacted
+### 3.18C.7. AEMO may include in the Outage coordination any other Impacted
 Participant when undertaking Outage coordination whether or not that
 Impacted Participant has requested Outage coordination by AEMO.
 
-3.18C.8. In making a determination in respect of the coordination of an
+### 3.18C.8. In making a determination in respect of the coordination of an
 Outage, AEMO must consult, in accordance with any process specified in
 the WEM Procedure referred to in clause 3.18.4, with each Impacted
 Participant.
 
-3.18C.9. A Market Participant and Network Operator must comply with a
+### 3.18C.9. A Market Participant and Network Operator must comply with a
 determination by AEMO under clause 3.18C.4, and, if required, revise or
 withdraw the Outage Plan.
 
-3.18C.10. Where AEMO notifies a Market Participant or Network Operator
+### 3.18C.10. Where AEMO notifies a Market Participant or Network Operator
 that an Outage Plan submitted by it is unacceptable, and the Economic
 Regulation Authority does not give AEMO a direction under clause
-3.18F.6(e), then AEMO and the Market Participant or Network Operator
+### 3.18F.6(e), then AEMO and the Market Participant or Network Operator
 must use best endeavours to agree an alternative time for the relevant
 Outage Plan.
 
@@ -5320,9 +5320,9 @@ Market Information classification framework.</p></th>
 </tbody>
 </table>
 
-3.18C.11. \[Blank\]
+### 3.18C.11. \[Blank\]
 
-3.18C.12. AEMO must set out the processes for, and any other matters
+### 3.18C.12. AEMO must set out the processes for, and any other matters
 relating to, Outage coordination in the WEM Procedure referred to in
 clause 3.18.4, which must include:
 
@@ -5330,7 +5330,7 @@ clause 3.18.4, which must include:
 make a request for Outage coordination under clause 3.18C.3;
 
 \(b\) the types of determinations that AEMO may make under clause
-3.18C.4, which may be more than one, including:
+### 3.18C.4, which may be more than one, including:
 
 i\. that no revisions to the Outage Plan submitted by the Impacting
 Participant are required;
@@ -5370,7 +5370,7 @@ respect to revisions to Outage Plans.</p></th>
 </tbody>
 </table>
 
-3.18D. Outage Revision
+### 3.18D. Outage Revision
 
 <table>
 <colgroup>
@@ -5393,7 +5393,7 @@ replaced by a later Dispatch Interval under this clause.</p></li>
 </tbody>
 </table>
 
-3.18D.1. A Market Participant or a Network Operator may revise a Planned
+### 3.18D.1. A Market Participant or a Network Operator may revise a Planned
 Outage at any time prior to the completion of the Planned Outage,
 provided:
 
@@ -5425,7 +5425,7 @@ been rejected or withdrawn it should no longer be revised.</p></th>
 </tbody>
 </table>
 
-3.18D.2. An Outage Plan that has not been rejected by AEMO or withdrawn
+### 3.18D.2. An Outage Plan that has not been rejected by AEMO or withdrawn
 by the Rule Participant may be revised at any time as long as the
 revision addresses each of the requirements specified in clause 3.18B.8.
 
@@ -5446,7 +5446,7 @@ to increase a Remaining Available Capacity.</p></th>
 </tbody>
 </table>
 
-3.18D.3. AEMO may, but is not required to, undertake an Outage
+### 3.18D.3. AEMO may, but is not required to, undertake an Outage
 Evaluation for an Outage Plan revised under clause 3.18D.1 where the
 reason for the revision is one or more of the following:
 
@@ -5457,15 +5457,15 @@ is proposed to be increased from the previous submission; or
 
 \(c\) the Outage Contingency Plan is proposed to be varied.
 
-3.18D.4. Where an Outage Plan no longer meets the requirements detailed
+### 3.18D.4. Where an Outage Plan no longer meets the requirements detailed
 in 3.18B.8, the Market Participant or Network Operator must revise, or
 withdraw, the Outage Plan.
 
-3.18D.5. Other than for Opportunistic Maintenance, despite a revision to
+### 3.18D.5. Other than for Opportunistic Maintenance, despite a revision to
 an Outage Plan, the Outage Plan will retain the original Outage First
 Submission Date.
 
-3.18D.6. Subject to clause 3.18D.3, AEMO must assess a revision to an
+### 3.18D.6. Subject to clause 3.18D.3, AEMO must assess a revision to an
 Outage Plan in accordance with the Outage Evaluation Criteria.
 
 <table>
@@ -5483,13 +5483,13 @@ penalty provisions.</p></th>
 </tbody>
 </table>
 
-3.18D.7. A Market Participant or Network Operator that no longer intends
+### 3.18D.7. A Market Participant or Network Operator that no longer intends
 that the relevant Outage Capability of its Outage Facility will be
 subject to an Outage for the purpose of Outage Facility Maintenance must
 notify AEMO and withdraw the Outage Plan or Planned Outage as soon as
 practicable.
 
-3.18D.8. A Market Participant or Network Operator who becomes aware of
+### 3.18D.8. A Market Participant or Network Operator who becomes aware of
 any changes to the information in an Outage Plan submitted to AEMO under
 clause 3.18B.2 must revise or withdraw the Outage Plan as soon as
 practicable.
@@ -5512,7 +5512,7 @@ in clause 3.18B.8.</p></th>
 </tbody>
 </table>
 
-3.18D.9. A Market Participant or Network Operator who is aware, or ought
+### 3.18D.9. A Market Participant or Network Operator who is aware, or ought
 to be aware in the circumstances that, except where an Availability
 Declaration Exemption applies, if the Outage Plan was rejected, all of
 the relevant Outage Capability would still be subject to an Outage for
@@ -5541,7 +5541,7 @@ respect to evaluation of Outage Plans.</p></th>
 </tbody>
 </table>
 
-3.18E. Outage Evaluation
+### 3.18E. Outage Evaluation
 
 <table>
 <colgroup>
@@ -5558,7 +5558,7 @@ Outage Plan as soon as practicable after it has been revised.</p></th>
 </tbody>
 </table>
 
-3.18E.1. For each Outage Plan that AEMO is required to undertake an
+### 3.18E.1. For each Outage Plan that AEMO is required to undertake an
 Outage Evaluation, AEMO must:
 
 \(a\) where possible to do so, and subject to all required information
@@ -5575,7 +5575,7 @@ is at risk of rejection; and
 \(d\) keep a record of the Outage Evaluation, together with the reasons
 for each Outage Evaluation and assessment.
 
-3.18E.2. For an Outage Plan that is not yet approved, if:
+### 3.18E.2. For an Outage Plan that is not yet approved, if:
 
 \(a\) the relevant Outage Capability is subject to a Planned Outage and
 AEMO has received a notification under clause 3.18D.9 in relation to
@@ -5583,7 +5583,7 @@ that Planned Outage;
 
 \(b\) the relevant Outage Capability is subject to a Planned Outage and
 AEMO is aware that it should have received a notification under clause
-3.18D.9 in relation to that Planned Outage; or
+### 3.18D.9 in relation to that Planned Outage; or
 
 \(c\) the relevant Outage Capability is subject to a Forced Outage,
 
@@ -5596,17 +5596,17 @@ Participant or Network Operator that the relevant Outage Capability
 would not be subject to an Outage before the Outage Commencement
 Interval in the Outage Plan that is awaiting approval.
 
-3.18E.3. AEMO must reject an Outage Plan for an Equipment List Facility
+### 3.18E.3. AEMO must reject an Outage Plan for an Equipment List Facility
 or Self-Scheduling Outage Facility if it is aware that any of the
 requirements for an Outage Plan in clause 3.18B.8 have not been met or
 complied with.
 
-3.18E.4. If an Outage Plan for a Self-Scheduling Outage Facility is not
+### 3.18E.4. If an Outage Plan for a Self-Scheduling Outage Facility is not
 rejected by AEMO under clause 3.18E.3, AEMO is deemed to have approved
 the Outage Plan from the time AEMO received the request for approval of
 the Outage Plan under clause 3.18B.2.
 
-3.18E.5. AEMO must evaluate all Outage Plans for Equipment List
+### 3.18E.5. AEMO must evaluate all Outage Plans for Equipment List
 Facilities as required by these WEM Rules by assessing the Outage Plan
 against the Outage Evaluation Criteria (“**Outage Evaluation**”). This
 evaluation must:
@@ -5626,7 +5626,7 @@ Mandatory Routine Maintenance, not result in the Outage Plan being
 rejected due to that Mandatory Routine Maintenance not being completed
 before the applicable deadline.
 
-3.18E.6. In respect of an Outage Evaluation for an Outage Plan of an
+### 3.18E.6. In respect of an Outage Evaluation for an Outage Plan of an
 Equipment List Facility for Opportunistic Maintenance, AEMO:
 
 \(a\) may reject the Outage Plan if it considers there is inadequate
@@ -5640,7 +5640,7 @@ not been notified of the Outage Evaluation outcome; and otherwise
 \(c\) must approve the Outage Plan if it considers the Outage Evaluation
 Criteria has been met.
 
-3.18E.7. In respect of an Outage Evaluation for an Outage Plan of an
+### 3.18E.7. In respect of an Outage Evaluation for an Outage Plan of an
 Equipment List Facility that is not for Opportunistic Maintenance, AEMO:
 
 \(a\) must approve or reject each Outage Plan using the Outage
@@ -5674,7 +5674,7 @@ Evaluation outcome; and
 \(g\) may consider more than one Outage Plan together and approve or
 reject the Outage Plans as a group.
 
-3.18E.8. The Outage Evaluation Criteria ("**Outage Evaluation
+### 3.18E.8. The Outage Evaluation Criteria ("**Outage Evaluation
 Criteria**") is met when in AEMO’s opinion there will be sufficient
 Network in service and capacity available for dispatch to maintain Power
 System Security and Power System Reliability in accordance with the
@@ -5682,7 +5682,7 @@ Power System Security Principles and Power System Reliability
 Principles, taking into account the methods and criteria specified in
 the WEM Procedure referred to in clause 3.18.4.
 
-3.18E.9. AEMO may undertake a single Outage Evaluation for a group of
+### 3.18E.9. AEMO may undertake a single Outage Evaluation for a group of
 related Outage Plans. When a group of Outage Plans that are considered
 together do not meet the Outage Evaluation Criteria, then AEMO must
 follow the process for prioritisation in the WEM Procedure referred to
@@ -5698,7 +5698,7 @@ in clause 3.18.4.
 <p>Clause 3.18E.10 is amended to:</p>
 <ul>
 <li><p>remove clause 3.18E.10(d), because it is covered by clause
-3.18E.10(e) (now renumbered to clause 3.18E.10(d);</p></li>
+### 3.18E.10(e) (now renumbered to clause 3.18E.10(d);</p></li>
 <li><p>clarify that where a Rule Participant has revised an Outage Plan
 prior to it being approved, while AEMO will generally give priority
 based on its first submission date, AEMO must also consider the impact
@@ -5716,7 +5716,7 @@ quantities associated with an Outage Plan.</p></li>
 </tbody>
 </table>
 
-3.18E.10. AEMO must set out the processes for, and any other matters
+### 3.18E.10. AEMO must set out the processes for, and any other matters
 relating to, the prioritisation of Outage Plans in the WEM Procedure
 referred to in clause 3.18.4, which must include, subject to maintaining
 Power System Security and Power System Reliability, that AEMO will:
@@ -5745,7 +5745,7 @@ iii\. the ability to reschedule Outage Plans including considering the
 Remaining Available Capacity, as relevant, for the relevant Outage
 Capability over the Outage Period.
 
-3.18E.11. AEMO may reject a Planned Outage for an Equipment List
+### 3.18E.11. AEMO may reject a Planned Outage for an Equipment List
 Facility or a Self-Scheduling Outage Facility where:
 
 \(a\) there has been a change in power system conditions after AEMO has
@@ -5760,7 +5760,7 @@ ii\. in the case of a Self-Scheduling Outage Facility, if the Planned
 Outage were to proceed it would result in a risk to Power System
 Security or Power System Reliability.
 
-3.18E.12. AEMO must inform the relevant Market Participant or Network
+### 3.18E.12. AEMO must inform the relevant Market Participant or Network
 Operator immediately if it makes a decision to reject a Planned Outage
 under clause 3.18E.11.
 
@@ -5781,7 +5781,7 @@ able to be revised as per the amendment to clause 3.18D.2.</p></th>
 </tbody>
 </table>
 
-3.18E.13. Where AEMO rejects an Outage Plan in accordance with this
+### 3.18E.13. Where AEMO rejects an Outage Plan in accordance with this
 section 3.18E, AEMO must provide reasons to the Rule Participant that
 submitted the Outage Plan.
 
@@ -5800,17 +5800,17 @@ provision.</p></th>
 </tbody>
 </table>
 
-3.18E.14. Subject to clause 3.18E.15, a Market Participant and a Network
+### 3.18E.14. Subject to clause 3.18E.15, a Market Participant and a Network
 Operator must comply with a decision by AEMO not to approve or to reject
 an Outage Plan, and the relevant Market Participant or Network Operator
 must ensure that the proposed Outage is not taken unless otherwise
 approved under a revision to the Outage Plan or new Outage Plan.
 
-3.18E.15. A Market Participant and a Network Operator is not required to
+### 3.18E.15. A Market Participant and a Network Operator is not required to
 comply with clause 3.18E.14 if such compliance would endanger the safety
 of any person, damage equipment, or violate any applicable law.
 
-3.18E.16. Where a Market Participant or a Network Operator cannot comply
+### 3.18E.16. Where a Market Participant or a Network Operator cannot comply
 with clause 3.18E.14, the Market Participant or Network Operator must
 notify AEMO as soon as practicable and provide the reason why it cannot
 comply, which must be a reason specified in clause 3.18E.15.
@@ -5830,9 +5830,9 @@ respect to AEMO’s decisions that may be reviewed by the ERA.</p></th>
 </tbody>
 </table>
 
-3.18F. Economic Regulation Authority Review of AEMO Decisions
+### 3.18F. Economic Regulation Authority Review of AEMO Decisions
 
-3.18F.1. A Market Participant or Network Operator responsible for an
+### 3.18F.1. A Market Participant or Network Operator responsible for an
 Equipment List Facility may request the Economic Regulation Authority to
 reassess the inclusion of the Equipment List Facility on the Equipment
 List.
@@ -5851,7 +5851,7 @@ List.
 </tbody>
 </table>
 
-3.18F.2. Following a request by a Market Participant or Network Operator
+### 3.18F.2. Following a request by a Market Participant or Network Operator
 under clause 3.18F.1, the Economic Regulation Authority must consult
 with AEMO and the Market Participant or Network Operator as to whether
 the Equipment List Facility should remain on the Equipment List.
@@ -5870,7 +5870,7 @@ the Equipment List Facility should remain on the Equipment List.
 </tbody>
 </table>
 
-3.18F.3. The Economic Regulation Authority may direct AEMO to remove an
+### 3.18F.3. The Economic Regulation Authority may direct AEMO to remove an
 Equipment List Facility from the Equipment List where, as a result of a
 reassessment requested under clause 3.18F.1, it considers that:
 
@@ -5895,7 +5895,7 @@ been on the Equipment List.
 </tbody>
 </table>
 
-3.18F.4. If the Economic Regulation Authority gives AEMO a direction
+### 3.18F.4. If the Economic Regulation Authority gives AEMO a direction
 under clause 3.18F.3, then AEMO must, as soon as practicable, remove the
 Equipment List Facility specified in the direction from the Equipment
 List and publish the updated Equipment List on the WEM Website.
@@ -5916,7 +5916,7 @@ improvements.</p></th>
 </tbody>
 </table>
 
-3.18F.5. Where AEMO notifies a Market Participant or Network Operator
+### 3.18F.5. Where AEMO notifies a Market Participant or Network Operator
 that an Outage Plan has been rejected by AEMO, the Market Participant or
 Network Operator may apply to the Economic Regulation Authority to
 reassess the decision on the grounds that AEMO has not followed the WEM
@@ -5925,7 +5925,7 @@ Business Days of being notified of AEMO’s decision and no later than
 five Business Days prior to the date of the proposed Outage Commencement
 Interval.
 
-3.18F.6. If an application under clause 3.18F.5 to reassess AEMO’s
+### 3.18F.6. If an application under clause 3.18F.5 to reassess AEMO’s
 decision is made:
 
 \(a\) the Market Participant or Network Operator must submit a written
@@ -5940,7 +5940,7 @@ reassessment, AEMO’s decision continues to have effect;
 relevant to the assessment of the Outage Plan rejected to the Economic
 Regulation Authority within two Business Days of being informed of an
 application by a Market Participant or Network Operator under clause
-3.18F.6(a);
+### 3.18F.6(a);
 
 \(d\) the Economic Regulation Authority must consult with AEMO and the
 Market Participant or Network Operator concerning the Outage Plan and
@@ -5975,7 +5975,7 @@ ERA.</p></th>
 </tbody>
 </table>
 
-3.18G. Economic Regulation Authority Study of the Impact of Network
+### 3.18G. Economic Regulation Authority Study of the Impact of Network
 Operator Outages on the Market
 
 <table>
@@ -5994,7 +5994,7 @@ Market Objectives.</p></th>
 </tbody>
 </table>
 
-3.18G.1. At least once in every five year period starting from the New
+### 3.18G.1. At least once in every five year period starting from the New
 WEM Commencement Day, the Economic Regulation Authority must conduct an
 economic study on the impact of Network Operator Outages on the market
 against the Wholesale Market Objectives. In conducting the study, the
@@ -6017,7 +6017,7 @@ Outages on the market against the Wholesale Market Objectives.</p></th>
 </tbody>
 </table>
 
-3.18G.2. At the conclusion of a review under clause 3.18G.1, Economic
+### 3.18G.2. At the conclusion of a review under clause 3.18G.1, Economic
 Regulation Authority must publish:
 
 \(a\) the inputs and results of the economic study;
@@ -6046,14 +6046,14 @@ changes in its report.</p></th>
 </tbody>
 </table>
 
-3.18G.3. If the Economic Regulation Authority recommends any changes to
+### 3.18G.3. If the Economic Regulation Authority recommends any changes to
 the WEM Rules or WEM Procedures in a report published under clause
-3.18G.2(c), the Economic Regulation Authority must submit a Rule Change
+### 3.18G.2(c), the Economic Regulation Authority must submit a Rule Change
 Proposal in accordance with clause 2.5.1 to effect the change.
 
-3.18GA. Coordinator Review of Outage Planning Process
+### 3.18GA. Coordinator Review of Outage Planning Process
 
-3.18GA.1. At least once in every five year period starting the New WEM
+### 3.18GA.1. At least once in every five year period starting the New WEM
 Commencement Day, the Coordinator, with the assistance of AEMO, must
 conduct a review of the Outage planning process against the Wholesale
 Market Objectives. At a minimum, the review must include:
@@ -6064,9 +6064,9 @@ Criteria; and
 \(b\) a public consultation process with Rule Participants,
 
 and must have regard to the most recent review conducted under clause
-3.18G.1.
+### 3.18G.1.
 
-3.18GA.2. At the conclusion of a review under clause 3.18GA.1, the
+### 3.18GA.2. At the conclusion of a review under clause 3.18GA.1, the
 Coordinator must publish:
 
 \(a\) the inputs and results of the technical study;
@@ -6080,7 +6080,7 @@ process, formulated as one or more WEM Rule Change Proposals,
 recommended WEM Procedure changes or recommended changes to other
 relevant instruments (e.g. Access Code).
 
-3.18GA.3. If the Coordinator recommends any changes to the WEM Rules in
+### 3.18GA.3. If the Coordinator recommends any changes to the WEM Rules in
 a report published under clause 3.18GA.2(c), the Coordinator must
 progress a Rule Change Proposal in accordance with clause 2.5.1 to
 effect the change.
@@ -6107,31 +6107,31 @@ from existing clause 3.19.12(f) to Chapter 9 – Settlement.</p></th>
 </tbody>
 </table>
 
-3.18H. Outage Compensation
+### 3.18H. Outage Compensation
 
-3.18H.1. Where AEMO rejects a Planned Outage within 48 hours of the
+### 3.18H.1. Where AEMO rejects a Planned Outage within 48 hours of the
 Outage Commencement Interval for the Outage Plan then, subject to clause
-3.18H.2, the Market Participant (“**the claimant**”) may claim
+### 3.18H.2, the Market Participant (“**the claimant**”) may claim
 compensation from AEMO.
 
-3.18H.2. Compensation will only be paid if the Outage Plan rejected by
+### 3.18H.2. Compensation will only be paid if the Outage Plan rejected by
 AEMO under clause 3.18H.1 had an Outage Plan First Submission Date that
 was at least one year in advance of the Outage Commencement Interval for
 the Outage Plan.
 
-3.18H.3. Compensation will be limited to the additional maintenance
+### 3.18H.3. Compensation will be limited to the additional maintenance
 costs directly incurred by the claimant by AEMO rejecting the relevant
 Outage Plan. For the avoidance of doubt, compensation will not be paid
 for Opportunistic Maintenance.
 
-3.18H.4. A claimant wishing to make a claim for compensation under
+### 3.18H.4. A claimant wishing to make a claim for compensation under
 clause 3.18H.1 must submit a written request to AEMO within three months
 of AEMO’s decision to reject the approved Outage Plan, and provide
 invoices and other documents evidencing the costs referred to in clause
-3.18H.3.
+### 3.18H.3.
 
-3.18H.5. AEMO must in respect of a claim for compensation under clause
-3.18H.1:
+### 3.18H.5. AEMO must in respect of a claim for compensation under clause
+### 3.18H.1:
 
 \(a\) determine the amount of compensation to be paid to a claimant,
 within one month of AEMO receiving the claim;
@@ -6177,12 +6177,12 @@ transitional provisions will deal with implementation timing.</p>
 </tbody>
 </table>
 
-3.19. Outage Intention Plans
+### 3.19. Outage Intention Plans
 
-3.19.1. Subject to clause 3.19.3, Market Participants and Network
+### 3.19.1. Subject to clause 3.19.3, Market Participants and Network
 Operators must submit an Outage Intention Plan that complies with the
 requirements contained in the WEM Procedure referred to in clause
-3.19.11 to AEMO by 1 March annually. An Outage Intention Plan:
+### 3.19.11 to AEMO by 1 March annually. An Outage Intention Plan:
 
 \(a\) must represent the Market Participant's or Network Operator's
 reasonable estimate of its expected Outages for the following calendar
@@ -6191,48 +6191,48 @@ year; and
 \(b\) is not binding on AEMO, the Market Participants or Network
 Operators.
 
-3.19.2. A Market Participant or Network Operator may revise an Outage
+### 3.19.2. A Market Participant or Network Operator may revise an Outage
 Intention Plan submitted in accordance with clause 3.19.1 before 1 March
 annually.
 
-3.19.3. A Market Participant and a Network Operator is not required to
+### 3.19.3. A Market Participant and a Network Operator is not required to
 comply with this section 3.19 in relation to a Self-Scheduling Outage
 Facility unless directed by AEMO in accordance with clause 3.19.4.
 
-3.19.4 AEMO may direct a Self-Scheduling Outage Facility that is
+### 3.19.4 AEMO may direct a Self-Scheduling Outage Facility that is
 required to comply with this section 3.19.
 
-3.19.5. AEMO must confirm receipt of an Outage Intention Plan or a
+### 3.19.5. AEMO must confirm receipt of an Outage Intention Plan or a
 revised Outage Intention Plan submitted by a Market Participant or a
 Network Operator in accordance with clause 3.19.1, 3.19.2 or 3.19.9, as
 applicable.
 
-3.19.6. AEMO must consider all validly submitted Outage Intention Plans
+### 3.19.6. AEMO must consider all validly submitted Outage Intention Plans
 for the relevant year and develop and publish an Interim Annual
 Consolidated Outage Intention Plan for the following calendar year in
 accordance with the WEM Procedure referred to in clause 3.19.11 by 1 May
 each year.
 
-3.19.7. AEMO may use and consider any relevant information held by it or
+### 3.19.7. AEMO may use and consider any relevant information held by it or
 matters it deems relevant in considering Outage Intention Plans
 submitted by Market Participants and Network Operators and developing an
 Interim Annual Consolidated Outage Intention Plan or a Final Annual
 Consolidated Outage Intention Plan.
 
-3.19.8. In the event that Outage Intention Plans validly submitted by
+### 3.19.8. In the event that Outage Intention Plans validly submitted by
 Market Participants or Network Operators under clauses 3.19.1, 3.19.2 or
-3.19.9 conflict, AEMO must notify the affected Market Participants or
+### 3.19.9 conflict, AEMO must notify the affected Market Participants or
 Network Operators.
 
-3.19.9. A Market Participant or Network Operator may revise, resubmit or
+### 3.19.9. A Market Participant or Network Operator may revise, resubmit or
 withdraw an Outage Intention Plan following publication of the Interim
 Annual Consolidated Outage Intention Plan under clause 3.19.6 by 1 July
 the same year.
 
-3.19.10. AEMO must publish the Final Annual Consolidated Outage
+### 3.19.10. AEMO must publish the Final Annual Consolidated Outage
 Intention Plan for the following calendar year by 1 September annually.
 
-3.19.11. AEMO must develop and maintain a WEM Procedure that:
+### 3.19.11. AEMO must develop and maintain a WEM Procedure that:
 
 \(a\) specifies the information that must be included in an Outage
 Intention Plan;
@@ -6264,9 +6264,9 @@ Direction to return the Outage Facility to service early.</p></th>
 </tbody>
 </table>
 
-3.20. Outage Recall
+### 3.20. Outage Recall
 
-3.20.1 In order to maintain Power System Security or Power System
+### 3.20.1 In order to maintain Power System Security or Power System
 Reliability, AEMO may, during the Outage Period for a Planned Outage,
 direct a Market Participant or Network Operator to return an Outage
 Facility to service in accordance with the relevant Outage Contingency
@@ -6291,17 +6291,17 @@ to withdraw the Outage Plan.</p>
 </tbody>
 </table>
 
-3.20.2. Subject to clause 3.20.3, Market Participants and Network
+### 3.20.2. Subject to clause 3.20.3, Market Participants and Network
 Operators must comply with an Outage Recall Direction issued by AEMO
 under clause 3.20.1 and revise the relevant Outage Plan as soon as
 practicable.
 
-3.20.3. Market Participants and Network Operators must comply with an
+### 3.20.3. Market Participants and Network Operators must comply with an
 Outage Recall Direction issued by AEMO under clause 3.20.1 unless such
 compliance would endanger the safety of any person, damage equipment, or
 violate any applicable law.
 
-3.20.4. Where a Market Participant or a Network Operator cannot comply
+### 3.20.4. Where a Market Participant or a Network Operator cannot comply
 with an Outage Recall Direction issued by AEMO under clause 3.20.1, the
 Market Participant or Network Operator must notify AEMO as soon as
 practicable and provide the reasons why it cannot comply with the
@@ -6322,7 +6322,7 @@ Forced Outages only.</p></th>
 </tbody>
 </table>
 
-3.21. Forced Outages and Outage Quantity Calculations
+### 3.21. Forced Outages and Outage Quantity Calculations
 
 <table>
 <colgroup>
@@ -6341,7 +6341,7 @@ clause 3.21.1(b).</p></th>
 </tbody>
 </table>
 
-3.21.1. A Forced Outage is any Outage, or part of any Outage, of an
+### 3.21.1. A Forced Outage is any Outage, or part of any Outage, of an
 Outage Facility that has not been approved by AEMO, including:
 
 \(a\) Outages as a result of:
@@ -6394,7 +6394,7 @@ amendments to be provided to AEMO.</p></th>
 </tbody>
 </table>
 
-3.21.2. If an Outage Facility suffers, or will suffer, a Forced Outage,
+### 3.21.2. If an Outage Facility suffers, or will suffer, a Forced Outage,
 the relevant Market Participant or Network Operator must:
 
 \(a\) as soon as practicable after the Market Participant or Network
@@ -6447,7 +6447,7 @@ day on which the Trading Day ends, provide AEMO with any further
 information or changes to the Forced Outage notification information
 provided under clause 3.21.2(b).
 
-3.21.3. Where additional information relating to a Forced Outage becomes
+### 3.21.3. Where additional information relating to a Forced Outage becomes
 available after the timeframes specified in clause 3.21.2:
 
 \(a\) if the additional information is held by a Market Participant or
@@ -6462,7 +6462,7 @@ it to enter or revise a Forced Outage in order to reflect that
 additional information, including where that may result in the Forced
 Outage being withdrawn.
 
-3.21.4. Where AEMO receives a request under 3.21.3(c), AEMO must review
+### 3.21.4. Where AEMO receives a request under 3.21.3(c), AEMO must review
 the information provided by the Market Participant or Network Operator
 and determine whether there is sufficient evidence to support the Forced
 Outage being revised or withdrawn, and must notify the Market
@@ -6483,7 +6483,7 @@ practicable.
 </tbody>
 </table>
 
-3.21.5. AEMO must keep a record of all Forced Outages of which it is
+### 3.21.5. AEMO must keep a record of all Forced Outages of which it is
 notified of under clause 3.21.2(a) or otherwise made aware.
 
 <table>
@@ -6526,7 +6526,7 @@ determined.</p></li>
 </tbody>
 </table>
 
-3.21.6. The Outage Quantity for a Planned Outage or Forced Outage o of a
+### 3.21.6. The Outage Quantity for a Planned Outage or Forced Outage o of a
 Separately Certified Component c of a Registered Facility that is a
 Non‑Intermittent Generating System or Electric Storage Resource for a
 Dispatch Interval DI that is included in Planned Outage or Forced Outage
@@ -6609,7 +6609,7 @@ Storage Resources; and</p></li>
 </tbody>
 </table>
 
-3.21.7. The Capacity Adjusted Forced Outage Quantity for Dispatch
+### 3.21.7. The Capacity Adjusted Forced Outage Quantity for Dispatch
 Interval DI for Separately Certified Component c of a Registered
 Facility is:
 
@@ -6630,7 +6630,7 @@ Component c that include Dispatch Interval DI;
 
 ii\. Q(c,DI,o) is the Outage Quantity for Outage o of Separately
 Certified Component c in Dispatch Interval DI as calculated in clause
-3.21.6;
+### 3.21.6;
 
 iii\. MaxCap(c,DI) is:
 
@@ -6652,7 +6652,7 @@ would apply to Separately Certified Component c in Dispatch Interval DI
 if the Separately Certified Component was not subject to an Outage or an
 approved Commissioning Test Plan.
 
-3.21.7A. The Capacity Adjusted Forced Outage Quantity for Trading
+### 3.21.7A. The Capacity Adjusted Forced Outage Quantity for Trading
 Interval t for Separately Certified Component c of a Registered Facility
 is:
 
@@ -6667,7 +6667,7 @@ and
 Separately Certified Component c in Dispatch Interval DI as calculated
 in clause 3.21.7.
 
-3.21.7B. The Capacity Adjusted Forced Outage Quantity for Trading
+### 3.21.7B. The Capacity Adjusted Forced Outage Quantity for Trading
 Interval t for Registered Facility f is:
 
 \(a\) where no Capacity Credits are assigned to Registered Facility f in
@@ -6688,7 +6688,7 @@ ii\. CAFO(c,t) is the Capacity Adjusted Forced Outage Quantity for
 Separately Certified Component c in Trading Interval t as calculated in
 clause 3.21.7A.
 
-3.21.7C. The Capacity Adjusted Forced Outage Quantity for Dispatch
+### 3.21.7C. The Capacity Adjusted Forced Outage Quantity for Dispatch
 Interval DI for Registered Facility f is:
 
 \(a\) where no Capacity Credits are assigned to Registered Facility f in
@@ -6735,7 +6735,7 @@ Storage Resources; and</p></li>
 </tbody>
 </table>
 
-3.21.8. The Capacity Adjusted Planned Outage Quantity for Dispatch
+### 3.21.8. The Capacity Adjusted Planned Outage Quantity for Dispatch
 Interval DI for Separately Certified Component c of a Registered
 Facility is:
 
@@ -6758,7 +6758,7 @@ Component c that include Dispatch Interval DI;
 
 iii\. Q(c,DI,o) is the Outage Quantity for Outage o of Separately
 Certified Component c in Dispatch Interval DI as calculated in clause
-3.21.6;
+### 3.21.6;
 
 iv\. MaxCap(c,DI) is:
 
@@ -6795,7 +6795,7 @@ correctly to Capacity Adjusted Planned Outage Quantity.</p></th>
 </tbody>
 </table>
 
-3.21.8A. The Capacity Adjusted Planned Outage Quantity for Trading
+### 3.21.8A. The Capacity Adjusted Planned Outage Quantity for Trading
 Interval t for Separately Certified Component c of a Registered Facility
 is:
 
@@ -6810,7 +6810,7 @@ and
 Separately Certified Component c in Dispatch Interval DI as calculated
 in clause 3.21.8.
 
-3.21.8B. The Capacity Adjusted Planned Outage Quantity for Trading
+### 3.21.8B. The Capacity Adjusted Planned Outage Quantity for Trading
 Interval t for Registered Facility f is:
 
 \(a\) where no Capacity Credits are assigned to Registered Facility f in
@@ -6831,7 +6831,7 @@ ii\. CAPO(c,t) is the Capacity Adjusted Planned Outage Quantity for
 Separately Certified Component c in Trading Interval t as calculated in
 clause 3.21.8A.
 
-3.21.8C. The Capacity Adjusted Planned Outage Quantity for Dispatch
+### 3.21.8C. The Capacity Adjusted Planned Outage Quantity for Dispatch
 Interval DI for Registered Facility f is:
 
 \(a\) where no Capacity Credits are assigned to Registered Facility f in
@@ -6869,7 +6869,7 @@ required temperature-related adjustment.</p></th>
 </tbody>
 </table>
 
-3.21.9. \[Blank\]
+### 3.21.9. \[Blank\]
 
 <table>
 <colgroup>
@@ -6885,7 +6885,7 @@ required temperature-related adjustment.</p></th>
 </tbody>
 </table>
 
-3.21.10. AEMO must document the processes to be followed in reporting
+### 3.21.10. AEMO must document the processes to be followed in reporting
 Forced Outages, including the determination of Forced Outage quantities
 pursuant to clause 4.26.1J, in a WEM Procedure.
 
@@ -6907,7 +6907,7 @@ requires coordination between AEMO and the Network Operator and the
 current process can be confusing for Market Participants, including
 understanding the information required and when it is required.</p>
 <p>Existing section 3.21A is deleted and replaced with a new section
-3.21A that:</p>
+### 3.21A that:</p>
 <ul>
 <li><p>clarifies the various types of tests for which AEMO’s approval is
 required;</p></li>
@@ -6942,7 +6942,7 @@ Commissioning Test
 </tbody>
 </table>
 
-3.21A.1. A Market Participant intending to conduct a Commissioning Test
+### 3.21A.1. A Market Participant intending to conduct a Commissioning Test
 must only conduct the Commissioning Test under a Commissioning Test Plan
 approved by AEMO.
 
@@ -6963,7 +6963,7 @@ which are specified in the WEM Procedure.</p></th>
 </tbody>
 </table>
 
-3.21A.2. Other than as permitted under clause 3.21A.15A, a Market
+### 3.21A.2. Other than as permitted under clause 3.21A.15A, a Market
 Participant requesting approval of a Commissioning Test Plan must submit
 the Commissioning Test Plan to AEMO for approval at least 7 Business
 Days before the start of the Commissioning Test Period, and in
@@ -6971,7 +6971,7 @@ accordance with any additional timeframes for categories of
 Commissioning Test Plans specified in the WEM Procedure referred to in
 clause 3.21A.27.
 
-3.21A.3. A Commissioning Test Plan submitted by a Market Participant
+### 3.21A.3. A Commissioning Test Plan submitted by a Market Participant
 must represent the good faith intention of the Market Participant to
 conduct the Commissioning Test.
 
@@ -6991,7 +6991,7 @@ to take place.</p></th>
 </tbody>
 </table>
 
-3.21A.4. Following submission of a Commissioning Test Plan to AEMO for
+### 3.21A.4. Following submission of a Commissioning Test Plan to AEMO for
 approval, where the Market Participant that submitted the Commissioning
 Test Plan reasonably believes that the Commissioning Test Plan will
 require coordination with a Network Operator, the Market Participant
@@ -7018,7 +7018,7 @@ required.</p></th>
 </tbody>
 </table>
 
-3.21A.5. AEMO must specify which activities must occur under a
+### 3.21A.5. AEMO must specify which activities must occur under a
 Commissioning Test Plan (“**Commissioning Tests**”) in the WEM Procedure
 referred to in clause 3.21A.27, which must include activities conducted
 for any of the following reasons:
@@ -7054,13 +7054,13 @@ or Power System Reliability.
 </tbody>
 </table>
 
-3.21A.6. A Commissioning Test for an Outage Facility may cover periods
+### 3.21A.6. A Commissioning Test for an Outage Facility may cover periods
 in which some or all of the Outage Capabilities of the Outage Facility
 is subject to a Planned Outage or Forced Outage.
 
 Requirements on information when submitting Commissioning Test Plan
 
-3.21A.7. A Commissioning Test Plan must include:
+### 3.21A.7. A Commissioning Test Plan must include:
 
 \(a\) the name of the Facility or equipment to be tested;
 
@@ -7101,7 +7101,7 @@ referred to in clause 3.21A.27; and
 <p>Clause 3.21A.8 makes it clear that AEMO is not required to assess
 Commissioning Test Plans where it does not have sufficient time or
 information. The clause is similar to the existing clause
-3.21A.7.</p></th>
+### 3.21A.7.</p></th>
 </tr>
 </thead>
 <tbody>
@@ -7110,7 +7110,7 @@ information. The clause is similar to the existing clause
 
 Commissioning Test Plan Approval
 
-3.21A.8. AEMO is not required to assess, and may reject, a Commissioning
+### 3.21A.8. AEMO is not required to assess, and may reject, a Commissioning
 Test Plan where it reasonably considers that:
 
 \(a\) inadequate information is provided in the Commissioning Test Plan;
@@ -7137,9 +7137,9 @@ Plan. The clause is similar to the existing clause 3.21A.7.</p></th>
 </tbody>
 </table>
 
-3.21A.9. Subject to clause 3.21A.13, AEMO must approve a Commissioning
+### 3.21A.9. Subject to clause 3.21A.13, AEMO must approve a Commissioning
 Test Plan that is made and submitted in accordance with this section
-3.21A, unless, in its opinion, conducting the proposed Commissioning
+### 3.21A, unless, in its opinion, conducting the proposed Commissioning
 Tests, including at the proposed time and any alternative times in the
 Commissioning Test Plan, is likely to adversely affect Power System
 Security or Power System Reliability.
@@ -7166,40 +7166,40 @@ conducted.</p></th>
 </tbody>
 </table>
 
-3.21A.10. Where AEMO considers that the conditions in respect of a
+### 3.21A.10. Where AEMO considers that the conditions in respect of a
 Commissioning Test Plan have changed, or are likely to change, AEMO may
 re-assess a Commissioning Test Plan that has been approved to determine
 if, as a result of the changes or likely changes, it should remain
 approved.
 
-3.21A.11. AEMO may reject a Commissioning Test Plan that has been
+### 3.21A.11. AEMO may reject a Commissioning Test Plan that has been
 approved where AEMO considers that, as a result of the change or likely
 change to conditions, conducting the Commissioning Test or Commissioning
 Tests are likely to adversely affect Power System Security or Power
 System Reliability.
 
-3.21A.12. A Market Participant that has submitted a Commissioning Test
+### 3.21A.12. A Market Participant that has submitted a Commissioning Test
 Plan that no longer intends to conduct the Commissioning Test Plan must
 withdraw the Commissioning Test Plan.
 
-3.21A.13. AEMO may coordinate with a Market Participant that has
+### 3.21A.13. AEMO may coordinate with a Market Participant that has
 submitted a Commissioning Test Plan and any relevant Network Operator in
 order to determine conditions for conducting the Commissioning Test Plan
 that AEMO considers are more suitable for maintaining Power System
 Security and Power System Reliability.
 
-3.21A.14. AEMO may share details of a Commissioning Test Plan and
+### 3.21A.14. AEMO may share details of a Commissioning Test Plan and
 details of any associated Commissioning Tests with a relevant Network
 Operator for the purposes of coordinating the Commissioning Test Plan.
 
-3.21A.15. A Market Participant that has submitted a Commissioning Test
+### 3.21A.15. A Market Participant that has submitted a Commissioning Test
 Plan may revise the details of the Commissioning Test Plan and, where
 those revised details include modified Commissioning Tests or a revised
 Commissioning Test Period, AEMO must re-assess the Commissioning Test
 Plan and, subject to clause 3.21A.13, determine whether the
 Commissioning Test Plan is rejected or can remain approved.
 
-3.21A.15A. A Market Participant must submit a revised Commissioning Test
+### 3.21A.15A. A Market Participant must submit a revised Commissioning Test
 Plan to AEMO for approval in accordance with the timeframes specified in
 the WEM Procedure referred to in clause 3.21A.27.
 
@@ -7214,14 +7214,14 @@ the WEM Procedure referred to in clause 3.21A.27.
 approve a Commissioning Test in that if the test is likely to adversely
 affect Power System Security or Power System Reliability then AEMO may
 stop, reschedule or cancel the test. It is similar to existing clause
-3.21A.11(a).</p></th>
+### 3.21A.11(a).</p></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
 
-3.21A.16. AEMO may stop, reschedule or cancel a Commissioning Test under
+### 3.21A.16. AEMO may stop, reschedule or cancel a Commissioning Test under
 an approved Commissioning Test Plan at any time if it determines that
 conducting, or continuing to conduct, the Commissioning Test is likely
 to adversely affect Power System Security or Power System Reliability.
@@ -7241,7 +7241,7 @@ clause 3.21A.9 and clause 3.21.10.</p></th>
 </tbody>
 </table>
 
-3.21A.17. Where AEMO:
+### 3.21A.17. Where AEMO:
 
 \(a\) rejects a Commissioning Test Plan under clause 3.21A.8;
 
@@ -7250,7 +7250,7 @@ clause 3.21A.9 and clause 3.21.10.</p></th>
 \(c\) rejects a Commissioning Test Plan under clause 3.21A.11; or
 
 \(d\) stops, reschedules or cancels a Commissioning Test under clause
-3.21A.16,
+### 3.21A.16,
 
 AEMO must notify the relevant Market Participant as soon as practicable,
 provide reasons for its decision and use best endeavours to agree an
@@ -7272,7 +7272,7 @@ clause 3.21A.8.</p></th>
 </tbody>
 </table>
 
-3.21A.18. AEMO must not show bias towards a Market Participant in regard
+### 3.21A.18. AEMO must not show bias towards a Market Participant in regard
 to approving or rejecting a Commissioning Test Plan.
 
 <table>
@@ -7294,7 +7294,7 @@ conducted.</p></th>
 </tbody>
 </table>
 
-3.21A.19. AEMO must notify a Market Participant as to whether it has
+### 3.21A.19. AEMO must notify a Market Participant as to whether it has
 approved or rejected a Commissioning Test Plan in accordance with the
 timelines specified in the WEM Procedure referred to in clause 3.21A.27,
 where a Commissioning Test Plan has yet to commence and this must be no
@@ -7309,7 +7309,7 @@ Period.
 <tr class="header">
 <th><p><strong>Explanatory Note</strong></p>
 <p>Clause 3.21A.20 consolidates existing clauses 3.21A.6 and
-3.21A.11(b).</p>
+### 3.21A.11(b).</p>
 <p>This clause is intended to be a Category C civil penalty
 provision.</p></th>
 </tr>
@@ -7318,7 +7318,7 @@ provision.</p></th>
 </tbody>
 </table>
 
-3.21A.20. Where a Market Participant no longer intends to conduct a
+### 3.21A.20. Where a Market Participant no longer intends to conduct a
 Commissioning Test under a Commissioning Test Plan that has been:
 
 \(a\) submitted to AEMO for approval; or
@@ -7336,7 +7336,7 @@ revise or withdraw the Commissioning Test Plan as required.
 <tr class="header">
 <th><p><strong>Explanatory Note</strong></p>
 <p>Clause 3.21A.21 replaces the obligation on AEMO in existing clause
-3.21A.11(b). It also requires AEMO to update the report AEMO must
+### 3.21A.11(b). It also requires AEMO to update the report AEMO must
 provide under clause 3.21A.22.</p></th>
 </tr>
 </thead>
@@ -7344,7 +7344,7 @@ provide under clause 3.21A.22.</p></th>
 </tbody>
 </table>
 
-3.21A.21. On receipt of notification from a Market Participant under
+### 3.21A.21. On receipt of notification from a Market Participant under
 clause 3.21A.20, AEMO must:
 
 \(a\) reassess a revised Commissioning Test Plan; and
@@ -7370,7 +7370,7 @@ the WEM.</p></th>
 </tbody>
 </table>
 
-3.21A.22 AEMO must publish on the WEM Website and keep up to date
+### 3.21A.22 AEMO must publish on the WEM Website and keep up to date
 information on each Commissioning Test Plan that AEMO approves,
 including:
 
@@ -7402,7 +7402,7 @@ to the Commissioning Test Plan report by AEMO.</p></th>
 </tbody>
 </table>
 
-3.21A.23. The information published under clause 3.21A.22 must be
+### 3.21A.23. The information published under clause 3.21A.22 must be
 published or updated, as applicable, as soon as practicable after, as
 relevant:
 
@@ -7429,7 +7429,7 @@ Requirements for undertaking a Commissioning Test
 </tbody>
 </table>
 
-3.21A.24. In conducting a Commissioning Test a Market Participant must
+### 3.21A.24. In conducting a Commissioning Test a Market Participant must
 conform to the approved Commissioning Test Plan.
 
 <table>
@@ -7447,7 +7447,7 @@ conform to the approved Commissioning Test Plan.
 </tbody>
 </table>
 
-3.21A.25. If a Market Participant intending to conduct or conducting a
+### 3.21A.25. If a Market Participant intending to conduct or conducting a
 Commissioning Test cannot conform to the Commissioning Test Plan
 approved by AEMO for the Commissioning Test, the Market Participant must
 notify AEMO as soon as practicable.
@@ -7468,8 +7468,8 @@ may impact the system operating state.</p></th>
 </tbody>
 </table>
 
-3.21A.26. Where specified in the WEM Procedure referred to in clause
-3.21A.27, Market Participants must conduct Commissioning Tests in
+### 3.21A.26. Where specified in the WEM Procedure referred to in clause
+### 3.21A.27, Market Participants must conduct Commissioning Tests in
 accordance with the requirements specified in that WEM Procedure.
 
 <table>
@@ -7489,7 +7489,7 @@ Commissioning Test Plans.</p></th>
 </tbody>
 </table>
 
-3.21A.27. AEMO must document the following in a WEM Procedure:
+### 3.21A.27. AEMO must document the following in a WEM Procedure:
 
 \(a\) a description of the activities that AEMO consider would
 constitute a Commissioning Test and therefore require submission of a
@@ -7513,10 +7513,10 @@ Commissioning Test in a Commissioning Test Plan;
 \(e\) the process for notifying:
 
 i\. whether the Commissioning Test Plan has been rejected under clause
-3.21A.8;
+### 3.21A.8;
 
 ii\. whether the Commissioning Test Plan has been approved under clause
-3.21A.9 and if the Commissioning Test Plan is approved, the minimum
+### 3.21A.9 and if the Commissioning Test Plan is approved, the minimum
 information that must be provided to the Market Participant which must
 include the approved dates and times where alternatives are specified in
 the submitted Commissioning Test Plan; or
@@ -7559,9 +7559,9 @@ information that AEMO must publish.</p></th>
 </tbody>
 </table>
 
-3.22. Outage Data Publication
+### 3.22. Outage Data Publication
 
-3.22.1. AEMO must as soon as practicable after AEMO receives an Outage
+### 3.22.1. AEMO must as soon as practicable after AEMO receives an Outage
 Plan submission, or a change is made to an existing Outage Plan for an
 Equipment List Facility in its Outage computer system, publish the
 following details on the WEM Website:
@@ -7624,7 +7624,7 @@ recall the Outage was given.</p></th>
 </tbody>
 </table>
 
-3.22.1A. Where AEMO rejects an Outage Plan or issues an Outage Recall
+### 3.22.1A. Where AEMO rejects an Outage Plan or issues an Outage Recall
 Direction outside of its Outage computer system, AEMO must record its
 best estimate of when that decision was made and publish the estimated
 date and time of the decision as soon as practicable on the WEM Website.
@@ -7648,7 +7648,7 @@ information that AEMO must publish.</p></th>
 </tbody>
 </table>
 
-3.22.2. AEMO must, as soon as practicable after AEMO receives a
+### 3.22.2. AEMO must, as soon as practicable after AEMO receives a
 notification of a Forced Outage for an Equipment List Facility or a
 revision is made to an existing Forced Outage for an Equipment List
 Facility in its Outage computer system, publish on the WEM Website:
@@ -7693,13 +7693,13 @@ Rules.</p></th>
 </tbody>
 </table>
 
-3.22.3. AEMO must prepare and publish on the WEM Website the Refund
+### 3.22.3. AEMO must prepare and publish on the WEM Website the Refund
 Exempt Planned Outage Count for each Separately Certified Component of a
 Scheduled Facility or Semi-Scheduled Facility for each of the 1000
 Trading Days up to and including the most recent Trading Day which AEMO
 has settled under Chapter 9.
 
-3.23. \[Blank\]
+### 3.23. \[Blank\]
 
 Distributed Energy Resources Register
 
@@ -7718,13 +7718,13 @@ publish a Distributed Energy Resources Register.</p></th>
 </tbody>
 </table>
 
-3.24. Distributed Energy Resources Register
+### 3.24. Distributed Energy Resources Register
 
-3.24.1. On and from a day no earlier than the day that is six months
+### 3.24.1. On and from a day no earlier than the day that is six months
 after the day AEMO develops the WEM Procedure referred to in clause
-3.24.8, AEMO must establish, maintain and update a DER Register.
+### 3.24.8, AEMO must establish, maintain and update a DER Register.
 
-3.24.2. The DER Register:
+### 3.24.2. The DER Register:
 
 \(a\) must include DER Generation Information reported to AEMO by
 Network Operators in accordance with clause 3.24.5; and
@@ -7734,32 +7734,32 @@ referred to in clause 3.24.2(a) provided to AEMO by any person in
 connection with the performance of AEMO's functions under the WEM Rules,
 Regulations or the Electricity Industry Act.
 
-3.24.3. By no later than 30 September 2020, a Network Operator must
+### 3.24.3. By no later than 30 September 2020, a Network Operator must
 provide AEMO with all DER Generation Information that it holds in
 accordance with the WEM Procedure referred to in clause 3.24.8, or as
 otherwise agreed with AEMO.
 
-3.24.4. AEMO will be taken to satisfy the requirement to establish and
+### 3.24.4. AEMO will be taken to satisfy the requirement to establish and
 maintain a DER Register in clause 3.24.1 if it stores DER Register
 Information in one or more databases.
 
-3.24.5. If a Network Operator receives DER Generation Information
+### 3.24.5. If a Network Operator receives DER Generation Information
 relating to connection points on its Network it must, in accordance with
 the WEM Procedure referred to in clause 3.24.8, provide that information
 to AEMO.
 
-3.24.6. AEMO may use DER Register Information for the purpose of the
+### 3.24.6. AEMO may use DER Register Information for the purpose of the
 exercise of its statutory functions under the Electricity Industry Act,
 Regulations, and these WEM Rules.
 
-3.24.7. AEMO must publish details on the extent to which, in general
+### 3.24.7. AEMO must publish details on the extent to which, in general
 terms, DER Register Information has informed AEMO's development or use
 of load forecasts, or the performance of its functions referred to in
 clause 3.24.6 and AEMO may, for this purpose, include such details as
 part of existing WEM Procedures or other publications produced by AEMO,
 or by publishing details on the WEM Website.
 
-3.24.8. By no later than 1 July 2020, AEMO must develop and implement a
+### 3.24.8. By no later than 1 July 2020, AEMO must develop and implement a
 WEM Procedure that specifies:
 
 \(a\) details of the DER Generation Information that Network Operators
@@ -7788,7 +7788,7 @@ DER Register Information under clause 3.24.14; and
 published by AEMO in accordance with clause 3.24.12 and how the DER
 Register Information to be included in that report will be aggregated.
 
-3.24.9. In developing and amending the WEM Procedure referred to in
+### 3.24.9. In developing and amending the WEM Procedure referred to in
 clause 3.24.8, AEMO must:
 
 \(a\) have regard to the reasonable costs of efficient compliance by
@@ -7804,32 +7804,32 @@ benefits of including that information in the register; and
 \(c\) subject to clause 3.24.10, comply with the Procedure Change
 Process.
 
-3.24.10. AEMO is not required to comply with the Procedure Change
+### 3.24.10. AEMO is not required to comply with the Procedure Change
 Process when making the first WEM Procedure referred to in clause 3.24.8
 or when making minor or administrative amendments to that WEM Procedure.
 
-3.24.11. The WEM Procedure referred to in clause 3.24.8 must include a
+### 3.24.11. The WEM Procedure referred to in clause 3.24.8 must include a
 minimum period of 3 months between the date of publication and the date
 when the procedure commences other than when the procedure is amended
 under paragraph 3.24.10, in which case the procedure may commence on the
 date of publication.
 
-3.24.12. AEMO must prepare and publish on the WEM Website a report of
+### 3.24.12. AEMO must prepare and publish on the WEM Website a report of
 aggregated DER Register Information in accordance with the WEM Procedure
 referred to in clause 3.24.8.
 
-3.24.13. The information in the DER Register Report must be aggregated
+### 3.24.13. The information in the DER Register Report must be aggregated
 such that it does not:
 
 \(a\) directly or indirectly disclose confidential information; or
 
 \(b\) result in a breach of applicable privacy legislation.
 
-3.24.14. AEMO must provide or give access to DER Register Information to
+### 3.24.14. AEMO must provide or give access to DER Register Information to
 each Network Operator in relation to that Network Operator's Network in
 accordance with the WEM Procedure referred to in clause 3.24.8.
 
-3.24.15. Nothing in this section 3.24:
+### 3.24.15. Nothing in this section 3.24:
 
 \(a\) requires AEMO to make available DER Register Information where the
 collection, use or disclosure of that information by AEMO would breach
@@ -7840,7 +7840,7 @@ circumstances in which disclosure of confidential information is
 permitted under the WEM Rules, Regulations or the Electricity Industry
 Act.
 
-3.24.16. No less than seven days before the day the DER Register
+### 3.24.16. No less than seven days before the day the DER Register
 commences, AEMO must publish notice on the WEM Website of the day the
 DER Register is to commence.
 

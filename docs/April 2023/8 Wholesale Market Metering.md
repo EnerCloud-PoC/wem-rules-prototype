@@ -2,26 +2,26 @@
 
 Metering Data Agents
 
-8.1. Metering Data Agents
+### 8.1. Metering Data Agents
 
-8.1.1. There must be a Metering Data Agent for each Network.
+### 8.1.1. There must be a Metering Data Agent for each Network.
 
-8.1.2 Subject to clause 8.1.4, the Network Operator is also the Metering
+### 8.1.2 Subject to clause 8.1.4, the Network Operator is also the Metering
 Data Agent for any Network registered by that Network Operator.
 
-8.1.3. A Metering Data Agent must operate to the relevant Metering
+### 8.1.3. A Metering Data Agent must operate to the relevant Metering
 Protocol.
 
-8.1.4. If the Network Operator in respect of a Network notifies AEMO and
+### 8.1.4. If the Network Operator in respect of a Network notifies AEMO and
 the Network business unit of the Electricity Network Corporation that it
 does not wish to be the Metering Data Agent for a Network registered by
 that Network Operator, the Network business unit of the Electricity
 Network Corporation will be the Metering Data Agent for that relevant
 Network.
 
-8.2. Duties of a Metering Data Agent
+### 8.2. Duties of a Metering Data Agent
 
-8.2.1. A Metering Data Agent must:
+### 8.2.1. A Metering Data Agent must:
 
 \(a\) keep the Meter Registry updated in accordance with clause 8.3; and
 
@@ -29,9 +29,9 @@ Network.
 
 Meter Registry
 
-8.3. Meter Registry
+### 8.3. Meter Registry
 
-8.3.1. Each Metering Data Agent must maintain a separate Meter Registry
+### 8.3.1. Each Metering Data Agent must maintain a separate Meter Registry
 for each Network it serves. At a minimum, the Meter Registry for a
 Network must:
 
@@ -48,31 +48,31 @@ time;
 Participants if more than one Market Participant’s generation or
 consumption is measured by that meter.
 
-8.3.2. In processing a Facility registration application under clause
+### 8.3.2. In processing a Facility registration application under clause
 2.31, AEMO must notify the applicable Metering Data Agent that it
 requires confirmation that all Meter Registry information associated
 with that application is correct.
 
-8.3.3. A Metering Data Agent must within five Business Days from the day
+### 8.3.3. A Metering Data Agent must within five Business Days from the day
 of being notified by AEMO in accordance with clause 8.3.2 confirm the
 Meter Registry information.
 
-8.3.4 If AEMO accepts a Facility registration or Facility
+### 8.3.4 If AEMO accepts a Facility registration or Facility
 deregistration, it must notify the Metering Data Agent for the relevant
 Network and the Metering Data Agent must, within five Business Days,
 ensure that the Meter Registry is adjusted accordingly.
 
-8.3.5. A Metering Data Agent must notify AEMO of any changes to the
+### 8.3.5. A Metering Data Agent must notify AEMO of any changes to the
 identities of the Market Participants whose supply or consumption is
 measured by a meter not less than 10 Business Days prior to the Meter
 Data Agent making a Meter Data Submission that reflects the changed
 metering arrangements.
 
-8.3.6. AEMO must provide a Metering Data Agent with confirmation of a
+### 8.3.6. AEMO must provide a Metering Data Agent with confirmation of a
 notification made in accordance with clause 8.3.5 within one Business
 Day.
 
-8.3.7. If a Metering Data Agent fails to receive a confirmation of
+### 8.3.7. If a Metering Data Agent fails to receive a confirmation of
 receipt in accordance with clause 8.3.6 it must contact AEMO within one
 Business Day to appraise AEMO of the failure of AEMO to provide
 confirmation of receipt and, if necessary, to make alternative
@@ -80,7 +80,7 @@ arrangements for the submission of the information.
 
 Meter Data Submissions
 
-8.4. Meter Data Submission
+### 8.4. Meter Data Submission
 
 <table>
 <colgroup>
@@ -100,11 +100,11 @@ Chapter 8.</p></th>
 </tbody>
 </table>
 
-8.4.1. A Metering Data Agent must provide Meter Data Submissions to AEMO
+### 8.4.1. A Metering Data Agent must provide Meter Data Submissions to AEMO
 in accordance with the time specified in clause 9.3.2.
 
-8.4.2. A Meter Data Submission must be in the format described in clause
-8.6.
+### 8.4.2. A Meter Data Submission must be in the format described in clause
+### 8.6.
 
 <table>
 <colgroup>
@@ -123,20 +123,20 @@ outline these processes in a WEM Procedure.</p></th>
 </tbody>
 </table>
 
-8.4.3. \[Blank\]
+### 8.4.3. \[Blank\]
 
-8.4.4. \[Blank\]
+### 8.4.4. \[Blank\]
 
-8.4.5. \[Blank\]
+### 8.4.5. \[Blank\]
 
-8.5. Notices of Disagreement and Disputed Meter Data
+### 8.5. Notices of Disagreement and Disputed Meter Data
 
-8.5.1. In the event of a Notice of Disagreement or Notice of Dispute
+### 8.5.1. In the event of a Notice of Disagreement or Notice of Dispute
 that relates to meter data, AEMO must notify the Metering Data Agent
 responsible for that data of the Notice of Disagreement or Notice of
 Dispute.
 
-8.5.2. A Metering Data Agent must respond to the notification described
+### 8.5.2. A Metering Data Agent must respond to the notification described
 in clause 8.5.1 in accordance with the Metering Protocol referred to in
 clause 8.1.3 and must include any revised meter data in the first Meter
 Data Submission made to AEMO following any correction of the meter data.
@@ -166,9 +166,9 @@ information is not part of a Meter Data Submission.</p></li>
 </tbody>
 </table>
 
-8.6. Format of Meter Data Submissions
+### 8.6. Format of Meter Data Submissions
 
-8.6.1. A Meter Data Submission must comprise:
+### 8.6.1. A Meter Data Submission must comprise:
 
 \(a\) the identity of the Metering Data Agent;
 
@@ -204,7 +204,7 @@ applicable code describing the reason for the estimate; and
 3\. the applicable code describing the reason for the change in the MWh
 quantity relative to the previously stated value.
 
-8.6.2. AEMO must document in a WEM Procedure:
+### 8.6.2. AEMO must document in a WEM Procedure:
 
 \(a\) the format of Meter Data Submissions to be provided by Metering
 Data Agents; and
@@ -214,9 +214,9 @@ making Meter Data Submissions.
 
 Meter Connection and Disconnection
 
-8.6A. Provision of Meter Information
+### 8.6A. Provision of Meter Information
 
-8.6A.1. A Metering Data Agent must provide AEMO with the following
+### 8.6A.1. A Metering Data Agent must provide AEMO with the following
 information for each Trading Month:
 
 \(a\) the number of non-interval or accumulation meters that existed at
@@ -228,16 +228,16 @@ during the Trading Month; and
 \(c\) the number of non-interval or accumulation meters abolished during
 the Trading Month.
 
-8.6A.2. The information referred to in clause 8.6A.1 must be provided by
+### 8.6A.2. The information referred to in clause 8.6A.1 must be provided by
 the Metering Data Agent no later than the Interval Meter Deadline for
 the first full Trading Week that occurs after the relevant Trading Month
 to which the information referred to in clause 8.6A.1 relates.
 
 Metering Protocol Requirements
 
-8.7. Metering Protocol Requirements
+### 8.7. Metering Protocol Requirements
 
-8.7.1. A Metering Data Agent must operate in accordance with a Metering
+### 8.7.1. A Metering Data Agent must operate in accordance with a Metering
 Protocol. As a minimum a Metering Protocol must prescribe:
 
 \(a\) that the Metering Data Agent maintains a Meter Registry tracking a
@@ -262,9 +262,9 @@ of changes to the WEM Rules.
 
 Support of Calculations
 
-8.8. Support of Calculations
+### 8.8. Support of Calculations
 
-8.8.1. Each Metering Data Agent must provide to AEMO within five
+### 8.8.1. Each Metering Data Agent must provide to AEMO within five
 Business Days of being requested, any of the meter information held by
 the Metering Data Agent that is required by AEMO for the purposes of
 these WEM Rules.

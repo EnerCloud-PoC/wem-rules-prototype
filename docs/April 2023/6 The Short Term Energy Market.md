@@ -2,9 +2,9 @@
 
 Energy Scheduling Timetable and Process
 
-6.1. \[Blank\]
+### 6.1. \[Blank\]
 
-6.2. Bilateral Submission Timetable and Process
+### 6.2. Bilateral Submission Timetable and Process
 
 <table>
 <colgroup>
@@ -21,7 +21,7 @@ Submissions for the New WEM.</p></th>
 </tbody>
 </table>
 
-6.2.1. A Market Participant may submit Bilateral Submission data for a
+### 6.2.1. A Market Participant may submit Bilateral Submission data for a
 Trading Day to AEMO between:
 
 \(a\) 8:00 AM on the day that is seven days prior to the start of the
@@ -47,7 +47,7 @@ window.</p></th>
 </tbody>
 </table>
 
-6.2.2. Where, at the time specified in clause 6.2.1(a) for a Trading
+### 6.2.2. Where, at the time specified in clause 6.2.1(a) for a Trading
 Day:
 
 \(a\) AEMO holds a Standing Bilateral Submission applicable to the
@@ -84,7 +84,7 @@ the current Bilateral Submission window arrangements.</p></th>
 </tbody>
 </table>
 
-6.2.2A. Where AEMO receives Bilateral Submission data from a Market
+### 6.2.2A. Where AEMO receives Bilateral Submission data from a Market
 Participant under clause 6.2.1, AEMO must, as soon as practicable after
 receiving the Bilateral Submission data:
 
@@ -128,7 +128,7 @@ Bilateral Submission quantities.</p></li>
 </tbody>
 </table>
 
-6.2.3. AEMO must maintain and provide to each Market Participant the
+### 6.2.3. AEMO must maintain and provide to each Market Participant the
 Bilateral Submission quantities associated with that Market Participant
 for each Trading Interval in the Bilateral Submission Results Window,
 including the party supplying, or being supplied by, the Market
@@ -141,9 +141,9 @@ Participant. AEMO must update this information whenever AEMO:
 \(c\) disregards cancelled Bilateral Submission data from a Bilateral
 Submission under clause 6.2.5(a).
 
-6.2.4. \[Blank\]
+### 6.2.4. \[Blank\]
 
-6.2.4A. \[Blank\]
+### 6.2.4A. \[Blank\]
 
 <table>
 <colgroup>
@@ -160,12 +160,12 @@ current Bilateral Submission window arrangements.</p></th>
 </tbody>
 </table>
 
-6.2.4B. A Market Participant may cancel Bilateral Submission data held
+### 6.2.4B. A Market Participant may cancel Bilateral Submission data held
 by AEMO for any Trading Interval during the period described in clause
-6.2.1 for the Trading Day to which the cancelled Bilateral Submission
+### 6.2.1 for the Trading Day to which the cancelled Bilateral Submission
 data relates.
 
-6.2.5. Where any Bilateral Submission data is cancelled in accordance
+### 6.2.5. Where any Bilateral Submission data is cancelled in accordance
 with clause 6.2.4B, AEMO must, as soon as practicable:
 
 \(a\) disregard the cancelled Bilateral Submission data from the
@@ -176,13 +176,13 @@ Submission that the data has been disregarded from the Bilateral
 Submission for the Trading Interval of the Trading Day to which the
 cancelled Bilateral Submission data relates.
 
-6.2.6. \[Blank\]
+### 6.2.6. \[Blank\]
 
-6.2.7. By submitting Bilateral Submission data, a Market Participant
+### 6.2.7. By submitting Bilateral Submission data, a Market Participant
 acknowledges that it is acting with the permission of all affected
 Market Participants.
 
-6.2A. Standing Bilateral Submission Timetable and Process
+### 6.2A. Standing Bilateral Submission Timetable and Process
 
 <table>
 <colgroup>
@@ -201,7 +201,7 @@ time.</p></th>
 </tbody>
 </table>
 
-6.2A.1. A Market Participant may submit Standing Bilateral Submission
+### 6.2A.1. A Market Participant may submit Standing Bilateral Submission
 data to AEMO at any time.
 
 <table>
@@ -227,7 +227,7 @@ latest time.</p></th>
 </tbody>
 </table>
 
-6.2A.2. AEMO must, as soon as practicable after receiving Standing
+### 6.2A.2. AEMO must, as soon as practicable after receiving Standing
 Bilateral Submission data under clause 6.2A.1:
 
 \(a\) accept the Standing Bilateral Submission data provided it complies
@@ -259,12 +259,12 @@ processing of Standing Bilateral Submissions for the New WEM.</p></th>
 </tbody>
 </table>
 
-6.2A.2A. Standing Bilateral Submission data accepted by AEMO under
+### 6.2A.2A. Standing Bilateral Submission data accepted by AEMO under
 clause 6.2A.2 will apply from the next time that AEMO is required to use
 Standing Bilateral Submissions to make Bilateral Submissions under
 clause 6.2.2.
 
-6.2A.3. Standing Bilateral Submission data must be associated with a day
+### 6.2A.3. Standing Bilateral Submission data must be associated with a day
 of the week and when used as Bilateral Submission data will only apply
 to Trading Days commencing on that day of the week.
 
@@ -286,7 +286,7 @@ intent of the clauses.</p></th>
 </tbody>
 </table>
 
-6.2A.4. A Market Participant may at any time cancel Standing Bilateral
+### 6.2A.4. A Market Participant may at any time cancel Standing Bilateral
 Submission data accepted by AEMO under clause 6.2A.2(a) for Trading
 Intervals starting at a specified time on Trading Days starting on a
 specified day of the week.
@@ -307,7 +307,7 @@ Submission data.</p></th>
 </tbody>
 </table>
 
-6.2A.5. Where any Standing Bilateral Submission data is cancelled in
+### 6.2A.5. Where any Standing Bilateral Submission data is cancelled in
 accordance with clause 6.2A.4, AEMO must, as soon as practicable:
 
 \(a\) disregard the cancelled Standing Bilateral Submission data from
@@ -335,7 +335,7 @@ the subsequent seven Trading Days by 6:50 AM on each Scheduling Day.
 This information is then made available to all Market Participants under
 clause 6.3A.2 and used to determine capacity adjusted outage quantity
 and Reserve Capacity Obligation Quantity estimates under clause
-6.3A.3.</p>
+### 6.3A.3.</p>
 <p>The deadline has moved from 8:00 AM (as proposed in Tranche 6
 Exposure Draft 1) to 6:50 AM, in response to concerns raised by
 stakeholders during consultation that an 8:00 AM deadline would not give
@@ -352,7 +352,7 @@ as late as possible.</p></th>
 
 > 6.3. Determination of Electric Storage Resource Obligation Intervals
 
-6.3.1. AEMO must, in accordance with the WEM Procedure referred to in
+### 6.3.1. AEMO must, in accordance with the WEM Procedure referred to in
 clause 4.11.3A, determine and record the following information by 6:50
 AM on each Scheduling Day:
 
@@ -362,7 +362,7 @@ during the Trading Day for the Scheduling Day; and
 \(b\) the Electric Storage Resource Obligation Intervals that AEMO
 expects will apply during each of the seven following Trading Days.
 
-6.3A. Information to Support the Bilateral and STEM Submission Process
+### 6.3A. Information to Support the Bilateral and STEM Submission Process
 
 <table>
 <colgroup>
@@ -388,7 +388,7 @@ total energy quantity; and</p></li>
 </tbody>
 </table>
 
-6.3A.1. AEMO must publish the total energy, in MWh, as measured at the
+### 6.3A.1. AEMO must publish the total energy, in MWh, as measured at the
 Reference Node, scheduled with AEMO under Bilateral Contracts for each
 Trading Interval in the Bilateral Submission Results Window. AEMO must
 update this information whenever AEMO:
@@ -414,7 +414,7 @@ Obligation Intervals for a Trading Day.</p>
 <p>Revised clause 6.3A.2 requires AEMO to provide, by 6:50 AM on each
 Scheduling Day, details of the Electric Storage Resource Obligation
 Intervals for the next eight Trading Days, as determined under clause
-6.3.1. (This replaces the previous requirement from the Tranches 2 and 3
+### 6.3.1. (This replaces the previous requirement from the Tranches 2 and 3
 Amendments to notify Market Participants with Electric Storage Resources
 of changes to the Electric Storage Resource Obligation Intervals for the
 next Trading Day in clause 6.2.8).</p>
@@ -432,7 +432,7 @@ quantities.</p></th>
 </tbody>
 </table>
 
-6.3A.2. AEMO must make the following information available to each
+### 6.3A.2. AEMO must make the following information available to each
 Market Participant by 6:50 AM on each Scheduling Day:
 
 \(a\) the Electric Storage Resource Obligation Intervals that will apply
@@ -442,9 +442,9 @@ clause 6.3.1(a); and
 \(b\) the Electric Storage Resource Obligation Intervals that AEMO
 expects will apply for each of the seven Trading Days following the
 Trading Day for the Scheduling Day, as determined by AEMO under clause
-6.3.1(b).
+### 6.3.1(b).
 
-6.3A.2A. AEMO must make available to each Market Participant, by 8:00 AM
+### 6.3A.2A. AEMO must make available to each Market Participant, by 8:00 AM
 on each Scheduling Day, for each Trading Interval in the Trading Day for
 the Scheduling Day, the Forecast Operational Demand and Forecast
 Operational Withdrawal as determined from the most recent Pre-Dispatch
@@ -494,7 +494,7 @@ of STEM RCOQs at the Facility level, as required for use in clauses
 </tbody>
 </table>
 
-6.3A.3. Between 8:00 AM and 8:30 AM each Scheduling Day, AEMO must:
+### 6.3A.3. Between 8:00 AM and 8:30 AM each Scheduling Day, AEMO must:
 
 \(a\) identify and record the details of each approved Commissioning
 Test Plan that includes one or more Dispatch Intervals in the STEM
@@ -519,7 +519,7 @@ i\. MinAvail(f,DI) is:
 
 1\. where no Planned Outages or Forced Outages for Facility f with a
 duration that includes Dispatch Interval DI were identified under clause
-6.3A.3(b), the maximum sent out capacity of Facility f as recorded in
+### 6.3A.3(b), the maximum sent out capacity of Facility f as recorded in
 Standing Data for Dispatch Interval DI; and
 
 2\. otherwise, the minimum Remaining Available Capacity for energy
@@ -603,10 +603,10 @@ Obligation Quantity estimates under clause 6.3A.3.</p></th>
 </tbody>
 </table>
 
-6.3A.4. When determining Capacity Adjusted Planned Outage Quantity,
+### 6.3A.4. When determining Capacity Adjusted Planned Outage Quantity,
 Capacity Adjusted Forced Outage Quantity and Reserve Capacity Obligation
 Quantity estimates on a Scheduling Day under clauses 6.3A.3(g) and
-6.3A.3(h), AEMO must assume that:
+### 6.3A.3(h), AEMO must assume that:
 
 \(a\) the Electric Storage Resource Obligation Intervals for the Trading
 Days in the STEM Submission Information Window are the same as those
@@ -615,7 +615,7 @@ determined by AEMO on the Scheduling Day under clause 6.3.1;
 \(b\) the Commissioning Test Plan details for each Facility for each
 Dispatch Interval in the STEM Submission Information Window are the same
 as those identified by AEMO on the Scheduling Day under clause
-6.3A.3(a);
+### 6.3A.3(a);
 
 \(c\) the Planned Outage and Forced Outage details for each Separately
 Certified Component for each Dispatch Interval in the STEM Submission
@@ -644,14 +644,14 @@ Capacity Obligation Quantity estimates that it has determined under
 clause 6.3A.3.</p>
 <p>The clause as presented in Exposure Draft 1 is further amended to
 correct the cross-references in clauses 6.3A.5(b) and
-6.3A.5(c).</p></th>
+### 6.3A.5(c).</p></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
 
-6.3A.5. By 8:30 AM on each Scheduling Day, AEMO must make available to
+### 6.3A.5. By 8:30 AM on each Scheduling Day, AEMO must make available to
 each Market Participant the following parameters for information in
 forming its STEM Submissions:
 
@@ -696,7 +696,7 @@ on the Scheduling Day under clause 6.3A.3(g); and
 iii\. the Reserve Capacity Obligation Quantity estimate determined on
 the Scheduling Day under clause 6.3A.3(h).
 
-6.3B. STEM Submissions Timetable and Process
+### 6.3B. STEM Submissions Timetable and Process
 
 <table>
 <colgroup>
@@ -713,7 +713,7 @@ similar to that used for Bilateral Submissions</p></th>
 </tbody>
 </table>
 
-6.3B.1. A Market Participant may submit STEM Submission data for a
+### 6.3B.1. A Market Participant may submit STEM Submission data for a
 Trading Day to AEMO between:
 
 \(a\) 8:30 AM on the day that is seven days prior to the start of the
@@ -753,7 +753,7 @@ subsequently changes.</p></th>
 </tbody>
 </table>
 
-6.3B.1A. Where, at 8:30 AM on the Scheduling Day for a Trading Day:
+### 6.3B.1A. Where, at 8:30 AM on the Scheduling Day for a Trading Day:
 
 \(a\) AEMO does not hold a STEM Submission applicable to the Trading Day
 for the Market Participant;
@@ -785,7 +785,7 @@ new clause 6.3B.1C.</p></th>
 </tbody>
 </table>
 
-6.3B.1B. If AEMO is required to use a Standing STEM Submission to make a
+### 6.3B.1B. If AEMO is required to use a Standing STEM Submission to make a
 STEM Submission for a Trading Day under clause 6.3B.1A, but the Standing
 STEM Submission does not comply with section 6.6, then AEMO must, using
 the process specified in clause 6.3B.2, adjust the Standing STEM
@@ -809,7 +809,7 @@ Limits.</p></th>
 </tbody>
 </table>
 
-6.3B.1C. Between 8:30 AM and 9:00 AM each Scheduling Day, AEMO must use
+### 6.3B.1C. Between 8:30 AM and 9:00 AM each Scheduling Day, AEMO must use
 the process specified in clause 6.3B.2 to review and where necessary
 adjust each STEM Submission it holds for a Trading Interval in the STEM
 Submission Information Window.
@@ -824,14 +824,14 @@ Submission Information Window.
 <p>New clause 6.3B.2 specifies the STEM Submission adjustment process
 used to ensure that the Price-Quantity Pairs in Portfolio Supply Curves
 and Portfolio Demand Curves comply with the requirements of section
-6.6.</p></th>
+### 6.6.</p></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
 
-6.3B.2. AEMO must use the following process to adjust a Standing STEM
+### 6.3B.2. AEMO must use the following process to adjust a Standing STEM
 Submission to make a valid STEM Submission for a Trading Interval under
 clause 6.3B.1B and to review and adjust a STEM Submission for a Trading
 Interval under clause 6.3B.1C:
@@ -889,7 +889,7 @@ Curve or Portfolio Demand Curve in those clauses is a reference to the
 Portfolio Supply Curve or Portfolio Demand Curve as adjusted by any
 earlier steps in the process.
 
-6.3B.3. Where AEMO receives STEM Submission data from a Market
+### 6.3B.3. Where AEMO receives STEM Submission data from a Market
 Participant under clause 6.3B.1, AEMO must, as soon as practicable after
 receiving the STEM submission data:
 
@@ -918,7 +918,7 @@ with section 6.6.
 Submission arrangements;</p></li>
 <li><p>clarify that the STEM Submission details provided by AEMO will
 incorporate any adjustments it has made under clauses 6.3B.1B or
-6.3B.1C;</p></li>
+### 6.3B.1C;</p></li>
 <li><p>require the details to be provided for each Trading Interval in
 the STEM Submission Results Window, instead of each Trading Interval in
 the Week-Ahead Schedule Horizon; and</p></li>
@@ -931,7 +931,7 @@ Submission details.</p></li>
 </tbody>
 </table>
 
-6.3B.4. AEMO must maintain and provide to each Market Participant full
+### 6.3B.4. AEMO must maintain and provide to each Market Participant full
 details of the Market Participant’s STEM Submissions, as adjusted under
 clauses 6.3B.1B and 6.3B.1C, for each Trading Interval in the STEM
 Submission Results Window. AEMO must update this information whenever
@@ -961,7 +961,7 @@ STEM Submissions.</p></th>
 </tbody>
 </table>
 
-6.3B.5. A Market Participant may cancel any STEM Submission data held by
+### 6.3B.5. A Market Participant may cancel any STEM Submission data held by
 AEMO for a Trading Interval in a Trading Day during the time interval
 specified for the Trading Day in clause 6.3B.1.
 
@@ -981,7 +981,7 @@ data.</p></th>
 </tbody>
 </table>
 
-6.3B.6. Where any STEM Submission data is cancelled in accordance with
+### 6.3B.6. Where any STEM Submission data is cancelled in accordance with
 clause 6.3B.5, AEMO must, as soon as practicable:
 
 \(a\) disregard the cancelled STEM Submission data from the STEM
@@ -994,7 +994,7 @@ been disregarded from the STEM Submission,
 for the Trading Interval of the Trading Day to which the cancelled
 Standing STEM Submission data relates.
 
-6.3C. Standing STEM Submission Timetable and Process
+### 6.3C. Standing STEM Submission Timetable and Process
 
 <table>
 <colgroup>
@@ -1012,10 +1012,10 @@ any time.</p></th>
 </tbody>
 </table>
 
-6.3C.1. A Market Participant may submit Standing STEM Submission data to
+### 6.3C.1. A Market Participant may submit Standing STEM Submission data to
 AEMO at any time.
 
-6.3C.2. \[Blank\]
+### 6.3C.2. \[Blank\]
 
 <table>
 <colgroup>
@@ -1033,7 +1033,7 @@ notify the Market Participant of its decision.</p></th>
 </tbody>
 </table>
 
-6.3C.3. AEMO must, as soon as practicable after receiving Standing STEM
+### 6.3C.3. AEMO must, as soon as practicable after receiving Standing STEM
 Submission data under clause 6.3C.1:
 
 \(a\) accept the Standing STEM Submission data provided it complies with
@@ -1066,19 +1066,19 @@ STEM Submissions.</p></th>
 </tbody>
 </table>
 
-6.3C.4. Standing STEM Submission data accepted by AEMO under clause
-6.3C.3 will apply from the next time that AEMO is required to use
+### 6.3C.4. Standing STEM Submission data accepted by AEMO under clause
+### 6.3C.3 will apply from the next time that AEMO is required to use
 Standing STEM Submissions to make STEM Submissions under clause 6.3B.1A.
 
-6.3C.5. \[Blank\]
+### 6.3C.5. \[Blank\]
 
-6.3C.6. \[Blank\]
+### 6.3C.6. \[Blank\]
 
-6.3C.6A. Standing STEM Submission data must be associated with a day of
+### 6.3C.6A. Standing STEM Submission data must be associated with a day of
 the week and when used as STEM Submission data will only apply to
 Trading Days commencing on that day of the week.
 
-6.3C.6B. A Market Participant may cancel Standing STEM Submission data
+### 6.3C.6B. A Market Participant may cancel Standing STEM Submission data
 accepted by AEMO under clause 6.3C.3(a) for any Trading Interval of a
 day of the week at any time.
 
@@ -1098,7 +1098,7 @@ Standing STEM Submission data.</p></th>
 </tbody>
 </table>
 
-6.3C.6C. Where any Standing STEM Submission data is cancelled under
+### 6.3C.6C. Where any Standing STEM Submission data is cancelled under
 clause 6.3C.6B, AEMO must, as soon as practicable:
 
 \(a\) remove the cancelled Standing STEM Submission data from the
@@ -1111,11 +1111,11 @@ Submission data has been removed from the Standing STEM Submission,
 for the Trading Interval of the day of the week to which the cancelled
 Standing STEM Submission data relates.
 
-6.3C.7. \[Blank\]
+### 6.3C.7. \[Blank\]
 
-6.3C.8. \[Blank\]
+### 6.3C.8. \[Blank\]
 
-6.3C.9. If a Market Participant’s ability to consume or supply energy in
+### 6.3C.9. If a Market Participant’s ability to consume or supply energy in
 any Trading Interval of a Trading Day is less than the maximum level of
 its STEM supply or consumption as indicated by its current Standing STEM
 Submission then that Market Participant must either:
@@ -1128,18 +1128,18 @@ Submission over-states the Market Participant's supply or consumption
 capabilities, submit STEM Submission data that complies with section 6.6
 to AEMO.
 
-6.4. The STEM Auction Timetable and Process
+### 6.4. The STEM Auction Timetable and Process
 
-6.4.1. AEMO must undertake the process described in section 6.9 and
+### 6.4.1. AEMO must undertake the process described in section 6.9 and
 determine the STEM Auction results for a Trading Day after the STEM
 Submission Cutoff, and before the STEM Results Deadline.
 
-6.4.2. AEMO must determine the total quantity of energy scheduled to be
+### 6.4.2. AEMO must determine the total quantity of energy scheduled to be
 supplied under Bilateral Contracts and in the STEM Auction, by each
 Market Participant, for each Trading Interval of a Trading Day by the
 STEM Results Deadline.
 
-6.4.3. AEMO must make available to each Market Participant the following
+### 6.4.3. AEMO must make available to each Market Participant the following
 information in relation to a Trading Day by the STEM Results Deadline:
 
 \(a\) the Trading Intervals, if any, in which the STEM Auction was
@@ -1154,9 +1154,9 @@ the STEM Auction for each Trading Interval; and
 \(d\) the Net Contract Position of the Market Participant in each
 Trading Interval, as determined in accordance with clause 6.9.13.
 
-6.4.4. \[Blank\]
+### 6.4.4. \[Blank\]
 
-6.4.5. \[Blank\]
+### 6.4.5. \[Blank\]
 
 <table>
 <colgroup>
@@ -1180,18 +1180,18 @@ meet.</p></li>
 </tbody>
 </table>
 
-6.4.6. In the event of a failure of AEMO's software systems or
+### 6.4.6. In the event of a failure of AEMO's software systems or
 supporting infrastructure, or any delay in AEMO publishing a
 Pre-Dispatch Schedule which includes all Trading Intervals in the
 relevant Trading Day, or AEMO preparing information under clauses 6.2.3,
-6.3.1, 6.3A.1, 6.3A.2, 6.3A.2A, 6.3A.3, 6.3A.5 or 6.3B.4, which prevents
+### 6.3.1, 6.3A.1, 6.3A.2, 6.3A.2A, 6.3A.3, 6.3A.5 or 6.3B.4, which prevents
 AEMO from completing the relevant processes, AEMO may extend one or more
 of the timelines prescribed in sections 6.2, 6.3, 6.3A, 6.3B and this
 section 6.4, subject to any such extension:
 
 \(a\) not resulting in more than a two-hour delay to any of the
 timelines prescribed in sections 6.2, 6.3, 6.3A, 6.3B and this section
-6.4;
+### 6.4;
 
 \(b\) maintaining a window of at least 120 minutes between AEMO making
 available the data referred to in clause 6.3A.2 and the Bilateral
@@ -1241,19 +1241,19 @@ meet.</p></li>
 </tbody>
 </table>
 
-6.4.6A. If AEMO becomes aware of an error in any of the information
+### 6.4.6A. If AEMO becomes aware of an error in any of the information
 contained in a Pre-Dispatch Schedule or made available to Market
 Participants under clauses 6.2.3, 6.3A.1, 6.3A.2, 6.3A.2A, 6.3A.5 or
-6.3B.4 at any time before the publication of the relevant STEM Auction
+### 6.3B.4 at any time before the publication of the relevant STEM Auction
 results under clause 6.4.3 or a suspension of the STEM under clause
-6.10.1, AEMO may:
+### 6.10.1, AEMO may:
 
 \(a\) publish or release (as applicable) corrected or updated versions
 of the information it has published or released under clauses 6.2.3,
-6.3A.1, 6.3A.2, 6.3A.2A, 6.3A.5 or 6.3B.4; and
+### 6.3A.1, 6.3A.2, 6.3A.2A, 6.3A.5 or 6.3B.4; and
 
 \(b\) extend any of the relevant timelines prescribed in sections 6.2,
-6.3, 6.3A, 6.3B and this section 6.4 to address the error, subject to
+### 6.3, 6.3A, 6.3B and this section 6.4 to address the error, subject to
 any such extension:
 
 i\. not resulting in more than a two-hour delay to any of the timelines
@@ -1300,28 +1300,28 @@ Results Deadline may need to be extended.</p></th>
 </tbody>
 </table>
 
-6.4.6B. If AEMO extends one or more of the timelines in sections 6.2,
-6.3, 6.3A, 6.3B and this section 6.4 under clauses 6.4.6 or 6.4.6A or
+### 6.4.6B. If AEMO extends one or more of the timelines in sections 6.2,
+### 6.3, 6.3A, 6.3B and this section 6.4 under clauses 6.4.6 or 6.4.6A or
 publishes or releases corrected information under clause 6.4.6A(a), AEMO
 must notify Rule Participants of any extension and any amended timelines
 and any corrected information as soon as possible.
 
-6.4.6C. If AEMO considers that extending one or more of the timelines in
+### 6.4.6C. If AEMO considers that extending one or more of the timelines in
 sections 6.2, 6.3, 6.3A, 6.3B and this section 6.4 under clauses 6.4.6
 or 6.4.6A would not provide enough time to allow AEMO to undertake the
 process described in section 6.9 and publish a valid STEM Auction result
 under clauses 6.4.3(b), 6.4.3(c) and 6.4.3(d) by 1:30 PM on the relevant
 Scheduling Day, AEMO must suspend the STEM Auction under clause 6.10.1.
 
-6.4.7. Once published under clause 6.4.3, STEM Clearing Prices cannot be
+### 6.4.7. Once published under clause 6.4.3, STEM Clearing Prices cannot be
 altered, either through disagreement under clause 9.20.6, or through
 dispute under clause 9.21.
 
-6.5. \[Blank\]
+### 6.5. \[Blank\]
 
 STEM Submission and Bilateral Submission Formats
 
-6.6. Format of STEM Submission and Standing STEM Submission Data
+### 6.6. Format of STEM Submission and Standing STEM Submission Data
 
 <table>
 <colgroup>
@@ -1343,7 +1343,7 @@ STEM Submissions.</p></li>
 </tbody>
 </table>
 
-6.6.1. A Market Participant submitting STEM Submission data or a
+### 6.6.1. A Market Participant submitting STEM Submission data or a
 Standing STEM Submission data must include the following information in
 the applicable submission:
 
@@ -1369,9 +1369,9 @@ ii\. a Portfolio Supply Curve; and
 
 iii\. a Portfolio Demand Curve.
 
-6.6.2. \[Blank\]
+### 6.6.2. \[Blank\]
 
-6.6.2A. For:
+### 6.6.2A. For:
 
 \(a\) a Fuel Declaration the Market Participant must declare which of
 its Liquid Fuel capable Registered Facilities are assumed to be
@@ -1395,14 +1395,14 @@ i\. one or more Price-Quantity Pairs may be specified; and
 
 ii\. the cumulative quantity included in the Price-Quantity Pairs must
 not exceed the Maximum Consumption Capability determined under clause
-6.3A.3(f).
+### 6.3A.3(f).
 
-6.6.3. \[Blank\]
+### 6.6.3. \[Blank\]
 
-6.6.4. The maximum number of Price-Quantity Pairs which a Market
+### 6.6.4. The maximum number of Price-Quantity Pairs which a Market
 Participant may include in a Portfolio Supply Curve is 30.
 
-6.6.5. For Price-Quantity Pairs in Portfolio Supply Curves:
+### 6.6.5. For Price-Quantity Pairs in Portfolio Supply Curves:
 
 \(a\) each Price-Quantity Pair must comprise one price and one quantity;
 
@@ -1438,9 +1438,9 @@ greater than the Price-Quantity Pair price; and
 iii\. an amount between 0 MWh and the Price-Quantity Pair quantity if
 the STEM Clearing Price equals the Price-Quantity Pair price.
 
-6.6.6. \[Blank\]
+### 6.6.6. \[Blank\]
 
-6.6.7. The maximum number of Price-Quantity Pairs to be included in a
+### 6.6.7. The maximum number of Price-Quantity Pairs to be included in a
 Portfolio Demand Curve is 30.
 
 <table>
@@ -1459,7 +1459,7 @@ Prices.</p></th>
 </tbody>
 </table>
 
-6.6.8. For Price-Quantity Pairs in Portfolio Demand Curves:
+### 6.6.8. For Price-Quantity Pairs in Portfolio Demand Curves:
 
 \(a\) each Price-Quantity Pair price must be:
 
@@ -1491,7 +1491,7 @@ than the Price-Quantity Pair price; and
 iii\. an amount between 0 MWh and the Price-Quantity Pair quantity if
 the STEM Clearing Price equals the Price-Quantity Pair price.
 
-6.7. Format of Bilateral Submission Data
+### 6.7. Format of Bilateral Submission Data
 
 <table>
 <colgroup>
@@ -1508,7 +1508,7 @@ effective date in a Standing Bilateral Submission.</p></th>
 </tbody>
 </table>
 
-6.7.1. A Market Participant submitting Bilateral Submission data or
+### 6.7.1. A Market Participant submitting Bilateral Submission data or
 Standing Bilateral Submission data must include in the submission:
 
 \(a\) the identity of the Market Participant making the submission;
@@ -1536,7 +1536,7 @@ identified in clause 6.7.1(c)(ii); and
 iv\. the sum of the quantities in clauses 6.7.1(c)(i) and 6.7.1(c)(iii)
 must be zero.
 
-6.7.2. All quantities specified in a Bilateral Submission or a Standing
+### 6.7.2. All quantities specified in a Bilateral Submission or a Standing
 Bilateral Submission:
 
 \(a\) must be in units of MWh;
@@ -1551,45 +1551,45 @@ from the relevant Market Participant;
 
 \(e\) must be Loss Factor adjusted.
 
-6.7.3. A Market Participant must not specify quantities in a Bilateral
+### 6.7.3. A Market Participant must not specify quantities in a Bilateral
 Submission or a Standing Bilateral Submission which exceed the quantity
 of energy that the Market Participant is contracted to supply to the
 relevant Market Participant.
 
-6.7.4. A Market Participant must not significantly over-state its
+### 6.7.4. A Market Participant must not significantly over-state its
 consumption as indicated by its Net Contract Position with a regularity
 that cannot be explained by a reasonable allowance for forecast
 uncertainty or the impact of Loss Factors.
 
-6.8. \[Blank\]
+### 6.8. \[Blank\]
 
 The STEM Auction Process
 
-6.9. The STEM Auction
+### 6.9. The STEM Auction
 
-6.9.1. AEMO must undertake the process described in this clause 6.9 for
+### 6.9.1. AEMO must undertake the process described in this clause 6.9 for
 each Trading Interval in a Trading Day.
 
-6.9.2. The Net Bilateral Position for Market Participant p in Trading
+### 6.9.2. The Net Bilateral Position for Market Participant p in Trading
 Interval t is:
 
 \(a\) the sum of the quantities of energy referred to in clauses
-6.7.1(c)(i) and 6.7.1(c)(iii) for the Market Participant in all
+### 6.7.1(c)(i) and 6.7.1(c)(iii) for the Market Participant in all
 Bilateral Submissions for Trading Interval t; or
 
 \(b\) zero if no Bilateral Submissions for Trading Interval t refer to
 the Market Participant.
 
-6.9.3. Subject to clause 6.9.4, AEMO must determine STEM Offers and STEM
+### 6.9.3. Subject to clause 6.9.4, AEMO must determine STEM Offers and STEM
 Bids for each Market Participant for each Trading Interval in accordance
 with Appendix 6 using the valid STEM Submissions and Bilateral
 Submissions relating to that Trading Interval.
 
-6.9.4. Where AEMO does not hold a STEM Submission for a Market
+### 6.9.4. Where AEMO does not hold a STEM Submission for a Market
 Participant for a Trading Interval, AEMO must not determine STEM Offers
 or STEM Bids for that Market Participant in that Trading Interval.
 
-6.9.5. AEMO must determine an aggregate STEM bid curve for each Trading
+### 6.9.5. AEMO must determine an aggregate STEM bid curve for each Trading
 Interval from the STEM Bids where this aggregate STEM bid curve:
 
 \(a\) describes the quantity that Market Participants in aggregate wish
@@ -1600,7 +1600,7 @@ Ceiling; and
 \(b\) passes through the point indicating zero consumption at the Energy
 Offer Price Ceiling.
 
-6.9.6. AEMO must determine an aggregate STEM offer curve for each
+### 6.9.6. AEMO must determine an aggregate STEM offer curve for each
 Trading Interval from the STEM Offers where this aggregate STEM offer
 curve:
 
@@ -1611,19 +1611,19 @@ the Energy Offer Price Floor and the Energy Offer Price Ceiling; and
 \(b\) passes through the point indicating zero supply at the Energy
 Offer Price Floor.
 
-6.9.7. AEMO will determine the STEM Clearing Price for a Trading
+### 6.9.7. AEMO will determine the STEM Clearing Price for a Trading
 Interval as the lowest price at which the STEM offer curve for a Trading
 Interval intersects the STEM bid curve for the Trading Interval.
 
-6.9.8. AEMO will determine the STEM Clearing Quantity for a Trading
+### 6.9.8. AEMO will determine the STEM Clearing Quantity for a Trading
 Interval as the greatest quantity at which the STEM offer curve for the
 Trading Interval intersects the STEM bid curve for the Trading Interval.
 
-6.9.9. All STEM Bid Price-Quantity Pairs for the Trading Interval with a
+### 6.9.9. All STEM Bid Price-Quantity Pairs for the Trading Interval with a
 price greater than the STEM Clearing Price for the Trading Interval must
 be scheduled by AEMO.
 
-6.9.10. A STEM Bid Price-Quantity Pair with a price equal to the STEM
+### 6.9.10. A STEM Bid Price-Quantity Pair with a price equal to the STEM
 Clearing Price for the Trading Interval must be scheduled by AEMO up to
 the Price-Quantity Pair quantity multiplied by:
 
@@ -1634,11 +1634,11 @@ divided by
 \(b\) the total quantity for all STEM Bid Price-Quantity Pairs with a
 price equal to the STEM Clearing Price.
 
-6.9.11. All STEM Offer Price-Quantity Pairs for a Trading Interval with
+### 6.9.11. All STEM Offer Price-Quantity Pairs for a Trading Interval with
 a price less than the STEM Clearing Price for the Trading Interval must
 be scheduled by AEMO.
 
-6.9.12. A STEM Offer Price-Quantity Pair for a Trading Interval with a
+### 6.9.12. A STEM Offer Price-Quantity Pair for a Trading Interval with a
 price equal to the STEM Clearing Price for the Trading Interval must be
 scheduled by AEMO up to the Price-Quantity Pair quantity multiplied by:
 
@@ -1649,7 +1649,7 @@ divided by
 \(b\) the total quantity for all STEM Offer Price-Quantity Pairs with a
 price equal to the STEM Clearing Price.
 
-6.9.13. The Net Contract Position for Market Participant p in Trading
+### 6.9.13. The Net Contract Position for Market Participant p in Trading
 Interval t is:
 
 \(a\) the Net Bilateral Position for Market Participant p in Trading
@@ -1667,7 +1667,7 @@ associated with Price-Quantity Pairs for Market Participant p scheduled
 by AEMO under clause 6.9.11 or 6.9.12 for Trading Interval t where this
 energy sold is represented as a positive value.
 
-6.10. Suspension of the STEM
+### 6.10. Suspension of the STEM
 
 <table>
 <colgroup>
@@ -1686,22 +1686,22 @@ defined term “STEM Auction”.</p></th>
 </tbody>
 </table>
 
-6.10.1. AEMO must suspend the STEM Auction for a Trading Interval if
+### 6.10.1. AEMO must suspend the STEM Auction for a Trading Interval if
 AEMO considers that it will not be in a position to undertake the
 process described in section 6.9 and publish a valid STEM Auction result
 under clauses 6.4.3(b), 6.4.3(c) and 6.4.3(d) for that Trading Interval
 by the STEM Results Deadline.
 
-6.10.2. In the event that the STEM Auction for a Trading Interval is
+### 6.10.2. In the event that the STEM Auction for a Trading Interval is
 suspended under clause 6.10.1, no Market Participant can purchase energy
 from or sell energy to AEMO through the STEM for that Trading Interval
 and no STEM Clearing Price is to be declared for that Trading Interval.
 
-6.10.3. No compensation is due or payable to any Market Participant in
+### 6.10.3. No compensation is due or payable to any Market Participant in
 the event that the STEM Auction for a Trading Interval is suspended
 under clause 6.10.1.
 
-6.11. \[Blank\]
+### 6.11. \[Blank\]
 
 <table>
 <colgroup>
@@ -1749,15 +1749,15 @@ number sequence.</p></li>
 </tbody>
 </table>
 
-6.12. \[Blank\]
+### 6.12. \[Blank\]
 
-6.13. \[Blank\]
+### 6.13. \[Blank\]
 
-6.14. \[Blank\]
+### 6.14. \[Blank\]
 
-6.15. \[Blank\]
+### 6.15. \[Blank\]
 
-6.16. \[Blank\]
+### 6.16. \[Blank\]
 
 <table>
 <colgroup>
@@ -1805,9 +1805,9 @@ section is deleted by the Tranches 2 and 3 Amendments.</p></th>
 </tbody>
 </table>
 
-6.17. \[Blank\]
+### 6.17. \[Blank\]
 
-6.18. \[Blank\]
+### 6.18. \[Blank\]
 
 <table>
 <colgroup>
@@ -1824,15 +1824,15 @@ new Market Advisories in section 7.11.</p></th>
 </tbody>
 </table>
 
-6.19. \[Blank\]
+### 6.19. \[Blank\]
 
-6.20. \[Blank\]
+### 6.20. \[Blank\]
 
 Settlement Data
 
-6.21. Settlement Data
+### 6.21. Settlement Data
 
-6.21.1. AEMO must provide the following information to the settlement
+### 6.21.1. AEMO must provide the following information to the settlement
 system for each STEM Auction:
 
 \(a\) a flag for each Trading Interval indicating if the STEM Auction
@@ -1871,7 +1871,7 @@ commence.</p></th>
 </tbody>
 </table>
 
-6.21.2. \[Blank\]
+### 6.21.2. \[Blank\]
 
 <table>
 <colgroup>
@@ -1889,9 +1889,9 @@ new section 6.22.</p></th>
 </tbody>
 </table>
 
-6.22. STEM Data
+### 6.22. STEM Data
 
-6.22.1. AEMO must publish on the WEM Website the following STEM summary
+### 6.22.1. AEMO must publish on the WEM Website the following STEM summary
 information:
 
 \(a\) for each Trading Interval in each completed Trading Day in the
