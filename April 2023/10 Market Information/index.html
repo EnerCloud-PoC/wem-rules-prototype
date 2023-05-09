@@ -1,0 +1,3153 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://enercloud-poc.github.io/wem-rules-prototype/April%202023/10%20Market%20Information/">
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-8.5.6">
+    
+    
+      
+        <title>10 Market Information - WEM Rules</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.20d9efc8.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.cbb835fc.min.css">
+        
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#10-market-information" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+        <aside class="md-banner">
+          <div class="md-banner__inner md-grid md-typeset">
+            
+              <button class="md-banner__button md-icon" aria-label="Don't show this again">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+              </button>
+            
+            
+  <p>⚠ NOTE: This site is for testing and development purposes only and should not be used as a substitute for the published WEM Rules at this time.</p>
+
+          </div>
+          
+            <script>var content,el=document.querySelector("[data-md-component=announce]");el&&(content=el.querySelector(".md-typeset"),__md_hash(content.innerHTML)===__md_get("__announce")&&(el.hidden=!0))</script>
+          
+        </aside>
+      
+    </div>
+    
+      <div data-md-component="outdated" hidden>
+        
+      </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="WEM Rules" class="md-header__button md-logo" aria-label="WEM Rules" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 15H6l7-14v8h5l-7 14v-8Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            WEM Rules
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              10 Market Information
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="WEM Rules" class="md-nav__button md-logo" aria-label="WEM Rules" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 15H6l7-14v8h5l-7 14v-8Z"/></svg>
+
+    </a>
+    WEM Rules
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          April 2023
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="April 2023" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          April 2023
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../1.%20Introduction/" class="md-nav__link">
+        1. Introduction
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          10 Market Information
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        10 Market Information
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#101-record-retention" class="md-nav__link">
+    10.1. Record Retention
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1011-the-coordinator-the-economic-regulation-authority-and-rule" class="md-nav__link">
+    10.1.1. The Coordinator, the Economic Regulation Authority and Rule
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1021-subject-to-clause-1021b-an-information-manager-must-in" class="md-nav__link">
+    10.2.1. Subject to clause 10.2.1B, an Information Manager must, in
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1021a-no-confidentiality-status-will-be-given-to-information" class="md-nav__link">
+    10.2.1A. No confidentiality status will be given to information,
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1021b-an-information-manager-is-not-required-to-determine-the" class="md-nav__link">
+    10.2.1B. An Information Manager is not required to determine the
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1022-the-classes-of-confidentiality-status-are" class="md-nav__link">
+    10.2.2. The classes of confidentiality status are:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1023-subject-to-clause-1025-an-information-manager-must-classify" class="md-nav__link">
+    10.2.3. Subject to clause 10.2.5, an Information Manager must classify
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1024-market-information-must-be-classified-as-public-information-if" class="md-nav__link">
+    10.2.4. Market Information must be classified as Public Information if
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1025-clause-1023-does-not-prevent-the-disclosure-or-publication-of" class="md-nav__link">
+    10.2.5. Clause 10.2.3 does not prevent the disclosure or publication of
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1026-without-limiting-clause-1024-an-information-manager-must" class="md-nav__link">
+    10.2.6. Without limiting clause 10.2.4, an Information Manager must
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1027-a-rule-participant-may-make-a-submission-to-an-information" class="md-nav__link">
+    10.2.7. A Rule Participant may make a submission to an Information
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1027a-a-rule-participant-is-an-information-stakeholder-for-market" class="md-nav__link">
+    10.2.7A. A Rule Participant is an Information Stakeholder for Market
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1028-a-submission-from-a-rule-participant-made-under-clause-1027" class="md-nav__link">
+    10.2.8. A submission from a Rule Participant made under clause 10.2.7
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1029-subject-to-clauses-1044-and-10419-and-unless-otherwise" class="md-nav__link">
+    10.2.9. Subject to clauses 10.4.4 and 10.4.19, and unless otherwise
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10210-the-coordinator-may-document-in-a-wem-procedure-guidance-for" class="md-nav__link">
+    10.2.10. The Coordinator may document in a WEM Procedure guidance for
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10211-only-one-party-may-be-the-information-manager-for-a-type-of" class="md-nav__link">
+    10.2.11. Only one party may be the Information Manager for a type of
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10212-subject-to-clause-10211-the-information-manager-for-a-type" class="md-nav__link">
+    10.2.12. Subject to clause 10.2.11, the Information Manager for a type
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10212b-and-10212c-then-the-coordinator-may-determine-the" class="md-nav__link">
+    10.2.12(b) and 10.2.12(c), then the Coordinator may determine the
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#103-public-website-requirements" class="md-nav__link">
+    10.3. Public website requirements
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1031-the-coordinator-the-economic-regulation-authority-aemo-and" class="md-nav__link">
+    10.3.1. The Coordinator, the Economic Regulation Authority, AEMO and
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1032-subject-to-clause-1047-the-coordinator-the-economic" class="md-nav__link">
+    10.3.2. Subject to clause 10.4.7, the Coordinator, the Economic
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1033-subject-to-clause-1034-market-information-required-to-be" class="md-nav__link">
+    10.3.3. Subject to clause 10.3.4, Market Information required to be
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1034-if-the-information-manager-determines-that-it-is-no-longer" class="md-nav__link">
+    10.3.4. If the Information Manager determines that it is no longer
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#104-managing-market-information" class="md-nav__link">
+    10.4. Managing Market Information
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1041-the-coordinator-the-economic-regulation-authority-and-each-rule" class="md-nav__link">
+    10.4.1. The Coordinator, the Economic Regulation Authority and each Rule
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1042-the-coordinator-the-economic-regulation-authority-aemo-and" class="md-nav__link">
+    10.4.2. The Coordinator, the Economic Regulation Authority, AEMO and
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1043-clause-1041b-does-not-prevent-the-disclosure-of-information" class="md-nav__link">
+    10.4.3. Clause 10.4.1(b) does not prevent the disclosure of information
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1044-despite-any-other-clauses-in-this-chapter-10" class="md-nav__link">
+    10.4.4. Despite any other clauses in this Chapter 10:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1045-an-information-manager-may-at-its-discretion-publish-on-its" class="md-nav__link">
+    10.4.5. An Information Manager may, at its discretion, publish on its
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1046-where-market-information-is-not-already-available-in-the-public" class="md-nav__link">
+    10.4.6. Where Market Information is not already available in the public
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1046a-a-request-submitted-under-clause-1046-must-specify-the" class="md-nav__link">
+    10.4.6A. A request submitted under clause 10.4.6 must specify the
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10419" class="md-nav__link">
+    10.4.19.
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1047-where-market-information-is-not-required-to-be-published-or" class="md-nav__link">
+    10.4.7. Where Market Information is not required to be published or
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#104-where-that-fee-may-not-exceed-the-information-managers-reasonable" class="md-nav__link">
+    10.4, where that fee may not exceed the Information Manager’s reasonable
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1048-an-information-manager-may-not-charge-the-coordinator-the" class="md-nav__link">
+    10.4.8. An Information Manager may not charge the Coordinator, the
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1049-if-the-coordinator-the-economic-regulation-authority-aemo-or-a" class="md-nav__link">
+    10.4.9. If the Coordinator, the Economic Regulation Authority, AEMO or a
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10410-if-the-information-manager-considers-that-the-market" class="md-nav__link">
+    10.4.10. If the Information Manager considers that the Market
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10411-if-a-submission-was-made-by-an-information-stakeholder-under" class="md-nav__link">
+    10.4.11. If a submission was made by an Information Stakeholder under
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10412-blank" class="md-nav__link">
+    10.4.12. [Blank]
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10413-blank" class="md-nav__link">
+    10.4.13. [Blank]
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10414-if-the-information-stakeholder-disagrees-with-the-assessment" class="md-nav__link">
+    10.4.14. If the Information Stakeholder disagrees with the assessment
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10411a-the-information-stakeholder-may-provide-the-coordinator-and" class="md-nav__link">
+    10.4.11(a), the Information Stakeholder may provide the Coordinator and
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10415-a-notice-of-dispute-provided-under-clause-10414-must-be-in" class="md-nav__link">
+    10.4.15. A notice of dispute provided under clause 10.4.14 must be in
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10416-if" class="md-nav__link">
+    10.4.16. If:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10414-in-respect-of-the-request-within-the-timeframe-specified-under" class="md-nav__link">
+    10.4.14 in respect of the request within the timeframe specified under
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10417-if-an-information-stakeholder-issues-a-notice-of-dispute-under" class="md-nav__link">
+    10.4.17. If an Information Stakeholder issues a notice of dispute under
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10418-if-the-information-manager-considers-that-the-market" class="md-nav__link">
+    10.4.18. If the Information Manager considers that the Market
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10419-subject-to-clauses-10420-10421-and-10425c-and-section" class="md-nav__link">
+    10.4.19. Subject to clauses 10.4.20, 10.4.21 and 10.4.25(c) and section
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#105-the-information-manager-must-disclose-confidential-information" class="md-nav__link">
+    10.5, the Information Manager must disclose Confidential Information
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10419a-an-information-stakeholder-for-market-information-may-dispute" class="md-nav__link">
+    10.4.19A. An Information Stakeholder for Market Information may dispute
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10420-if-an-information-manager-intends-to-disclose-market" class="md-nav__link">
+    10.4.20. If an Information Manager intends to disclose Market
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10419-and-an-information-stakeholder-is-permitted-to-dispute-the" class="md-nav__link">
+    10.4.19, and an Information Stakeholder is permitted to dispute the
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1046-notify-each-applicable-information-stakeholder-in-writing" class="md-nav__link">
+    10.4.6, notify each applicable Information Stakeholder in writing:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10421-if-an-information-stakeholder-wishes-to-lodge-a-dispute-in" class="md-nav__link">
+    10.4.21. If an Information Stakeholder wishes to lodge a dispute in
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10422-if-the-information-manager-advises-a-party-requesting-market" class="md-nav__link">
+    10.4.22. If the Information Manager advises a party requesting Market
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10423-a-notice-of-dispute-lodged-under-clauses-10421-or-10422" class="md-nav__link">
+    10.4.23. A notice of dispute lodged under clauses 10.4.21 or 10.4.22
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10424-if" class="md-nav__link">
+    10.4.24. If:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10421-in-respect-of-the-request-within-the-timeframe-specified-under" class="md-nav__link">
+    10.4.21 in respect of the request within the timeframe specified under
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10425-if-a-dispute-is-lodged-in-accordance-with-clauses-10421-or" class="md-nav__link">
+    10.4.25. If a dispute is lodged in accordance with clauses 10.4.21 or
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10422-then" class="md-nav__link">
+    10.4.22, then:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10426-when-an-information-manager-discloses-market-information-to-a" class="md-nav__link">
+    10.4.26. When an Information Manager discloses Market Information to a
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#105-resolving-disputes-regarding-the-disclosure-of-market-information" class="md-nav__link">
+    10.5. Resolving disputes regarding the disclosure of Market Information
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1051-if-the-coordinator-receives-notice-of-a-dispute-in-accordance" class="md-nav__link">
+    10.5.1. If the Coordinator receives notice of a dispute in accordance
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1052-the-coordinator-must-document-in-a-wem-procedure-the-process-for" class="md-nav__link">
+    10.5.2. The Coordinator must document in a WEM Procedure the process for
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1053-if-the-coordinator-considers-that-a-notice-of-dispute-received" class="md-nav__link">
+    10.5.3. If the Coordinator considers that a notice of dispute received
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1054-the-coordinator-must-conduct-reasonable-consultation-with-the" class="md-nav__link">
+    10.5.4. The Coordinator must conduct reasonable consultation with the
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1055-the-coordinator-must-make-her-or-his-determination-on-a-dispute" class="md-nav__link">
+    10.5.5. The Coordinator must make her or his determination on a dispute
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1028-and-10419" class="md-nav__link">
+    10.2.8 and 10.4.19.
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1056-within-20-business-days-of-being-notified-of-a-dispute-the" class="md-nav__link">
+    10.5.6. Within 20 Business Days of being notified of a dispute, the
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1057-if-the-timeframe-for-a-determination-is-extended-under-clause" class="md-nav__link">
+    10.5.7. If the timeframe for a determination is extended under clause
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1056b-the-coordinator-must-deliver-her-or-his-determination-within" class="md-nav__link">
+    10.5.6(b), the Coordinator must deliver her or his determination within
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1058-the-coordinators-determination" class="md-nav__link">
+    10.5.8. The Coordinator’s determination:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1059-until-the-coordinator-has-made-a-determination-under-clause" class="md-nav__link">
+    10.5.9. Until the Coordinator has made a determination under clause
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1058-the-market-information-in-dispute-will-be-deemed-to-be" class="md-nav__link">
+    10.5.8, the Market Information in dispute will be deemed to be
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10510-where-the-coordinator-makes-a-determination-under-clause" class="md-nav__link">
+    10.5.10. Where the Coordinator makes a determination under clause
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1058-the-coordinator-must" class="md-nav__link">
+    10.5.8, the Coordinator must:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10511-a-determination-published-under-clause-10510-must-include-the" class="md-nav__link">
+    10.5.11. A determination published under clause 10.5.10 must include the
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10512-if-the-coordinator-makes-a-determination-in-accordance-with" class="md-nav__link">
+    10.5.12. If the Coordinator makes a determination in accordance with
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10513-if-the-coordinator-makes-a-determination-in-accordance-with" class="md-nav__link">
+    10.5.13. If the Coordinator makes a determination in accordance with
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10514-if-a-dispute-is-lodged-under-clauses-10414-10421-or" class="md-nav__link">
+    10.5.14. If a dispute is lodged under clauses 10.4.14, 10.4.21 or
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10422-but-the-coordinator-has-already-made-a-prior-determination-on" class="md-nav__link">
+    10.4.22, but the Coordinator has already made a prior determination on
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#106-public-information" class="md-nav__link">
+    10.6. Public Information
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1061-the-confidentiality-status-for-the-following-market-information" class="md-nav__link">
+    10.6.1. The confidentiality status for the following Market Information
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1062-market-information-required-to-be-published-on-an-information" class="md-nav__link">
+    10.6.2. Market Information required to be published on an Information
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../11%20Glossary/" class="md-nav__link">
+        11 Glossary
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2.%20Administration/" class="md-nav__link">
+        2. Administration
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../3%20Power%20System%20Security%20and%20Reliability/" class="md-nav__link">
+        3 Power System Security and Reliability
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../3A.%20Requirements%20for%20Transmission%20Connected%20Generating%20Systems/" class="md-nav__link">
+        3A. Requirements for Transmission Connected Generating Systems
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../3B.%20Frequency%20Operating%20Standards/" class="md-nav__link">
+        3B. Frequency Operating Standards
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../4%20Reserve%20Capacity%20Rules/" class="md-nav__link">
+        4 Reserve Capacity Rules
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../5%20Obligations%20for%20NCESS%20Contract%20Holders/" class="md-nav__link">
+        5 Obligations for NCESS Contract Holders
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../6%20The%20Short%20Term%20Energy%20Market/" class="md-nav__link">
+        6 The Short Term Energy Market
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../8%20Wholesale%20Market%20Metering/" class="md-nav__link">
+        8 Wholesale Market Metering
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../9%20Settlement/" class="md-nav__link">
+        9 Settlement
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../output/" class="md-nav__link">
+        Output
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Chapter 1   Introduction
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 1   Introduction" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 1   Introduction
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%201%20-%20Introduction/" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Chapter 2   Administration
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 2   Administration" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 2   Administration
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%202%20-%20Administration/2.13%20-%20Compliance%20Monitoring%20and%20Enforcement/" class="md-nav__link">
+        2.13   Compliance Monitoring and Enforcement
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%202%20-%20Administration/2.15%20-%20Monitoring%20and%20Reporting%20WEM%20Procedures/" class="md-nav__link">
+        2.15   Monitoring and Reporting WEM Procedures
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          Chapter 3   Power System Security And Reliability
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 3   Power System Security And Reliability" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 3   Power System Security And Reliability
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%203%20-%20Power%20System%20Security%20And%20Reliability/" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6">
+          Chapter 4   Reserve Capacity Rules
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 4   Reserve Capacity Rules" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 4   Reserve Capacity Rules
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%204%20-%20Reserve%20Capacity%20Rules/" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7">
+          Chapter 5   Obligations For Network Access Contract Holders
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 5   Obligations For Network Access Contract Holders" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 5   Obligations For Network Access Contract Holders
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%205%20-%20Obligations%20For%20Network%20Access%20Contract%20Holders/" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" type="checkbox" id="__nav_8" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8">
+          Chapter 6   The Short Term Energy Market
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 6   The Short Term Energy Market" data-md-level="1">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 6   The Short Term Energy Market
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%206%20-%20The%20Short%20Term%20Energy%20Market/" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_9" type="checkbox" id="__nav_9" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_9">
+          Chapter 7   Real time Market Operation And Dispatch
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 7   Real time Market Operation And Dispatch" data-md-level="1">
+        <label class="md-nav__title" for="__nav_9">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 7   Real time Market Operation And Dispatch
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%207%20-%20Real-time%20Market%20Operation%20And%20Dispatch/" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10" type="checkbox" id="__nav_10" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10">
+          Chapter 8   Wholesale Market Metering
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 8   Wholesale Market Metering" data-md-level="1">
+        <label class="md-nav__title" for="__nav_10">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 8   Wholesale Market Metering
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%208%20-%20Wholesale%20Market%20Metering/" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_11" type="checkbox" id="__nav_11" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_11">
+          Chapter 9   Settlement
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 9   Settlement" data-md-level="1">
+        <label class="md-nav__title" for="__nav_11">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 9   Settlement
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%209%20-%20Settlement/" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_12" type="checkbox" id="__nav_12" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_12">
+          Glossary and Appendices
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Glossary and Appendices" data-md-level="1">
+        <label class="md-nav__title" for="__nav_12">
+          <span class="md-nav__icon md-icon"></span>
+          Glossary and Appendices
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Glossary%20and%20Appendices/11.%20Glossary/" class="md-nav__link">
+        Glossary
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#101-record-retention" class="md-nav__link">
+    10.1. Record Retention
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1011-the-coordinator-the-economic-regulation-authority-and-rule" class="md-nav__link">
+    10.1.1. The Coordinator, the Economic Regulation Authority and Rule
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1021-subject-to-clause-1021b-an-information-manager-must-in" class="md-nav__link">
+    10.2.1. Subject to clause 10.2.1B, an Information Manager must, in
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1021a-no-confidentiality-status-will-be-given-to-information" class="md-nav__link">
+    10.2.1A. No confidentiality status will be given to information,
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1021b-an-information-manager-is-not-required-to-determine-the" class="md-nav__link">
+    10.2.1B. An Information Manager is not required to determine the
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1022-the-classes-of-confidentiality-status-are" class="md-nav__link">
+    10.2.2. The classes of confidentiality status are:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1023-subject-to-clause-1025-an-information-manager-must-classify" class="md-nav__link">
+    10.2.3. Subject to clause 10.2.5, an Information Manager must classify
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1024-market-information-must-be-classified-as-public-information-if" class="md-nav__link">
+    10.2.4. Market Information must be classified as Public Information if
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1025-clause-1023-does-not-prevent-the-disclosure-or-publication-of" class="md-nav__link">
+    10.2.5. Clause 10.2.3 does not prevent the disclosure or publication of
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1026-without-limiting-clause-1024-an-information-manager-must" class="md-nav__link">
+    10.2.6. Without limiting clause 10.2.4, an Information Manager must
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1027-a-rule-participant-may-make-a-submission-to-an-information" class="md-nav__link">
+    10.2.7. A Rule Participant may make a submission to an Information
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1027a-a-rule-participant-is-an-information-stakeholder-for-market" class="md-nav__link">
+    10.2.7A. A Rule Participant is an Information Stakeholder for Market
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1028-a-submission-from-a-rule-participant-made-under-clause-1027" class="md-nav__link">
+    10.2.8. A submission from a Rule Participant made under clause 10.2.7
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1029-subject-to-clauses-1044-and-10419-and-unless-otherwise" class="md-nav__link">
+    10.2.9. Subject to clauses 10.4.4 and 10.4.19, and unless otherwise
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10210-the-coordinator-may-document-in-a-wem-procedure-guidance-for" class="md-nav__link">
+    10.2.10. The Coordinator may document in a WEM Procedure guidance for
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10211-only-one-party-may-be-the-information-manager-for-a-type-of" class="md-nav__link">
+    10.2.11. Only one party may be the Information Manager for a type of
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10212-subject-to-clause-10211-the-information-manager-for-a-type" class="md-nav__link">
+    10.2.12. Subject to clause 10.2.11, the Information Manager for a type
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10212b-and-10212c-then-the-coordinator-may-determine-the" class="md-nav__link">
+    10.2.12(b) and 10.2.12(c), then the Coordinator may determine the
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#103-public-website-requirements" class="md-nav__link">
+    10.3. Public website requirements
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1031-the-coordinator-the-economic-regulation-authority-aemo-and" class="md-nav__link">
+    10.3.1. The Coordinator, the Economic Regulation Authority, AEMO and
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1032-subject-to-clause-1047-the-coordinator-the-economic" class="md-nav__link">
+    10.3.2. Subject to clause 10.4.7, the Coordinator, the Economic
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1033-subject-to-clause-1034-market-information-required-to-be" class="md-nav__link">
+    10.3.3. Subject to clause 10.3.4, Market Information required to be
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1034-if-the-information-manager-determines-that-it-is-no-longer" class="md-nav__link">
+    10.3.4. If the Information Manager determines that it is no longer
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#104-managing-market-information" class="md-nav__link">
+    10.4. Managing Market Information
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1041-the-coordinator-the-economic-regulation-authority-and-each-rule" class="md-nav__link">
+    10.4.1. The Coordinator, the Economic Regulation Authority and each Rule
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1042-the-coordinator-the-economic-regulation-authority-aemo-and" class="md-nav__link">
+    10.4.2. The Coordinator, the Economic Regulation Authority, AEMO and
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1043-clause-1041b-does-not-prevent-the-disclosure-of-information" class="md-nav__link">
+    10.4.3. Clause 10.4.1(b) does not prevent the disclosure of information
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1044-despite-any-other-clauses-in-this-chapter-10" class="md-nav__link">
+    10.4.4. Despite any other clauses in this Chapter 10:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1045-an-information-manager-may-at-its-discretion-publish-on-its" class="md-nav__link">
+    10.4.5. An Information Manager may, at its discretion, publish on its
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1046-where-market-information-is-not-already-available-in-the-public" class="md-nav__link">
+    10.4.6. Where Market Information is not already available in the public
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1046a-a-request-submitted-under-clause-1046-must-specify-the" class="md-nav__link">
+    10.4.6A. A request submitted under clause 10.4.6 must specify the
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10419" class="md-nav__link">
+    10.4.19.
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1047-where-market-information-is-not-required-to-be-published-or" class="md-nav__link">
+    10.4.7. Where Market Information is not required to be published or
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#104-where-that-fee-may-not-exceed-the-information-managers-reasonable" class="md-nav__link">
+    10.4, where that fee may not exceed the Information Manager’s reasonable
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1048-an-information-manager-may-not-charge-the-coordinator-the" class="md-nav__link">
+    10.4.8. An Information Manager may not charge the Coordinator, the
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1049-if-the-coordinator-the-economic-regulation-authority-aemo-or-a" class="md-nav__link">
+    10.4.9. If the Coordinator, the Economic Regulation Authority, AEMO or a
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10410-if-the-information-manager-considers-that-the-market" class="md-nav__link">
+    10.4.10. If the Information Manager considers that the Market
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10411-if-a-submission-was-made-by-an-information-stakeholder-under" class="md-nav__link">
+    10.4.11. If a submission was made by an Information Stakeholder under
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10412-blank" class="md-nav__link">
+    10.4.12. [Blank]
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10413-blank" class="md-nav__link">
+    10.4.13. [Blank]
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10414-if-the-information-stakeholder-disagrees-with-the-assessment" class="md-nav__link">
+    10.4.14. If the Information Stakeholder disagrees with the assessment
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10411a-the-information-stakeholder-may-provide-the-coordinator-and" class="md-nav__link">
+    10.4.11(a), the Information Stakeholder may provide the Coordinator and
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10415-a-notice-of-dispute-provided-under-clause-10414-must-be-in" class="md-nav__link">
+    10.4.15. A notice of dispute provided under clause 10.4.14 must be in
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10416-if" class="md-nav__link">
+    10.4.16. If:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10414-in-respect-of-the-request-within-the-timeframe-specified-under" class="md-nav__link">
+    10.4.14 in respect of the request within the timeframe specified under
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10417-if-an-information-stakeholder-issues-a-notice-of-dispute-under" class="md-nav__link">
+    10.4.17. If an Information Stakeholder issues a notice of dispute under
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10418-if-the-information-manager-considers-that-the-market" class="md-nav__link">
+    10.4.18. If the Information Manager considers that the Market
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10419-subject-to-clauses-10420-10421-and-10425c-and-section" class="md-nav__link">
+    10.4.19. Subject to clauses 10.4.20, 10.4.21 and 10.4.25(c) and section
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#105-the-information-manager-must-disclose-confidential-information" class="md-nav__link">
+    10.5, the Information Manager must disclose Confidential Information
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10419a-an-information-stakeholder-for-market-information-may-dispute" class="md-nav__link">
+    10.4.19A. An Information Stakeholder for Market Information may dispute
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10420-if-an-information-manager-intends-to-disclose-market" class="md-nav__link">
+    10.4.20. If an Information Manager intends to disclose Market
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10419-and-an-information-stakeholder-is-permitted-to-dispute-the" class="md-nav__link">
+    10.4.19, and an Information Stakeholder is permitted to dispute the
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1046-notify-each-applicable-information-stakeholder-in-writing" class="md-nav__link">
+    10.4.6, notify each applicable Information Stakeholder in writing:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10421-if-an-information-stakeholder-wishes-to-lodge-a-dispute-in" class="md-nav__link">
+    10.4.21. If an Information Stakeholder wishes to lodge a dispute in
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10422-if-the-information-manager-advises-a-party-requesting-market" class="md-nav__link">
+    10.4.22. If the Information Manager advises a party requesting Market
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10423-a-notice-of-dispute-lodged-under-clauses-10421-or-10422" class="md-nav__link">
+    10.4.23. A notice of dispute lodged under clauses 10.4.21 or 10.4.22
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10424-if" class="md-nav__link">
+    10.4.24. If:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10421-in-respect-of-the-request-within-the-timeframe-specified-under" class="md-nav__link">
+    10.4.21 in respect of the request within the timeframe specified under
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10425-if-a-dispute-is-lodged-in-accordance-with-clauses-10421-or" class="md-nav__link">
+    10.4.25. If a dispute is lodged in accordance with clauses 10.4.21 or
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10422-then" class="md-nav__link">
+    10.4.22, then:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10426-when-an-information-manager-discloses-market-information-to-a" class="md-nav__link">
+    10.4.26. When an Information Manager discloses Market Information to a
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#105-resolving-disputes-regarding-the-disclosure-of-market-information" class="md-nav__link">
+    10.5. Resolving disputes regarding the disclosure of Market Information
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1051-if-the-coordinator-receives-notice-of-a-dispute-in-accordance" class="md-nav__link">
+    10.5.1. If the Coordinator receives notice of a dispute in accordance
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1052-the-coordinator-must-document-in-a-wem-procedure-the-process-for" class="md-nav__link">
+    10.5.2. The Coordinator must document in a WEM Procedure the process for
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1053-if-the-coordinator-considers-that-a-notice-of-dispute-received" class="md-nav__link">
+    10.5.3. If the Coordinator considers that a notice of dispute received
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1054-the-coordinator-must-conduct-reasonable-consultation-with-the" class="md-nav__link">
+    10.5.4. The Coordinator must conduct reasonable consultation with the
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1055-the-coordinator-must-make-her-or-his-determination-on-a-dispute" class="md-nav__link">
+    10.5.5. The Coordinator must make her or his determination on a dispute
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1028-and-10419" class="md-nav__link">
+    10.2.8 and 10.4.19.
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1056-within-20-business-days-of-being-notified-of-a-dispute-the" class="md-nav__link">
+    10.5.6. Within 20 Business Days of being notified of a dispute, the
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1057-if-the-timeframe-for-a-determination-is-extended-under-clause" class="md-nav__link">
+    10.5.7. If the timeframe for a determination is extended under clause
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1056b-the-coordinator-must-deliver-her-or-his-determination-within" class="md-nav__link">
+    10.5.6(b), the Coordinator must deliver her or his determination within
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1058-the-coordinators-determination" class="md-nav__link">
+    10.5.8. The Coordinator’s determination:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1059-until-the-coordinator-has-made-a-determination-under-clause" class="md-nav__link">
+    10.5.9. Until the Coordinator has made a determination under clause
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1058-the-market-information-in-dispute-will-be-deemed-to-be" class="md-nav__link">
+    10.5.8, the Market Information in dispute will be deemed to be
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10510-where-the-coordinator-makes-a-determination-under-clause" class="md-nav__link">
+    10.5.10. Where the Coordinator makes a determination under clause
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1058-the-coordinator-must" class="md-nav__link">
+    10.5.8, the Coordinator must:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10511-a-determination-published-under-clause-10510-must-include-the" class="md-nav__link">
+    10.5.11. A determination published under clause 10.5.10 must include the
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10512-if-the-coordinator-makes-a-determination-in-accordance-with" class="md-nav__link">
+    10.5.12. If the Coordinator makes a determination in accordance with
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10513-if-the-coordinator-makes-a-determination-in-accordance-with" class="md-nav__link">
+    10.5.13. If the Coordinator makes a determination in accordance with
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10514-if-a-dispute-is-lodged-under-clauses-10414-10421-or" class="md-nav__link">
+    10.5.14. If a dispute is lodged under clauses 10.4.14, 10.4.21 or
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10422-but-the-coordinator-has-already-made-a-prior-determination-on" class="md-nav__link">
+    10.4.22, but the Coordinator has already made a prior determination on
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#106-public-information" class="md-nav__link">
+    10.6. Public Information
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1061-the-confidentiality-status-for-the-following-market-information" class="md-nav__link">
+    10.6.1. The confidentiality status for the following Market Information
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1062-market-information-required-to-be-published-on-an-information" class="md-nav__link">
+    10.6.2. Market Information required to be published on an Information
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="10-market-information">10 Market Information</h1>
+<p>Information Policy</p>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p><strong>Explanatory Note</strong></p>
+<p>AEMO will no longer be required to maintain a list of Market
+Information and documents that Rule Participants must retain. It is each
+Rule Participant’s responsibility to retain Market Information for seven
+years or longer if required by law. For example, the Coordinator is
+required under the State Government’s record management policy to retain
+all business information for seven years.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<h3 id="101-record-retention">10.1. Record Retention</h3>
+<h3 id="1011-the-coordinator-the-economic-regulation-authority-and-rule">10.1.1. The Coordinator, the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> and Rule</h3>
+<p>Participants must retain any information or documents that are required
+to be collected, produced or exchanged under these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules or the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr>
+Procedures for a period of seven years from the date it is created, or
+such longer period as may be required by law.</p>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p><strong>Explanatory Note</strong></p>
+<p>Under the revised Market Information framework, neither AEMO nor the
+Coordinator will be required to create and maintain a list outlining the
+confidentiality status of each type of Market Information. Rather, the
+WEM Rules will contain a list of principles that will guide the
+classification of Market Information (that is, information required to
+be produced, collected or exchanged under the WEM Rules or WEM
+Procedures). The WEM Rules will continue to set out which type of
+information must be published, and in limited circumstances may specify
+that information is public or confidential.</p>
+<p>There will only be two categories of Market Information, Public
+Information and Confidential Information, and the classes under clause
+### 10.2.2 are reduced to reflect this. Instead section 10.4 sets out how
+Confidential Information may be disclosed.</p>
+<p>It will be the responsibility of the Information Manager (in the
+first instance) to determine the status of information. The Information
+Manager can only be the Coordinator, the ERA, AEMO or a Network
+Operator, and within this framework will either be the party that
+collects or the party that produces the Market Information. That party
+to whom the Market Information relates (known as the Information
+Stakeholder) will be able to provide their view to the Information
+Manager to inform the assessment of confidentiality, however it will be
+solely up to the Information Manager to make this decision</p>
+<p>The Coordinator will be available to resolve any disputes about
+confidentiality or to provide advice to the Information Manager if
+requested. The WEM Rules will allow for the Coordinator to publish a
+procedure with information about assessing confidentiality, as this may
+be desirable to improve transparency and consistency in decision making
+across different Information Managers.</p>
+<p>The intent of the drafting is that the same ‘type’ of information,
+(i.e. information submitted under a certain section, clause or
+sub-clause of the WEM Rules) maintains the same confidentiality status
+over time. It seeks to avoid a type of Market Information being treated
+as Confidential Information as it relates to one Rule Participant, but
+Public Information as it relates to another Rule Participant, or
+differently over time.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<h3 id="1021-subject-to-clause-1021b-an-information-manager-must-in">10.2.1. Subject to clause 10.2.1B, an Information Manager must, in</h3>
+<p>accordance with the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules and <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures, determine the
+confidentiality status for each type of Market Information it is
+responsible for under clause 10.2.12.</p>
+<h3 id="1021a-no-confidentiality-status-will-be-given-to-information">10.2.1A. No confidentiality status will be given to information,</h3>
+<p>documents or data disclosed to the Coordinator, the Economic Regulation
+Authority, <abbr title="Australian Energy Market Operator">AEMO</abbr> or a <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr> if that information, documents or
+data is not Market Information.</p>
+<h3 id="1021b-an-information-manager-is-not-required-to-determine-the">10.2.1B. An Information Manager is not required to determine the</h3>
+<p>confidentiality status of a type of Market Information for which it is
+responsible if the Information Manager:</p>
+<p><span class="arithmatex">\(a\)</span> has not been requested to disclose the type of Market Information
+to any requesting party under section 10.4;</p>
+<p><span class="arithmatex">\(b\)</span> is not required to disclose the type of Market Information to any
+other party under these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules or a <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedure; and</p>
+<p><span class="arithmatex">\(c\)</span> treats the type of Market Information as Confidential Information
+for the purposes of clauses 10.2.9 and 10.4.2.</p>
+<h3 id="1022-the-classes-of-confidentiality-status-are">10.2.2. The classes of confidentiality status are:</h3>
+<p><span class="arithmatex">\(a\)</span> Public Information, in which case the Market Information may be
+made available to any person by any person; and</p>
+<p><span class="arithmatex">\(b\)</span> Confidential Information, in which case the Market Information may
+only be disclosed in accordance with clauses 10.4.4 and 10.4.19, or as
+otherwise required under these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules and the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures.</p>
+<h3 id="1023-subject-to-clause-1025-an-information-manager-must-classify">10.2.3. Subject to clause 10.2.5, an Information Manager must classify</h3>
+<p>Market Information as Confidential Information if:</p>
+<p><span class="arithmatex">\(a\)</span> the Information Manager is not required to classify the Market
+Information as Public Information under clause 10.2.4; and</p>
+<p><span class="arithmatex">\(b\)</span> the Market Information:</p>
+<p>i. is contained in a contract to which the <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> is a
+counterparty, but only insofar as the Market Information is specified in
+the contract as being confidential under the contract;</p>
+<p>ii. could, in the reasonable opinion of the Information Manager, pose a
+material risk to Power System Security or Power System Reliability if
+disclosed;</p>
+<p>iii. reveals personal details about an individual, but excluding their
+name and business contact details (including company name and address
+details, position, telephone numbers, mobile numbers and email
+addresses) that forms part of Market Information that is not
+confidential;</p>
+<p>iv. could, in the reasonable opinion of the Information Manager (or
+Coordinator in the case of a dispute under section 10.5), cause
+commercial detriment to a <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> or another person if
+disclosed; or</p>
+<p>v. is otherwise specified as Confidential Information under these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr>
+Rules.</p>
+<h3 id="1024-market-information-must-be-classified-as-public-information-if">10.2.4. Market Information must be classified as Public Information if</h3>
+<p>it is:</p>
+<p><span class="arithmatex">\(a\)</span> specified as Public Information under these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules;</p>
+<p><span class="arithmatex">\(b\)</span> required to be published or otherwise made publicly available
+under these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules; or</p>
+<p><span class="arithmatex">\(c\)</span> available in the public domain, other than by reason of a breach
+of these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules or by any other unlawful means.</p>
+<h3 id="1025-clause-1023-does-not-prevent-the-disclosure-or-publication-of">10.2.5. Clause 10.2.3 does not prevent the disclosure or publication of</h3>
+<p>Market Information if it is aggregated, arranged or combined with other
+data or information such that it does not reveal any Confidential
+Information. Market Information that is aggregated, arranged or combined
+with other data or information such that it does not reveal any
+Confidential Information is deemed to be Market Information that is
+classified as Public Information.</p>
+<h3 id="1026-without-limiting-clause-1024-an-information-manager-must">10.2.6. Without limiting clause 10.2.4, an Information Manager must</h3>
+<p>classify Market Information as Public Information if the Information
+Manager does not consider that the Market Information is required to be
+classified as Confidential Information under clause 10.2.3.</p>
+<h3 id="1027-a-rule-participant-may-make-a-submission-to-an-information">10.2.7. A <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> may make a submission to an Information</h3>
+<p>Manager about Market Information that the <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> considers to
+be Confidential Information if:</p>
+<p><span class="arithmatex">\(a\)</span> the <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> is an Information Stakeholder for the Market
+Information; and</p>
+<p><span class="arithmatex">\(b\)</span> the confidentiality status of the Market Information is not
+required to be Public Information under clause 10.2.4.</p>
+<p>A submission must include the <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr>’s reasoning for
+classifying the Market Information as Confidential Information against
+the criteria in clause 10.2.3.</p>
+<h3 id="1027a-a-rule-participant-is-an-information-stakeholder-for-market">10.2.7A. A <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> is an Information Stakeholder for Market</h3>
+<p>Information if:</p>
+<p><span class="arithmatex">\(a\)</span> the Market Information explicitly relates to the <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr>
+or its Facilities, activities or contractual arrangements;</p>
+<p><span class="arithmatex">\(b\)</span> where clause 10.2.7A(a) does not apply, the <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> or
+its Facilities, activities or contractual arrangements would otherwise
+be able to be identified from the Market Information; or</p>
+<p><span class="arithmatex">\(c\)</span> the Market Information relates to information, data or documents
+that a third party provided to the <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> and the Rule
+Participant is under a duty or obligation (however described) to that
+third party to keep the relevant information, data or documents
+confidential.</p>
+<h3 id="1028-a-submission-from-a-rule-participant-made-under-clause-1027">10.2.8. A submission from a <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> made under clause 10.2.7</h3>
+<p>must be considered by the Information Manager (or the Coordinator in the
+case of a dispute under section 10.5) when classifying Market
+Information. However the Information Manager (or Coordinator in the case
+of a dispute under section 10.5) will not be bound by any submission
+made by a <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> in making its determination.</p>
+<h3 id="1029-subject-to-clauses-1044-and-10419-and-unless-otherwise">10.2.9. Subject to clauses 10.4.4 and 10.4.19, and unless otherwise</h3>
+<p>required or permitted by these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules, the Coordinator, the Economic
+Regulation Authority and <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participants</abbr> must not disclose
+Confidential Information to any person.</p>
+<h3 id="10210-the-coordinator-may-document-in-a-wem-procedure-guidance-for">10.2.10. The Coordinator may document in a <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedure guidance for</h3>
+<p>Information Managers to assist with determining the confidentiality
+status of Market Information in accordance with clause 10.2.3.</p>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p><strong>Explanatory Note</strong></p>
+<p>The intent is that the Information Manager is the party that Market
+Information is delivered to in the first instance. It is expected that
+in the majority of cases that this will be AEMO but that in any case it
+can only be AEMO, a Network Operator, the Coordinator or the ERA – i.e.
+a Market Participant cannot be an Information Manager.</p>
+<p>Given that Market Information is not always delivered to a party
+(i.e. sometimes AEMO or Western Power may produce their own Market
+Information), clause 10.2.12 sets out a hierarchy to guide Rule
+Participants and other interested parties on who the Information Manager
+for a particular type of Market Information is (as there cannot be two
+Information Managers for one type of Market Information). Given that
+circumstances may arise where it is unclear which party should take
+responsibility, clause 10.2.12(c) allows the Coordinator of Energy to
+make a determination on who the Information Manager is.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<h3 id="10211-only-one-party-may-be-the-information-manager-for-a-type-of">10.2.11. Only one party may be the Information Manager for a type of</h3>
+<p>Market Information, and the Information Manager may only be the
+Coordinator, the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr>, <abbr title="Australian Energy Market Operator">AEMO</abbr> or a Network
+Operator.</p>
+<h3 id="10212-subject-to-clause-10211-the-information-manager-for-a-type">10.2.12. Subject to clause 10.2.11, the Information Manager for a type</h3>
+<p>of Market Information is:</p>
+<p><span class="arithmatex">\(a\)</span> in the first instance, the party who is required to publish the
+Market Information in accordance with these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules or the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr>
+Procedures;</p>
+<p><span class="arithmatex">\(b\)</span> if clause 10.2.12(a) does not apply, then the party who produces
+the Market Information in accordance with these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules or the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr>
+Procedures;</p>
+<p><span class="arithmatex">\(c\)</span> if neither of clauses 10.2.12(a) or 10.2.12(b) apply, then the
+party who receives the Market Information under these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules or the
+<abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures; or</p>
+<p><span class="arithmatex">\(d\)</span> if none of clauses 10.2.12(a), 10.2.12(b) or 10.2.12(c) apply, or
+it is unclear who the Information Manager is under clauses 10.2.12(a),</p>
+<h3 id="10212b-and-10212c-then-the-coordinator-may-determine-the">10.2.12(b) and 10.2.12(c), then the Coordinator may determine the</h3>
+<p>Information Manager.</p>
+<h3 id="103-public-website-requirements">10.3. Public website requirements</h3>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p><strong>Explanatory Note</strong></p>
+<p>Clause 10.3.1 has been amended to require all parties who may be
+Information Managers to maintain a website for the purposes of
+publishing information as required by the WEM Rules and WEM Procedures.
+Guidance is provided on how long information must be maintained on a
+website.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<h3 id="1031-the-coordinator-the-economic-regulation-authority-aemo-and">10.3.1. The Coordinator, the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr>, <abbr title="Australian Energy Market Operator">AEMO</abbr> and</h3>
+<p>each <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr> must maintain a website for the purpose of
+publishing Market Information as required under these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules or the
+<abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures.</p>
+<h3 id="1032-subject-to-clause-1047-the-coordinator-the-economic">10.3.2. Subject to clause 10.4.7, the Coordinator, the Economic</h3>
+<p>Regulation Authority, <abbr title="Australian Energy Market Operator">AEMO</abbr> or a <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr> must not require a fee
+for Market Information required to be disclosed or published by the
+Coordinator, the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr>, <abbr title="Australian Energy Market Operator">AEMO</abbr> or the Network
+Operator in accordance with these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules or the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures.</p>
+<h3 id="1033-subject-to-clause-1034-market-information-required-to-be">10.3.3. Subject to clause 10.3.4, Market Information required to be</h3>
+<p>published must, where practical, be maintained on an Information
+Manager’s website for as long as that Market Information is required to
+be retained in accordance with clause 10.1.1.</p>
+<h3 id="1034-if-the-information-manager-determines-that-it-is-no-longer">10.3.4. If the Information Manager determines that it is no longer</h3>
+<p>practical or efficient to maintain Market Information on a website in
+accordance with clause 10.3.3, the Information Manager must retain the
+Market Information as required by clause 10.1.1 and make the Market
+Information available at no cost to any person on application.</p>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p><strong>Explanatory Note</strong></p>
+<p>Section 10.4 outlines how Market Information must be managed,
+including:</p>
+<ul>
+<li><p>how Confidential Information must be secured;</p></li>
+<li><p>how Market Information can be requested;</p></li>
+<li><p>managing the release of Public Information on request;
+and</p></li>
+<li><p>managing the disclosure of Confidential Information on
+request.</p></li>
+</ul>
+<p>This first subsection outlines general obligations for managing
+Market Information.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<h3 id="104-managing-market-information">10.4. Managing Market Information</h3>
+<h3 id="1041-the-coordinator-the-economic-regulation-authority-and-each-rule">10.4.1. The Coordinator, the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> and each Rule</h3>
+<p>Participant must:</p>
+<p><span class="arithmatex">\(a\)</span> manage Market Information in accordance with this section 10.4;</p>
+<p><span class="arithmatex">\(b\)</span> take all reasonable measures to protect any Confidential
+Information that is in its possession from unauthorised use or
+disclosure; and</p>
+<p><span class="arithmatex">\(c\)</span> if it is made aware that the Confidential Information has come
+into its possession erroneously, take reasonable steps to destroy that
+Confidential Information.</p>
+<h3 id="1042-the-coordinator-the-economic-regulation-authority-aemo-and">10.4.2. The Coordinator, the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr>, <abbr title="Australian Energy Market Operator">AEMO</abbr> and</h3>
+<p>each <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr> may only use Confidential Information in its
+possession to the extent that it considers it is required to perform its
+functions under sections 2.1A, 2.2A, 2.2C or 2.2D, as applicable.</p>
+<h3 id="1043-clause-1041b-does-not-prevent-the-disclosure-of-information">10.4.3. Clause 10.4.1(b) does not prevent the disclosure of information</h3>
+<p>by the Coordinator, the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> or a Rule
+Participant (“<strong>disclosing party</strong>”) to:</p>
+<p><span class="arithmatex">\(a\)</span> an employee or officer of the disclosing party, or a related body
+corporate of the disclosing party; or</p>
+<p><span class="arithmatex">\(b\)</span> a legal or other professional adviser, auditor or other consultant
+of the disclosing party, who requires the Market Information in relation
+to the performance of the disclosing party's functions or obligations
+under these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules, or for the purpose of advising the disclosing
+party in respect of these functions or obligations,</p>
+<p>provided that the disclosing party ensures that these persons are under
+equivalent obligations of confidence to the disclosing party as those
+provided in these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules.</p>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p><strong>Explanatory Note</strong></p>
+<p>Clause 10.4.4 is intended to ensure that:</p>
+<ul>
+<li><p>AEMO is not prevented from allowing Rule Participants access to
+their own data in AEMO’s systems (e.g. meter data provided by Western
+Power to AEMO is available to each Rule Participant as it directly
+pertains to them); and</p></li>
+<li><p>parties are not prevented from disclosing their own
+information.</p></li>
+</ul></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<h3 id="1044-despite-any-other-clauses-in-this-chapter-10">10.4.4. Despite any other clauses in this Chapter 10:</h3>
+<p><span class="arithmatex">\(a\)</span> an Information Manager is not prevented from allowing a Rule
+Participant access to Market Information that, other than by reason of a
+breach of these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules or other unlawful means, should already be
+known to that <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr>;</p>
+<p><span class="arithmatex">\(b\)</span> a <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> is not prevented from publishing or otherwise
+disclosing Market Information in its possession which relates solely to
+the <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> or the <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr>’s Facilities or activities;</p>
+<p><span class="arithmatex">\(c\)</span> a <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> is not prevented from disclosing Confidential
+Information to a person where it is necessary to ensure the safety of
+personnel, equipment or the power system; and</p>
+<p><span class="arithmatex">\(d\)</span> the Coordinator, the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> or a Rule
+Participant is not prevented from disclosing Confidential Information to
+a third party as required under applicable law.</p>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p><strong>Explanatory Note</strong></p>
+<p>Clause 10.4.5 allows an Information Manager to publish a list that
+demonstrates how they intend to classify Market Information they are
+responsible for. This list will not be binding, and will not necessarily
+need to be comprehensive. Rule Participants and other relevant parties
+will still be able to dispute the classification, proposed release or
+disclosure under section 10.5 despite any classification on this
+list.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<h3 id="1045-an-information-manager-may-at-its-discretion-publish-on-its">10.4.5. An Information Manager may, at its discretion, publish on its</h3>
+<p>website a list outlining its proposed classification for each type of
+Market Information the Information Manager is responsible for. This
+classification shall not be binding on the Information Manager or the
+Coordinator in the case of a dispute under section 10.5.</p>
+<p>Requesting access to Market Information</p>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p><strong>Explanatory Note</strong></p>
+<p>This subsection outlines how Market Information that is not required
+by the WEM Rules to be published can be requested by any person, and the
+fees that the Information Manager can charge.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<h3 id="1046-where-market-information-is-not-already-available-in-the-public">10.4.6. Where Market Information is not already available in the public</h3>
+<p>domain, any person may request access to that Market Information by
+submitting a written request to the Information Manager.</p>
+<h3 id="1046a-a-request-submitted-under-clause-1046-must-specify-the">10.4.6A. A request submitted under clause 10.4.6 must specify the</h3>
+<p>details of how the request meets any of the criteria specified in clause</p>
+<h3 id="10419">10.4.19.</h3>
+<h3 id="1047-where-market-information-is-not-required-to-be-published-or">10.4.7. Where Market Information is not required to be published or</h3>
+<p>otherwise disclosed in accordance with these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules or a <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr>
+Procedure, an Information Manager may charge a person a fee for
+providing Market Information disclosed in accordance with this section</p>
+<h3 id="104-where-that-fee-may-not-exceed-the-information-managers-reasonable">10.4, where that fee may not exceed the Information Manager’s reasonable</h3>
+<p>costs, not otherwise included in its budget, of:</p>
+<p><span class="arithmatex">\(a\)</span> collation and transmission of information or documents; and</p>
+<p><span class="arithmatex">\(b\)</span> preparation of documents not otherwise required by these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr>
+Rules, or other applicable law or regulation.</p>
+<h3 id="1048-an-information-manager-may-not-charge-the-coordinator-the">10.4.8. An Information Manager may not charge the Coordinator, the</h3>
+<p><abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr>, <abbr title="Australian Energy Market Operator">AEMO</abbr> or a <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr> for Market
+Information requested in accordance with these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules.</p>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p><strong>Explanatory Note</strong></p>
+<p>Where a request for Market Information is submitted to the wrong
+Information Manager, the recipient must refer the requesting party to
+the appropriate Information Manager or the Coordinator, and must not
+provide the Market Information to the requesting party.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<h3 id="1049-if-the-coordinator-the-economic-regulation-authority-aemo-or-a">10.4.9. If the Coordinator, the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr>, <abbr title="Australian Energy Market Operator">AEMO</abbr> or a</h3>
+<p><abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr>:</p>
+<p><span class="arithmatex">\(a\)</span> receives a request for Market Information under clause 10.4.6; and</p>
+<p><span class="arithmatex">\(b\)</span> is not the Information Manager for that Market Information,</p>
+<p>then it must:</p>
+<p><span class="arithmatex">\(c\)</span> refer the requesting party to the appropriate Information Manager
+or the Coordinator; and</p>
+<p><span class="arithmatex">\(d\)</span> take no further action on the request under this section 10.4.</p>
+<p>Managing the disclosure of Public Information</p>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p><strong>Explanatory Note</strong></p>
+<p>The release of Public Information (as deemed by the Information
+Manager) requires consultation with any Information Stakeholder for the
+Market Information who has indicated the Market Information is
+Confidential Information.</p>
+<p>The Information Manager is required to justify why their assessment
+of confidentiality differs from the Information Stakeholder’s, and the
+Information Stakeholder is permitted to lodge a dispute with the
+Coordinator if they disagree with the assessment by the Information
+Manager.</p>
+<p>Where the Information Manager would be required to provide the
+requesting party with the Market Information regardless of its
+confidentiality status, and the provision of the Market Information as
+Confidential Information was not open to dispute, the provision of the
+Market Information to the requesting party will not be delayed by any
+potential or actual dispute about its confidentiality status. However,
+where appropriate the Information Manager must notify the requesting
+party that the confidentiality status of the Market Information is
+uncertain and the Market Information must be treated as Confidential
+Information until its confidentiality status is confirmed.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<h3 id="10410-if-the-information-manager-considers-that-the-market">10.4.10. If the Information Manager considers that the Market</h3>
+<p>Information requested under clause 10.4.6 is Public Information, it
+must, subject to clauses 10.4.11 and 10.4.16(c) and section 10.5, if it
+continues to possess the Market Information, disclose the relevant
+Market Information to the requesting party within 20 Business Days of
+receiving the request.</p>
+<h3 id="10411-if-a-submission-was-made-by-an-information-stakeholder-under">10.4.11. If a submission was made by an Information Stakeholder under</h3>
+<p>clause 10.2.7 that Market Information requested under clause 10.4.6 is
+Confidential Information, and the Information Manager has deemed the
+Market Information to be Public Information and intends to provide it to
+the requesting party under clause 10.4.10:</p>
+<p><span class="arithmatex">\(a\)</span> the Information Manager must, within 10 Business Days of receiving
+the request under clause 10.4.6, notify the Information Stakeholder in
+writing:</p>
+<p>i. that it intends to disclose the Market Information to the requesting
+party, specifying the time and nature of the intended disclosure;</p>
+<p>ii. its reasons for the Market Information not being Confidential
+Information; and</p>
+<p>iii. that the Information Stakeholder may lodge a dispute with the
+Coordinator within five Business Days if it disagrees with the
+Information Manager’s assessment;</p>
+<p><span class="arithmatex">\(b\)</span> if, had the Information Manager determined that the requested
+Market Information was Confidential Information (which it has not):</p>
+<p>i. the Information Manager would be required to disclose the Market
+Information to the requesting party under clause 10.4.19; and</p>
+<p>ii. no Information Stakeholder would be permitted to dispute the
+disclosure of the Market Information to the requesting party under
+clause 10.4.19A,</p>
+<p>the Information Manager must:</p>
+<p>iii. disclose the Market Information to the requesting party within the
+timeframe specified in clause 10.4.10; and</p>
+<p>iv. if the Market Information is disclosed to the requesting party:</p>
+<p>1. before the deadline for lodging a dispute under clause 10.4.14 in
+respect of the request; or</p>
+<p>2. before the Coordinator has made a determination on any dispute that
+was lodged under clause 10.4.14 in respect of the request,</p>
+<p>notify the requesting party when the Market Information is disclosed
+that, because the confidentiality status of the Market Information is,
+or could be, subject to a dispute, the requesting party must treat the
+Market Information as Confidential Information until the Information
+Manager or the Coordinator has notified the requesting party of the
+final confidentiality status for the relevant Market Information; and</p>
+<p><span class="arithmatex">\(c\)</span> if clause 10.4.11(b) does not apply, the Information Manager must
+not disclose the Market Information to the requesting party during the
+timeframe referred to in clause 10.4.11(a)(iii).</p>
+<h3 id="10412-blank">10.4.12. [Blank]</h3>
+<h3 id="10413-blank">10.4.13. [Blank]</h3>
+<h3 id="10414-if-the-information-stakeholder-disagrees-with-the-assessment">10.4.14. If the Information Stakeholder disagrees with the assessment</h3>
+<p>specified by the Information Manager in a notification under clause</p>
+<h3 id="10411a-the-information-stakeholder-may-provide-the-coordinator-and">10.4.11(a), the Information Stakeholder may provide the Coordinator and</h3>
+<p>the Information Manager with a notice of dispute within the timeframe
+specified in clause 10.4.11(a)(iii).</p>
+<h3 id="10415-a-notice-of-dispute-provided-under-clause-10414-must-be-in">10.4.15. A notice of dispute provided under clause 10.4.14 must be in</h3>
+<p>writing and must contain:</p>
+<p><span class="arithmatex">\(a\)</span> the date on which the notice of dispute was issued;</p>
+<p><span class="arithmatex">\(b\)</span> the identity of the Information Stakeholder issuing the notice of
+dispute;</p>
+<p><span class="arithmatex">\(c\)</span> the identities of any other relevant parties to the dispute;</p>
+<p><span class="arithmatex">\(d\)</span> the details of the Market Information in dispute, including the
+Information Stakeholder's reasoning for disputing the Information
+Manager's assessment; and</p>
+<p><span class="arithmatex">\(e\)</span> the contact person for the Information Stakeholder issuing the
+dispute, and their contact details.</p>
+<h3 id="10416-if">10.4.16. If:</h3>
+<p><span class="arithmatex">\(a\)</span> an Information Manager issues a notification to one or more
+Information Stakeholders under clause 10.4.11(a) in respect of a
+specific request for Market Information under clause 10.4.6; and</p>
+<p><span class="arithmatex">\(b\)</span> no Information Stakeholder issues a notice of dispute under clause</p>
+<h3 id="10414-in-respect-of-the-request-within-the-timeframe-specified-under">10.4.14 in respect of the request within the timeframe specified under</h3>
+<p>clause 10.4.11(a)(iii) for the relevant notification,</p>
+<p>the Information Manager must:</p>
+<p><span class="arithmatex">\(c\)</span> if it has already disclosed the Market Information to the
+requesting party under clause 10.4.11(b)(iii), notify the requesting
+party that the relevant Market Information is Public Information; or</p>
+<p><span class="arithmatex">\(d\)</span> otherwise, disclose the Market Information to the requesting party
+within the timeframe specified in clause 10.4.10.</p>
+<h3 id="10417-if-an-information-stakeholder-issues-a-notice-of-dispute-under">10.4.17. If an Information Stakeholder issues a notice of dispute under</h3>
+<p>clause 10.4.14, then:</p>
+<p><span class="arithmatex">\(a\)</span> the Coordinator and the Information Manager must acknowledge the
+notice of dispute within one Business Day of receiving the notice of
+dispute;</p>
+<p><span class="arithmatex">\(b\)</span> the Coordinator must determine the dispute in accordance with
+section 10.5; and</p>
+<p><span class="arithmatex">\(c\)</span> except where clause 10.4.11(b) applies, the Information Manager
+must not disclose the Market Information to the requesting party while
+the dispute is being determined.</p>
+<p>Managing disclosure of Confidential Information</p>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p><strong>Explanatory Note</strong></p>
+<p>This section sets out the circumstances under which Confidential
+Information can be disclosed.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<h3 id="10418-if-the-information-manager-considers-that-the-market">10.4.18. If the Information Manager considers that the Market</h3>
+<p>Information requested under clause 10.4.6 is Confidential Information,
+it must:</p>
+<p><span class="arithmatex">\(a\)</span> if required under clause 10.4.19, disclose the Market Information
+to the requesting party within 20 Business Days of receiving the
+request; or</p>
+<p><span class="arithmatex">\(b\)</span> advise the requesting party that the Market Information is
+Confidential Information and is unable to be disclosed within 10
+Business Days of receiving the request.</p>
+<h3 id="10419-subject-to-clauses-10420-10421-and-10425c-and-section">10.4.19. Subject to clauses 10.4.20, 10.4.21 and 10.4.25(c) and section</h3>
+<h3 id="105-the-information-manager-must-disclose-confidential-information">10.5, the Information Manager must disclose Confidential Information</h3>
+<p>that has been requested under clause 10.4.6 to the requesting party if:</p>
+<p><span class="arithmatex">\(a\)</span> the Information Manager has the written consent of each relevant
+Information Stakeholder;</p>
+<p><span class="arithmatex">\(b\)</span> the Confidential Information is required to be disclosed by or
+under any law or a stock exchange having jurisdiction over the Rule
+Participant;</p>
+<p><span class="arithmatex">\(c\)</span> disclosure of the Confidential Information is required by an order
+of a court, tribunal, arbiter, the Electricity Review Board or another
+judicial body having jurisdiction to compel the disclosure of
+Confidential Information;</p>
+<p><span class="arithmatex">\(d\)</span> the disclosure of the Confidential Information to the requesting
+party is necessary for the safety of personnel, equipment or the power
+system;</p>
+<p><span class="arithmatex">\(e\)</span> the requesting party is the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> or the
+Coordinator;</p>
+<p><span class="arithmatex">\(f\)</span> the requesting party is <abbr title="Australian Energy Market Operator">AEMO</abbr> or the relevant <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr> and
+the Confidential Information is required by that party to carry out its
+functions under these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules or a <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedure; or</p>
+<p><span class="arithmatex">\(g\)</span> in the reasonable opinion of the Information Manager (or
+Coordinator in a dispute under Section 10.5), the benefit to electricity
+consumers of the disclosure of the Confidential Information to the
+requesting party outweighs any commercial detriment that may be caused
+by the disclosure.</p>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p><strong>Explanatory Note</strong></p>
+<p>Clause 10.4.19A sets out the circumstances under which an Information
+Stakeholder may dispute the provision of Confidential Information to a
+requesting party under clause 10.4.19.</p>
+<p>If a dispute is permitted, then the Information Manager is required
+to consult with the Information Stakeholder(s) before the Confidential
+Information is released, and the Information Stakeholder(s) may dispute
+the disclosure of the Confidential Information to the requesting
+party.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<h3 id="10419a-an-information-stakeholder-for-market-information-may-dispute">10.4.19A. An Information Stakeholder for Market Information may dispute</h3>
+<p>the disclosure of that Market Information to a requesting party under
+clause 10.4.19 if:</p>
+<p><span class="arithmatex">\(a\)</span> the Market Information is being disclosed because the Information
+Manager considers the request meets the criteria in clause 10.4.19(g);
+and</p>
+<p><span class="arithmatex">\(b\)</span> the Information Manager is not the Coordinator.</p>
+<h3 id="10420-if-an-information-manager-intends-to-disclose-market">10.4.20. If an Information Manager intends to disclose Market</h3>
+<p>Information requested under clause 10.4.6 in accordance with clause</p>
+<h3 id="10419-and-an-information-stakeholder-is-permitted-to-dispute-the">10.4.19, and an Information Stakeholder is permitted to dispute the</h3>
+<p>disclosure of the Market Information under clause 10.4.19A, the
+Information Manager must:</p>
+<p><span class="arithmatex">\(a\)</span> within 10 Business Days of receiving the request under clause</p>
+<h3 id="1046-notify-each-applicable-information-stakeholder-in-writing">10.4.6, notify each applicable Information Stakeholder in writing:</h3>
+<p>i. that it intends to disclose the Market Information to the requesting
+party, specifying the time and nature of the intended disclosure;</p>
+<p>ii. its reasons for the Market Information being disclosed to the
+requesting party under clause 10.4.19; and</p>
+<p>iii. that the Information Stakeholder may lodge a dispute with the
+Coordinator within five Business Days if it disagrees with the
+Information Manager’s assessment; and</p>
+<p><span class="arithmatex">\(b\)</span> not disclose the Market Information to the requesting party during
+the timeframe referred to in clause 10.4.20(a)(iii).</p>
+<h3 id="10421-if-an-information-stakeholder-wishes-to-lodge-a-dispute-in">10.4.21. If an Information Stakeholder wishes to lodge a dispute in</h3>
+<p>relation to a notification received under clause 10.4.20(a), it must
+provide the Coordinator and the Information Manager with a notice of
+dispute within the timeframe specified in clause 10.4.20(a)(iii).</p>
+<h3 id="10422-if-the-information-manager-advises-a-party-requesting-market">10.4.22. If the Information Manager advises a party requesting Market</h3>
+<p>Information that the Market Information is Confidential Information that
+cannot be disclosed under clause 10.4.19, the requesting party may
+provide the Coordinator and the Information Manager with a notice of
+dispute regarding the assessment by the Information Manager of either:</p>
+<p><span class="arithmatex">\(a\)</span> confidentiality under clause 10.2.3; or</p>
+<p><span class="arithmatex">\(b\)</span> eligibility for disclosure under clause 10.4.19.</p>
+<h3 id="10423-a-notice-of-dispute-lodged-under-clauses-10421-or-10422">10.4.23. A notice of dispute lodged under clauses 10.4.21 or 10.4.22</h3>
+<p>must be in writing and contain:</p>
+<p><span class="arithmatex">\(a\)</span> the date on which the notice of dispute was issued;</p>
+<p><span class="arithmatex">\(b\)</span> the identity of the <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> or person issuing the notice
+of dispute;</p>
+<p><span class="arithmatex">\(c\)</span> the identities of any other relevant parties to the dispute;</p>
+<p><span class="arithmatex">\(d\)</span> the details of the Market Information in dispute, including the
+Information Stakeholder's or requesting party's, as applicable,
+reasoning for disputing the Information Manager's assessment; and</p>
+<p><span class="arithmatex">\(e\)</span> the contact person for the <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> or person issuing the
+dispute, and their contact details.</p>
+<h3 id="10424-if">10.4.24. If:</h3>
+<p><span class="arithmatex">\(a\)</span> an Information Manager issues a notification to one or more
+Information Stakeholders under clause 10.4.20(a) in respect of a
+specific request for Market Information under clause 10.4.6; and</p>
+<p><span class="arithmatex">\(b\)</span> no Information Stakeholder issues a notice of dispute under clause</p>
+<h3 id="10421-in-respect-of-the-request-within-the-timeframe-specified-under">10.4.21 in respect of the request within the timeframe specified under</h3>
+<p>clause 10.4.20(a)(iii) for the relevant notification,</p>
+<p>the Information Manager must disclose the Market Information to the
+requesting party within the timeframe specified in clause 10.4.18(a).</p>
+<h3 id="10425-if-a-dispute-is-lodged-in-accordance-with-clauses-10421-or">10.4.25. If a dispute is lodged in accordance with clauses 10.4.21 or</h3>
+<h3 id="10422-then">10.4.22, then:</h3>
+<p><span class="arithmatex">\(a\)</span> the Coordinator and the Information Manager must acknowledge the
+notice of dispute within one Business Day of receiving the notice of
+dispute;</p>
+<p><span class="arithmatex">\(b\)</span> the Coordinator must determine the dispute in accordance with
+section 10.5; and</p>
+<p><span class="arithmatex">\(c\)</span> the Information Manager must not disclose the Market Information
+under dispute to the requesting party while the dispute is being
+determined.</p>
+<h3 id="10426-when-an-information-manager-discloses-market-information-to-a">10.4.26. When an Information Manager discloses Market Information to a</h3>
+<p>requesting party in response to a request under clause 10.4.6, the
+Information Manager must advise the requesting party whether the Market
+Information is classified as Public Information or Confidential
+Information.</p>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p><strong>Explanatory Note</strong></p>
+<p>Section 10.5 outlines the requirements the Coordinator must comply
+with to resolve disputes regarding the release or disclosure of Market
+Information. It requires the Coordinator to publish a WEM procedure to
+guide Rule Participants on the detail of the process.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<h3 id="105-resolving-disputes-regarding-the-disclosure-of-market-information">10.5. Resolving disputes regarding the disclosure of Market Information</h3>
+<h3 id="1051-if-the-coordinator-receives-notice-of-a-dispute-in-accordance">10.5.1. If the Coordinator receives notice of a dispute in accordance</h3>
+<p>with clauses 10.4.14, 10.4.21 or 10.4.22, the Coordinator must resolve
+the dispute in accordance with this section 10.5.</p>
+<h3 id="1052-the-coordinator-must-document-in-a-wem-procedure-the-process-for">10.5.2. The Coordinator must document in a <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedure the process for</h3>
+<p>resolving a dispute under this section 10.5.</p>
+<h3 id="1053-if-the-coordinator-considers-that-a-notice-of-dispute-received">10.5.3. If the Coordinator considers that a notice of dispute received</h3>
+<p>under clauses 10.4.14, 10.4.21 or 10.4.22 lacks sufficient substance or
+is trivial, or that the dispute is frivolous or vexatious, the
+Coordinator may dismiss the dispute and the original decision of the
+Information Manager will be final.</p>
+<h3 id="1054-the-coordinator-must-conduct-reasonable-consultation-with-the">10.5.4. The Coordinator must conduct reasonable consultation with the</h3>
+<p>Information Manager, each relevant Information Stakeholder and the
+requesting party as part of the dispute resolution process.</p>
+<h3 id="1055-the-coordinator-must-make-her-or-his-determination-on-a-dispute">10.5.5. The Coordinator must make her or his determination on a dispute</h3>
+<p>against the requirements in clauses 10.2.3, 10.2.4, 10.2.5, 10.2.6,</p>
+<h3 id="1028-and-10419">10.2.8 and 10.4.19.</h3>
+<h3 id="1056-within-20-business-days-of-being-notified-of-a-dispute-the">10.5.6. Within 20 Business Days of being notified of a dispute, the</h3>
+<p>Coordinator must inform the parties to the dispute in writing of either:</p>
+<p><span class="arithmatex">\(a\)</span> the Coordinator's determination; or</p>
+<p><span class="arithmatex">\(b\)</span> if more time is required for a determination, the expected date
+for that determination.</p>
+<h3 id="1057-if-the-timeframe-for-a-determination-is-extended-under-clause">10.5.7. If the timeframe for a determination is extended under clause</h3>
+<h3 id="1056b-the-coordinator-must-deliver-her-or-his-determination-within">10.5.6(b), the Coordinator must deliver her or his determination within</h3>
+<p>that extended timeframe.</p>
+<h3 id="1058-the-coordinators-determination">10.5.8. The Coordinator’s determination:</h3>
+<p><span class="arithmatex">\(a\)</span> must, where applicable, classify the relevant Market Information
+as Public Information or Confidential Information; and</p>
+<p><span class="arithmatex">\(b\)</span> may, if the Market Information is Confidential Information, direct
+the Information Manager to:</p>
+<p>i. disclose all or part of the Market Information to the requesting
+party;</p>
+<p>ii. disclose all or part of the Market Information to the requesting
+party with conditions attached; or</p>
+<p>iii. not release or disclose the Market Information to the requesting
+party.</p>
+<h3 id="1059-until-the-coordinator-has-made-a-determination-under-clause">10.5.9. Until the Coordinator has made a determination under clause</h3>
+<h3 id="1058-the-market-information-in-dispute-will-be-deemed-to-be">10.5.8, the Market Information in dispute will be deemed to be</h3>
+<p>Confidential Information and may not be disclosed by the Information
+Manager to any party, except as otherwise required under these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr>
+Rules.</p>
+<h3 id="10510-where-the-coordinator-makes-a-determination-under-clause">10.5.10. Where the Coordinator makes a determination under clause</h3>
+<h3 id="1058-the-coordinator-must">10.5.8, the Coordinator must:</h3>
+<p><span class="arithmatex">\(a\)</span> advise the parties to the dispute of the outcome; and</p>
+<p><span class="arithmatex">\(b\)</span> publish her or his determination on the Coordinator’s Website,
+redacting any commercially sensitive or other Confidential Information.</p>
+<h3 id="10511-a-determination-published-under-clause-10510-must-include-the">10.5.11. A determination published under clause 10.5.10 must include the</h3>
+<p>nature of the Market Information that has been determined to be Public
+Information or Confidential Information, and any submissions or
+justification put forward by the parties to the dispute or any other
+parties consulted by the Coordinator.</p>
+<h3 id="10512-if-the-coordinator-makes-a-determination-in-accordance-with">10.5.12. If the Coordinator makes a determination in accordance with</h3>
+<p>clauses 10.5.8(a), 10.5.8(b)(i) or 10.5.8(b)(ii), the Information
+Manager must disclose the specified Market Information to the requesting
+party in accordance with the determination within 10 Business Days.</p>
+<h3 id="10513-if-the-coordinator-makes-a-determination-in-accordance-with">10.5.13. If the Coordinator makes a determination in accordance with</h3>
+<p>clause 10.5.8(b)(iii) the Information Manager must not disclose the
+Market Information to the requesting party.</p>
+<h3 id="10514-if-a-dispute-is-lodged-under-clauses-10414-10421-or">10.5.14. If a dispute is lodged under clauses 10.4.14, 10.4.21 or</h3>
+<h3 id="10422-but-the-coordinator-has-already-made-a-prior-determination-on">10.4.22, but the Coordinator has already made a prior determination on</h3>
+<p>the same type of Market Information on the same or similar grounds as
+those specified in the dispute, the Coordinator is not required to
+determine the dispute in accordance with this section 10.5 and may
+direct the parties to the dispute to her or his relevant determination.</p>
+<p>Market Information to be Published by Information Managers</p>
+<h3 id="106-public-information">10.6. Public Information</h3>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p><strong>Explanatory Note</strong></p>
+<p>The requirement to publish information under clause 10.5.1 (in the
+current version of the WEM Rules), or to classify information as public
+under clause 10.5.2 (in the current version of the WEM Rules) has, in
+general, been moved to the section or chapter of the WEM Rules that the
+information relates to.</p>
+<p>For example, the information previously required to be published
+under clause 10.5.1(f) about the Reserve Capacity Mechanism has been
+moved to Chapter 4. Where information was already required to be
+published it has not been replaced elsewhere in the WEM Rules.</p>
+<p>Where information is generic or relates to multiple chapters of the
+WEM Rules, it has been included in clauses 10.6.1(a) to 10.6.1(g)
+below.</p>
+<p>In Exposure Draft 2, clauses 10.6.1(h) to 10.6.1(n) were used as a
+holding location for clauses within the current clause 10.5.1 that were
+yet to be relocated. Since the consultation period for Exposure Draft
+2:</p>
+<ul>
+<li><p>clause 10.6.1(h) (formerly 10.5.1(h)) has been deleted as this
+information can be derived from the information provided under clause
+7.13.1E(aA);</p></li>
+<li><p>clause 10.6.1(i) (formerly 10.5.1(jB)) has been replaced with
+clauses 10.6.1(h) and 10.6.1(i);</p></li>
+<li><p>clause 10.6.1(j) (formerly 10.5.1(u)) has been deleted because
+the relevant fee rate information is published under clause
+2.24.2;</p></li>
+<li><p>clause 10.6.1(k) (formerly 10.5.1(v)) has been replaced by new
+clause 9.18.13;</p></li>
+<li><p>clauses 10.6.1(l) and 10.6.1(m) (formerly 10.5.1(y) and
+### 10.5.1(z)) has been replaced by various publications under section 7.13;
+and</p></li>
+<li><p>clause 10.6.1(n) (formerly 10.5.1(zI)) has been replaced by new
+clause 3.22.3.</p></li>
+</ul></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<h3 id="1061-the-confidentiality-status-for-the-following-market-information">10.6.1. The confidentiality status for the following Market Information</h3>
+<p>under section 10.2 is Public Information and the relevant Information
+Manager must make each item of information available from or via its
+website after that item of information becomes available to it:</p>
+<p><span class="arithmatex">\(a\)</span> the precise basis for determining the Bank Bill Rate;</p>
+<p><span class="arithmatex">\(b\)</span> details of resolved disputes, including all Public Information
+associated with the dispute, but not parts of the resolution or
+information associated with the resolution which contain Confidential
+Information;</p>
+<p><span class="arithmatex">\(c\)</span> public consultation proceedings;</p>
+<p><span class="arithmatex">\(d\)</span> public reports pertaining to the Wholesale Electricity Market
+issued by the relevant Information Manager;</p>
+<p><span class="arithmatex">\(e\)</span> reports pertaining to the Wholesale Electricity Market produced by
+the Electricity Review Board and the Minister;</p>
+<p><span class="arithmatex">\(f\)</span> event reports explaining what happened during unusual market or
+dispatch events but not any parts of such reports which contain
+Confidential Information;</p>
+<p><span class="arithmatex">\(g\)</span> summary information on disputes in progress that may impact other
+<abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participants</abbr>;</p>
+<p><span class="arithmatex">\(h\)</span> for each Trading Week which has been settled under Chapter 9, the
+information provided by <abbr title="Australian Energy Market Operator">AEMO</abbr> to each <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr> under clause
+5.9.2; and</p>
+<p><span class="arithmatex">\(i\)</span> for each Trading Week which has been settled under Chapter 9, for
+each <abbr title="Australian Energy Market Operator">AEMO</abbr>-procured NCESS Contract in effect during that Trading Week:</p>
+<p>i. details of each enablement or dispatch event under the NCESS
+Contract, including the relevant times and enablement or dispatch
+quantities; and</p>
+<p>ii. for each Dispatch Interval in the Trading Week, the payment made by
+<abbr title="Australian Energy Market Operator">AEMO</abbr> for services provided under the NCESS Contract as provided to the
+settlement system under clause 5.9.1(c).</p>
+<h3 id="1062-market-information-required-to-be-published-on-an-information">10.6.2. Market Information required to be published on an Information</h3>
+<p>Manager’s website under clause 10.6.1 is in addition to any other Market
+Information that is required to be published under other provisions of
+these <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules and the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures.</p>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p><strong>Explanatory Note</strong></p>
+<p>Sections 10.7, 10.8 and 10.9 have been deleted to implement the two
+confidentiality classes of “Public Information” and “Confidential
+Information”.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Back to top
+          </a>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+    <nav class="md-footer__inner md-grid" aria-label="Footer" >
+      
+        
+        <a href="../1.%20Introduction/" class="md-footer__link md-footer__link--prev" aria-label="Previous: 1. Introduction" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              1. Introduction
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../11%20Glossary/" class="md-footer__link md-footer__link--next" aria-label="Next: 11 Glossary" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              11 Glossary
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2022 EnerCloud Consulting. All rights reserved.
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["content.tooltips", "navigation.instant", "navigation.tracking", "toc.follow", "navigation.top", "content.tabs.link", "announce.dismiss"], "search": "../../assets/javascripts/workers/search.5bf1dace.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": {"provider": "mike"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.078830c0.min.js"></script>
+      
+        <script src="../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>

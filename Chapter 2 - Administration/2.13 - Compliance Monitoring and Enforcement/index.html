@@ -1,0 +1,1618 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://enercloud-poc.github.io/wem-rules-prototype/Chapter%202%20-%20Administration/2.13%20-%20Compliance%20Monitoring%20and%20Enforcement/">
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-8.5.6">
+    
+    
+      
+        <title>2.13 Compliance Monitoring and Enforcement - WEM Rules</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.20d9efc8.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.cbb835fc.min.css">
+        
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#era-monitoring-of-compliance" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+        <aside class="md-banner">
+          <div class="md-banner__inner md-grid md-typeset">
+            
+              <button class="md-banner__button md-icon" aria-label="Don't show this again">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+              </button>
+            
+            
+  <p>⚠ NOTE: This site is for testing and development purposes only and should not be used as a substitute for the published WEM Rules at this time.</p>
+
+          </div>
+          
+            <script>var content,el=document.querySelector("[data-md-component=announce]");el&&(content=el.querySelector(".md-typeset"),__md_hash(content.innerHTML)===__md_get("__announce")&&(el.hidden=!0))</script>
+          
+        </aside>
+      
+    </div>
+    
+      <div data-md-component="outdated" hidden>
+        
+      </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="WEM Rules" class="md-header__button md-logo" aria-label="WEM Rules" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 15H6l7-14v8h5l-7 14v-8Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            WEM Rules
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              2.13   Compliance Monitoring and Enforcement
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="WEM Rules" class="md-nav__button md-logo" aria-label="WEM Rules" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 15H6l7-14v8h5l-7 14v-8Z"/></svg>
+
+    </a>
+    WEM Rules
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          April 2023
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="April 2023" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          April 2023
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../April%202023/" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../April%202023/1.%20Introduction/" class="md-nav__link">
+        1. Introduction
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../April%202023/10%20Market%20Information/" class="md-nav__link">
+        10 Market Information
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../April%202023/11%20Glossary/" class="md-nav__link">
+        11 Glossary
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../April%202023/2.%20Administration/" class="md-nav__link">
+        2. Administration
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../April%202023/3%20Power%20System%20Security%20and%20Reliability/" class="md-nav__link">
+        3 Power System Security and Reliability
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../April%202023/3A.%20Requirements%20for%20Transmission%20Connected%20Generating%20Systems/" class="md-nav__link">
+        3A. Requirements for Transmission Connected Generating Systems
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../April%202023/3B.%20Frequency%20Operating%20Standards/" class="md-nav__link">
+        3B. Frequency Operating Standards
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../April%202023/4%20Reserve%20Capacity%20Rules/" class="md-nav__link">
+        4 Reserve Capacity Rules
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../April%202023/5%20Obligations%20for%20NCESS%20Contract%20Holders/" class="md-nav__link">
+        5 Obligations for NCESS Contract Holders
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../April%202023/6%20The%20Short%20Term%20Energy%20Market/" class="md-nav__link">
+        6 The Short Term Energy Market
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../April%202023/8%20Wholesale%20Market%20Metering/" class="md-nav__link">
+        8 Wholesale Market Metering
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../April%202023/9%20Settlement/" class="md-nav__link">
+        9 Settlement
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../April%202023/output/" class="md-nav__link">
+        Output
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Chapter 1   Introduction
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 1   Introduction" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 1   Introduction
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%201%20-%20Introduction/" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Chapter 2   Administration
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 2   Administration" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 2   Administration
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          2.13   Compliance Monitoring and Enforcement
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        2.13   Compliance Monitoring and Enforcement
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#era-monitoring-of-compliance" class="md-nav__link">
+    ERA monitoring of compliance
+  </a>
+  
+    <nav class="md-nav" aria-label="ERA monitoring of compliance">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2131" class="md-nav__link">
+    2.13.1.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2132" class="md-nav__link">
+    2.13.2.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2133" class="md-nav__link">
+    2.13.3.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2134" class="md-nav__link">
+    2.13.4.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2135" class="md-nav__link">
+    2.13.5.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2136" class="md-nav__link">
+    2.13.6.    
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#aemo-monitoring-of-compliance" class="md-nav__link">
+    AEMO monitoring of compliance
+  </a>
+  
+    <nav class="md-nav" aria-label="AEMO monitoring of compliance">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2137" class="md-nav__link">
+    2.13.7    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2138" class="md-nav__link">
+    2.13.8.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2139" class="md-nav__link">
+    2.13.9.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#21310" class="md-nav__link">
+    2.13.10.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#21311" class="md-nav__link">
+    2.13.11.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#21312" class="md-nav__link">
+    2.13.12.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#21313" class="md-nav__link">
+    2.13.13.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#21314" class="md-nav__link">
+    2.13.14.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#21315" class="md-nav__link">
+    2.13.15.    
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2.15%20-%20Monitoring%20and%20Reporting%20WEM%20Procedures/" class="md-nav__link">
+        2.15   Monitoring and Reporting WEM Procedures
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          Chapter 3   Power System Security And Reliability
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 3   Power System Security And Reliability" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 3   Power System Security And Reliability
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%203%20-%20Power%20System%20Security%20And%20Reliability/" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6">
+          Chapter 4   Reserve Capacity Rules
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 4   Reserve Capacity Rules" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 4   Reserve Capacity Rules
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%204%20-%20Reserve%20Capacity%20Rules/" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7">
+          Chapter 5   Obligations For Network Access Contract Holders
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 5   Obligations For Network Access Contract Holders" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 5   Obligations For Network Access Contract Holders
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%205%20-%20Obligations%20For%20Network%20Access%20Contract%20Holders/" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" type="checkbox" id="__nav_8" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8">
+          Chapter 6   The Short Term Energy Market
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 6   The Short Term Energy Market" data-md-level="1">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 6   The Short Term Energy Market
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%206%20-%20The%20Short%20Term%20Energy%20Market/" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_9" type="checkbox" id="__nav_9" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_9">
+          Chapter 7   Real time Market Operation And Dispatch
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 7   Real time Market Operation And Dispatch" data-md-level="1">
+        <label class="md-nav__title" for="__nav_9">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 7   Real time Market Operation And Dispatch
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%207%20-%20Real-time%20Market%20Operation%20And%20Dispatch/" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10" type="checkbox" id="__nav_10" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_10">
+          Chapter 8   Wholesale Market Metering
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 8   Wholesale Market Metering" data-md-level="1">
+        <label class="md-nav__title" for="__nav_10">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 8   Wholesale Market Metering
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%208%20-%20Wholesale%20Market%20Metering/" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_11" type="checkbox" id="__nav_11" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_11">
+          Chapter 9   Settlement
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chapter 9   Settlement" data-md-level="1">
+        <label class="md-nav__title" for="__nav_11">
+          <span class="md-nav__icon md-icon"></span>
+          Chapter 9   Settlement
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chapter%209%20-%20Settlement/" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_12" type="checkbox" id="__nav_12" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_12">
+          Glossary and Appendices
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Glossary and Appendices" data-md-level="1">
+        <label class="md-nav__title" for="__nav_12">
+          <span class="md-nav__icon md-icon"></span>
+          Glossary and Appendices
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Glossary%20and%20Appendices/11.%20Glossary/" class="md-nav__link">
+        Glossary
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#era-monitoring-of-compliance" class="md-nav__link">
+    ERA monitoring of compliance
+  </a>
+  
+    <nav class="md-nav" aria-label="ERA monitoring of compliance">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2131" class="md-nav__link">
+    2.13.1.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2132" class="md-nav__link">
+    2.13.2.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2133" class="md-nav__link">
+    2.13.3.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2134" class="md-nav__link">
+    2.13.4.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2135" class="md-nav__link">
+    2.13.5.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2136" class="md-nav__link">
+    2.13.6.    
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#aemo-monitoring-of-compliance" class="md-nav__link">
+    AEMO monitoring of compliance
+  </a>
+  
+    <nav class="md-nav" aria-label="AEMO monitoring of compliance">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2137" class="md-nav__link">
+    2.13.7    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2138" class="md-nav__link">
+    2.13.8.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2139" class="md-nav__link">
+    2.13.9.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#21310" class="md-nav__link">
+    2.13.10.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#21311" class="md-nav__link">
+    2.13.11.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#21312" class="md-nav__link">
+    2.13.12.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#21313" class="md-nav__link">
+    2.13.13.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#21314" class="md-nav__link">
+    2.13.14.    
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#21315" class="md-nav__link">
+    2.13.15.    
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  <h1>2.13   Compliance Monitoring and Enforcement</h1>
+
+<h2 id="era-monitoring-of-compliance">ERA monitoring of compliance</h2>
+<h3 id="2131"><abbr title="The Economic Regulation Authority must monitor other Rule Participants’ behaviour (including AEMO’s and each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures in accordance with the WEM Procedure referred to in clause 2.15.1.">2.13.1</abbr>.   <span class="twemoji" title="Add note to rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2 0-3.31 2.69-6 6-6m-5-8.5 5.5 5.5H14V4.5M23 18v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3Z"/></svg></span> <span class="twemoji" title="Highlight rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m4 17 2.75-2.75-.03-.02c-.58-.59-.58-1.54 0-2.12l4.74-4.74 4.24 4.24-4.74 4.74c-.57.58-1.5.58-2.09.02l-.63.63H4M15.91 2.91c.59-.58 1.54-.58 2.12 0l2.13 2.12c.58.59.58 1.54 0 2.13l-3.3 3.29-4.24-4.24 3.29-3.3Z"/></svg></span></h3>
+<p>The <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> must monitor other <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participants</abbr>’ behaviour (including <abbr title="Australian Energy Market Operator">AEMO</abbr>’s and each <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr>’s behaviour) for compliance with the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules and <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures in accordance with the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedure referred to in <a href="https://enercloud-poc.github.io/wem-rules-prototype/Chapter%202%20-%20Administration/2.15%20-%20Monitoring%20and%20Reporting%20WEM%20Procedures/#2151">clause <abbr title="The Economic Regulation Authority must maintain and implement a monitoring protocol in a WEM Procedure.">2.15.1</abbr></a>. </p>
+<details class="info">
+<summary>Explantory Notes</summary>
+<p>Clause <abbr title="The Economic Regulation Authority must monitor other Rule Participants’ behaviour (including AEMO’s and each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures in accordance with the WEM Procedure referred to in clause 2.15.1.">2.13.1</abbr> is equivalent to existing clause <abbr title="The Economic Regulation Authority must investigate any market behaviour of a Rule Participant if it considers that the behaviour has resulted in the market not functioning effectively.">2.13.2</abbr> and amended to explicitly require the ERA to monitor Network Operators’ behaviour for compliance with the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules and the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures for consistency with the existing approach for <abbr title="Australian Energy Market Operator">AEMO</abbr>.
+It is noted that the <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr> was already covered by the existing clause.</p>
+</details>
+<details class="note">
+<summary>References of this Clause</summary>
+<ul>
+<li>None</li>
+</ul>
+</details>
+<h3 id="2132"><abbr title="The Economic Regulation Authority must investigate any market behaviour of a Rule Participant if it considers that the behaviour has resulted in the market not functioning effectively.">2.13.2</abbr>.   <span class="twemoji" title="Add note to rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2 0-3.31 2.69-6 6-6m-5-8.5 5.5 5.5H14V4.5M23 18v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3Z"/></svg></span> <span class="twemoji" title="Highlight rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m4 17 2.75-2.75-.03-.02c-.58-.59-.58-1.54 0-2.12l4.74-4.74 4.24 4.24-4.74 4.74c-.57.58-1.5.58-2.09.02l-.63.63H4M15.91 2.91c.59-.58 1.54-.58 2.12 0l2.13 2.12c.58.59.58 1.54 0 2.13l-3.3 3.29-4.24-4.24 3.29-3.3Z"/></svg></span></h3>
+<p>The <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> must investigate any market behaviour of a <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> if it considers that the behaviour has resulted in the market not functioning effectively.</p>
+<details class="info">
+<summary>Explanatory Notes</summary>
+<p>Clause <abbr title="The Economic Regulation Authority must investigate any market behaviour of a Rule Participant if it considers that the behaviour has resulted in the market not functioning effectively.">2.13.2</abbr> is a new clause that contains ERA's obligation to investigate behaviour which results in the market not functioning effectively. It has been moved from clause 2.16.9 to a stand-alone clause to better clarify that monitoring the market for inefficient market outcomes is the ERA’s responsibility.</p>
+<p>Clause <abbr title="The Economic Regulation Authority must investigate any market behaviour of a Rule Participant if it considers that the behaviour has resulted in the market not functioning effectively.">2.13.2</abbr> will be further reviewed to account for the decisions made in Energy Sector Governance: Proposed Changes to the Regulatory Framework which are proposed to commence on 1 July 2021.</p>
+</details>
+<details class="note">
+<summary>References of this Clause</summary>
+<ul>
+<li>None</li>
+</ul>
+</details>
+<h3 id="2133"><abbr title="The Economic Regulation Authority must ensure it has processes and systems in place to allow it to monitor Rule Participants’ behaviour (including AEMO’s and each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures in accordance with the WEM Procedure referred to in clause 2.15.1.">2.13.3</abbr>.   <span class="twemoji" title="Add note to rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2 0-3.31 2.69-6 6-6m-5-8.5 5.5 5.5H14V4.5M23 18v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3Z"/></svg></span> <span class="twemoji" title="Highlight rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m4 17 2.75-2.75-.03-.02c-.58-.59-.58-1.54 0-2.12l4.74-4.74 4.24 4.24-4.74 4.74c-.57.58-1.5.58-2.09.02l-.63.63H4M15.91 2.91c.59-.58 1.54-.58 2.12 0l2.13 2.12c.58.59.58 1.54 0 2.13l-3.3 3.29-4.24-4.24 3.29-3.3Z"/></svg></span></h3>
+<p>The <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> must ensure it has processes and systems in place to allow it to monitor <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participants</abbr>’ behaviour (including <abbr title="Australian Energy Market Operator">AEMO</abbr>’s and each <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr>’s behaviour) for compliance with the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules and <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures in accordance with the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedure referred to in <a href="https://enercloud-poc.github.io/wem-rules-prototype/Chapter%202%20-%20Administration/2.15%20-%20Monitoring%20and%20Reporting%20WEM%20Procedures/#2151">clause <abbr title="The Economic Regulation Authority must maintain and implement a monitoring protocol in a WEM Procedure.">2.15.1</abbr></a>.</p>
+<details class="info">
+<summary>Explanatory Notes</summary>
+<p>Clause <abbr title="The Economic Regulation Authority must ensure it has processes and systems in place to allow it to monitor Rule Participants’ behaviour (including AEMO’s and each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures in accordance with the WEM Procedure referred to in clause 2.15.1.">2.13.3</abbr> is equivalent to existing clause <abbr title="The Economic Regulation Authority must ensure it has processes and systems in place to allow it to monitor Rule Participants’ behaviour (including AEMO’s and each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures in accordance with the WEM Procedure referred to in clause 2.15.1.">2.13.3</abbr> and amended for consistency with the drafting approach in other similar clauses.</p>
+</details>
+<details class="note">
+<summary>References of this Clause</summary>
+<ul>
+<li>None</li>
+</ul>
+</details>
+<h3 id="2134"><abbr title="Without limiting clause 2.13.8, AEMO must co-operate with the Economic Regulation Authority and facilitate any processes and systems put in place by the Economic Regulation Authority under clause 2.13.3, including by providing any market related data, information and document produced or exchanged in accordance with the WEM Rules or WEM Procedures in AEMO’s possession or control that the Economic Regulation Authority has reason to believe may assist the Economic Regulation Authority to monitor Rule Participants’ behaviour (including AEMO’s and each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures.">2.13.4</abbr>.   <span class="twemoji" title="Add note to rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2 0-3.31 2.69-6 6-6m-5-8.5 5.5 5.5H14V4.5M23 18v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3Z"/></svg></span> <span class="twemoji" title="Highlight rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m4 17 2.75-2.75-.03-.02c-.58-.59-.58-1.54 0-2.12l4.74-4.74 4.24 4.24-4.74 4.74c-.57.58-1.5.58-2.09.02l-.63.63H4M15.91 2.91c.59-.58 1.54-.58 2.12 0l2.13 2.12c.58.59.58 1.54 0 2.13l-3.3 3.29-4.24-4.24 3.29-3.3Z"/></svg></span></h3>
+<p>Without limiting <a href="https://enercloud-poc.github.io/wem-rules-prototype/Chapter%202%20-%20Administration/2.13%20-%20Compliance%20Monitoring%20and%20Enforcement/#2138">clause <abbr title="Where the Economic Regulation Authority has reason to believe AEMO may be able to assist it to monitor Rule Participants’ behaviour (including each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures, it may request AEMO to:(a)   undertake analysis of any market related data, information and document produced or exchanged under clause 2.13.4; or (b)   provide any specific market related data, information and document produced or exchanged in accordance with the WEM Rules or WEM Procedures in AEMO’s possession or control not provided by AEMO to the Economic Regulation Authority under clause 2.13.4, to assist to monitor a Rule Participant's compliance with a specific obligation or requirement. For the avoidance of doubt, the Economic Regulation Authority is not permitted to delegate the monitoring of Rule Participant behaviour to AEMO.">2.13.8</abbr></a>, <abbr title="Australian Energy Market Operator">AEMO</abbr> must co-operate with the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> and facilitate any processes and systems put in place by the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> under <a href="https://enercloud-poc.github.io/wem-rules-prototype/Chapter%202%20-%20Administration/2.13%20-%20Compliance%20Monitoring%20and%20Enforcement/#2133">clause <abbr title="The Economic Regulation Authority must ensure it has processes and systems in place to allow it to monitor Rule Participants’ behaviour (including AEMO’s and each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures in accordance with the WEM Procedure referred to in clause 2.15.1.">2.13.3</abbr></a>, including by providing any market related data, information and document produced or exchanged in accordance with the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules or <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures in <abbr title="Australian Energy Market Operator">AEMO</abbr>’s possession or control that the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> has reason to believe may assist the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> to monitor <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participants</abbr>’ behaviour (including <abbr title="Australian Energy Market Operator">AEMO</abbr>’s and each <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr>’s behaviour) for compliance with the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules and <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures.</p>
+<details class="info">
+<summary>Explanatory Notes</summary>
+<p>Clause <abbr title="Without limiting clause 2.13.8, AEMO must co-operate with the Economic Regulation Authority and facilitate any processes and systems put in place by the Economic Regulation Authority under clause 2.13.3, including by providing any market related data, information and document produced or exchanged in accordance with the WEM Rules or WEM Procedures in AEMO’s possession or control that the Economic Regulation Authority has reason to believe may assist the Economic Regulation Authority to monitor Rule Participants’ behaviour (including AEMO’s and each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures.">2.13.4</abbr> is equivalent to existing clause 2.13.3A and is amended for drafting consistency and to clarify that the assistance provided by <abbr title="Australian Energy Market Operator">AEMO</abbr> under the clause does not limit the further assistance the ERA may request <abbr title="Australian Energy Market Operator">AEMO</abbr> undertake in accordance with clause <abbr title="Where the Economic Regulation Authority has reason to believe AEMO may be able to assist it to monitor Rule Participants’ behaviour (including each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures, it may request AEMO to:(a)   undertake analysis of any market related data, information and document produced or exchanged under clause 2.13.4; or (b)   provide any specific market related data, information and document produced or exchanged in accordance with the WEM Rules or WEM Procedures in AEMO’s possession or control not provided by AEMO to the Economic Regulation Authority under clause 2.13.4, to assist to monitor a Rule Participant's compliance with a specific obligation or requirement. For the avoidance of doubt, the Economic Regulation Authority is not permitted to delegate the monitoring of Rule Participant behaviour to AEMO.">2.13.8</abbr>.</p>
+</details>
+<details class="note">
+<summary>References of this Clause</summary>
+<ul>
+<li>None</li>
+</ul>
+</details>
+<h3 id="2135"><abbr title="Each Network Operator must co-operate with the Economic Regulation Authority and facilitate any processes and systems put in place by the Economic Regulation Authority under clause 2.13.3, including by providing any data, information or document in the Network Operator’s possession or control that the Economic Regulation Authority would be entitled to receive under Chapter 10 and has reason to believe may assist the Economic Regulation Authority to monitor the Network Operator's behaviour for compliance with the provisions of the WEM Rules and WEM Procedures.">2.13.5</abbr>.   <span class="twemoji" title="Add note to rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2 0-3.31 2.69-6 6-6m-5-8.5 5.5 5.5H14V4.5M23 18v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3Z"/></svg></span> <span class="twemoji" title="Highlight rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m4 17 2.75-2.75-.03-.02c-.58-.59-.58-1.54 0-2.12l4.74-4.74 4.24 4.24-4.74 4.74c-.57.58-1.5.58-2.09.02l-.63.63H4M15.91 2.91c.59-.58 1.54-.58 2.12 0l2.13 2.12c.58.59.58 1.54 0 2.13l-3.3 3.29-4.24-4.24 3.29-3.3Z"/></svg></span></h3>
+<p>Each <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr> must co-operate with the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> and facilitate any processes and systems put in place by the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> under <a href="https://enercloud-poc.github.io/wem-rules-prototype/Chapter%202%20-%20Administration/2.13%20-%20Compliance%20Monitoring%20and%20Enforcement/#2133">clause <abbr title="The Economic Regulation Authority must ensure it has processes and systems in place to allow it to monitor Rule Participants’ behaviour (including AEMO’s and each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures in accordance with the WEM Procedure referred to in clause 2.15.1.">2.13.3</abbr></a>, including by providing any data, information or document in the <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr>’s possession or control that the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> would be entitled to receive under Chapter 10 and has reason to believe may assist the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> to monitor the <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr>'s behaviour for compliance with the provisions of the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules and <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures.</p>
+<details class="info">
+<summary>Explanatory Notes</summary>
+<p>Clause <abbr title="Each Network Operator must co-operate with the Economic Regulation Authority and facilitate any processes and systems put in place by the Economic Regulation Authority under clause 2.13.3, including by providing any data, information or document in the Network Operator’s possession or control that the Economic Regulation Authority would be entitled to receive under Chapter 10 and has reason to believe may assist the Economic Regulation Authority to monitor the Network Operator's behaviour for compliance with the provisions of the WEM Rules and WEM Procedures.">2.13.5</abbr> is a new clause that requires each <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr> to co-operate with the ERA, including to facilitate any processes and systems, and provide information to enable the ERA to perform its monitoring and compliance functions on the <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr>.</p>
+</details>
+<details class="note">
+<summary>References of this Clause</summary>
+<ul>
+<li>None</li>
+</ul>
+</details>
+<h3 id="2136">2.13.6.   <span class="twemoji" title="Add note to rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2 0-3.31 2.69-6 6-6m-5-8.5 5.5 5.5H14V4.5M23 18v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3Z"/></svg></span> <span class="twemoji" title="Highlight rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m4 17 2.75-2.75-.03-.02c-.58-.59-.58-1.54 0-2.12l4.74-4.74 4.24 4.24-4.74 4.74c-.57.58-1.5.58-2.09.02l-.63.63H4M15.91 2.91c.59-.58 1.54-.58 2.12 0l2.13 2.12c.58.59.58 1.54 0 2.13l-3.3 3.29-4.24-4.24 3.29-3.3Z"/></svg></span></h3>
+<p>The <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> must disclose the market related data, information or documents provided by <abbr title="Australian Energy Market Operator">AEMO</abbr> to the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> as part of the systems and processes the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> must have in place in accordance with <a href="https://enercloud-poc.github.io/wem-rules-prototype/Chapter%202%20-%20Administration/2.13%20-%20Compliance%20Monitoring%20and%20Enforcement/#2134">clause <abbr title="Without limiting clause 2.13.8, AEMO must co-operate with the Economic Regulation Authority and facilitate any processes and systems put in place by the Economic Regulation Authority under clause 2.13.3, including by providing any market related data, information and document produced or exchanged in accordance with the WEM Rules or WEM Procedures in AEMO’s possession or control that the Economic Regulation Authority has reason to believe may assist the Economic Regulation Authority to monitor Rule Participants’ behaviour (including AEMO’s and each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures.">2.13.4</abbr></a> as follows: </p>
+<ol>
+<li>
+<p>where <abbr title="Australian Energy Market Operator">AEMO</abbr> periodically provides market related data, information or documents as part of the systems and processes in place under <a href="https://enercloud-poc.github.io/wem-rules-prototype/Chapter%202%20-%20Administration/2.13%20-%20Compliance%20Monitoring%20and%20Enforcement/#2134">clause <abbr title="Without limiting clause 2.13.8, AEMO must co-operate with the Economic Regulation Authority and facilitate any processes and systems put in place by the Economic Regulation Authority under clause 2.13.3, including by providing any market related data, information and document produced or exchanged in accordance with the WEM Rules or WEM Procedures in AEMO’s possession or control that the Economic Regulation Authority has reason to believe may assist the Economic Regulation Authority to monitor Rule Participants’ behaviour (including AEMO’s and each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures.">2.13.4</abbr></a>, publishing the types of market related data, information or documents provided on the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr>’s website in as much detail as the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> considers is reasonably practicable; </p>
+</li>
+<li>
+<p>where the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> requests <abbr title="Australian Energy Market Operator">AEMO</abbr> to provide the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> with market related data, information or documents in accordance with clause <abbr title="Without limiting clause 2.13.8, AEMO must co-operate with the Economic Regulation Authority and facilitate any processes and systems put in place by the Economic Regulation Authority under clause 2.13.3, including by providing any market related data, information and document produced or exchanged in accordance with the WEM Rules or WEM Procedures in AEMO’s possession or control that the Economic Regulation Authority has reason to believe may assist the Economic Regulation Authority to monitor Rule Participants’ behaviour (including AEMO’s and each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures.">2.13.4</abbr> and the market related data, information or documents: </p>
+<ol>
+<li>
+<p>is not one of the types disclosed under clause 2.13.6(a); and </p>
+</li>
+<li>
+<p>relate to a specific <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> (or group of <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participants</abbr>), then the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> must notify that <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> (or group of <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participants</abbr>).</p>
+</li>
+</ol>
+</li>
+</ol>
+<details class="info">
+<summary>Explanatory Notes</summary>
+<p>Clause 2.13.6 is equivalent to existing clause 2.13.3B and is amended to update clause references.</p>
+</details>
+<details class="note">
+<summary>References of this Clause</summary>
+<ul>
+<li>None</li>
+</ul>
+</details>
+<h2 id="aemo-monitoring-of-compliance"><abbr title="Australian Energy Market Operator">AEMO</abbr> monitoring of compliance</h2>
+<h3 id="2137">2.13.7   <span class="twemoji" title="Add note to rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2 0-3.31 2.69-6 6-6m-5-8.5 5.5 5.5H14V4.5M23 18v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3Z"/></svg></span> <span class="twemoji" title="Highlight rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m4 17 2.75-2.75-.03-.02c-.58-.59-.58-1.54 0-2.12l4.74-4.74 4.24 4.24-4.74 4.74c-.57.58-1.5.58-2.09.02l-.63.63H4M15.91 2.91c.59-.58 1.54-.58 2.12 0l2.13 2.12c.58.59.58 1.54 0 2.13l-3.3 3.29-4.24-4.24 3.29-3.3Z"/></svg></span></h3>
+<p><abbr title="Australian Energy Market Operator">AEMO</abbr> must, in accordance with the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedure referred to in <a href="https://enercloud-poc.github.io/wem-rules-prototype/Chapter%202%20-%20Administration/2.15%20-%20Monitoring%20and%20Reporting%20WEM%20Procedures/#2154">clause <abbr title="AEMO must develop a WEM Procedure to set out: how AEMO will carry out its obligations to monitor Rule Participants' behaviour for compliance under clause 2.13.7; how AEMO will monitor dispatch compliance before, during or after a Dispatch Instruction event; how AEMO will carry out its obligations to support the Economic Regulation Authority under clauses 2.13.4, 2.13.8 and 2.13.9; the notification and reporting processes that AEMO will use to notify the Economic Regulation Authority under clause 2.13.14 and 2.13.15; the situations where AEMO considers it does not need to notify the Economic Regulation Authority of an alleged breach under clause 2.13.14; and any other matters relevant to AEMO’s obligations in section 2.13.">2.15.4</abbr></a>:</p>
+<ol>
+<li>
+<p>monitor <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr>’s behaviour for compliance with section 7.10;</p>
+</li>
+<li>
+<p>monitor <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr>’s behaviour for compliance with the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedure referred to in clause 2.29.9A;</p>
+</li>
+<li>
+<p>ensure it has processes and systems in place to allow it to monitor <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr>'s behaviour in accordance with clause 2.13.7(a) and clause 2.13.7
+(b), including developing systems for monitoring;</p>
+</li>
+<li>
+<p>support the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr>'s monitoring of <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participants</abbr>’ behaviour, including having processes and systems to provide the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> with data, information, documents or analysis under clauses <abbr title="Without limiting clause 2.13.8, AEMO must co-operate with the Economic Regulation Authority and facilitate any processes and systems put in place by the Economic Regulation Authority under clause 2.13.3, including by providing any market related data, information and document produced or exchanged in accordance with the WEM Rules or WEM Procedures in AEMO’s possession or control that the Economic Regulation Authority has reason to believe may assist the Economic Regulation Authority to monitor Rule Participants’ behaviour (including AEMO’s and each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures.">2.13.4</abbr>, 2.13.7, <abbr title="Where the Economic Regulation Authority has reason to believe AEMO may be able to assist it to monitor Rule Participants’ behaviour (including each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures, it may request AEMO to:(a)   undertake analysis of any market related data, information and document produced or exchanged under clause 2.13.4; or (b)   provide any specific market related data, information and document produced or exchanged in accordance with the WEM Rules or WEM Procedures in AEMO’s possession or control not provided by AEMO to the Economic Regulation Authority under clause 2.13.4, to assist to monitor a Rule Participant's compliance with a specific obligation or requirement. For the avoidance of doubt, the Economic Regulation Authority is not permitted to delegate the monitoring of Rule Participant behaviour to AEMO.">2.13.8</abbr>(a), <abbr title="Where the Economic Regulation Authority has reason to believe AEMO may be able to assist it to monitor Rule Participants’ behaviour (including each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures, it may request AEMO to:(a)   undertake analysis of any market related data, information and document produced or exchanged under clause 2.13.4; or (b)   provide any specific market related data, information and document produced or exchanged in accordance with the WEM Rules or WEM Procedures in AEMO’s possession or control not provided by AEMO to the Economic Regulation Authority under clause 2.13.4, to assist to monitor a Rule Participant's compliance with a specific obligation or requirement. For the avoidance of doubt, the Economic Regulation Authority is not permitted to delegate the monitoring of Rule Participant behaviour to AEMO.">2.13.8</abbr>(b) or 2.13.14, as applicable; and</p>
+</li>
+<li>
+<p>subject to clause 2.13.12, record the alleged breach of the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules or <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures and report any alleged breaches resulting from its monitoring under clause 2.13.7(a) and clause 2.13.7(b) to the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr>.</p>
+</li>
+</ol>
+<details class="info">
+<summary>Explanatory Notes</summary>
+<p>Clause 2.13.7 is equivalent to existing clause 2.13.6, and clause 2.13.9 is amended to incorporate the existing clauses 2.13.9A and 2.13.9B and to outline <abbr title="Australian Energy Market Operator">AEMO</abbr>’s obligation to monitor <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participants</abbr>’ behaviour with:
+- specific clauses of the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules that will be listed at a later date when the remaining rules have been drafted; and
+- specific <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures that will be added to this clause as they become apparent.
+The intent is that <abbr title="Australian Energy Market Operator">AEMO</abbr> will actively monitor <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participants</abbr>’ behaviour for compliance against the specified <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules and <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> procedures.  For other rules and procedures, <abbr title="Australian Energy Market Operator">AEMO</abbr> may become aware of a suspected breach through its usual market and system operation activities.
+The clause will be reviewed further to insert specific <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rule provisions and <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures that <abbr title="Australian Energy Market Operator">AEMO</abbr> must actively monitor. Consultation on clause 2.13.7 will be conducted in a subsequent tranche of draft Amending Rules.</p>
+</details>
+<details class="note">
+<summary>References of this Clause</summary>
+<ul>
+<li>None</li>
+</ul>
+</details>
+<h3 id="2138"><abbr title="Where the Economic Regulation Authority has reason to believe AEMO may be able to assist it to monitor Rule Participants’ behaviour (including each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures, it may request AEMO to:(a)   undertake analysis of any market related data, information and document produced or exchanged under clause 2.13.4; or (b)   provide any specific market related data, information and document produced or exchanged in accordance with the WEM Rules or WEM Procedures in AEMO’s possession or control not provided by AEMO to the Economic Regulation Authority under clause 2.13.4, to assist to monitor a Rule Participant's compliance with a specific obligation or requirement. For the avoidance of doubt, the Economic Regulation Authority is not permitted to delegate the monitoring of Rule Participant behaviour to AEMO.">2.13.8</abbr>.   <span class="twemoji" title="Add note to rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2 0-3.31 2.69-6 6-6m-5-8.5 5.5 5.5H14V4.5M23 18v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3Z"/></svg></span> <span class="twemoji" title="Highlight rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m4 17 2.75-2.75-.03-.02c-.58-.59-.58-1.54 0-2.12l4.74-4.74 4.24 4.24-4.74 4.74c-.57.58-1.5.58-2.09.02l-.63.63H4M15.91 2.91c.59-.58 1.54-.58 2.12 0l2.13 2.12c.58.59.58 1.54 0 2.13l-3.3 3.29-4.24-4.24 3.29-3.3Z"/></svg></span></h3>
+<p>Where the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> has reason to believe <abbr title="Australian Energy Market Operator">AEMO</abbr> may be able to assist it to monitor <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participants</abbr>’ behaviour (including each <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr>’s behaviour) for compliance with the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules and <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures, it may request <abbr title="Australian Energy Market Operator">AEMO</abbr> to:</p>
+<ol>
+<li>
+<p>undertake analysis of any market related data, information and document produced or exchanged under clause <abbr title="Without limiting clause 2.13.8, AEMO must co-operate with the Economic Regulation Authority and facilitate any processes and systems put in place by the Economic Regulation Authority under clause 2.13.3, including by providing any market related data, information and document produced or exchanged in accordance with the WEM Rules or WEM Procedures in AEMO’s possession or control that the Economic Regulation Authority has reason to believe may assist the Economic Regulation Authority to monitor Rule Participants’ behaviour (including AEMO’s and each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures.">2.13.4</abbr>; or</p>
+</li>
+<li>
+<p>provide any specific market related data, information and document produced or exchanged in accordance with the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules or <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> p rocedures in <abbr title="Australian Energy Market Operator">AEMO</abbr>’s possession or control not provided by <abbr title="Australian Energy Market Operator">AEMO</abbr> to the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> under clause <abbr title="Without limiting clause 2.13.8, AEMO must co-operate with the Economic Regulation Authority and facilitate any processes and systems put in place by the Economic Regulation Authority under clause 2.13.3, including by providing any market related data, information and document produced or exchanged in accordance with the WEM Rules or WEM Procedures in AEMO’s possession or control that the Economic Regulation Authority has reason to believe may assist the Economic Regulation Authority to monitor Rule Participants’ behaviour (including AEMO’s and each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures.">2.13.4</abbr>, to assist to monitor a <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr>'s compliance with a specific obligation or requirement. For the avoidance of doubt, the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> is not permitted to delegate the monitoring of <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> behaviour to <abbr title="Australian Energy Market Operator">AEMO</abbr>.</p>
+</li>
+</ol>
+<details class="info">
+<summary>Explanatory Notes</summary>
+<p>Clause <abbr title="Where the Economic Regulation Authority has reason to believe AEMO may be able to assist it to monitor Rule Participants’ behaviour (including each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures, it may request AEMO to:(a)   undertake analysis of any market related data, information and document produced or exchanged under clause 2.13.4; or (b)   provide any specific market related data, information and document produced or exchanged in accordance with the WEM Rules or WEM Procedures in AEMO’s possession or control not provided by AEMO to the Economic Regulation Authority under clause 2.13.4, to assist to monitor a Rule Participant's compliance with a specific obligation or requirement. For the avoidance of doubt, the Economic Regulation Authority is not permitted to delegate the monitoring of Rule Participant behaviour to AEMO.">2.13.8</abbr> is a new clause that allows the ERA to request <abbr title="Australian Energy Market Operator">AEMO</abbr> to provide further information, or undertake specific analysis to assist it to monitor <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participants</abbr>’ behaviour for compliance with the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules and <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures.</p>
+</details>
+<details class="note">
+<summary>References of this Clause</summary>
+<ul>
+<li>None</li>
+</ul>
+</details>
+<h3 id="2139">2.13.9.   <span class="twemoji" title="Add note to rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2 0-3.31 2.69-6 6-6m-5-8.5 5.5 5.5H14V4.5M23 18v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3Z"/></svg></span> <span class="twemoji" title="Highlight rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m4 17 2.75-2.75-.03-.02c-.58-.59-.58-1.54 0-2.12l4.74-4.74 4.24 4.24-4.74 4.74c-.57.58-1.5.58-2.09.02l-.63.63H4M15.91 2.91c.59-.58 1.54-.58 2.12 0l2.13 2.12c.58.59.58 1.54 0 2.13l-3.3 3.29-4.24-4.24 3.29-3.3Z"/></svg></span></h3>
+<p><abbr title="Australian Energy Market Operator">AEMO</abbr> must comply with a request by the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> under clause <abbr title="Where the Economic Regulation Authority has reason to believe AEMO may be able to assist it to monitor Rule Participants’ behaviour (including each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures, it may request AEMO to:(a)   undertake analysis of any market related data, information and document produced or exchanged under clause 2.13.4; or (b)   provide any specific market related data, information and document produced or exchanged in accordance with the WEM Rules or WEM Procedures in AEMO’s possession or control not provided by AEMO to the Economic Regulation Authority under clause 2.13.4, to assist to monitor a Rule Participant's compliance with a specific obligation or requirement. For the avoidance of doubt, the Economic Regulation Authority is not permitted to delegate the monitoring of Rule Participant behaviour to AEMO.">2.13.8</abbr> by the time specified in the request, which must be a reasonable time having regard to the nature of the request, or such alternative time as mutually agreed.</p>
+<details class="info">
+<summary>Explanatory Notes</summary>
+<p>Clause 2.13.9 is a new clause that requires <abbr title="Australian Energy Market Operator">AEMO</abbr> to comply with a request by the ERA under new clause <abbr title="Where the Economic Regulation Authority has reason to believe AEMO may be able to assist it to monitor Rule Participants’ behaviour (including each Network Operator’s behaviour) for compliance with the WEM Rules and WEM Procedures, it may request AEMO to:(a)   undertake analysis of any market related data, information and document produced or exchanged under clause 2.13.4; or (b)   provide any specific market related data, information and document produced or exchanged in accordance with the WEM Rules or WEM Procedures in AEMO’s possession or control not provided by AEMO to the Economic Regulation Authority under clause 2.13.4, to assist to monitor a Rule Participant's compliance with a specific obligation or requirement. For the avoidance of doubt, the Economic Regulation Authority is not permitted to delegate the monitoring of Rule Participant behaviour to AEMO.">2.13.8</abbr>.</p>
+</details>
+<details class="note">
+<summary>References of this Clause</summary>
+<ul>
+<li>None</li>
+</ul>
+</details>
+<h3 id="21310">2.13.10.   <span class="twemoji" title="Add note to rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2 0-3.31 2.69-6 6-6m-5-8.5 5.5 5.5H14V4.5M23 18v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3Z"/></svg></span> <span class="twemoji" title="Highlight rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m4 17 2.75-2.75-.03-.02c-.58-.59-.58-1.54 0-2.12l4.74-4.74 4.24 4.24-4.74 4.74c-.57.58-1.5.58-2.09.02l-.63.63H4M15.91 2.91c.59-.58 1.54-.58 2.12 0l2.13 2.12c.58.59.58 1.54 0 2.13l-3.3 3.29-4.24-4.24 3.29-3.3Z"/></svg></span></h3>
+<p>Subject to clause 2.13.7(b), <abbr title="Australian Energy Market Operator">AEMO</abbr> is not required to monitor a <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr>’s behaviour for compliance with the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures developed by the <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr>.</p>
+<details class="info">
+<summary>Explanatory Notes</summary>
+<p>Clause 2.13.10 is a new clause that clarifies that <abbr title="Australian Energy Market Operator">AEMO</abbr> is not required to monitor Network Operators’ compliance with any <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures developed by the <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr>. In accordance with clause 2.13.23, a <abbr title="A person who registers as a Network Operator, in accordance with clauses 2.28.2, 2.28.3 or 2.28.4.">Network Operator</abbr> must self-report its own breaches, or suspected breaches, of any <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules or <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures developed by it.</p>
+</details>
+<details class="note">
+<summary>References of this Clause</summary>
+<ul>
+<li>None</li>
+</ul>
+</details>
+<h3 id="21311">2.13.11.   <span class="twemoji" title="Add note to rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2 0-3.31 2.69-6 6-6m-5-8.5 5.5 5.5H14V4.5M23 18v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3Z"/></svg></span> <span class="twemoji" title="Highlight rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m4 17 2.75-2.75-.03-.02c-.58-.59-.58-1.54 0-2.12l4.74-4.74 4.24 4.24-4.74 4.74c-.57.58-1.5.58-2.09.02l-.63.63H4M15.91 2.91c.59-.58 1.54-.58 2.12 0l2.13 2.12c.58.59.58 1.54 0 2.13l-3.3 3.29-4.24-4.24 3.29-3.3Z"/></svg></span></h3>
+<p>Where a Registered <abbr title="Has the meaning given in clause 2.29.1B, which can be an unregistered facility or Registered Facility.">Facility</abbr> operates within the Tolerance Range or <abbr title="Has the meaning given in clause 2.29.1B, which can be an unregistered facility or Registered Facility.">Facility</abbr> Tolerance Range applicable to the Registered <abbr title="Has the meaning given in clause 2.29.1B, which can be an unregistered facility or Registered Facility.">Facility</abbr> during a Dispatch Interval, any deviation is not considered to be a breach of clause 7.10.1 or of a provision of section 3.21 by reason of the deviation only.</p>
+<details class="info">
+<summary>Explanatory Notes</summary>
+<p>Clause 2.13.11 is a new clause that reflects the policy intent that any deviations by a Registered <abbr title="Has the meaning given in clause 2.29.1B, which can be an unregistered facility or Registered Facility.">Facility</abbr> within the Tolerance Range or <abbr title="Has the meaning given in clause 2.29.1B, which can be an unregistered facility or Registered Facility.">Facility</abbr> Tolerance Range applicable to the Registered <abbr title="Has the meaning given in clause 2.29.1B, which can be an unregistered facility or Registered Facility.">Facility</abbr> will not be considered to be non-compliant with the relevant Dispatch Instruction.</p>
+</details>
+<details class="note">
+<summary>References of this Clause</summary>
+<ul>
+<li>None</li>
+</ul>
+</details>
+<h3 id="21312">2.13.12.   <span class="twemoji" title="Add note to rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2 0-3.31 2.69-6 6-6m-5-8.5 5.5 5.5H14V4.5M23 18v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3Z"/></svg></span> <span class="twemoji" title="Highlight rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m4 17 2.75-2.75-.03-.02c-.58-.59-.58-1.54 0-2.12l4.74-4.74 4.24 4.24-4.74 4.74c-.57.58-1.5.58-2.09.02l-.63.63H4M15.91 2.91c.59-.58 1.54-.58 2.12 0l2.13 2.12c.58.59.58 1.54 0 2.13l-3.3 3.29-4.24-4.24 3.29-3.3Z"/></svg></span></h3>
+<p><abbr title="Australian Energy Market Operator">AEMO</abbr> is not required to report to the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> an alleged breach by a <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participant</abbr> of: </p>
+<ol>
+<li>
+<p>section 3.21 if the alleged breach is limited to occurring within a single Trading Interval and the extend of the alleged breach is either within the Tolerance Range of the <abbr title="Has the meaning given in clause 2.29.1B, which can be an unregistered facility or Registered Facility.">Facility</abbr> Tolerance Range for that <abbr title="Has the meaning given in clause 2.29.1B, which can be an unregistered facility or Registered Facility.">Facility</abbr>; or </p>
+</li>
+<li>
+<p>section 7.10 if the alleged breach does not exceed six consecutive Dispatch Intervals unless the alleged breach is considered by <abbr title="Australian Energy Market Operator">AEMO</abbr>, in its reasonable opinion, to be material or likely to impact Power System Security or Power System Reliability.</p>
+</li>
+</ol>
+<details class="info">
+<summary>Explanatory Notes</summary>
+<p>Clause 2.13.12 is equivalent to existing clause 2.13.6B and is amended to reflect when <abbr title="Australian Energy Market Operator">AEMO</abbr> is not required to report alleged breaches to the ERA. </p>
+</details>
+<details class="note">
+<summary>References of this Clause</summary>
+<ul>
+<li>None</li>
+</ul>
+</details>
+<h3 id="21313">2.13.13.   <span class="twemoji" title="Add note to rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2 0-3.31 2.69-6 6-6m-5-8.5 5.5 5.5H14V4.5M23 18v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3Z"/></svg></span> <span class="twemoji" title="Highlight rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m4 17 2.75-2.75-.03-.02c-.58-.59-.58-1.54 0-2.12l4.74-4.74 4.24 4.24-4.74 4.74c-.57.58-1.5.58-2.09.02l-.63.63H4M15.91 2.91c.59-.58 1.54-.58 2.12 0l2.13 2.12c.58.59.58 1.54 0 2.13l-3.3 3.29-4.24-4.24 3.29-3.3Z"/></svg></span></h3>
+<p>Subject to clause 2.13.11, nothing in clause 2.13.12 relieves:</p>
+<ol>
+<li>
+<p><abbr title="Australian Energy Market Operator">AEMO</abbr> from its obligation to monitor <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participants</abbr>’ compliance in accordance with clause 2.13.7(a) and clause 2.13.7(b); or</p>
+</li>
+<li>
+<p><abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participants</abbr> from the obligation to fully comply with the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules and the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures, regardless of whether <abbr title="Australian Energy Market Operator">AEMO</abbr> is required under the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules to report any alleged breach to the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr>.</p>
+</li>
+</ol>
+<details class="info">
+<summary>Explanatory Notes</summary>
+<p>Clause 2.13.13(a) ensures that even where <abbr title="Australian Energy Market Operator">AEMO</abbr> is not required to report an alleged breach under clause 2.13.12, <abbr title="Australian Energy Market Operator">AEMO</abbr> is not relieved of its obligation to monitor <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participants</abbr>’ compliance with the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules and <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures specified in clause 2.13.7.
+Clause 2.13.13(c) ensures <abbr title="Any person registered as a Rule Participant in accordance with Chapter 2 and AEMO.">Rule Participants</abbr> are not relieved from their obligation to comply with <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules and <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures regardless of whether <abbr title="Australian Energy Market Operator">AEMO</abbr> is required to report an alleged breach to the ERA.</p>
+</details>
+<details class="note">
+<summary>References of this Clause</summary>
+<ul>
+<li>None</li>
+</ul>
+</details>
+<h3 id="21314">2.13.14.   <span class="twemoji" title="Add note to rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2 0-3.31 2.69-6 6-6m-5-8.5 5.5 5.5H14V4.5M23 18v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3Z"/></svg></span> <span class="twemoji" title="Highlight rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m4 17 2.75-2.75-.03-.02c-.58-.59-.58-1.54 0-2.12l4.74-4.74 4.24 4.24-4.74 4.74c-.57.58-1.5.58-2.09.02l-.63.63H4M15.91 2.91c.59-.58 1.54-.58 2.12 0l2.13 2.12c.58.59.58 1.54 0 2.13l-3.3 3.29-4.24-4.24 3.29-3.3Z"/></svg></span></h3>
+<p><abbr title="Australian Energy Market Operator">AEMO</abbr> may, but is not required to, notify the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> of any alleged breach under clause 2.13.7 or clause <abbr title="Except where clause 2.13.14 applies, where AEMO becomes aware of an alleged breach of the WEM Rules (other than a provision of the WEM Rules referred to in clause 2.13.7) or the WEM Procedures developed by AEMO then it must notify the Economic Regulation Authority in accordance with the WEM Procedure referred to in clause 2.15.4.">2.13.15</abbr> where the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> is in possession or control of any market related data, information or other documents or analysis that allows the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> to identify an alleged breach of the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules or <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures.</p>
+<details class="info">
+<summary>Explanatory Notes</summary>
+<p>Clause 2.13.14 is a new clause that sets out when <abbr title="Australian Energy Market Operator">AEMO</abbr> is not required to notify the ERA of breaches. 
+Situations where <abbr title="Australian Energy Market Operator">AEMO</abbr> considers it does not need to notify the ERA will be set out in the <abbr title="Australian Energy Market Operator">AEMO</abbr> <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedure under <abbr title="AEMO must develop a WEM Procedure to set out: how AEMO will carry out its obligations to monitor Rule Participants' behaviour for compliance under clause 2.13.7; how AEMO will monitor dispatch compliance before, during or after a Dispatch Instruction event; how AEMO will carry out its obligations to support the Economic Regulation Authority under clauses 2.13.4, 2.13.8 and 2.13.9; the notification and reporting processes that AEMO will use to notify the Economic Regulation Authority under clause 2.13.14 and 2.13.15; the situations where AEMO considers it does not need to notify the Economic Regulation Authority of an alleged breach under clause 2.13.14; and any other matters relevant to AEMO’s obligations in section 2.13.">2.15.4</abbr>. </p>
+</details>
+<details class="note">
+<summary>References of this Clause</summary>
+<ul>
+<li>None</li>
+</ul>
+</details>
+<h3 id="21315"><abbr title="Except where clause 2.13.14 applies, where AEMO becomes aware of an alleged breach of the WEM Rules (other than a provision of the WEM Rules referred to in clause 2.13.7) or the WEM Procedures developed by AEMO then it must notify the Economic Regulation Authority in accordance with the WEM Procedure referred to in clause 2.15.4.">2.13.15</abbr>.   <span class="twemoji" title="Add note to rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 13c.7 0 1.37.13 2 .35V9l-6-6H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h8.35c-.22-.63-.35-1.3-.35-2 0-3.31 2.69-6 6-6m-5-8.5 5.5 5.5H14V4.5M23 18v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3Z"/></svg></span> <span class="twemoji" title="Highlight rule"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m4 17 2.75-2.75-.03-.02c-.58-.59-.58-1.54 0-2.12l4.74-4.74 4.24 4.24-4.74 4.74c-.57.58-1.5.58-2.09.02l-.63.63H4M15.91 2.91c.59-.58 1.54-.58 2.12 0l2.13 2.12c.58.59.58 1.54 0 2.13l-3.3 3.29-4.24-4.24 3.29-3.3Z"/></svg></span></h3>
+<p>Except where clause 2.13.14 applies, where <abbr title="Australian Energy Market Operator">AEMO</abbr> becomes aware of an alleged breach of the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules (other than a provision of the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Rules referred to in clause 2.13.7) or the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedures developed by <abbr title="Australian Energy Market Operator">AEMO</abbr> then it must notify the <abbr title="The body established under section 4(1) of the Economic Regulation Authority Act (WA).">Economic Regulation Authority</abbr> in accordance with the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedure referred to in <a href="https://enercloud-poc.github.io/wem-rules-prototype/Chapter%202%20-%20Administration/2.15%20-%20Monitoring%20and%20Reporting%20WEM%20Procedures/#2151">clause <abbr title="AEMO must develop a WEM Procedure to set out: how AEMO will carry out its obligations to monitor Rule Participants' behaviour for compliance under clause 2.13.7; how AEMO will monitor dispatch compliance before, during or after a Dispatch Instruction event; how AEMO will carry out its obligations to support the Economic Regulation Authority under clauses 2.13.4, 2.13.8 and 2.13.9; the notification and reporting processes that AEMO will use to notify the Economic Regulation Authority under clause 2.13.14 and 2.13.15; the situations where AEMO considers it does not need to notify the Economic Regulation Authority of an alleged breach under clause 2.13.14; and any other matters relevant to AEMO’s obligations in section 2.13.">2.15.4</abbr></a>.</p>
+<details class="info">
+<summary>Explanatory Notes</summary>
+<p>Clause <abbr title="Except where clause 2.13.14 applies, where AEMO becomes aware of an alleged breach of the WEM Rules (other than a provision of the WEM Rules referred to in clause 2.13.7) or the WEM Procedures developed by AEMO then it must notify the Economic Regulation Authority in accordance with the WEM Procedure referred to in clause 2.15.4.">2.13.15</abbr> is equivalent to existing clause 2.13.9C and is amended to refer to <abbr title="Australian Energy Market Operator">AEMO</abbr>’s requirement to report alleged breaches to the ERA being subject to clause 2.13.14, which does not require <abbr title="Australian Energy Market Operator">AEMO</abbr> to report alleged breaches that the ERA should already be aware of. This is to avoid unnecessary duplication of notifications to the ERA. <abbr title="Australian Energy Market Operator">AEMO</abbr> will be required to outline in the <abbr title="Wholesale Energy Market. The market established under section 122 of the Electricity Industry Act.">WEM</abbr> Procedure the situations where ERA would already be aware of an alleged breach and therefore notification by <abbr title="Australian Energy Market Operator">AEMO</abbr> will not be required. The clause also incorporates the changes in relation to Generator Performance Standards which will follow 3A processes.
+Please note that even though the ERA may have notice of the alleged breach though data collection or other means, <abbr title="Australian Energy Market Operator">AEMO</abbr> is still required to notify the ERA of all alleged breaches that relate to power system security and reliability. </p>
+</details>
+<details class="note">
+<summary>References of this Clause</summary>
+<ul>
+<li>None</li>
+</ul>
+</details>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Back to top
+          </a>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+    <nav class="md-footer__inner md-grid" aria-label="Footer" >
+      
+        
+        <a href="../../Chapter%201%20-%20Introduction/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Index" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Index
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../2.15%20-%20Monitoring%20and%20Reporting%20WEM%20Procedures/" class="md-footer__link md-footer__link--next" aria-label="Next: 2.15   Monitoring and Reporting WEM Procedures" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              2.15   Monitoring and Reporting WEM Procedures
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2022 EnerCloud Consulting. All rights reserved.
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["content.tooltips", "navigation.instant", "navigation.tracking", "toc.follow", "navigation.top", "content.tabs.link", "announce.dismiss"], "search": "../../assets/javascripts/workers/search.5bf1dace.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": {"provider": "mike"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.078830c0.min.js"></script>
+      
+        <script src="../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>
